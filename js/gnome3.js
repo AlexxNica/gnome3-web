@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  console.log('foo');
   $("a[rel='fancybox']").fancybox({
  			 'zoomSpeedIn': 200, 
 			 'zoomSpeedOut': 200, 
