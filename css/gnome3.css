@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Droid Sans';
+  src: local('Cantarell'), local('Cantarell Regular'),
+  url(../fonts/Cantarell-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Droid Sans';
+  font-weight: bold;
+  src: local('Cantarell Bold'), local('Cantarell-Bold'),
+  url(../fonts/Cantarell-Bold.ttf);
+}
+
+
 body {
   font-family: Cantarell, "Droid Sans", sans-serif;
   background: #eeeeec;
