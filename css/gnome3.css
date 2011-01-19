@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Droid Sans';
+  font-family: 'Cantarell';
   src: local('Cantarell'), local('Cantarell Regular'),
   url(../fonts/Cantarell-Regular.ttf);
 }
 
 @font-face {
-  font-family: 'Droid Sans';
+  font-family: 'Cantarell';
   font-weight: bold;
   src: local('Cantarell Bold'), local('Cantarell-Bold'),
   url(../fonts/Cantarell-Bold.ttf);
