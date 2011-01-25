@@ -62,7 +62,7 @@ a.faq {
     bottom: -12px;
     left: -4px;
     color: #eeeeec;
-    text-shadow: none;
+    text-shadow: 0 2px 15px #000000;
   }
 
   #splash img {
