@@ -24,11 +24,23 @@
   </div><!-- grid_16 -->
 
   <div class="grid_16">
-    <h2>Coming soon!</h2>
-    <p>GNOME 3 is under active development and will not be completed until April 2011. We hope to be able to provide live USB images really soon. Watch this space!</p>
-    <p>If you really, really want to try it today in order to help out with
+    <p>GNOME 3 is under active development and will not be completed until April 2011, but you can try the development release with our live USB image.</p>
+    <a class="button" href="http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/GNOME_3.i686-0.0.3-Build1.1.iso">Download for 32 bit systems</a><br/>
+    <a class="button" href="http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/GNOME_3.x86_64-0.0.3-Build1.1.iso">Download for 64 bit systems</a><br/>
+To get it running:
+<ul>
+<li><code>sudo chmod a+x ./image-writer</code></li>
+<li>Insert an empty USB stick</li>
+<li><code>./image-writer img_file.iso</code></li>
+<li>Reboot your computer and run it!</li>
+</ul>
+
+<p>You can also use the ISO to burn a DVD, or run in a virtual machine.</p>
+<!-- Commenting this out, since I don't think we need it any more
+    <p>If really, really want to try it today in order to help out with
     development and filing bugs, you can compile it using GNOME's JHBuild
     sandboxing tool. Just <a href="http://live.gnome.org/GnomeShell#building">follow the instructions here</a>. Note that this is unreleased code that is under very heavy development.</p>
+-->
     </div> <!-- grid_16 -->
 
   <div class="grid_16 footer">
