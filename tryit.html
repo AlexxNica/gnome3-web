@@ -24,18 +24,25 @@
   </div><!-- grid_16 -->
 
   <div class="grid_16">
-    <p>GNOME 3 is under active development and will not be completed until April 2011, but you can try the development release with our live USB image.</p>
+    <p>GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick.</p>
+
     <a class="button" href="http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/GNOME_3.i686-0.0.3-Build1.1.iso">Download for 32 bit systems</a><br/>
     <a class="button" href="http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/GNOME_3.x86_64-0.0.3-Build1.1.iso">Download for 64 bit systems</a><br/>
-To get it running:
+
+<p>To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot.</p>
+
+To run the GNOME 3 alpha from a USB stick:
 <ul>
-<li><code>sudo chmod a+x ./image-writer</code></li>
-<li>Insert an empty USB stick</li>
-<li><code>./image-writer img_file.iso</code></li>
-<li>Reboot your computer and run it!</li>
+<li>Download the USB image writer (below) and extract it
+<li>Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)
+<li>Prepare the image writer by running: <code>$ sudo chmod a+x ./image-usb-stick</code></li>
+<li>Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to</li>
+<li>Run the image writer script: <code>$ ./image-writer path_to_the_live_image.iso</code></li>
+<li>Reboot your computer to run it!</li>
 </ul>
 
-<p>You can also use the ISO to burn a DVD, or run in a virtual machine.</p>
+    <a class="button" href="https://github.com/abock/image-usb-stick/tarball/master">Download USB image writer</a><br/>
+
 <!-- Commenting this out, since I don't think we need it any more
     <p>If really, really want to try it today in order to help out with
     development and filing bugs, you can compile it using GNOME's JHBuild
