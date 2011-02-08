@@ -1,9 +1,9 @@
 #! /bin/bash -e
 
 xml2po -e -m xhtml -o gnome3.pot ../*.html
-for POFILE in *.po
+for LANG in $(cat LINGUAS)
 do
-    LANG=$(basename $POFILE .po)
+    POFILE=$LANG.po
     for HTMLFILE in ../*.html
     do
       echo "Writing $HTMLFILE.$LANG"
