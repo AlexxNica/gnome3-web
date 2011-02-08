@@ -39,6 +39,8 @@ a.faq {
   padding: 10px 20px;
   background-color: #f57900;
   -moz-border-radius: 7px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
   color: #fff;
   text-decoration: none;
   font-weight: bold;
