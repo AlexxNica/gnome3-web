@@ -7,7 +7,7 @@ do
     for HTMLFILE in ../*.html
     do
       echo "Writing $HTMLFILE.$LANG"
-      xml2po -p $POFILE -m xhtml -o ../$HTMLFILE.$LANG $HTMLFILE
+      xml2po -p $POFILE -m xhtml -o $HTMLFILE.$LANG $HTMLFILE
     done
 done
 
