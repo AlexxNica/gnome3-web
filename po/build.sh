@@ -8,7 +8,8 @@ do
     do
       echo "Writing $HTMLFILE.$LANG"
       xml2po -p $POFILE -m xhtml -o $HTMLFILE.$LANG $HTMLFILE
-      sed -i -e 's/\(<script.*\)/\1<\/script>/' $HTMLFILE.$LANG
+      grep -q '<script' $HTMLFILE.$LANG && \
+        sed -i -e 's/\(<script.*\)/\1<\/script>/' $HTMLFILE.$LANG
     done
 done
 
