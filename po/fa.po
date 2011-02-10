@@ -1,0 +1,276 @@
+# Persian translation for gnome3-web.
+# Copyright (C) 2011 Iranian Free Software Users Group (IFSUG.org)translation team.
+# This file is distributed under the same license as the gnome3-web package.
+# Arash Mousavi <mousavi.arash@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-02-09 17:09+0000\n"
+"PO-Revision-Date: 2011-02-10 11:54+0330\n"
+"Last-Translator: Mahyar Moghimi <mahyar.moqimi@gmail.com>\n"
+"Language-Team: Persian <translate@ifsug.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../tryit.html:7(title)
+#: ../index.html:8(title)
+#: ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "گنوم ۳ - ساختی ساده"
+
+#: ../tryit.html:22(h1)
+msgid "Try out GNOME 3"
+msgstr "گنوم ۳ را امتحان کنید"
+
+#: ../tryit.html:27(p)
+msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick."
+msgstr "گنوم ۳ در حال توسعه‌ی فعال است و تا فروردین ۱۳۹۰ کامل نخواهد شد. اگر شما می‌خواهید امتحان‌اش کنید، می‌توانید از نسخه‌ی زنده‌ی آلفا بر روی سی‌دی/دی‌وی‌دی یا حافظه یو‌اس‌بی استفاده کنید."
+
+#: ../tryit.html:29(a)
+msgid "Download for 32 bit systems"
+msgstr "بارگیری برای سیستم‌های ۳۲ بیتی"
+
+#: ../tryit.html:30(a)
+msgid "Download for 64 bit systems"
+msgstr "بارگیری برای سیستم‌های ۶۴ بیتی"
+
+#: ../tryit.html:32(p)
+msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
+msgstr "برای اجرای از طریق سی‌دی/دی‌وی‌دی، پرونده بارگیری شده را بر روی دیسک بنویسید، آن را وارد رایانه کنید و سپس آن را مجددا راه‌اندازی کنید."
+
+#: ../tryit.html:36(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "ابزار نویسنده‌ی تصویر دیسک بر روی یو‌اس‌بی، را (از پایین) بارگیری و آن را استخراج کنید"
+
+#: ../tryit.html:37(li)
+msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr "یک پایانه باز کنید و به پوشه‌ای که نویسنده‌ی تصویر دیسک را بر روی آن برون‌ریزی کرده‌اید،بروید (برای مثال <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+
+#: ../tryit.html:38(li)
+msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
+msgstr "نویسنده‌ی تصویر دیسک را با دستور مقابل آماده کنید: <code>$ chmod a+x ./image-usb-stick</code>"
+
+#: ../tryit.html:39(li)
+msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
+msgstr "هر نوع دستگاه یو‌اس‌بی ذخیره‌سازی که احتمالا به سیستم‌تان متصل است را از رایانه خارج کنید و یک حافظه یو‌اس‌بی خالی را برای نوشتن وارد کنید"
+
+#: ../tryit.html:40(li)
+#, fuzzy
+#| msgid ""
+#| "Run the image writer script: <code>$ sudo ./image-writer "
+#| "path_to_the_live_image.iso</code>"
+msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+msgstr "کدنوشته‌ی نویسنده‌ی تصویر دیسک را اجرا کنید: <code>$ sudo ./image-writer path_to_the_live_image.iso</code>"
+
+#: ../tryit.html:41(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr "برای اجرای تصویر دیسک زنده، رایانه خود را با یو‌اس‌بی متصل شده مجددا راه‌اندازی کنید"
+
+#: ../tryit.html:44(a)
+msgid "Download USB image writer"
+msgstr "بارگیری نویسنده‌ی تصویر دیسک یو‌اس‌بی"
+
+#: ../tryit.html:46(p)
+msgid "The user name for the live image is 'tux' and the password is 'linux'."
+msgstr "نام‌کاربری برای تصویر دیسک زنده «tux» و گذرواژه آن «linux» است."
+
+#. grid_16
+#: ../tryit.html:26(div)
+msgid "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> To run the GNOME 3 alpha from a USB stick: <placeholder-5/><placeholder-6/><br/><placeholder-7/>"
+msgstr "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> برای اجرای نسخه‌ی آلفا گنوم ۳ بر روی حافظه یو‌اس‌بی: <placeholder-5/><placeholder-6/><br/><placeholder-7/>"
+
+#: ../tryit.html:56(a)
+#: ../faq.html:59(a)
+msgid "The GNOME Project"
+msgstr "پروژه‌ی گنوم"
+
+#: ../tryit.html:57(a)
+#: ../faq.html:60(a)
+msgid "Facebook"
+msgstr "فیس‌بوک"
+
+#: ../tryit.html:57(a)
+#: ../faq.html:60(a)
+msgid "Twitter"
+msgstr "توییتر"
+
+#. grid_16
+#: ../tryit.html:55(div)
+#: ../faq.html:58(div)
+msgid "Copyright © 2010 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
+msgstr "حق‌رونوشت © ۲۰۱۰ <placeholder-1/><br/> به اشتراک‌گذاری در <placeholder-2/> | <placeholder-3/><br/> ❧"
+
+#: ../index.html:24(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "معرفی نسل بعدی رومیزی گنوم"
+
+#: ../index.html:29(p)
+msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
+msgstr "درخصوص گنوم ۳، پروژه‌ی گنوم برای ساخت یک رومیزی کاملا جدید و مدرن جهت استفاده توسط کاربر امروزی و فن‌آوری‌های جدید، مجددا از پایه نوشته شده است. اینها مواردی هستند که می‌توانید از گنوم جدید انتظار داشته باشید:"
+
+#: ../index.html:37(h2)
+msgid "Simply beautiful"
+msgstr "به‌سادگی زیبا"
+
+#: ../index.html:39(p)
+#, fuzzy
+#| msgid ""
+#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
+#| "clutter and made a simple and easy-to-use desktop, and we've made this "
+#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
+#| "new font and carefully crafted animations."
+msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations--all while preserving compatibilty."
+msgstr "رومیزی جدید گنوم ظرافت را وارد مرحله‌ی جدیدی می‌کند. ما در هم ریختگی‌ها را از بین برده‌ایم و یک رومیزی ساده و آسان جهت استفاده ساخته‌ایم، و آن را تبدیل به زیباترین رومیزی گنومی که تا به حال ساخته‌ایم، همراه با تم‌های بصری جدید، یک طرح قلم تازه و طراحی پویانمایی‌هایی با نازک‌بینی بسیار، کرده‌ایم."
+
+#: ../index.html:41(h2)
+msgid "An overview at a glance"
+msgstr "مروری کلی در یک نگاه"
+
+#: ../index.html:43(p)
+msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
+msgstr "نمای فعالیت‌ها، یک راه آسان را برای دسترسی به تمام پنجره‌ها و برنامه‌های شما را فراهم می‌کند. این همچنین برای پیگیری فعالیت‌هایتان راهی عالی است. ما روش‌هایی را برای دسترسی سریع و راحت به نمای فعالیت‌ها ایجاد کرده‌ایم، شامل کلید فعالیت در صفحه‌کلید (معمولا به عنوان کلید ویندوز شناخته می‌شود) و گوشه‌ی حساس فعالیت‌ها."
+
+#: ../index.html:48(h2)
+msgid "Messaging built-in"
+msgstr "پیام‌رسانی توکار"
+
+#: ../index.html:50(p)
+msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
+msgstr "ارتباطات قسمتی مهم از رومیزی نوین است، عوض کردن پنجره‌ها برای پاسخ دادن به یک پیام، کمی ناراحت کننده است. این دلیلی است که گنوم ۳ به شما اجازه می‌دهد گفتگوی خود را بدون تغییر تمرکز خود ادامه دهید. امکان ارسال پاسخ مستقیما از طریق اعلان پیام‌ها، ارسال پیام‌فوری را سریع و بی‌دردسر می‌کند."
+
+#: ../index.html:52(h2)
+msgid "Distraction-free computing"
+msgstr "کار کردن بدون گیج شدن"
+
+#: ../index.html:54(p)
+#, fuzzy
+#| msgid ""
+#| "GNOME 3 is designed to reduce distraction and interruption and to put you "
+#| "in control. Our new notifications system subtly presents messages and "
+#| "will save them until you are ready for them, and the GNOME 3 panel has "
+#| "been styled so that it is part of the background, not the foreground."
+msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
+msgstr "گنوم ۳ برای کم کردن میزان گیج‌شدن و مزاحمت و برای دادن اختیار کامل به شما طراحی شده است. سیستم اعلان جدید به شکلی نافذ پیام‌ها را نشان می‌دهد و تا زمانی که برای آنها حاضر باشید آنها را ذخیره می‌کند، و تابلوی گنوم ۳ به گونه‌ای طراحی شده است که بخشی از پس‌زمینه باشد، و نه پیش‌زمینه."
+
+#: ../index.html:60(h2)
+msgid "Everything at your fingertips"
+msgstr "همه‌چیز زیر انگشتان شما"
+
+#: ../index.html:62(p)
+msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
+msgstr "با رومیزی جدید گنوم ۳، هر چیزی می‌تواند به سرعت از طریق صفحه‌کلید در دسترس قرار بگیرد. دکمه‌ی فعالیت را فشار بدهید و جستجو کنید: به همین آسانی است. در صورتی که شما یکی از کاربرانی هستید که دوست دارند اتفاقات سریع رخ بدهند، عاشق این امکان خواهید شد."
+
+#: ../index.html:64(h2)
+msgid "Redesigned system settings"
+msgstr "بازسازی تنظیمات سیستم"
+
+#: ../index.html:66(p)
+msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. There are some great new features in our system settings too, such as the ability to use Flickr images as desktop backgrounds."
+msgstr "تنظیمات سیستمِ ما برای گنوم ۳ کاملا از نو طراحی شده است تا استفاده از آن راحت‌تر از پیش باشد. همچنین امکانات جالب جدیدی در تنظیمات سیستم، از قبیل امکان استفاده از تصاویر فلیکر به عنوان پس‌زمینه، تعبیه شده است."
+
+#: ../index.html:71(h2)
+msgid "And much, much more"
+msgstr "و بسیاری، بسیاری دیگر"
+
+#: ../index.html:73(p)
+msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
+msgstr "گنوم ۳ پُر است از امکانات جدید. اینها تعدادی از این امکاناتی است که می‌توانید انتظار آن را در گنوم ۳ داشته باشید:"
+
+#: ../index.html:75(li)
+msgid "Window tiling to make using several windows simple and easy"
+msgstr ""
+
+#: ../index.html:76(li)
+msgid "An improved file manager"
+msgstr "یک مدیر پرونده‌ی بهینه شده"
+
+#: ../index.html:77(li)
+msgid "Dark application themes for when you want to focus on pictures and videos"
+msgstr "تم‌های تیره برای برنامه‌ها جهت زمانی که می‌خواهید بر روی عکس‌های و ویدیوها متمرکز شوید"
+
+#: ../index.html:78(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+
+#: ../index.html:79(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr "تغییرات اساسی در زیربدنه جهت دریافت تجربه‌ای سریع‌تر و روان‌تر"
+
+#: ../index.html:80(li)
+msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
+msgstr "یک تجربه‌ی ارضا کننده. هر نوع رایانه‌ای که استفاده می‌کنید: با گنوم ۳ احساس کاملی در خانه بر روی نِت‌بوک، به همان خوبی سیستم‌های بزرگتر خواهید داشت"
+
+#: ../index.html:84(img)
+msgid "Common questions and answers Try it out! Copyright The GNOME Project Share on: Facebook | Twitter"
+msgstr ""
+
+#: ../faq.html:24(h1)
+msgid "Common questions and answers"
+msgstr "سوال‌ها و جواب‌های معمول"
+
+#: ../faq.html:28(h2)
+msgid "How do I get GNOME 3?"
+msgstr "چطور گنوم ۳ را دریافت کنم؟"
+
+#: ../faq.html:30(p)
+msgid "GNOME 3 is scheduled for release in April 2011 and will be available via popular distributions after that time. Further details of how you can get GNOME 3 will posted on this site once it is available. If you can't wait that long, our <a href=\"tryit.html\">Try It</a> page contains details on how to try a development version."
+msgstr "اینطور برنامه‌ریزی شده است که گنوم ۳ در فروردین ۱۳۹۰ منتشر شود و پس از آن از طریق توزیع‌های محبوب در دسترس خواهد بود. اطلاعات بیشتر در خصوص چگونگی دریافت گنوم ۳، در زمان دسترسی از طریق همین سایت ارسال خواهد شد. اگر نمی‌توانید تا آن زمان منتظر بمانید، صفحه‌ی <a href=\"tryit.html\">آزمایش کن</a> ما حاوی اطلاعاتی در خصوص چگونگی آزمایش نسخه‌ی توسعه‌دهندگان است."
+
+#: ../faq.html:32(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "آیا رایانه من می‌تواند گنوم ۳ را اجرا کند؟"
+
+#: ../faq.html:34(p)
+msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
+msgstr "رایانه‌هایی که در ۴ یا ۵ سال گذشته تهیه شده‌اند باید قابلیت اجرای گنوم ۳ را داشته باشند. اگرچه رومیزی گنوم ۳ به گرافیک تسریع‌کننده‌ی سخت‌افزاری جهت فراهم کردن یک تجربه‌ی محشر نیاز خواهد داشت و یک تجربه‌ی کامل با گنوم ۳ به رایانه‌ای با این قابلیت نیاز دارد. با این حال نگران نشوید: گنوم ۳ با یک رابط برای فراهم کردن تجربه‌ای فوق‌العاده بدون داشتن شتاب‌دهنده‌ی سخت‌افزاری کامل خواهد شد و با بسیاری از بهینه‌سازی‌های گنوم ۳ در سازگاری خواهد بود. بعلاوه، پروژه‌ی گنوم و همکارانش در تلاش هستند تا مطمئن شوند که تعداد زیادی از کاربران می‌توانند از تجربه‌ی گنوم ۳ لذت ببرند و کسانی که در ابتدا نتوانسته‌اند آن را تجربه کنند در آینده خواهند توانست."
+
+#: ../faq.html:36(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "آیا می‌توانم از برنامه‌های گنوم مورد علاقه‌ام در گنوم ۳ استفاده کنم؟"
+
+#: ../faq.html:38(p)
+msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
+msgstr "بله! برنامه‌های گنوم موجود می‌توانند در گنوم ۳ اجرا شوند. گنوم ۳ مطمئنا امکاناتی را برای نمایش بهتر برنامه فراهم می‌کند، بنابراین در انتظار نسخه‌های جدید و بهینه شده‌ی برنامه‌های گنوم ۳ که عاشق آنها بوده‌اید باشید."
+
+#: ../faq.html:40(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "چه اتفاقی برای نسخه‌ی قدیمی گنوم خواهد افتاد؟"
+
+#: ../faq.html:42(p)
+msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
+msgstr "نسخه‌ی دوم گنوم، زندگی طولانی‌ای داشت و در این مدت نگهداری قسمت‌هایی از آن مشکل شده بود. در نتیجه، ادامه‌ی انتشار رومیزی گنوم ۲ به هیچ عنوان یک گزینه‌ی عملی برای پروژه‌ی گنوم نبود و تعدادی از قسمت‌های قدیمی رومیزی گنوم ۲ در گنوم ۳ انتشار جدیدی نخواهند داشت. رومیزی سنتی گنوم ۲ در یک شب ناپدید نخواهد شد، اگرچه: انتشارهای گنوم ۲ توسط توزیع‌های مختلف در سالهای آینده پشتیبانی خواهند شد."
+
+#: ../faq.html:44(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "چرا رومیزی گنوم ۳ به این شکل طراحی شده است؟"
+
+#: ../faq.html:46(p)
+msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr "حجم زیادی از کار بر روی طرحِ گنوم ۳ انجام شده است، و در پسِ هر کدام از ایده‌های طرح، یک اصل بنیادی -نازک‌بینانه- مطرح شده است. اگر یک سوال مشخص درباره یکی از ایده‌های این طرح دارید، خواندن <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">پاسخ به سوال‌های معمول درباره‌ی طرح گنوم ۳</a> را ببینید. همچنین، جزئیات وسبع‌تری درباره طرح رومیزی گنوم ۳ می‌تواند در <a href=\"http://live.gnome.org/GnomeShell/Design/\">صفحه‌ی ویکی طرح گنوم ۳</a> پیدا می‌شود."
+
+#: ../faq.html:48(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "برنامه‌ی گنوم پس از انتشار گنوم ۳ چیست؟"
+
+#: ../faq.html:50(p)
+msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
+msgstr "ما می‌خواهیم یک مهمانی بزرگ برای این انتشار داشته باشیم و پس از آن بر می‌گردیم تا بهینه‌سازی رومیزی‌مان را ادامه دهیم، تا گنوم ۳ در انتشارهای آینده بهتر و بهتر شود. ما برنامه‌های زیادی برای امکانات نو، که گنوم را حتی ساده‌تر و راضی‌کننده‌تر برای استفاده می‌کند داریم. برای مثال جستجوی سند و یک فریم‌ورک هیجان‌انگیز افزونه‌های رومیزی جدید."
+
+#: ../faq.html:52(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "چطور می‌توانم به گنوم ۳ کمک و در این پروژه درگیر شوم؟"
+
+#: ../faq.html:54(p)
+msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
+msgstr "انتشار هر خبر درباره‌ی گنوم ۳ یک کمک خیلی بزرگ است. یک توییت، دنت، بروزرسانی وضعیت یا یک پُست وبلاگی مثبت همیشه باعث خوشحالی و قدردانی ماست. شما همچنین می‌توانید به <a href=\"http://www.facebook.com/GNOMEDesktop\">گروه فیس‌بوک</a> ما بپیوندید یا تبدیل به یک <a href=\"http://www.gnome.org/friends/\">دوست گنوم</a> شوید. بعلاوه، می‌توانید با استفاده از تعداد زیادی از مواردی که در ساخت گنوم دخیل هستند به ما کمک کنید. فقط <a href=\"http://live.gnome.org/JoinGnome\">صفحه‌ی همکاری</a> ما را برای جزئیات بیشتر بخوانید."
+
+#~ msgid " "
+#~ msgstr " "
+#~ msgid "Try it out!"
+#~ msgstr "امتحانش کن!"
+
