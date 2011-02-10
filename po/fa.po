@@ -2,12 +2,13 @@
 # Copyright (C) 2011 Iranian Free Software Users Group (IFSUG.org)translation team.
 # This file is distributed under the same license as the gnome3-web package.
 # Arash Mousavi <mousavi.arash@gmail.com>, 2011.
+# Mahyar Moghimi <mahyar.moqimi@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-02-09 17:09+0000\n"
-"PO-Revision-Date: 2011-02-10 11:54+0330\n"
+"PO-Revision-Date: 2011-02-10 12:15+0330\n"
 "Last-Translator: Mahyar Moghimi <mahyar.moqimi@gmail.com>\n"
 "Language-Team: Persian <translate@ifsug.org>\n"
 "MIME-Version: 1.0\n"
@@ -60,12 +61,11 @@ msgid "Remove any USB storage devices that you might have connected to your comp
 msgstr "هر نوع دستگاه یو‌اس‌بی ذخیره‌سازی که احتمالا به سیستم‌تان متصل است را از رایانه خارج کنید و یک حافظه یو‌اس‌بی خالی را برای نوشتن وارد کنید"
 
 #: ../tryit.html:40(li)
-#, fuzzy
 #| msgid ""
 #| "Run the image writer script: <code>$ sudo ./image-writer "
 #| "path_to_the_live_image.iso</code>"
 msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
-msgstr "کدنوشته‌ی نویسنده‌ی تصویر دیسک را اجرا کنید: <code>$ sudo ./image-writer path_to_the_live_image.iso</code>"
+msgstr "کدنوشته‌ی نویسنده‌ی تصویر دیسک را اجرا کنید: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
 
 #: ../tryit.html:41(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
@@ -118,14 +118,13 @@ msgid "Simply beautiful"
 msgstr "به‌سادگی زیبا"
 
 #: ../index.html:39(p)
-#, fuzzy
 #| msgid ""
 #| "GNOME's new desktop takes elegance to a new level. We've swept away the "
 #| "clutter and made a simple and easy-to-use desktop, and we've made this "
 #| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
 #| "new font and carefully crafted animations."
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations--all while preserving compatibilty."
-msgstr "رومیزی جدید گنوم ظرافت را وارد مرحله‌ی جدیدی می‌کند. ما در هم ریختگی‌ها را از بین برده‌ایم و یک رومیزی ساده و آسان جهت استفاده ساخته‌ایم، و آن را تبدیل به زیباترین رومیزی گنومی که تا به حال ساخته‌ایم، همراه با تم‌های بصری جدید، یک طرح قلم تازه و طراحی پویانمایی‌هایی با نازک‌بینی بسیار، کرده‌ایم."
+msgstr "رومیزی جدید گنوم زیبایی را وارد مرحله‌ی جدیدی می‌کند. ما در هم ریختگی‌ها را از بین برده‌ایم و یک رومیزی ساده و آسان جهت استفاده ساخته‌ایم، و آن را تبدیل به زیباترین رومیزی گنوم تا به حال ساخته‌ایم، همراه با یک تم تصویری جدید، یک قلم تازه‌ی پالوده (پالایش شده) و طراحی پویانمایی‌هایی با نازک‌بینی بسیار--همه‌ی این‌ها با نگهداری سازگاری"
 
 #: ../index.html:41(h2)
 msgid "An overview at a glance"
@@ -148,14 +147,13 @@ msgid "Distraction-free computing"
 msgstr "کار کردن بدون گیج شدن"
 
 #: ../index.html:54(p)
-#, fuzzy
 #| msgid ""
 #| "GNOME 3 is designed to reduce distraction and interruption and to put you "
 #| "in control. Our new notifications system subtly presents messages and "
 #| "will save them until you are ready for them, and the GNOME 3 panel has "
 #| "been styled so that it is part of the background, not the foreground."
 msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
-msgstr "گنوم ۳ برای کم کردن میزان گیج‌شدن و مزاحمت و برای دادن اختیار کامل به شما طراحی شده است. سیستم اعلان جدید به شکلی نافذ پیام‌ها را نشان می‌دهد و تا زمانی که برای آنها حاضر باشید آنها را ذخیره می‌کند، و تابلوی گنوم ۳ به گونه‌ای طراحی شده است که بخشی از پس‌زمینه باشد، و نه پیش‌زمینه."
+msgstr "گنوم ۳ برای کم کردن میزان گیج‌شدن و وقفه و برای دادن اختیار کامل به شما طراحی شده است. سیستم اعلان جدید به شکلی زیرکانه پیام‌ها را نشان می‌دهد و تا زمانی که برای آنها حاضر باشید آنها را ذخیره می‌کند، و تابلوی گنوم ۳ به گونه‌ای طراحی شده است که بخشی از پس‌زمینه باشد، و نه پیش‌زمینه. این تغییرات به شما کمک می‌کند که بر روی کارهای خلاق تمرکز کنید."
 
 #: ../index.html:60(h2)
 msgid "Everything at your fingertips"
@@ -183,7 +181,7 @@ msgstr "گنوم ۳ پُر است از امکانات جدید. اینها تع�
 
 #: ../index.html:75(li)
 msgid "Window tiling to make using several windows simple and easy"
-msgstr ""
+msgstr "کاشی کردن پنجره‌ها برای آسان کردن استفاده از چند پنجره به شکلی ساده و آسان"
 
 #: ../index.html:76(li)
 msgid "An improved file manager"
@@ -195,7 +193,7 @@ msgstr "تم‌های تیره برای برنامه‌ها جهت زمانی ک
 
 #: ../index.html:78(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
-msgstr ""
+msgstr "فضاهای کاری، دوباره طراحی شده تا بتوانید پنجره‌های‌تان را مرتب کنید"
 
 #: ../index.html:79(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
