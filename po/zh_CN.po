@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-02-08 14:37+0000\n"
-"PO-Revision-Date: 2011-02-09 02:49+0800\n"
+"POT-Creation-Date: 2011-02-11 11:21+0000\n"
+"PO-Revision-Date: 2011-02-12 04:07+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -73,11 +73,11 @@ msgstr ""
 
 #: ../tryit.html:40(li)
 msgid ""
-"Run the image writer script: <code>$ sudo ./image-writer "
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
 msgstr ""
-"运行镜像写入程序：<code>$ sudo ./image-writer live_image.iso</code>（把命令中"
-"的 live_image.iso 替换为镜像的存放位置）"
+"运行镜像写入程序：<code>$ sudo ./image-usb-stick live_image.iso</code>（把命"
+"令中的 live_image.iso 替换为镜像的存放位置）"
 
 #: ../tryit.html:41(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
@@ -98,26 +98,26 @@ msgid ""
 "To run the GNOME 3 alpha from a USB stick: <placeholder-5/><placeholder-6/"
 "><br/><placeholder-7/>"
 msgstr ""
-"<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> "
-"使用 USB 设备运行 GNOME 3 开发版：<placeholder-5/><placeholder-6/"
-"><br/><placeholder-7/>"
+"<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> 使"
+"用 USB 设备运行 GNOME 3 开发版：<placeholder-5/><placeholder-6/><br/"
+"><placeholder-7/>"
 
-#: ../tryit.html:56(a) ../index.html:129(a) ../faq.html:59(a)
+#: ../tryit.html:56(a) ../faq.html:59(a)
 msgid "The GNOME Project"
 msgstr "GNOME 项目"
 
-#: ../tryit.html:57(a) ../index.html:130(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../faq.html:60(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:57(a) ../index.html:130(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../faq.html:60(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:55(div) ../index.html:128(div) ../faq.html:58(div)
+#: ../tryit.html:55(div) ../faq.html:58(div)
 msgid ""
-"Copyright © 2010 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
 msgstr ""
 "版权所有 © 2010 <placeholder-1/><br/> 分享到 <placeholder-2/> | "
@@ -133,8 +133,8 @@ msgid ""
 "completely new, modern desktop designed for today's users and technologies. "
 "Here are some of the things that you can expect from the new GNOME:"
 msgstr ""
-"GNOME 项目使用最新的科技，为用户从头打造了全新的现代桌面，GNOME 3。"
-"以下是一些值得您在新的 GNOME 中期待的特性："
+"GNOME 项目使用最新的科技，为用户从头打造了全新的现代桌面，GNOME 3。以下是一些"
+"值得您在新的 GNOME 中期待的特性："
 
 #: ../index.html:37(h2)
 msgid "Simply beautiful"
@@ -145,11 +145,11 @@ msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
 "most beautiful GNOME desktop ever, with a new visual theme, a refined new "
-"font and carefully crafted animations."
+"font and carefully crafted animations--all while preserving compatibilty."
 msgstr ""
-"新的 GNOME 让简约的定义更上一层楼。我们清理杂乱部件、设计全新视觉主题、"
-"精雕细琢每一个字符和动画——这一切造就的是 GNOME 有史以来最简洁易用、最"
-"精工细作的 GNOME 桌面。"
+"新的 GNOME 让简约的定义更上一层楼。我们清理杂乱部件、设计全新视觉主题、精雕细"
+"琢每一个字符和动画、同时保留兼容性——这一切造就的是 GNOME 有史以来最简洁易用、"
+"最精工细作的 GNOME 桌面。"
 
 #: ../index.html:41(h2)
 msgid "An overview at a glance"
@@ -192,7 +192,8 @@ msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
 "them until you are ready for them, and the GNOME 3 panel has been styled so "
-"that it is part of the background, not the foreground."
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
 msgstr ""
 "GNOME 3 的设计致力于减少注意力分散、不打断您的工作，使您对一切尽在掌控。全新"
 "的提示系统能精妙地显示消息，并将其保留，直到您阅读它们。同时 GNOME 3 面板的风"
@@ -225,47 +226,54 @@ msgstr ""
 "我们的系统设置工具为 GNOME 3 进行了完全的重新设计，使其比以往更加易于使用。系"
 "统设置中也有一些非常优秀的特性，例如您可以使用 Flicker上的图片作为桌面背景。"
 
-#: ../index.html:106(h2)
+#: ../index.html:71(h2)
 msgid "And much, much more"
 msgstr "更多精彩等您发现"
 
-#: ../index.html:108(p)
+#: ../index.html:73(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
 msgstr "GNOME 3 有满满一套新特性，以下是其他一些值得您期待的东西："
 
-#: ../index.html:110(li)
+#: ../index.html:75(li)
+msgid "Window tiling to make using several windows simple and easy"
+msgstr "窗口平铺使得操作多个窗口简单易行"
+
+#: ../index.html:76(li)
 msgid "An improved file manager"
 msgstr "改进的文件管理器"
 
-#: ../index.html:111(li)
+#: ../index.html:77(li)
 msgid ""
 "Dark application themes for when you want to focus on pictures and videos"
 msgstr "焦点定位在图片和视频时，暗化应用程序主题"
 
-#: ../index.html:112(li)
+#: ../index.html:78(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr "重新设计工作区，使窗口组织更容易"
+
+#: ../index.html:79(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "更快速、更平滑的使用体验"
 
-#: ../index.html:113(li)
+#: ../index.html:80(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
 msgstr "不论是家用上网本，还是更大的台式机，都能获得满意的用户体验。"
 
-#: ../index.html:119(a) ../faq.html:24(h1)
+#: ../index.html:84(img)
+msgid ""
+"Common questions and answers Try it out! Copyright The GNOME Project Share "
+"on: Facebook | Twitter"
+msgstr ""
+"常见问题和解答 现在就试试！ 版权所有 © 2010 GNOME 项目 分享到 "
+"Facebook | Twitter"
+
+#: ../faq.html:24(h1)
 msgid "Common questions and answers"
 msgstr "常见问题和解答"
-
-#. grid_6
-#: ../index.html:121(div)
-msgid " "
-msgstr " "
-
-#: ../index.html:124(a)
-msgid "Try it out!"
-msgstr "现在就试试！"
 
 #: ../faq.html:28(h2)
 msgid "How do I get GNOME 3?"
@@ -371,9 +379,9 @@ msgid ""
 "features which will make GNOME even easier and more satisfying to use, such "
 "as document search and an exciting new desktop extensions framework."
 msgstr ""
-"我们将为庆祝它的发布而举行一个盛大的晚会，然后回过头来继续改进我们的桌面。"
-"在后续的发布中，GNOME 3 会变得越来越好。我们有许多让 GNOME 更加易用、提供更"
-"好体验的计划，例如文档搜索和令人振奋的新桌面扩展框架。"
+"我们将为庆祝它的发布而举行一个盛大的晚会，然后回过头来继续改进我们的桌面。在"
+"后续的发布中，GNOME 3 会变得越来越好。我们有许多让 GNOME 更加易用、提供更好体"
+"验的计划，例如文档搜索和令人振奋的新桌面扩展框架。"
 
 #: ../faq.html:52(h2)
 msgid "How can I get involved or help with GNOME 3?"
@@ -389,9 +397,12 @@ msgid ""
 "producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
 "\">contribution page</a> for more details."
 msgstr ""
-"向世界传播和推广 GNOME 3 是帮助我们的极佳办法。一条积极的微博、状态或者博客"
-"文章都是极有价值的方式。您还可以加入我们的 "
-"<a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook 小组</a> 或成为"
-"一位 <a href=\"http://www.gnome.org/friends/\">GNOME 之友</a>。"
-"此外，您还可以在我们制造 GNOME 的各个环节进行帮助，详情请参阅我们的 "
-"<a href=\"http://live.gnome.org/JoinGnome\">如何贡献</a> 页面。"
+"向世界传播和推广 GNOME 3 是帮助我们的极佳办法。一条积极的微博、状态或者博客文"
+"章都是极有价值的方式。您还可以加入我们的 <a href=\"http://www.facebook.com/"
+"GNOMEDesktop\">Facebook 小组</a> 或成为一位 <a href=\"http://www.gnome.org/"
+"friends/\">GNOME 之友</a>。此外，您还可以在我们制造 GNOME 的各个环节进行帮"
+"助，详情请参阅我们的 <a href=\"http://live.gnome.org/JoinGnome\">如何贡献</"
+"a> 页面。"
+
+msgid "Try it out!"
+msgstr "现在就试试！"
