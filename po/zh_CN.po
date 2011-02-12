@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-02-11 11:21+0000\n"
-"PO-Revision-Date: 2011-02-12 04:07+0800\n"
+"POT-Creation-Date: 2011-02-12 17:05+0800\n"
+"PO-Revision-Date: 2011-02-12 17:05+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -102,20 +102,20 @@ msgstr ""
 "用 USB 设备运行 GNOME 3 开发版：<placeholder-5/><placeholder-6/><br/"
 "><placeholder-7/>"
 
-#: ../tryit.html:56(a) ../faq.html:59(a)
+#: ../tryit.html:56(a) ../index.html:100(a) ../faq.html:59(a)
 msgid "The GNOME Project"
 msgstr "GNOME 项目"
 
-#: ../tryit.html:57(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:57(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:55(div) ../faq.html:58(div)
+#: ../tryit.html:55(div) ../index.html:99(div) ../faq.html:58(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -263,17 +263,18 @@ msgid ""
 "feel right at home on netbooks as well as larger machines"
 msgstr "不论是家用上网本，还是更大的台式机，都能获得满意的用户体验。"
 
-#: ../index.html:84(img)
-msgid ""
-"Common questions and answers Try it out! Copyright The GNOME Project Share "
-"on: Facebook | Twitter"
-msgstr ""
-"常见问题和解答 现在就试试！ 版权所有 © 2010 GNOME 项目 分享到 "
-"Facebook | Twitter"
-
-#: ../faq.html:24(h1)
+#: ../index.html:90(a) ../faq.html:24(h1)
 msgid "Common questions and answers"
 msgstr "常见问题和解答"
+
+#. grid_6
+#: ../index.html:92(div)
+msgid " "
+msgstr " "
+
+#: ../index.html:95(a)
+msgid "Try it out!"
+msgstr "现在就试试！"
 
 #: ../faq.html:28(h2)
 msgid "How do I get GNOME 3?"
@@ -404,5 +405,9 @@ msgstr ""
 "助，详情请参阅我们的 <a href=\"http://live.gnome.org/JoinGnome\">如何贡献</"
 "a> 页面。"
 
-msgid "Try it out!"
-msgstr "现在就试试！"
+#~ msgid ""
+#~ "Common questions and answers Try it out! Copyright The GNOME Project "
+#~ "Share on: Facebook | Twitter"
+#~ msgstr ""
+#~ "常见问题和解答 现在就试试！ 版权所有 © 2010 GNOME 项目 分享到 Facebook | "
+#~ "Twitter"
