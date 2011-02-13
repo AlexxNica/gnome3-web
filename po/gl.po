@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-02-08 14:37+0000\n"
-"PO-Revision-Date: 2011-02-08 20:59+0100\n"
+"PO-Revision-Date: 2011-02-13 15:18+0100\n"
 "Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
 "Language-Team: Galician <gnome-gl-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,6 @@ msgstr ""
 "tipo de letra refinado e unhas animacións limpas."
 
 #: ../index.html:41(h2)
-#, fuzzy
 msgid "An overview at a glance"
 msgstr "Unha visión de realce"
 
@@ -343,7 +342,6 @@ msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "Poderei usar os meus aplicativos de GNOME favoritos en GNOME 3?"
 
 #: ../faq.html:38(p)
-#, fuzzy
 msgid ""
 "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
 "does provide facilities to make applications even better though, so look out "
@@ -433,3 +431,11 @@ msgid ""
 "producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
 "\">contribution page</a> for more details."
 msgstr ""
+"Difundindo polo mundo o GNOME 3 é unha moi boa forma de axudar. Un tweet "
+"positivo, unha actualización de estado ou un artigo no seu blog é moi "
+"apreciábel. Tamén pode unirse ao noso <a href=\"http://www.facebook.com/"
+"GNOMEDesktop\">grupo de Facebook</a> ou ser un <a href=\"http://www.gnome."
+"org/friends/\">amigo de GNOME</a>. Ademais, vostede tamén pode axudarnos "
+"nunha das variadas tarefas que ten GNOME. Comprobe a nosa <a href=\"http://"
+"live.gnome.org/JoinGnome\">páxina de contribuíntes</a> para obter máis "
+"información."
