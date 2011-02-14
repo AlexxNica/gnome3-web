@@ -1,5 +1,12 @@
 #! /bin/bash -e
 
+# make sure all HTML files are valid XML, this will be required by xml2po
+# in the second phase...
+for HTMLFILE in ../*.html
+do
+    xmllint --noout $HTMLFILE
+done
+
 xml2po -e -m xhtml -o gnome3.pot ../*.html
 for LANG in $(cat LINGUAS)
 do
