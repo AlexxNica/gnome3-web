@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
 "POT-Creation-Date: 2011-02-12 17:05+0800\n"
-"PO-Revision-Date: 2011-02-14 18:27+0800\n"
+"PO-Revision-Date: 2011-02-14 19:52+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -30,7 +30,7 @@ msgid ""
 "or USB stick."
 msgstr ""
 "GNOME 3 仍在活跃开发中，并将于2011年4月发布。如果您想要抢先体验，您可以使用"
-"CD/DVD 或 USB 设备试用开发版 Live 镜像。"
+"CD/DVD 或 USB 闪存试用开发版 Live 镜像。"
 
 #: ../tryit.html:29(a)
 msgid "Download for 32 bit systems"
@@ -69,7 +69,7 @@ msgid ""
 "Remove any USB storage devices that you might have connected to your "
 "computer and insert the empty USB stick that you want to write to"
 msgstr ""
-"取下所有连接到电脑的 USB 储存设备，再插入即将用以写入镜像的空 USB 储存设备"
+"取下所有连接到电脑的 USB 闪存，再插入即将用以写入镜像的空 USB 储存设备"
 
 #: ../tryit.html:40(li)
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 
 #: ../tryit.html:41(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
-msgstr "保持 USB 储存设备插在计算机上，重启系统即可运行"
+msgstr "保持 USB 闪存插在计算机上，重启系统即可运行"
 
 #: ../tryit.html:44(a)
 msgid "Download USB image writer"
@@ -99,7 +99,7 @@ msgid ""
 "><br/><placeholder-7/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> 使"
-"用 USB 设备运行 GNOME 3 开发版：<placeholder-5/><placeholder-6/><br/"
+"用 USB 闪存运行 GNOME 3 开发版：<placeholder-5/><placeholder-6/><br/"
 "><placeholder-7/>"
 
 #: ../tryit.html:56(a) ../index.html:100(a) ../faq.html:59(a)
