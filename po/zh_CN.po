@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
 "POT-Creation-Date: 2011-02-12 17:05+0800\n"
-"PO-Revision-Date: 2011-02-12 20:31+0800\n"
+"PO-Revision-Date: 2011-02-14 18:27+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -138,7 +138,7 @@ msgstr ""
 
 #: ../index.html:37(h2)
 msgid "Simply beautiful"
-msgstr "界面简约华美"
+msgstr "界面简洁优雅"
 
 #: ../index.html:39(p)
 msgid ""
@@ -147,7 +147,7 @@ msgid ""
 "most beautiful GNOME desktop ever, with a new visual theme, a refined new "
 "font and carefully crafted animations--all while preserving compatibilty."
 msgstr ""
-"新的 GNOME 让简约的定义更上一层楼。我们清理杂乱部件、设计全新视觉主题、精雕细"
+"新的 GNOME 让优雅的定义更上一层楼。我们清理杂乱部件、设计全新视觉主题、精雕细"
 "琢每一个字符和动画、同时保留兼容性——这一切造就的是 GNOME 有史以来最简洁易用、"
 "最精工细作的 GNOME 桌面。"
 
