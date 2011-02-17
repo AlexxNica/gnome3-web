@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-02-12 08:15+0000\n"
-"PO-Revision-Date: 2011-02-15 09:48+0100\n"
+"POT-Creation-Date: 2011-02-15 20:20+0000\n"
+"PO-Revision-Date: 2011-02-17 11:28+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,19 +51,23 @@ msgstr ""
 
 #: ../tryit.html:36(li)
 msgid "Download the USB image writer (below) and extract it"
-msgstr ""
+msgstr "Descargue el grabador de imágenes (debajo) USB y extráigalo"
 
 #: ../tryit.html:37(li)
 msgid ""
 "Open a terminal and navigate to the extracted image writer folder (eg. <code>"
 "$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
 msgstr ""
+"Abra una terminal y navegue hasta la carpeta donde ha extraído el grabado de "
+"imágenes (ej. <code>$ cd Descargas/abock-image-usb-stick-f3b1002</code>)"
 
 #: ../tryit.html:38(li)
 msgid ""
 "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
 "code>"
 msgstr ""
+"Prepare el grabador de imágenes ejecutando <code>$ chmod a+x ./image-usb-"
+"stick</code>"
 
 #: ../tryit.html:39(li)
 msgid ""
@@ -71,22 +75,20 @@ msgid ""
 "computer and insert the empty USB stick that you want to write to"
 msgstr ""
 "Quite cualquier dispositivo USB de almacenamiento que tenga conectado en su "
-"equipo e introduzca la memoria USB vacío en el que quiere escribir "
+"equipo e introduzca la memoria USB vacío en el que quiere escribir"
 
 #: ../tryit.html:40(li)
-#| msgid ""
-#| "Run the image writer script: <code>$ sudo ./image-writer "
-#| "path_to_the_live_image.iso</code>"
 msgid ""
 "Run the image writer script: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
 msgstr ""
-"Ejecutar el script grabador de imágenes: <code>$ sudo ./image-usb-stick "
+"Ejecute el script grabador de imágenes: <code>$ sudo ./image-usb-stick "
 "ruta_a_la_imagen.iso</code>"
 
 #: ../tryit.html:41(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
 msgstr ""
+"Para ejecutar la imagen, reinicie su equipo con la memoria USB insertada"
 
 #: ../tryit.html:44(a)
 msgid "Download USB image writer"
@@ -94,7 +96,7 @@ msgstr "Descargar el grabador de imágenes USB"
 
 #: ../tryit.html:46(p)
 msgid "The user name for the live image is 'tux' and the password is 'linux'."
-msgstr ""
+msgstr "El nombre de usuario de la imagen es «tux» y la contraseña es «linux»."
 
 #. grid_16
 #: ../tryit.html:26(div)
@@ -125,6 +127,8 @@ msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
 msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Compártelo en: <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
 
 #: ../index.html:24(h1)
 msgid "Introducing the next generation GNOME desktop"
@@ -181,7 +185,7 @@ msgstr ""
 
 #: ../index.html:52(h2)
 msgid "Distraction-free computing"
-msgstr ""
+msgstr "Informática sin distracciones"
 
 #: ../index.html:54(p)
 msgid ""
@@ -194,7 +198,7 @@ msgstr ""
 
 #: ../index.html:60(h2)
 msgid "Everything at your fingertips"
-msgstr ""
+msgstr "Todo al alcance de sus dedos"
 
 #: ../index.html:62(p)
 msgid ""
@@ -230,6 +234,8 @@ msgstr ""
 #: ../index.html:75(li)
 msgid "Window tiling to make using several windows simple and easy"
 msgstr ""
+"Ventanas en mosaico para hacer que el uso de varias ventanas sea fácil y "
+"sencillo"
 
 #: ../index.html:76(li)
 msgid "An improved file manager"
@@ -239,6 +245,7 @@ msgstr "Un gestor de archivos mejorado"
 msgid ""
 "Dark application themes for when you want to focus on pictures and videos"
 msgstr ""
+"Temas de aplicaciones oscuros para cuando quiere centrarse en fotos y vídeos"
 
 #: ../index.html:78(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
@@ -356,7 +363,7 @@ msgstr ""
 
 #: ../faq.html:52(h2)
 msgid "How can I get involved or help with GNOME 3?"
-msgstr ""
+msgstr "¿Cómo puedo involucrarme o ayudar en GNOME 3?"
 
 #: ../faq.html:54(p)
 msgid ""
