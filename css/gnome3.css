@@ -54,7 +54,7 @@ a.faq {
 #splash {
   position: relative;
   background: #204a87 url(../img/desktop.png) no-repeat 0 0;
-  height: 400px; width: 960px;
+  height: 400px; width: 940px;
   margin: 4px 0 2em;
   overflow: hidden;
 }
@@ -93,6 +93,26 @@ a.faq {
   margin-bottom: 1em;
 }
 
-.logo {
-  margin: 0px 320px;
+ul.navigation {
+  background: #f57900;
+  color: #fff;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-top: 50px;
+  padding: 10px 0px;
+
+}
+
+ul.navigation li {
+  display: inline;
+  margin-left: 0px;
+  padding: 10px 15px;
+  border-right: 1px solid #eeeeec;
+}
+
+ul.navigation li a {
+  -moz-border-radius: 3px;
+  text-decoration: none;
+  color: #fff;
 }
