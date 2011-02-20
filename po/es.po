@@ -2,13 +2,14 @@
 # Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome3-web package.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011.
+# Jorge González <jorgegonz@svn.gnome.org>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-02-15 20:20+0000\n"
-"PO-Revision-Date: 2011-02-17 11:28+0100\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"POT-Creation-Date: 2011-02-17 21:05+0000\n"
+"PO-Revision-Date: 2011-02-20 16:58+0100\n"
+"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 
 #: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
-msgstr ""
+msgstr "GNOME 3 - Sin esfuerzo"
 
 #: ../tryit.html:22(h1)
 msgid "Try out GNOME 3"
@@ -107,7 +108,7 @@ msgid ""
 msgstr ""
 "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> "
 "Ejecutar GNOME 3 alpha desde una memoria USB: <placeholder-5/><placeholder-6/"
-"><br/><placeholder-7/> "
+"><br/><placeholder-7/>"
 
 #: ../tryit.html:56(a) ../index.html:100(a) ../faq.html:59(a)
 msgid "The GNOME Project"
@@ -159,7 +160,7 @@ msgstr ""
 
 #: ../index.html:41(h2)
 msgid "An overview at a glance"
-msgstr ""
+msgstr "Visión general a primera vista"
 
 #: ../index.html:43(p)
 msgid ""
@@ -169,6 +170,12 @@ msgid ""
 "view, including the activities keyboard key (often known as the Windows key) "
 "and the activities hot corner."
 msgstr ""
+"La vista de actividades proporciona una manera fácil de acceder a todas sus "
+"ventanas y aplicaciones. También es una buena forma de llevar un seguimiento "
+"de sus actividades. Se han proporcionado varias maneras rápidas y "
+"convenientes de acceder a la vista de actividades, incluyendo la tecla de "
+"actividades (generalmente conocida como «tecla de Windows», y la esquina de "
+"actividades recientes."
 
 #: ../index.html:48(h2)
 msgid "Messaging built-in"
@@ -182,6 +189,12 @@ msgid ""
 "to enter a reply straight into messaging notifications makes instant "
 "messaging quick and effortless."
 msgstr ""
+"La comunicación es una parte importante del escritorio moderno, pero es una "
+"molestia tener que cambiar de ventana para responder a un mensaje. Es por "
+"eso que GNOME 3 le permitirá continuar sus conversaciones sin tener que "
+"cambiar el foco. La capacidad para redactar una respuesta directamente a las "
+"notificaciones de mensajería instantánea hace que la mensajería instantánea "
+"sea rápida y sin esfuerzo."
 
 #: ../index.html:52(h2)
 msgid "Distraction-free computing"
@@ -195,6 +208,11 @@ msgid ""
 "that it is part of the background, not the foreground. These changes allow "
 "you to focus on your creative tasks."
 msgstr ""
+"GNOME 3 está diseñado para reducir las distracciones y las interrupciones y "
+"darle el control. El nuevo sistema de notificaciones presenta los mensajes "
+"sutilmente y los guardará hasta que esté listo para atenderlo, y el panel de "
+"GNOME 3 se ha diseñado para que sea parte del fondo y no del primer plano. "
+"Estos cambios le permiten centrarte en sus tareas creativas."
 
 #: ../index.html:60(h2)
 msgid "Everything at your fingertips"
@@ -206,6 +224,10 @@ msgid ""
 "keyboard. Press the activities key and search: it's as simple as that. "
 "You'll love this feature if you're a user who likes things to happen fast."
 msgstr ""
+"Con el nuevo escritorio GNOME, puede acceder a todo rápidamente desde el "
+"teclado. Pulse la tecla «actividades» y busque: es tan sencillo como eso. Le "
+"encantará esta característica si es un usuario al que le gusta que las cosas "
+"vayan rápido."
 
 #: ../index.html:64(h2)
 msgid "Redesigned system settings"
@@ -218,6 +240,10 @@ msgid ""
 "system settings too, such as the ability to use Flickr images as desktop "
 "backgrounds."
 msgstr ""
+"Nuestra configuración del sistema se ha rediseñado completamente en GNOME 3, "
+"haciéndola más fácil de usar que nunca. Hay algunas características nuevas "
+"en la configuración de nuestro sistema, como la posibilidad de usar imágenes "
+"de Flickr como fondos de escritorio."
 
 #: ../index.html:71(h2)
 msgid "And much, much more"
@@ -250,16 +276,22 @@ msgstr ""
 #: ../index.html:78(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr ""
+"Espacios de trabajo rediseñados, por lo que puede organizar sus ventanas sus "
+"ventanas"
 
 #: ../index.html:79(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr ""
+"Grandes cambios internos para ofrecerle una experiencia más rápida y suave"
 
 #: ../index.html:80(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
 msgstr ""
+"Una experiencia satisfactoria, cualquier que sea el tipo de equipo que use: "
+"GNOME 3 se sentirá como en casa en los netbooks, así como las equipos más "
+"grandes"
 
 #: ../index.html:90(a) ../faq.html:24(h1)
 msgid "Common questions and answers"
@@ -317,6 +349,10 @@ msgid ""
 "for new and improved GNOME 3 versions of those trusty apps you've learnt to "
 "love."
 msgstr ""
+"Sí. Las aplicaciones existentes de GNOME funcionarán correctamente en GNOME "
+"3. GNOME 3 proporciona facilidades para hacer mejores aplicaciones, así que "
+"mire si existen nuevas y mejoradas versiones de sus aplicaciones para GNOME "
+"3."
 
 #: ../faq.html:40(h2)
 msgid "What will happen to the old version of GNOME?"
@@ -335,7 +371,7 @@ msgstr ""
 
 #: ../faq.html:44(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
-msgstr ""
+msgstr "¿Por qué se ha diseñado GNOME 3 de esta manera?"
 
 #: ../faq.html:46(p)
 msgid ""
@@ -350,7 +386,7 @@ msgstr ""
 
 #: ../faq.html:48(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
-msgstr ""
+msgstr "¿Cuáles son los planes después de que se publique GNOME 3?"
 
 #: ../faq.html:50(p)
 msgid ""
