@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-02-10 09:29+0000\n"
-"PO-Revision-Date: 2011-02-11 15:56+0800\n"
+"POT-Creation-Date: 2011-02-22 19:42+0000\n"
+"PO-Revision-Date: 2011-02-23 14:04+0800\n"
 "Last-Translator: ericsun <eric629@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,6 @@ msgstr ""
 "缷載所有連接到電腦的 USB 儲存設備，再插入即將用以寫入映像檔的空 USB 儲存設備"
 
 #: ../tryit.html:40(li)
-#, fuzzy
-#| msgid ""
-#| "Run the image writer script: <code>$ sudo ./image-writer "
-#| "path_to_the_live_image.iso</code>"
 msgid ""
 "Run the image writer script: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
@@ -91,7 +87,7 @@ msgstr "下載 USB 開機磁碟製作程式"
 
 #: ../tryit.html:46(p)
 msgid "The user name for the live image is 'tux' and the password is 'linux'."
-msgstr "Live 映像檔使用者的帳號名稱是 tux，密碼是 linux。"
+msgstr "Live 映像檔使用者的帳號名稱是 tux，密碼是 linux"
 
 #. grid_16
 #: ../tryit.html:26(div)
@@ -104,24 +100,20 @@ msgstr ""
 "用 USB 設備執行 GNOME 3 開發版：<placeholder-5/><placeholder-6/><br/"
 "><placeholder-7/>"
 
-#: ../tryit.html:56(a) ../faq.html:59(a)
+#: ../tryit.html:56(a) ../index.html:100(a) ../faq.html:59(a)
 msgid "The GNOME Project"
 msgstr "GNOME 專案"
 
-#: ../tryit.html:57(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:57(a) ../faq.html:60(a)
+#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:55(div) ../faq.html:58(div)
-#, fuzzy
-#| msgid ""
-#| "Copyright © 2010 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-#| "<placeholder-3/><br/> ❧"
+#: ../tryit.html:55(div) ../index.html:99(div) ../faq.html:58(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -147,12 +139,6 @@ msgid "Simply beautiful"
 msgstr "簡約美麗"
 
 #: ../index.html:39(p)
-#, fuzzy
-#| msgid ""
-#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
-#| "clutter and made a simple and easy-to-use desktop, and we've made this "
-#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
-#| "new font and carefully crafted animations."
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -200,12 +186,6 @@ msgid "Distraction-free computing"
 msgstr "隨心所欲分配你的注意力"
 
 #: ../index.html:54(p)
-#, fuzzy
-#| msgid ""
-#| "GNOME 3 is designed to reduce distraction and interruption and to put you "
-#| "in control. Our new notifications system subtly presents messages and "
-#| "will save them until you are ready for them, and the GNOME 3 panel has "
-#| "been styled so that it is part of the background, not the foreground."
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -256,7 +236,7 @@ msgstr "GNOME 3 有非常多的新特色，以下是其他一些值得你期待�
 
 #: ../index.html:75(li)
 msgid "Window tiling to make using several windows simple and easy"
-msgstr ""
+msgstr "視窗舖排讓多視窗的使用更簡易"
 
 #: ../index.html:76(li)
 msgid "An improved file manager"
@@ -269,7 +249,7 @@ msgstr "當你觀賞圖片或影片的時候，背景會自動的變暗，讓你
 
 #: ../index.html:78(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
-msgstr ""
+msgstr "重新設計的工作空間讓你可以更容易的管理你的視窗"
 
 #: ../index.html:79(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
@@ -281,15 +261,18 @@ msgid ""
 "feel right at home on netbooks as well as larger machines"
 msgstr "不論你是使用什麼樣的電腦，GNOME 3 都會讓你擁有滿意的使用者體驗 "
 
-#: ../index.html:84(img)
-msgid ""
-"Common questions and answers Try it out! Copyright The GNOME Project Share "
-"on: Facebook | Twitter"
-msgstr ""
-
-#: ../faq.html:24(h1)
+#: ../index.html:90(a) ../faq.html:24(h1)
 msgid "Common questions and answers"
 msgstr "常見問答集"
+
+#. grid_6
+#: ../index.html:92(div)
+msgid " "
+msgstr " "
+
+#: ../index.html:95(a)
+msgid "Try it out!"
+msgstr "開始體驗吧！"
 
 #: ../faq.html:28(h2)
 msgid "How do I get GNOME 3?"
@@ -305,7 +288,7 @@ msgid ""
 msgstr ""
 "GNOME 3 計劃於2011年4月正式釋出，之後你將可以從各大主要的LINUX發行版網站上取"
 "得。更多的詳細內容將會隨著開發的進行而陸續在本站發表。如果你迫不及待地想體"
-"驗，我們的 <a href=\"tryit.html\">體驗 GNOME 3</a>頁面介紹了試用開發版本的詳"
+"驗，我們的 <a href=\"tryit.html\">體驗 GNOME 3 </a>頁面介紹了試用開發版本的詳"
 "細資訊。"
 
 #: ../faq.html:32(h2)
@@ -420,9 +403,3 @@ msgstr ""
 "www.gnome.org/friends/\">GNOME之友</a>。此外，你還可以在我們發起的 GNOME 各項"
 "計劃進行協助，詳情請參閱我們的<a href=\"http://live.gnome.org/JoinGnome\">如"
 "何貢獻</a>頁面。"
-
-#~ msgid " "
-#~ msgstr " "
-
-#~ msgid "Try it out!"
-#~ msgstr "開始體驗吧！"
