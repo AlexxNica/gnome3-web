@@ -1,19 +1,20 @@
 # Czech translation for gnome3-web.
 # Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome3-web package.
+#
 # Marek Černocký <marek@manet.cz>, 2011.
-# FULL NAME <EMAIL@ADDRESS>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-02-17 21:05+0000\n"
-"PO-Revision-Date: 2011-02-25 07:50+0100\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-02-25 06:55+0000\n"
+"PO-Revision-Date: 2011-02-25 07:58+0100\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
@@ -149,11 +150,17 @@ msgid "Simply beautiful"
 msgstr "Prostě krásné"
 
 #: ../index.html:39(p)
+#| msgid ""
+#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
+#| "clutter and made a simple and easy-to-use desktop, and we've made this "
+#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
+#| "new font and carefully crafted animations--all while preserving "
+#| "compatibilty."
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
 "most beautiful GNOME desktop ever, with a new visual theme, a refined new "
-"font and carefully crafted animations--all while preserving compatibilty."
+"font and carefully crafted animations--all while preserving compatibility."
 msgstr ""
 "Nové pracovní prostředí GNOME posunulo eleganci na novou úroveň. Zametli "
 "jsem s nepořádkem a vytvořili jednoduché a na používání snadné pracovní "
@@ -304,10 +311,16 @@ msgid "How do I get GNOME 3?"
 msgstr "Kde mohu GNOME 3 získat?"
 
 #: ../faq.html:30(p)
+#| msgid ""
+#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
+#| "popular distributions after that time. Further details of how you can get "
+#| "GNOME 3 will posted on this site once it is available. If you can't wait "
+#| "that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
+#| "how to try a development version."
 msgid ""
 "GNOME 3 is scheduled for release in April 2011 and will be available via "
 "popular distributions after that time. Further details of how you can get "
-"GNOME 3 will posted on this site once it is available. If you can't wait "
+"GNOME 3 will be posted on this site once it is available. If you can't wait "
 "that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
 "how to try a development version."
 msgstr ""
