@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome30\n"
+"POT-Creation-Date: 2011-03-04 16:18+0000\n"
+"PO-Revision-Date: 2011-02-12 10:23+0600\n"
+"Last-Translator: Sahran <sahran.ug@gmail.com>\n"
+"Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Uyghur\n"
+
+#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - قۇلايلىق يارىتىدۇ"
+
+#: ../tryit.html:20(a) ../index.html:25(a) ../faq.html:20(a)
+msgid "Home"
+msgstr ""
+
+#: ../tryit.html:20(a) ../index.html:25(a) ../faq.html:20(a)
+#: ../faq.html:28(h1)
+msgid "Common questions and answers"
+msgstr "كۆپ ئۇچرايدىغان سوئال جاۋابلار"
+
+#: ../tryit.html:21(a) ../index.html:26(a) ../faq.html:21(a)
+msgid "Try it out!"
+msgstr ""
+
+#: ../tryit.html:28(h1)
+msgid "Try out GNOME 3"
+msgstr "GNOME 3 نى سىناڭ"
+
+#: ../tryit.html:30(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
+"or USB stick."
+msgstr ""
+"GNOME 3 ئاكتىپ ئىجاد قىلىنىۋاتىدۇ، 2011- يىلى ئۇمۇت(4- ئاي)تا تارقىتىلىدۇ. "
+"ئەگەر ئالدىن سىناپ باقماقچى بولسىڭىز، CD/DVD ياكى USB دىسكىسىنى ئىشلىتىپ، "
+"جانلىق (live) ئىجادكارلار نەشرىنى ئىجرا قىلسىڭىز بولىدۇ."
+
+#: ../tryit.html:36(a)
+#, fuzzy
+#| msgid "Download for 32 bit systems"
+msgid "Download for 32 bit systems (v0.0.6)"
+msgstr "32 خانىلىق سىستېما نەشرىنى چۈشۈرۈڭ"
+
+#: ../tryit.html:37(a)
+#, fuzzy
+#| msgid "Download for 64 bit systems"
+msgid "Download for 64 bit systems (v0.0.6)"
+msgstr "64 خانىلىق سىستېما نەشرىنى چۈشۈرۈڭ"
+
+#: ../tryit.html:44(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"بىۋاسىتە CD/DVD دىن ئىجرا قىلىشتا، چۈشۈرگەن ھۆججەتنى دىسكىغا ئويۇپ، "
+"كومپيۇتېر نۇر دىسكىغا قىستۇرۇپ كومپيۇتېرنى قايتا قوزغىتىڭ."
+
+#: ../tryit.html:48(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "USB تەسۋىر يازغۇچ (تۆۋەندە) چۈشۈرۈپ، ئۇنى يېشىڭ"
+
+#: ../tryit.html:49(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"تېرمىنال كۆزنىكىنى ئېچىپ، تەسۋىر يازغۇچ پروگراممىسى تۇرۇشلۇق قىسقۇچقا كىرىڭ "
+"(مەسىلەن <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+
+#: ../tryit.html:50(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"تەسۋىر يازغۇچ پروگراممىسىنى تەييارلاۋاتىدۇ: <code>$ chmod a+x ./image-usb-"
+"stick</code>"
+
+#: ../tryit.html:51(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+"كومپيۇتېرغا چېتىلغان ھەممە USB ساقلىغۇچلارنى چىقىرىۋېتىپ، تەسۋىرنى يازماقچى "
+"بولغان بوش USB ساقلىغۇچنى قايتا قىستۇرۇڭ"
+
+#: ../tryit.html:52(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"تەسۋىر يازغۇچ قوليازمىسىنى ئىجرا قىلىڭ: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+
+#: ../tryit.html:53(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+"جانلىق (live) تەسۋىرنى ئىجرا قىلىشتا، USB ساقلىغۇچنى كومپيۇتېرغا قىستۇرۇپ، "
+"قايتا قوزغاتسىڭىزلا بولىدۇ"
+
+#: ../tryit.html:56(a)
+msgid "Download USB image writer"
+msgstr "USB تەسۋىر يازغۇچنى چۈشۈرۈڭ"
+
+#: ../tryit.html:58(p)
+msgid "The user name for the live image is 'tux' and the password is 'linux'."
+msgstr "جانلىق (live) تەسۋىردە ئىشلىتىلگەن ئىشلەتكۈچى ئاتى 'tux'، ئىم 'linux'."
+
+#: ../tryit.html:43(div)
+#, fuzzy
+#| msgid ""
+#| "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/"
+#| "> To run the GNOME 3 alpha from a USB stick: <placeholder-5/><placeholder-"
+#| "6/><br/><placeholder-7/>"
+msgid ""
+"<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+msgstr ""
+"<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> "
+"USB ساقلىغۇچتا GNOME 3 نىڭ ئىجادكارلار نەشرىنى ئىجرا قىلىڭ: <placeholder-5/"
+"><placeholder-6/><br/><placeholder-7/>"
+
+#: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:67(a)
+msgid "The GNOME Project"
+msgstr "GNOME قۇرۇلۇشى"
+
+#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:67(div) ../index.html:90(div) ../faq.html:66(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
+msgstr ""
+"نەشر ھوقۇقىغا ئىگە © 2011 <placeholder-1/><br/> ھەمبەھىرلىنىدۇ: <placeholder-"
+"2/>  <placeholder-3/><br/> ❧"
+
+#: ../index.html:33(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "كېيىنكى ئەۋلاد GNOME ئۈستەلئۈستى"
+
+#: ../index.html:35(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"GNOME 3 نىسبەتەن، GNOME 3 قۇرۇلۇشى ئەڭ يېڭى تېخنىكا ئىشلىتىپ، ئىشلەتكۈچىلەر "
+"ئۈچۈن يېپيېڭى زامانىۋى ئۈستەل ئۈستى ياساپ چىقتى، تۆۋەندىكىسى سىز يېڭى GNOME "
+"دا بولۇشىنى ئارزۇ قىلغان بىر قىسىم ئىقتىدارلار:"
+
+#: ../index.html:43(h2)
+msgid "Simply beautiful"
+msgstr "ئاددىي كۆركەم"
+
+#: ../index.html:45(p)
+#, fuzzy
+#| msgid ""
+#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
+#| "clutter and made a simple and easy-to-use desktop, and we've made this "
+#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
+#| "new font and carefully crafted animations--all while preserving "
+#| "compatibilty."
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations--all while preserving compatibility."
+msgstr ""
+"GNOME نىڭ يېڭى ئۈستەلئۈستى يەنە بىر پەللە ئۆرلىدى. بىز ئۇششاق بۆلەكلەرنى "
+"تازىلاپ، يېپيېڭى تېما لايىھىلەپ، ھەر بىر تېكىست ۋە جانلاندۇرۇمغا ئىنچىكىلىك "
+"بىلەن ئىش قوشتۇق، بۇلارنىڭ ھەممىسى GNOME نىڭ ئاددىي، ئىشلىتىش قۇلاي بولغان "
+"ئۈستەلئۈستى بولۇشى ئۈچۈندۇر. "
+
+#: ../index.html:47(h2)
+msgid "An overview at a glance"
+msgstr "بىر قاراشتىلا بىلگىلى بولىدىغان قىسقىچە بايان"
+
+#: ../index.html:49(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"ئاكتىپ كۆرۈنۈش سىزگە ھەممە كۆزنەك ۋە پروگراممىلارنى زىيارەت قىلىشقا قۇلايلىق "
+"يارىتىدۇ. ئۇ يەنە ھەممە پائالىيەتلەرنى خاتىرىلەشتىكى ياخشى ئۇسۇل. بىز سىزنى "
+"كۆپ خىل ئۇسۇلدا ئاكتىپ كۆرۈنۈشنى كۆزىتىش بىلەن تەمىنلىدۇق، ھەرپتاختا تېز "
+"كۇنۇپكىسى (كۆپىنچە ھاللاردا Windows كۇنۇپكىسىنى كۆرسىتىدۇ) ۋە ئاكتىپ قىزىق "
+"بۇلۇڭنى ئۆز ئىچىگە ئالىدۇ."
+
+#: ../index.html:54(h2)
+msgid "Messaging built-in"
+msgstr "ئىچكى مۇڭداشقۇ"
+
+#: ../index.html:56(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"ئالاقىلىشىش زامانىۋى ئۈستەلئۈستىدە كەم بولسا بولمايدىغان بۆلەك، ئۇچۇرغا "
+"جاۋاب قايتۇرۇش ئۈچۈن توختىماي كۆزنەكلەر ئارىسىدا ئالماشتۇرۇش ئادەمنى بىزار "
+"قىلىدۇ. GNOME 3 تە دىققىتىڭىزنى ئۆزگەرتمەيلا سۆزلىشەلەيسىز. ئۇچۇر "
+"ئەسكەرتىشىدىلا جاۋابنى يازالايسىز، بۇنداق بولغاندا ھەممە ئىش تېز ھەم "
+"تەرتىپلىك بولىدۇ."
+
+#: ../index.html:58(h2)
+msgid "Distraction-free computing"
+msgstr "دىققەت چېچىلمايدۇ"
+
+#: ../index.html:60(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 لايىھىسى دىققەت چېچىلىشنى ئازايتىپ، خىزمىتىڭىزنى ئۈزۈۋەتمەي، ھەممىسى "
+"سىزنىڭ باشقۇرۇشىڭىزدا بولىدۇ. يېپيېڭى ئەسكەرتىش سىستېمىسى ئۇچۇرنى ئۇستىلىق "
+"بىلەن كۆرسىتىپ، ئۇلارنى ئوقۇپ بولغۇچە ساقلاپ تۇرىدۇ. شۇنىڭ بىلەن بىللە GNOME "
+"3 تاختىسىنىڭ ئۇسلۇبى ئالدى كۆرۈنۈشنىڭ ئەمەس بەلكى تەگلىكنىڭ بىر قىسمىغا "
+"ئايلاندى. بۇ ئۆزگىرىشلەر دىققىتىڭىزنى ئىجادىيىتىڭىزگە مەركەزلەشتۈرۈشىڭىزگە "
+"پايدىلىق."
+
+#: ../index.html:66(h2)
+msgid "Everything at your fingertips"
+msgstr "ھەممىسى بارماقلىرىڭىزنىڭ باشقۇرۇشىدا"
+
+#: ../index.html:68(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"يېڭى GNOME ئۈستەلئۈستى ھەممە مەزمۇنلارنى ھەرپتاختا ئارقىلىق زىيارەت "
+"قىلىشىڭىزغا يول قويىدۇ. ئاكتىپ كۇنۇپكىنى بېسىپلا ئىزدىيەلەيسىز؛ ھەممىسى "
+"شۇنداق ئاسان. ئەگەر سىز تېزلىكنى ياقتۇرىدىغان بولسىڭىز بۇ ئالاھىدىلىكنى "
+"چوقۇم ياقتۇرىسىز."
+
+#: ../index.html:70(h2)
+msgid "Redesigned system settings"
+msgstr "قايتا لايىھىلىگىلى بولىدىغان سىستېما تەڭشەكلىرى "
+
+#: ../index.html:72(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. There are some great new features in our "
+"system settings too, such as the ability to use Flickr images as desktop "
+"backgrounds."
+msgstr ""
+"بىزنىڭ سىستېما تەڭشەك قورالىمىز GNOME 3 ئۈچۈن پۈتۈنلەي يېڭىدىن لايىھىلەندى، "
+"ئىلگىرىكىگە قارىغاندا ئىشلىتىش تېخىمۇ قۇلايلاشتى. سىستېما تەڭشەكلىرىدە "
+"ناھايىتى ئەلا ئىقتىدارلار بار. مەسىلەن، سىز Flickr دىكى سۈرەتنى ئۈستەل "
+"تەگلىكىگە ئىشلىتەلەيسىز."
+
+#: ../index.html:77(h2)
+msgid "And much, much more"
+msgstr "تېخىمۇ كۆپ ئىقتىدارلار سىزنى كۈتمەكتە"
+
+#: ../index.html:79(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 تە لىپمۇ-لىق يېڭى ئىقتىدارلار بىلەن تولغان. تۆۋەندىكىسى سىز GNOME 3 "
+"تە بولۇشنى ئارزۇ قىلغان بىر قىسىم ئىقتىدارلار:"
+
+#: ../index.html:81(li)
+msgid "Window tiling to make using several windows simple and easy"
+msgstr "كۆزنەك يېيىش كۆپ كۆزنەككە مەشغۇلات قىلىشنى ئاددىي ۋە قۇلايلاشتۇرىدۇ"
+
+#: ../index.html:82(li)
+msgid "An improved file manager"
+msgstr "ياخشىلانغان ھۆججەت باشقۇرغۇچ"
+
+#: ../index.html:83(li)
+msgid ""
+"Dark application themes for when you want to focus on pictures and videos"
+msgstr ""
+"دىققەت رەسىم ۋە سىنغا مەركەزلەشسە، قوللىنىشچان پروگرامما تېمىسى سۇسلىشىدۇ"
+
+#: ../index.html:84(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+"قايتا لايىھىلەنگەن خىزمەت بوشلۇقى ئارقىلىق كۆزنەكلىرىڭىزنى ئاسانلا "
+"تەشكىللىيەلەيسىز"
+
+#: ../index.html:85(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr "تېخىمۇ تېز، تېخىمۇ سىلىق ئىشلىتىش كەچمىشىگە ئىگە قىلىدۇ"
+
+#: ../index.html:86(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"مەيلى ئۆيدە ئىشلىتىدىغان تور كومپيۇتېرى بولسۇن ياكى تېخىمۇ چوڭراق ئۈستەل "
+"كومپيۇتېرى بولسۇن ھەممىسىدە رازى بولغۇدەك ئىشلەتكۈچى كەچمىشىگە ئېرىشەلەيسىز"
+
+#: ../faq.html:36(h2)
+msgid "How do I get GNOME 3?"
+msgstr "GNOME 3 كە قانداق ئېرىشىمەن؟"
+
+#: ../faq.html:38(p)
+#, fuzzy
+#| msgid ""
+#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
+#| "popular distributions after that time. Further details of how you can get "
+#| "GNOME 3 will posted on this site once it is available. If you can't wait "
+#| "that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
+#| "how to try a development version."
+msgid ""
+"GNOME 3 is scheduled for release in April 2011 and will be available via "
+"popular distributions after that time. Further details of how you can get "
+"GNOME 3 will be posted on this site once it is available. If you can't wait "
+"that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
+"how to try a development version."
+msgstr ""
+"GNOME 3 ئۇمۇت(4- ئاي)تا تارقىتىش پىلانلاندى، شۇنىڭدىن كېيىن سىز ئۇنىڭغا ھەر "
+"قايسى تارقىتىش نەشرىلىرىدىن ئېرىشەلەيسىز. تېخىمۇ كۆپ ئۇچۇرلار ئىجادىيەتنىڭ "
+"چوڭقۇرلىشىشىغا ئەگىشىپ مەزكۇر بېكەتتە ئېلان قىلىنىدۇ. ئەگەر ئۇنى سىناپ "
+"ئىشلىتىشكە ئالدىرىسىڭىز بىزنىڭ <a href=\"tryit.html\">سىناش</a> بېتىمىزدە "
+"ئىجادكارلار نەشرىنى ئىشلىتىشنىڭ تەپسىلاتى تونۇشتۇرۇلدى."
+
+#: ../faq.html:40(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "كومپيۇتېرىمدا GNOME 3 ئىجرا بولامدۇ؟"
+
+#: ../faq.html:42(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"ئۆتكەن 4-5 يىل ئىچىدە سېتىۋالغان كومپيۇتېردا GNOME 3 ئىجرا قىلىشتا ھېچقانداق "
+"مەسىلە كۆرۈلمەيدۇ. GNOME 3 تولۇق ئىقتىدارلىق ئۈستەلئۈستى كەچمىشى "
+"كومپيۇتېرنىڭ كۆرسىتىش كارتىسىنىڭ تېزلەتكۈچىسى بولۇشىنى تەلەپ قىلىدۇ؛ ئەمما "
+"ئەنسىرەپ كەتمەڭ، GNOME 3 قاتتىق دېتال تېزلىتىش ئىقتىدارى يوق ئۈستەلئۈستىگىمۇ "
+"ناھايىتى ياخشى ئۈستەلئۈستى كەچمىشىنىمۇ تەمىنلىدى. ئۇنىڭدىن سىرت، GNOME "
+"قۇرۇلۇشى ۋە ئۇنىڭ ھەمكارلاشقۇچىلىرى پۈتۈن كۈچى بىلەن تېخىمۇ كۆپ كىشىلەرگە "
+"مۇلازىمەت قىلىشقا، شۇنداقلا زور تىرىشچانلىق كۆرسىتىپ بەزى ئىشلەتكۈچىلەر "
+"ئىشلىتەلمىگەن ئالاھىدىلىكلەرنى كەلگۈسىدە ئىشلىتەلىشىگە  كاپالەتلىك قىلىدۇ،"
+
+#: ../faq.html:44(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "GNOME 3 تە ئەڭ ياقتۇرىدىغان GNOME پروگراممىلىرىمنى ئىجرا قىلالامدىم؟"
+
+#: ../faq.html:46(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"ئەلۋەتتە! مەۋجۇت بولغان GNOME پروگراممىلىرى GNOME 3 تە ئوڭۇشلۇق ئىجرا "
+"بولىدۇ. GNOME 3 تە پروگراممىنىڭ ئىشلەتكۈچى كەچمىشىنى ئۆستۈرىدىغان قۇرۇلما "
+"بار بولۇپ، سىز ياقتۇرىدىغان پروگراممىنىڭ GNOME 3 تە تېخىمۇ قالتىس نامايان "
+"بولۇشىغا تىلەكداشمىز."
+
+#: ../faq.html:48(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "كونا نەشرىدىكى GNOME چۇ؟"
+
+#: ../faq.html:50(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"GNOME 2  ئۈستەلئۈستى ناھايىتى ئۇزۇن مەۋجۇت داۋاملاشتى، ئۇنىڭدىكى بەزى "
+"بۆلەكلەر ۋاقىتنىڭ ئۆتىشىگە ئەگىشىپ ئاسراش تەسلىشىپ كەتتى. شۇڭلاشقا GNOME 2 "
+"ئۈستەلئۈستىنى داۋاملىق تارقىتىش GNOME قۇرۇلۇشىغا نىسبەتەن ياخشى تاللاش "
+"ئەمەس، GNOME 2  نىڭ كۆپ قىسىم بۆلەكلىرى GNOME 3  ئېلان قىلىنغاندىن كېيىن "
+"ئەمدى يېڭى نەشرى ئېلان قىلىنمايدۇ. شۇنداقتىمۇ، كونا GNOME 2 ئۈستەلئۈستى "
+"مۇشۇنىڭ بىلەنلا يوقاپ كەتمەيدۇ: ھەر قايسى چوڭ تارقىتىش نەشىلىرى GNOME 2 گە "
+"نىسبەتەن كۆپ يىل قوللاشنى داۋاملاشتۇرىدۇ."
+
+#: ../faq.html:52(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "نېمە ئۈچۈن GNOME 3 ئۈستەلئۈستى مۇشۇنداق لايىھىلىنىدۇ؟"
+
+#: ../faq.html:54(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"GNOME 3 نى لايىھىلەش جەريانىدا بىز نۇرغۇن خىزمەتلەرنى ئىشلىدۇق، ھەر بىر "
+"لايىھە قارارى كۆڭۈل قويۇپ خىللانغان. ئەگەر مەلۇم ئالاھىدە لايىھىگە قارىتا "
+"گۇمانىڭىز بولسا، ئالدى بىلەن بىزنىڭ <a href=\"http://live.gnome.org/"
+"GnomeShell/Design/FAQ\">كۆپ ئۇچرايدىغان GNOME 3 مەسىلىلىرىگە جاۋاب</a>نى "
+"ئوقۇڭ. ئۇنىڭدىن باشقا، GNOME 3 نىڭ تېخىمۇ كۆپ لايىھە تەپسىلاتىنى <a href="
+"\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 ئۈستەلۈستى wiki بېتى</"
+"a>دىن تاپالايسىز."
+
+#: ../faq.html:56(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "GNOME 3 تارقىتىلغاندىن كېيىن GNOME قۇرۇلۇشىنىڭ قانداق پىلانى بار؟"
+
+#: ../faq.html:58(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"بىز ئۇنىڭ ئېلان قىلىنغانلىقىنى تەبرىكلەپ كاتتا كەچلىك يىغىلىش ئۆتكۈزىمىز "
+"ئاندىن قايتىپ كېلىپ ئۈستەلئۈستىنى ياخشىلاشنى داۋاملاشتۇرىمىز. GNOME 3 "
+"كېيىنكى نەشرلىرىدە تېخىمۇ ياخشىلىنىدۇ. بىزنىڭ GNOME نى تېخىمۇ قۇلاي، تېخىمۇ "
+"ياخشى ئىشلىتىش كەچمىشى بىلەن تەمىنلەيدىغان پىلانلىرىمىز بار، مەسىلەن، پۈتۈك "
+"ئىزدەش ۋە ئادەمنى ھاياجانلاندۇرىدىغان يېڭى ئۈستەل ئۈستى كېڭەيتىلمە قۇرۇلمىسى."
+
+#: ../faq.html:60(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "قانداق قىلسام GNOME 3 كە قاتنىشالايمەن ياكى ياردەم قىلالايمەن؟"
+
+#: ../faq.html:62(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"GNOME 3 نى پۈتۈن دۇنياغا تارقىتىش ۋە كېڭەيتىش بىزگە ياردەم قىلىشنىڭ ئەڭ "
+"ياخشى ئۇسۇلى. بىر پارچە مىكرو بلوگ ئۇچۇرى، ھالىتى ياكى بلوگ ماقالىسىمۇ بىزنى "
+"قوللاشنىڭ ئۇسۇلىدۇر. سىز يەنە بىزنىڭ  <a href=\"http://www.facebook.com/"
+"GNOMEDesktop\">Facebook گۇرۇپپا</a>مىز ياكى <a href=\"http://www.gnome.org/"
+"friends/\">GNOME دوستى</a> بولۇپ قوشۇلالايسىز. ئۇندىن باشقا، GNOME نىڭ ھەر "
+"قايسى ھالقىلىرىغا ياردەم قىلالايسىز. تەپسىلاتىنى بىزنىڭ <a href=\"http://"
+"live.gnome.org/JoinGnome\">تۆھپىكارلار بېتى</a> دىن كۆرۈڭ."
+
+#~ msgid ""
+#~ "Common questions and answers Try it out! Copyright The GNOME Project "
+#~ "Share on: Facebook | Twitter"
+#~ msgstr ""
+#~ "كۆپ ئۇچرايدىغان مەسىلىلەر ۋە جاۋابلار ھازىرلا سىنامسىز! نەشر ھوقۇقىغا "
+#~ "ئىگە GNOME قۇرۇلۇشى  ھەمبەھىرلەنگۈچىلەر:Facebook  Twitter"
