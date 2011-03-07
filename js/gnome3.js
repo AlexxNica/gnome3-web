@@ -6,6 +6,7 @@ $(document).ready(function () {
 			 'padding': 0,
 			 'overlayShow': true,
 			 'overlayOpacity': 0.8,
+			 'overlayColor': #000,
 			 'hideOnContentClick': true,
 			 'imageScale': true,
 			 'titlePosition': 'over'
