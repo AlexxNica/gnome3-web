@@ -1,0 +1,275 @@
+# Slovenian translations for gnome3-web.
+# Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome3-web package.
+#
+# Matej Urbančič <mateju@svn.gnome.org>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-03-16 22:53+0000\n"
+"PO-Revision-Date: 2011-03-17 19:05+0100\n"
+"Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
+"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../tryit.html:7(title)
+#: ../index.html:8(title)
+#: ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - Ustvarjanje enostavnosti"
+
+#: ../tryit.html:20(a)
+#: ../index.html:25(a)
+#: ../faq.html:20(a)
+msgid "Home"
+msgstr "Začetna stran"
+
+#: ../tryit.html:20(a)
+#: ../index.html:25(a)
+#: ../faq.html:20(a)
+#: ../faq.html:28(h1)
+msgid "Common questions and answers"
+msgstr "Pogosta vprašanja in odgovori"
+
+#: ../tryit.html:21(a)
+#: ../index.html:26(a)
+#: ../faq.html:21(a)
+msgid "Try it out!"
+msgstr "Preizkusite GNOME3!"
+
+#: ../tryit.html:28(h1)
+msgid "Try out GNOME 3"
+msgstr "Preizkusite GNOME 3"
+
+#: ../tryit.html:30(p)
+msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick."
+msgstr "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno različico v živo z zagonom iz CD, DVD ali pa USB nosilca."
+
+#: ../tryit.html:36(a)
+msgid "Download for 32 bit systems (v0.1.0)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v0.1.0)"
+
+#: ../tryit.html:37(a)
+msgid "Download for 64 bit systems (v0.1.0)"
+msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v0.1.0)"
+
+#: ../tryit.html:44(p)
+msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
+msgstr "Za zagon iz CD ali DVD nosilca, zapišite prejeto datoteko odtisa na nosilec, vstavite nosilec v pogon in ponovno zaženite računalnik."
+
+#: ../tryit.html:48(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "kliknite na spodnjo povezavo in prejmite arhiv s programom in ga razširite na disk,"
+
+#: ../tryit.html:49(li)
+msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr "odprite okno terminala na mestu, kamor ste razširili program za zapis odtisa na USB  (npr. <code>$ cd Prejeto/abock-image-usb-stick-f3b1002</code>),"
+
+#: ../tryit.html:50(li)
+msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
+msgstr "pripravite program za zapisovanje z ukazom: <code>$ chmod a+x ./image-usb-stick</code>,"
+
+#: ../tryit.html:51(li)
+msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
+msgstr "odstranite vse naprave USB, ki so povezane z računalnikom in vstavite prazen USB nosilec, na katerega želite odtis zapisati,"
+
+#: ../tryit.html:52(li)
+msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+msgstr "Zaženite skript zapisovalnika odtisov z ukazom: <code>$ sudo ./image-usb-stick pot_do_živega_odtisa.iso</code>,"
+
+#: ../tryit.html:53(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr "po zapisu, ponovno zaženite računalnik s priklopljenim USB nosilcem."
+
+#: ../tryit.html:56(a)
+msgid "Download USB image writer"
+msgstr "Prejem programa za zapis odtisa na USB nosilec"
+
+#: ../tryit.html:58(p)
+msgid "The user name for the live image is 'tux' and the password is empty."
+msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+
+#: ../tryit.html:43(div)
+msgid "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
+msgstr "<placeholder-1/> Za zagon namizja GNOME 3 iz USB nosilca:  <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
+
+#: ../tryit.html:68(a)
+#: ../index.html:91(a)
+#: ../faq.html:67(a)
+msgid "The GNOME Project"
+msgstr "Projekt GNOME"
+
+#: ../tryit.html:69(a)
+#: ../index.html:92(a)
+#: ../faq.html:68(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:69(a)
+#: ../index.html:92(a)
+#: ../faq.html:68(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:67(div)
+#: ../index.html:90(div)
+#: ../faq.html:66(div)
+msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
+msgstr "Avtorske pravice © 2011 <placeholder-1/><br/> Objavi na: <placeholder-2/> | <placeholder-3/><br/> ❧"
+
+#: ../index.html:33(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Predstavljamo najnovejšo različico namizja GNOME"
+
+#: ../index.html:35(p)
+msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+
+#: ../index.html:43(h2)
+msgid "Simply beautiful"
+msgstr "Enostavno lepo"
+
+#: ../index.html:45(p)
+msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations--all while preserving compatibility."
+msgstr ""
+
+#: ../index.html:47(h2)
+msgid "An overview at a glance"
+msgstr "Preglednost v vsakem trenutku"
+
+#: ../index.html:49(p)
+msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
+msgstr ""
+
+#: ../index.html:54(h2)
+msgid "Messaging built-in"
+msgstr "Vgrajeno hipno sporočanje"
+
+#: ../index.html:56(p)
+msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
+msgstr ""
+
+#: ../index.html:58(h2)
+msgid "Distraction-free computing"
+msgstr "Nevsiljivo obveščanje"
+
+#: ../index.html:60(p)
+msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
+msgstr ""
+
+#: ../index.html:66(h2)
+msgid "Everything at your fingertips"
+msgstr "Hitra dostopnost"
+
+#: ../index.html:68(p)
+msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+
+#: ../index.html:70(h2)
+msgid "Redesigned system settings"
+msgstr "Preoblikovane nastavitve sistema"
+
+#: ../index.html:72(p)
+msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. There are some great new features in our system settings too, such as the ability to use Flickr images as desktop backgrounds."
+msgstr ""
+
+#: ../index.html:77(h2)
+msgid "And much, much more"
+msgstr "In veliko, veliko več"
+
+#: ../index.html:79(p)
+msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
+msgstr "Namizje GNOME 3 prinaša veliko novosti. Med najpomembnejšimi so:"
+
+#: ../index.html:81(li)
+msgid "Window tiling to make using several windows simple and easy"
+msgstr ""
+
+#: ../index.html:82(li)
+msgid "An improved file manager"
+msgstr "Izboljšan upravljalnik datotek"
+
+#: ../index.html:83(li)
+msgid "Dark application themes for when you want to focus on pictures and videos"
+msgstr ""
+
+#: ../index.html:84(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+
+#: ../index.html:85(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr ""
+
+#: ../index.html:86(li)
+msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
+msgstr ""
+
+#: ../faq.html:36(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Kako preizkusiti GNOME 3?"
+
+#: ../faq.html:38(p)
+msgid "GNOME 3 is scheduled for release in April 2011 and will be available via popular distributions after that time. Further details of how you can get GNOME 3 will be posted on this site once it is available. If you can't wait that long, our <a href=\"tryit.html\">Try It</a> page contains details on how to try a development version."
+msgstr ""
+
+#: ../faq.html:40(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Ali bo računalnik dovolj zmogljiv za GNOME 3?"
+
+#: ../faq.html:42(p)
+msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
+msgstr ""
+
+#: ../faq.html:44(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "Ali bo mogoče uporabljati vse dosedanje GNOME programe tudi na namizju GNOME 3?"
+
+#: ../faq.html:46(p)
+msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
+msgstr ""
+
+#: ../faq.html:48(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Kaj se bo zgodilo s starejšimi različicami namizja GNOME?"
+
+#: ../faq.html:50(p)
+msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
+msgstr ""
+
+#: ../faq.html:52(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Zakaj je namizje GNOME 3 zasnovano na tak način?"
+
+#: ../faq.html:54(p)
+msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+
+#: ../faq.html:56(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr ""
+
+#: ../faq.html:58(p)
+msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
+msgstr ""
+
+#: ../faq.html:60(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr ""
+
+#: ../faq.html:62(p)
+msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
+msgstr ""
+
+#~ msgid " "
+#~ msgstr " "
+
