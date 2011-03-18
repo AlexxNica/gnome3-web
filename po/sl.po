@@ -7,14 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-16 22:53+0000\n"
-"PO-Revision-Date: 2011-03-17 19:05+0100\n"
+"POT-Creation-Date: 2011-03-17 18:06+0000\n"
+"PO-Revision-Date: 2011-03-18 14:11+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
@@ -264,7 +264,7 @@ msgstr ""
 
 #: ../faq.html:60(h2)
 msgid "How can I get involved or help with GNOME 3?"
-msgstr ""
+msgstr "Kako se lahko priključim sodelovanju pri razvoju GNOME 3?"
 
 #: ../faq.html:62(p)
 msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
@@ -272,4 +272,3 @@ msgstr ""
 
 #~ msgid " "
 #~ msgstr " "
-
