@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-17 18:06+0000\n"
-"PO-Revision-Date: 2011-03-18 14:11+0100\n"
+"POT-Creation-Date: 2011-03-21 12:47+0000\n"
+"PO-Revision-Date: 2011-03-21 15:02+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -54,12 +54,12 @@ msgid "GNOME 3 is under active development and will not be completed until April
 msgstr "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno različico v živo z zagonom iz CD, DVD ali pa USB nosilca."
 
 #: ../tryit.html:36(a)
-msgid "Download for 32 bit systems (v0.1.0)"
-msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v0.1.0)"
+msgid "Download for 32 bit systems (v0.1.1)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v0.1.1)"
 
 #: ../tryit.html:37(a)
-msgid "Download for 64 bit systems (v0.1.0)"
-msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v0.1.0)"
+msgid "Download for 64 bit systems (v0.1.1)"
+msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v0.1.1)"
 
 #: ../tryit.html:44(p)
 msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
