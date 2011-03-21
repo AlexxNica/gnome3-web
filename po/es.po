@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-11 19:21+0000\n"
-"PO-Revision-Date: 2011-03-13 12:07+0100\n"
+"POT-Creation-Date: 2011-03-20 19:40+0000\n"
+"PO-Revision-Date: 2011-03-21 10:09+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -48,14 +48,14 @@ msgstr ""
 "una memoria USB."
 
 #: ../tryit.html:36(a)
-#| msgid "Download for 32 bit systems (v0.0.6)"
-msgid "Download for 32 bit systems (v0.1.0)"
-msgstr "Descarga para sistemas de 32 bit (v0.1.0)"
+#| msgid "Download for 32 bit systems (v0.1.0)"
+msgid "Download for 32 bit systems (v0.1.1)"
+msgstr "Descarga para sistemas de 32 bit (v0.1.1)"
 
 #: ../tryit.html:37(a)
-#| msgid "Download for 64 bit systems (v0.0.6)"
-msgid "Download for 64 bit systems (v0.1.0)"
-msgstr "Descarga para sistemas de 64 bit (v0.1.0)"
+#| msgid "Download for 64 bit systems (v0.1.0)"
+msgid "Download for 64 bit systems (v0.1.1)"
+msgstr "Descarga para sistemas de 64 bit (v0.1.1)"
 
 #: ../tryit.html:44(p)
 msgid ""
@@ -111,8 +111,6 @@ msgid "Download USB image writer"
 msgstr "Descargar el grabador de imágenes USB"
 
 #: ../tryit.html:58(p)
-#| msgid ""
-#| "The user name for the live image is 'tux' and the password is 'linux'."
 msgid "The user name for the live image is 'tux' and the password is empty."
 msgstr "El nombre de usuario de la imagen es «tux»,sin contraseña."
 
@@ -121,8 +119,8 @@ msgid ""
 "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/><placeholder-4/>"
 msgstr ""
-"<placeholder-1/> Ejecutar GNOME 3 alpha desde una memoria USB: "
-"<placeholder-2/><placeholder-3/><br/><placeholder-4/>"
+"<placeholder-1/> Ejecutar GNOME 3 alpha desde una memoria USB: <placeholder-"
+"2/><placeholder-3/><br/><placeholder-4/>"
 
 #: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:67(a)
 msgid "The GNOME Project"
