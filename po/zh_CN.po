@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-03-18 17:45+0000\n"
-"PO-Revision-Date: 2011-03-19 10:09+0800\n"
+"POT-Creation-Date: 2011-03-22 22:37+0000\n"
+"PO-Revision-Date: 2011-03-23 14:16+0800\n"
 "Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -46,12 +46,12 @@ msgstr ""
 "CD/DVD 或 USB 闪存试用开发版 Live 镜像。"
 
 #: ../tryit.html:36(a)
-msgid "Download for 32 bit systems (v0.1.0)"
-msgstr "下载 32 位版本(v0.1.0)"
+msgid "Download for 32 bit systems (v0.1.1)"
+msgstr "下载 32 位版本(v0.1.1)"
 
 #: ../tryit.html:37(a)
-msgid "Download for 64 bit systems (v0.1.0)"
-msgstr "下载 64 位版本(v0.1.0)"
+msgid "Download for 64 bit systems (v0.1.1)"
+msgstr "下载 64 位版本(v0.1.1)"
 
 #: ../tryit.html:44(p)
 msgid ""
@@ -108,9 +108,8 @@ msgid ""
 "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/><placeholder-4/>"
 msgstr ""
-"<placeholder-1/> 使"
-"用 USB 闪存运行 GNOME 3 开发版：<placeholder-2/><placeholder-3/><br/"
-"><placeholder-4/>"
+"<placeholder-1/> 使用 USB 闪存运行 GNOME 3 开发版：<placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
 
 #: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:67(a)
 msgid "The GNOME Project"
