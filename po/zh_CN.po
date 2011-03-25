@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
 "POT-Creation-Date: 2011-03-23 22:31+0000\n"
-"PO-Revision-Date: 2011-03-25 18:23+0800\n"
+"PO-Revision-Date: 2011-03-25 18:33+0800\n"
 "Last-Translator: Edison Zhao <edison0354@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgstr "GNOME 项目"
 
 #: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:76(a)
 msgid "Creative Commons CC-BY"
-msgstr ""
+msgstr "Creative Commons CC-BY"
 
 #: ../tryit.html:70(a) ../index.html:93(a) ../faq.html:77(a)
 msgid "Facebook"
@@ -130,15 +130,11 @@ msgstr "Twitter"
 
 #. grid_16
 #: ../tryit.html:67(div) ../index.html:90(div) ../faq.html:74(div)
-#, fuzzy
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-#| "<placeholder-3/><br/> ❧"
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
-"版权所有 © 2010 <placeholder-1/><br/> 分享到 <placeholder-2/> | <placeholder-"
+"版权所有 © 2011 <placeholder-1/><br/> 分享到 <placeholder-2/> | <placeholder-"
 "3/><br/> ❧"
 
 #: ../index.html:33(h1)
@@ -159,13 +155,6 @@ msgid "Simply beautiful"
 msgstr "界面简洁优雅"
 
 #: ../index.html:45(p)
-#, fuzzy
-#| msgid ""
-#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
-#| "clutter and made a simple and easy-to-use desktop, and we've made this "
-#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
-#| "new font and carefully crafted animations--all while preserving "
-#| "compatibility."
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -305,8 +294,6 @@ msgstr ""
 "\"tryit.html\">尝试 GNOME 3</a> 页面。"
 
 #: ../faq.html:40(h2)
-#, fuzzy
-#| msgid "The GNOME Project"
 msgid "What is the GNOME Project, anyway?"
 msgstr "无论如何，什么是 GNOME 项目？"
 
@@ -422,15 +409,6 @@ msgid "How can I get involved or help with GNOME 3?"
 msgstr "如何才能参与或帮助 GNOME 3？"
 
 #: ../faq.html:66(p)
-#, fuzzy
-#| msgid ""
-#| "Spreading the word about GNOME 3 is a great way to help out. A positive "
-#| "tweet, dent, status update or post is always appreciated. You can also "
-#| "join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</"
-#| "a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</"
-#| "a>. Additionally, you can help out with one of the many varied tasks "
-#| "involved in producing GNOME. Just check out our <a href=\"http://live."
-#| "gnome.org/JoinGnome\">contribution page</a> for more details."
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
