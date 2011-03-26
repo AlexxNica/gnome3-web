@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-11 19:21+0000\n"
-"PO-Revision-Date: 2011-03-14 17:18+0100\n"
+"POT-Creation-Date: 2011-03-25 19:36+0000\n"
+"PO-Revision-Date: 2011-03-26 16:17+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -49,14 +49,14 @@ msgstr ""
 "klíče USB."
 
 #: ../tryit.html:36(a)
-#| msgid "Download for 32 bit systems"
-msgid "Download for 32 bit systems (v0.1.0)"
-msgstr "Stáhnout 32bitový systém (v0.1.0)"
+#| msgid "Download for 32 bit systems (v0.1.0)"
+msgid "Download for 32 bit systems (v0.2.0)"
+msgstr "Stáhnout 32bitový systém (v0.2.0)"
 
 #: ../tryit.html:37(a)
-#| msgid "Download for 64 bit systems"
-msgid "Download for 64 bit systems (v0.1.0)"
-msgstr "Stáhnout 64bitový systém (v0.1.0)"
+#| msgid "Download for 64 bit systems (v0.1.0)"
+msgid "Download for 64 bit systems (v0.2.0)"
+msgstr "Stáhnout 64bitový systém (v0.2.0)"
 
 #: ../tryit.html:44(p)
 msgid ""
@@ -111,16 +111,10 @@ msgid "Download USB image writer"
 msgstr "Stáhnou program pro vytvoření živého USB"
 
 #: ../tryit.html:58(p)
-#| msgid ""
-#| "The user name for the live image is 'tux' and the password is 'linux'."
 msgid "The user name for the live image is 'tux' and the password is empty."
 msgstr "Uživatelské jméno pro živý obraz je „tux“ a heslo je prázdné."
 
 #: ../tryit.html:43(div)
-#| msgid ""
-#| "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/"
-#| "> To run the GNOME 3 alpha from a USB stick: <placeholder-5/"
-#| "><placeholder-6/><br/><placeholder-7/>"
 msgid ""
 "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/><placeholder-4/>"
@@ -128,26 +122,34 @@ msgstr ""
 "<placeholder-1/> Pokud si chcete spustit alfa verzi GNOME 3 z klíče USB: "
 "<placeholder-2/><placeholder-3/><br/><placeholder-4/>"
 
-#: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:67(a)
+#: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:75(a)
 msgid "The GNOME Project"
 msgstr "Projekt GNOME"
 
-#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:76(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:70(a) ../index.html:93(a) ../faq.html:77(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+#: ../tryit.html:70(a) ../index.html:93(a) ../faq.html:77(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:67(div) ../index.html:90(div) ../faq.html:66(div)
+#: ../tryit.html:67(div) ../index.html:90(div) ../faq.html:74(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+#| "<placeholder-3/><br/> ❧"
 msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-"<placeholder-3/><br/> ❧"
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
-"Copyright © 2011 <placeholder-1/><br/> Sdíleno na službách: <placeholder-2/> "
-"| <placeholder-3/><br/> ❧"
+"Copyright © 2011 <placeholder-1/><br/> Volně k dispozici pro sdílení a "
+"úpravy: <placeholder-2/><br/> Sdíleno na službách: <placeholder-3/> | "
+"<placeholder-4/><br/> ❧"
 
 #: ../index.html:33(h1)
 msgid "Introducing the next generation GNOME desktop"
@@ -168,17 +170,23 @@ msgid "Simply beautiful"
 msgstr "Prostě krásné"
 
 #: ../index.html:45(p)
+#| msgid ""
+#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
+#| "clutter and made a simple and easy-to-use desktop, and we've made this "
+#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
+#| "new font and carefully crafted animations--all while preserving "
+#| "compatibility."
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
 "most beautiful GNOME desktop ever, with a new visual theme, a refined new "
-"font and carefully crafted animations--all while preserving compatibility."
+"font and carefully crafted animations."
 msgstr ""
 "Nové pracovní prostředí GNOME posunulo eleganci na novou úroveň. Zametli "
 "jsem s nepořádkem a vytvořili jednoduché a na používání snadné pracovní "
 "prostředí. Tak se nám povedlo krásnější pracovní prostředí GNOME než kdy "
 "před tím, s novým motivem vzhledu, se zdokonaleným novým písmem a s pečlivě "
-"propracovanými animacemi. A to vše se zachováním kompatibility."
+"propracovanými animacemi."
 
 #: ../index.html:47(h2)
 msgid "An overview at a glance"
@@ -253,15 +261,21 @@ msgid "Redesigned system settings"
 msgstr "Přepracovaný systém nastavení"
 
 #: ../index.html:72(p)
+#| msgid ""
+#| "Our system settings have been completely redesigned for GNOME 3, making "
+#| "them easier to use than ever before. There are some great new features in "
+#| "our system settings too, such as the ability to use Flickr images as "
+#| "desktop backgrounds."
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
-"easier to use than ever before. There are some great new features in our "
-"system settings too, such as the ability to use Flickr images as desktop "
-"backgrounds."
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
 msgstr ""
 "V GNOME 3 byl náš systém nastavení úplně přepracován, aby se dal používat "
-"snadněji než dříve. Systém nastavení také obsahuje některé úžasné nové "
-"funkce, jako je použití obrázků ze služby Filckr pro pozadí pracovní plochy."
+"snadněji než dříve. GNOME 3 také nabízí nový způsob prohlížení vašeho "
+"nastavení a kategorie nastavení byly zcela přeorganizovány, aby vyhledání "
+"nastavení, které chcete změnit, bylo rychlejší a přímočařejší."
 
 #: ../index.html:77(h2)
 msgid "And much, much more"
@@ -276,12 +290,17 @@ msgstr ""
 "které se v GNOME 3 můžete těšit:"
 
 #: ../index.html:81(li)
-msgid "Window tiling to make using several windows simple and easy"
-msgstr "Jednoduché a snadné používání více oken díky jejich rozložené po ploše"
+#| msgid "Window tiling to make using several windows simple and easy"
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Jednoduché a snadné používání více oken díky jejich rozložení vedle sebe po "
+"ploše"
 
 #: ../index.html:82(li)
-msgid "An improved file manager"
-msgstr "Zdokonalený správce souborů"
+#| msgid "An improved file manager"
+msgid "A redesigned file manager"
+msgstr "Přepracovaný správce souborů"
 
 #: ../index.html:83(li)
 msgid ""
@@ -310,24 +329,47 @@ msgid "How do I get GNOME 3?"
 msgstr "Kde mohu GNOME 3 získat?"
 
 #: ../faq.html:38(p)
+#| msgid ""
+#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
+#| "popular distributions after that time. Further details of how you can get "
+#| "GNOME 3 will be posted on this site once it is available. If you can't "
+#| "wait that long, our <a href=\"tryit.html\">Try It</a> page contains "
+#| "details on how to try a development version."
 msgid ""
-"GNOME 3 is scheduled for release in April 2011 and will be available via "
-"popular distributions after that time. Further details of how you can get "
-"GNOME 3 will be posted on this site once it is available. If you can't wait "
-"that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
-"how to try a development version."
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
 msgstr ""
-"Vydání GNOME 3 je plánováno na duben 2011 a postupně bude dostupné v řadě "
-"populárních distribucí. Další podrobnosti, jak můžete GNOME 3 získat, budou "
-"na tomto webu doplňování postupně, jak budou k dispozici. Jestli tak dlouho "
-"čekat nemůžete nebo nechcete, najdete na stránce <a href=\"tryit.html"
-"\">Zkuste jej</a> návod, jak vyzkoušet vývojářskou verzi."
+"Vydání GNOME 3 je plánováno na 6. dubna 2011 a postupně bude dostupné v řadě "
+"populárních distribucí. Další podrobnosti a odkazy na živé ukázky najdete na "
+"stránce <a href=\"tryit.html\">Zkuste jej</a>."
 
 #: ../faq.html:40(h2)
+#| msgid "The GNOME Project"
+msgid "What is the GNOME Project, anyway?"
+msgstr "Co to vlastně je, ten Projekt GNOME?"
+
+#: ../faq.html:42(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"Projekt GNOME je mezinárodní komunita, která se dala dohromady za účelem "
+"vytvořit skvělý software. Software GNOME je <a href=\"http://www.gnu.org/"
+"philosophy/free-sw.html\">svobodný software</a>: veškerou naši práci je "
+"možné volně používat, upravovat a dále šířit. Pomoc kohokoliv při vývoji je "
+"vítána. Více informací najdete na <a href=\"http://www.gnome.org/about/"
+"\">stránce o GNOME</a>."
+
+#: ../faq.html:44(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "Bude GNOME 3 fungovat na mém počítači?"
 
-#: ../faq.html:42(p)
+#: ../faq.html:46(p)
 msgid ""
 "Computers purchased in the last 4 or 5 years should be more than capable of "
 "running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
@@ -352,11 +394,11 @@ msgstr ""
 "aby uživatelé, kteří si to nebudou moci vychutnat z počátku, měli tuto "
 "možnost v budoucnu."
 
-#: ../faq.html:44(h2)
+#: ../faq.html:48(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "Budu v GNOME 3 moci používat své oblíbené aplikace?"
 
-#: ../faq.html:46(p)
+#: ../faq.html:50(p)
 msgid ""
 "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
 "does provide facilities to make applications even better though, so look out "
@@ -368,11 +410,11 @@ msgstr ""
 "dobré se podívat, zda není pro vaši oblíbenou aplikaci k dispozici nová "
 "verze upravená pro GNOME 3."
 
-#: ../faq.html:48(h2)
+#: ../faq.html:52(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "Co se stane se starou verzí GNOME?"
 
-#: ../faq.html:50(p)
+#: ../faq.html:54(p)
 msgid ""
 "The GNOME 2 desktop had a long life, and parts of it became difficult to "
 "maintain over that period. As a result, continued releases of the entire "
@@ -389,11 +431,11 @@ msgstr ""
 "pracovní prostředí GNOME 2 ale nezmizí přes noc a distributoři jej budou "
 "ještě pár let podporovat."
 
-#: ../faq.html:52(h2)
+#: ../faq.html:56(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "Proč je pracovní prostředí GNOME 3 navržené tak jak je?"
 
-#: ../faq.html:54(p)
+#: ../faq.html:58(p)
 msgid ""
 "A huge amount of work has gone into the design of GNOME 3, and each of the "
 "design decisions behind it has a carefully considered rationale. If you have "
@@ -411,11 +453,11 @@ msgstr ""
 "prostředí GNOME 3 na <a href=\"http://live.gnome.org/GnomeShell/Design/"
 "\">stránce wiki o návrhu pracovního prostředí GNOME 3</a>."
 
-#: ../faq.html:56(h2)
+#: ../faq.html:60(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "Jaké jsou plány GNOME po vydání GNOME 3?"
 
-#: ../faq.html:58(p)
+#: ../faq.html:62(p)
 msgid ""
 "We are going to have a huge party to celebrate the release, and then we're "
 "going to get back to work improving our desktop, so that GNOME 3 will get "
@@ -430,16 +472,24 @@ msgstr ""
 "například prohledávání dokumentů a funkční podmínky pro zajímavá rozšíření "
 "pracovního prostředí."
 
-#: ../faq.html:60(h2)
+#: ../faq.html:64(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "Mohu se také nějak zapojit nebo pomoci s GNOME 3?"
 
-#: ../faq.html:62(p)
+#: ../faq.html:66(p)
+#| msgid ""
+#| "Spreading the word about GNOME 3 is a great way to help out. A positive "
+#| "tweet, dent, status update or post is always appreciated. You can also "
+#| "join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</"
+#| "a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</"
+#| "a>. Additionally, you can help out with one of the many varied tasks "
+#| "involved in producing GNOME. Just check out our <a href=\"http://live."
+#| "gnome.org/JoinGnome\">contribution page</a> for more details."
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
 "our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
-"become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
 "Additionally, you can help out with one of the many varied tasks involved in "
 "producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
 "\">contribution page</a> for more details."
@@ -451,6 +501,22 @@ msgstr ""
 "friends/\">přáteli GNOME</a>. Navíc nám můžete pomoci s řadou různých úkolů "
 "nutných při tvorbě GNOME. Stačí se podívat na další informace na naší <a "
 "href=\"http://live.gnome.org/JoinGnome\">stránce pro přispěvatele</a>."
+
+#: ../faq.html:68(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "Chtěl bych napsat o GNOME 3. Kde mohu najít více informací?"
+
+#: ../faq.html:70(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Dostatek informací o vydání je možné nalézt na <a href=\"http://live.gnome."
+"org/ThreePointZero\">stránce wiki GNOME 3</a>. Dotazy od tisku je možné "
+"zasílat na <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
 
 #~ msgid " "
 #~ msgstr " "
