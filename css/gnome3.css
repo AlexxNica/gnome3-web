@@ -67,10 +67,16 @@ a.faq {
     text-shadow: 0 2px 15px #000000;
   }
 
-  #splash img {
+  #splash .alpha-banner {
     position: absolute;
     right: 0px;
     top: 0px;
+  }
+
+  #splash .play-button {
+    position: absolute;
+    left: 400px;
+    top: 150px;
   }
 
 .faq-splash {
@@ -104,7 +110,7 @@ ul.navigation {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
-  margin-top: 50px;
+  margin-top: 39px;
   padding: 10px 0px;
 
 }
@@ -120,4 +126,10 @@ ul.navigation li a {
   -moz-border-radius: 3px;
   text-decoration: none;
   color: #fff;
+}
+
+.countdown {
+  margin-top: -10px;
+  text-align: right;
+  color: gray;
 }
