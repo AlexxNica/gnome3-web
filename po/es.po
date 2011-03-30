@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-29 05:01+0000\n"
-"PO-Revision-Date: 2011-03-29 13:23+0200\n"
+"POT-Creation-Date: 2011-03-30 17:31+0000\n"
+"PO-Revision-Date: 2011-03-30 19:33+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -52,12 +52,14 @@ msgstr ""
 "una memoria USB."
 
 #: ../tryit.html:38(a)
-msgid "Download for 32 bit systems (v0.2.0)"
-msgstr "Descarga para sistemas de 32 bit (v0.2.0)"
+#| msgid "Download for 32 bit systems (v0.2.0)"
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "Descarga para sistemas de 32 bit (v0.3.1)"
 
 #: ../tryit.html:39(a)
-msgid "Download for 64 bit systems (v0.2.0)"
-msgstr "Descarga para sistemas de 64 bit (v0.2.0)"
+#| msgid "Download for 64 bit systems (v0.2.0)"
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "Descarga para sistemas de 64 bit (v0.3.1)"
 
 #: ../tryit.html:46(p)
 msgid ""
@@ -121,8 +123,8 @@ msgid ""
 "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/><placeholder-4/>"
 msgstr ""
-"<placeholder-1/> Ejecutar GNOME 3 alpha desde una memoria USB: <placeholder-"
-"2/><placeholder-3/><br/><placeholder-4/>"
+"<placeholder-1/> Ejecutar GNOME 3 alpha desde una memoria USB: "
+"<placeholder-2/><placeholder-3/><br/><placeholder-4/>"
 
 #: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
 msgid "The GNOME Project"
@@ -143,8 +145,8 @@ msgstr "Twitter"
 #. grid_16
 #: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
 msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
-"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
 "Copyright © 2011 <placeholder-1/><br/> Es libre de compartir y hacer obras "
 "derivadas: <placeholder-2/><br/> Compártalo en: <placeholder-3/> | "
@@ -174,10 +176,6 @@ msgstr ""
 #: ../index.html:37(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "Presentando la próxima generación del escritorio GNOME"
-
-#: ../index.html:41(iframe:title)
-msgid "YouTube video player"
-msgstr "Reproductor de vídeo de Youtube"
 
 #: ../index.html:44(p)
 msgid ""
@@ -521,6 +519,9 @@ msgstr ""
 "\"http://live.gnome.org/ThreePointZero\">wiki de GNOME 3</a>. Las consultas "
 "de prensa se deben enviar a <a href=\"mailto:gnome-press-contact@gnome.org"
 "\">gnome-press-contact@gnome.org</a>."
+
+#~ msgid "YouTube video player"
+#~ msgstr "Reproductor de vídeo de Youtube"
 
 #~ msgid ""
 #~ "Dark application themes for when you want to focus on pictures and videos"
