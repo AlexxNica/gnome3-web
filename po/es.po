@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-28 11:54+0000\n"
-"PO-Revision-Date: 2011-03-28 15:22+0200\n"
+"POT-Creation-Date: 2011-03-29 05:01+0000\n"
+"PO-Revision-Date: 2011-03-29 13:23+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -124,24 +124,24 @@ msgstr ""
 "<placeholder-1/> Ejecutar GNOME 3 alpha desde una memoria USB: <placeholder-"
 "2/><placeholder-3/><br/><placeholder-4/>"
 
-#: ../tryit.html:70(a) ../faq.html:77(a)
+#: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
 msgid "The GNOME Project"
 msgstr "El proyecto GNOME"
 
-#: ../tryit.html:71(a) ../faq.html:78(a)
+#: ../tryit.html:71(a) ../index.html:100(a) ../faq.html:78(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:72(a) ../faq.html:79(a)
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:72(a) ../faq.html:79(a)
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:69(div) ../faq.html:76(div)
+#: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -152,10 +152,6 @@ msgstr ""
 
 #. String to use in tryit.html after release
 #: ../temp.html:11(p)
-#| msgid ""
-#| "GNOME 3 is under active development and will not be completed until April "
-#| "2011. If you want to try it, you can run a live alpha version from a CD/"
-#| "DVD or USB stick."
 msgid ""
 "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
 "live version from a CD/DVD or USB stick."
@@ -165,10 +161,6 @@ msgstr ""
 
 #. String to use in faq.html after release
 #: ../temp.html:13(p)
-#| msgid ""
-#| "GNOME 3 is scheduled for release on 6th April 2011 and will be available "
-#| "via popular distributions after that time. See the <a href=\"tryit.html"
-#| "\">Try It</a> page for more details and for links to a live demos."
 msgid ""
 "GNOME 3 was released on 6th April 2011 and will be available via popular "
 "distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
@@ -179,48 +171,171 @@ msgstr ""
 "href=\"tryit.html\">Pruébelo</a> para obtener más detalles y enlaces a las "
 "demostraciones."
 
-#: ../index.html:36(img)
+#: ../index.html:37(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Presentando la próxima generación del escritorio GNOME"
+
+#: ../index.html:41(iframe:title)
+msgid "YouTube video player"
+msgstr "Reproductor de vídeo de Youtube"
+
+#: ../index.html:44(p)
 msgid ""
-"Introducing the next generation GNOME desktop For GNOME 3, the GNOME Project "
-"has started from scratch and created a completely new, modern desktop "
-"designed for today's users and technologies. Here are some of the things "
-"that you can expect from the new GNOME: Simply beautiful GNOME's new desktop "
-"takes elegance to a new level. We've swept away the clutter and made a "
-"simple and easy-to-use desktop, and we've made this the most beautiful GNOME "
-"desktop ever, with a new visual theme, a refined new font and carefully "
-"crafted animations. An overview at a glance The activities view provides an "
-"easy way to access all your windows and applications. It is also a great way "
-"to keep track of all your activities. We have provided several fast and "
-"convenient ways to access the activities view, including the activities "
-"keyboard key (often known as the Windows key) and the activities hot corner. "
-"Messaging built-in Communication is an important part of the modern desktop, "
-"but it's a hassle when you have to switch windows to reply to a message. "
-"That's why GNOME 3 will let you continue your conversations without changing "
-"focus. The ability to enter a reply straight into messaging notifications "
-"makes instant messaging quick and effortless. Distraction-free computing "
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"Para GNOME 3, el Proyecto GNOME ha comenzado desde cero y ha creado algo "
+"completamente nuevo, un escritorio moderno diseñado para los usuarios y las "
+"tecnologías de hoy. Éstas son algunas de las cosas que puede esperar del "
+"nuevo GNOME:"
+
+#: ../index.html:52(h2)
+msgid "Simply beautiful"
+msgstr "Simplemente bonito"
+
+#: ../index.html:54(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"El nuevo escritorio de GNOME lleva la elegancia a un nuevo nivel. Hemos "
+"eliminado el desorden y hecho un escritorio simple y fácil de usar, y es el "
+"escritorio de GNOME más bonito, con un tema visual nuevo, una tipografía "
+"nueva y animaciones refinadas cuidadosamente."
+
+#: ../index.html:56(h2)
+msgid "An overview at a glance"
+msgstr "Visión general a primera vista"
+
+#: ../index.html:58(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"La vista de actividades proporciona una manera fácil de acceder a todas sus "
+"ventanas y aplicaciones. También es una buena forma de llevar un seguimiento "
+"de sus actividades. Se han proporcionado varias maneras rápidas y "
+"convenientes de acceder a la vista de actividades, incluyendo la tecla de "
+"actividades (generalmente conocida como «tecla de Windows», y la esquina de "
+"actividades recientes."
+
+#: ../index.html:63(h2)
+msgid "Messaging built-in"
+msgstr "Mensajería integrada"
+
+#: ../index.html:65(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"La comunicación es una parte importante del escritorio moderno, pero es una "
+"molestia tener que cambiar de ventana para responder a un mensaje. Es por "
+"eso que GNOME 3 le permitirá continuar sus conversaciones sin tener que "
+"cambiar el foco. La capacidad para redactar una respuesta directamente a las "
+"notificaciones de mensajería instantánea hace que la mensajería instantánea "
+"sea rápida y sin esfuerzo."
+
+#: ../index.html:67(h2)
+msgid "Distraction-free computing"
+msgstr "Informática sin distracciones"
+
+#: ../index.html:69(p)
+msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
 "them until you are ready for them, and the GNOME 3 panel has been styled so "
 "that it is part of the background, not the foreground. These changes allow "
-"you to focus on your creative tasks. Everything at your fingertips With the "
-"new GNOME desktop, everything can be quickly accessed from the keyboard. "
-"Press the activities key and search: it's as simple as that. You'll love "
-"this feature if you're a user who likes things to happen fast. Redesigned "
-"system settings Our system settings have been completely redesigned for "
-"GNOME 3, making them easier to use than ever before. GNOME 3 also provides a "
-"new way to browse your settings, and our settings categories have been "
-"reorganised, making it quick and straightforward to find the setting that "
-"you want. And much, much more GNOME 3 is crammed full of new features. Here "
-"are some of the other things that you can look forward to from GNOME 3: Side-"
-"by-side window tiling to make using several windows simple and easy A "
-"redesigned file manager Dark application themes for when you want to focus "
-"on pictures and videos Redesigned workspaces so you can easily organise your "
-"windows Major changes under the hood to give you a faster, smoother "
-"experience A satisfying experience, whatever kind of computer you use: GNOME "
-"3 will feel right at home on netbooks as well as larger machines Copyright "
-"The GNOME Project Free to share and remix: Creative Commons CC-BY Share on: "
-"Facebook | Twitter"
+"you to focus on your creative tasks."
 msgstr ""
+"GNOME 3 está diseñado para reducir las distracciones y las interrupciones y "
+"darle el control. El nuevo sistema de notificaciones presenta los mensajes "
+"sutilmente y los guardará hasta que esté listo para atenderlo, y el panel de "
+"GNOME 3 se ha diseñado para que sea parte del fondo y no del primer plano. "
+"Estos cambios le permiten centrarte en sus tareas creativas."
+
+#: ../index.html:75(h2)
+msgid "Everything at your fingertips"
+msgstr "Todo al alcance de sus dedos"
+
+#: ../index.html:77(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Con el nuevo escritorio GNOME, puede acceder a todo rápidamente desde el "
+"teclado. Pulse la tecla «actividades» y busque: es tan sencillo como eso. Le "
+"encantará esta característica si es un usuario al que le gusta que las cosas "
+"vayan rápido."
+
+#: ../index.html:79(h2)
+msgid "Redesigned system settings"
+msgstr "Configuración del sistema rediseñada"
+
+#: ../index.html:81(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Nuestra configuración del sistema se ha rediseñado completamente en GNOME 3, "
+"haciéndola más fácil de usar que nunca. GNOME 3 también proporciona una "
+"nueva manera de ver la configuración, y se han reorganizado nuestras "
+"categorías de configuración, lo que hace que encontrar la opción que desee "
+"sea rápido y sencillo."
+
+#: ../index.html:86(h2)
+msgid "And much, much more"
+msgstr "Y mucho, mucho más"
+
+#: ../index.html:88(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 está repleto de nuevas características. Aquí hay algunas de las "
+"cosas que puede esperar de GNOME 3: "
+
+#: ../index.html:90(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Ventanas en mosaico para hacer que el uso de varias ventanas sea fácil y "
+"sencillo"
+
+#: ../index.html:91(li)
+msgid "A redesigned file manager"
+msgstr "Un gestor de archivos rediseñado"
+
+#: ../index.html:92(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+"Espacios de trabajo rediseñados, por lo que puede organizar sus ventanas sus "
+"ventanas"
+
+#: ../index.html:93(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr ""
+"Grandes cambios internos para ofrecerle una experiencia más rápida y suave"
+
+#: ../index.html:94(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"Una experiencia satisfactoria, cualquier que sea el tipo de equipo que use: "
+"GNOME 3 se sentirá como en casa en los netbooks, así como las equipos más "
+"grandes"
 
 #: ../faq.html:38(h2)
 msgid "How do I get GNOME 3?"
@@ -407,154 +522,11 @@ msgstr ""
 "de prensa se deben enviar a <a href=\"mailto:gnome-press-contact@gnome.org"
 "\">gnome-press-contact@gnome.org</a>."
 
-#~ msgid "Introducing the next generation GNOME desktop"
-#~ msgstr "Presentando la próxima generación del escritorio GNOME"
-
-#~ msgid ""
-#~ "For GNOME 3, the GNOME Project has started from scratch and created a "
-#~ "completely new, modern desktop designed for today's users and "
-#~ "technologies. Here are some of the things that you can expect from the "
-#~ "new GNOME:"
-#~ msgstr ""
-#~ "Para GNOME 3, el Proyecto GNOME ha comenzado desde cero y ha creado algo "
-#~ "completamente nuevo, un escritorio moderno diseñado para los usuarios y "
-#~ "las tecnologías de hoy. Éstas son algunas de las cosas que puede esperar "
-#~ "del nuevo GNOME:"
-
-#~ msgid "Simply beautiful"
-#~ msgstr "Simplemente bonito"
-
-#~ msgid ""
-#~ "GNOME's new desktop takes elegance to a new level. We've swept away the "
-#~ "clutter and made a simple and easy-to-use desktop, and we've made this "
-#~ "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
-#~ "new font and carefully crafted animations."
-#~ msgstr ""
-#~ "El nuevo escritorio de GNOME lleva la elegancia a un nuevo nivel. Hemos "
-#~ "eliminado el desorden y hecho un escritorio simple y fácil de usar, y es "
-#~ "el escritorio de GNOME más bonito, con un tema visual nuevo, una "
-#~ "tipografía nueva y animaciones refinadas cuidadosamente."
-
-#~ msgid "An overview at a glance"
-#~ msgstr "Visión general a primera vista"
-
-#~ msgid ""
-#~ "The activities view provides an easy way to access all your windows and "
-#~ "applications. It is also a great way to keep track of all your "
-#~ "activities. We have provided several fast and convenient ways to access "
-#~ "the activities view, including the activities keyboard key (often known "
-#~ "as the Windows key) and the activities hot corner."
-#~ msgstr ""
-#~ "La vista de actividades proporciona una manera fácil de acceder a todas "
-#~ "sus ventanas y aplicaciones. También es una buena forma de llevar un "
-#~ "seguimiento de sus actividades. Se han proporcionado varias maneras "
-#~ "rápidas y convenientes de acceder a la vista de actividades, incluyendo "
-#~ "la tecla de actividades (generalmente conocida como «tecla de Windows», y "
-#~ "la esquina de actividades recientes."
-
-#~ msgid "Messaging built-in"
-#~ msgstr "Mensajería integrada"
-
-#~ msgid ""
-#~ "Communication is an important part of the modern desktop, but it's a "
-#~ "hassle when you have to switch windows to reply to a message. That's why "
-#~ "GNOME 3 will let you continue your conversations without changing focus. "
-#~ "The ability to enter a reply straight into messaging notifications makes "
-#~ "instant messaging quick and effortless."
-#~ msgstr ""
-#~ "La comunicación es una parte importante del escritorio moderno, pero es "
-#~ "una molestia tener que cambiar de ventana para responder a un mensaje. Es "
-#~ "por eso que GNOME 3 le permitirá continuar sus conversaciones sin tener "
-#~ "que cambiar el foco. La capacidad para redactar una respuesta "
-#~ "directamente a las notificaciones de mensajería instantánea hace que la "
-#~ "mensajería instantánea sea rápida y sin esfuerzo."
-
-#~ msgid "Distraction-free computing"
-#~ msgstr "Informática sin distracciones"
-
-#~ msgid ""
-#~ "GNOME 3 is designed to reduce distraction and interruption and to put you "
-#~ "in control. Our new notifications system subtly presents messages and "
-#~ "will save them until you are ready for them, and the GNOME 3 panel has "
-#~ "been styled so that it is part of the background, not the foreground. "
-#~ "These changes allow you to focus on your creative tasks."
-#~ msgstr ""
-#~ "GNOME 3 está diseñado para reducir las distracciones y las interrupciones "
-#~ "y darle el control. El nuevo sistema de notificaciones presenta los "
-#~ "mensajes sutilmente y los guardará hasta que esté listo para atenderlo, y "
-#~ "el panel de GNOME 3 se ha diseñado para que sea parte del fondo y no del "
-#~ "primer plano. Estos cambios le permiten centrarte en sus tareas creativas."
-
-#~ msgid "Everything at your fingertips"
-#~ msgstr "Todo al alcance de sus dedos"
-
-#~ msgid ""
-#~ "With the new GNOME desktop, everything can be quickly accessed from the "
-#~ "keyboard. Press the activities key and search: it's as simple as that. "
-#~ "You'll love this feature if you're a user who likes things to happen fast."
-#~ msgstr ""
-#~ "Con el nuevo escritorio GNOME, puede acceder a todo rápidamente desde el "
-#~ "teclado. Pulse la tecla «actividades» y busque: es tan sencillo como eso. "
-#~ "Le encantará esta característica si es un usuario al que le gusta que las "
-#~ "cosas vayan rápido."
-
-#~ msgid "Redesigned system settings"
-#~ msgstr "Configuración del sistema rediseñada"
-
-#~ msgid ""
-#~ "Our system settings have been completely redesigned for GNOME 3, making "
-#~ "them easier to use than ever before. GNOME 3 also provides a new way to "
-#~ "browse your settings, and our settings categories have been reorganised, "
-#~ "making it quick and straightforward to find the setting that you want."
-#~ msgstr ""
-#~ "Nuestra configuración del sistema se ha rediseñado completamente en GNOME "
-#~ "3, haciéndola más fácil de usar que nunca. GNOME 3 también proporciona "
-#~ "una nueva manera de ver la configuración, y se han reorganizado nuestras "
-#~ "categorías de configuración, lo que hace que encontrar la opción que "
-#~ "desee sea rápido y sencillo."
-
-#~ msgid "And much, much more"
-#~ msgstr "Y mucho, mucho más"
-
-#~ msgid ""
-#~ "GNOME 3 is crammed full of new features. Here are some of the other "
-#~ "things that you can look forward to from GNOME 3:"
-#~ msgstr ""
-#~ "GNOME 3 está repleto de nuevas características. Aquí hay algunas de las "
-#~ "cosas que puede esperar de GNOME 3: "
-
-#~ msgid ""
-#~ "Side-by-side window tiling to make using several windows simple and easy"
-#~ msgstr ""
-#~ "Ventanas en mosaico para hacer que el uso de varias ventanas sea fácil y "
-#~ "sencillo"
-
-#~ msgid "A redesigned file manager"
-#~ msgstr "Un gestor de archivos rediseñado"
-
 #~ msgid ""
 #~ "Dark application themes for when you want to focus on pictures and videos"
 #~ msgstr ""
 #~ "Temas de aplicaciones oscuros para cuando quiere centrarse en fotos y "
 #~ "vídeos"
-
-#~ msgid "Redesigned workspaces so you can easily organise your windows"
-#~ msgstr ""
-#~ "Espacios de trabajo rediseñados, por lo que puede organizar sus ventanas "
-#~ "sus ventanas"
-
-#~ msgid ""
-#~ "Major changes under the hood to give you a faster, smoother experience"
-#~ msgstr ""
-#~ "Grandes cambios internos para ofrecerle una experiencia más rápida y suave"
-
-#~ msgid ""
-#~ "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
-#~ "feel right at home on netbooks as well as larger machines"
-#~ msgstr ""
-#~ "Una experiencia satisfactoria, cualquier que sea el tipo de equipo que "
-#~ "use: GNOME 3 se sentirá como en casa en los netbooks, así como las "
-#~ "equipos más grandes"
 
 #~ msgid " "
 #~ msgstr " "
