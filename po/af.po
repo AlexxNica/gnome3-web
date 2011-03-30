@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-03-29 20:52+0000\n"
-"PO-Revision-Date: 2011-03-30 11:12+0200\n"
+"PO-Revision-Date: 2011-03-30 13:48+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
 "Language: af\n"
@@ -137,6 +137,8 @@ msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
+"Kopiereg © 2011 <placeholder-1/><br/> Vry om te deel en te hermeng: "
+"<placeholder-2/><br/> Deel op: <placeholder-3/> | <placeholder-4/><br/> ❧"
 
 #. String to use in tryit.html after release
 #: ../temp.html:11(p)
@@ -160,7 +162,7 @@ msgstr ""
 
 #: ../index.html:37(h1)
 msgid "Introducing the next generation GNOME desktop"
-msgstr "Die bekendstelling van die volgende generasie GNOME-werkskerm"
+msgstr "Ons stel bekend: die nuwe generasie GNOME-werkskerm"
 
 #: ../index.html:41(iframe:title)
 msgid "YouTube video player"
@@ -292,8 +294,8 @@ msgstr ""
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
-"Vensteraansig langs mekaar dit eenvoudig en maklik te maak om verskeie "
-"vensters te gebruik"
+"Sy-aan-sy vensteruitleg maak dit eenvoudig en maklik om verskeie vensters te "
+"gebruik"
 
 #: ../index.html:91(li)
 msgid "A redesigned file manager"
