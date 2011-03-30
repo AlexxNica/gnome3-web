@@ -17,6 +17,8 @@ do
       xml2po -p $POFILE -m xhtml -o $HTMLFILE.$LANG $HTMLFILE
       grep -q '<script' $HTMLFILE.$LANG && \
         sed -i -e 's/\(<script.*\)/\1<\/script>/' $HTMLFILE.$LANG
+      grep -q '<iframe' $HTMLFILE.$LANG && \
+        sed -i -e 's/\(<iframe.*\)/\1<\/iframe>/' $HTMLFILE.$LANG
     done
 done
 
