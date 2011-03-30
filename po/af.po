@@ -1,0 +1,500 @@
+# Afrikaans translation for gnome3-web.
+# Copyright (C) 2011
+# This file is distributed under the same license as the gnome3-web package.
+# F Wolff <friedel@translate.org.za>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-03-29 20:52+0000\n"
+"PO-Revision-Date: 2011-03-30 11:12+0200\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>\n"
+"Language-Team: translate-discuss-af@lists.sourceforge.net\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0-beta4\n"
+"X-Project-Style: gnome\n"
+
+#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - Moeitevry"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+msgid "Home"
+msgstr "Tuis"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../faq.html:30(h1)
+msgid "Common questions and answers"
+msgstr "Algemene vrae en antwoorde"
+
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+msgid "Try it out!"
+msgstr "Probeer dit!"
+
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "Asemrowendheid word vrygestel oor: <span id=\"countbox\"/>"
+
+#: ../tryit.html:30(h1)
+msgid "Try out GNOME 3"
+msgstr "Probeer GNOME 3"
+
+#: ../tryit.html:32(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
+"or USB stick."
+msgstr ""
+"GNOME 3 word aktief ontwikkel en sal nie klaar wees voor April 2011 nie. Om "
+"dit vir 'n toetslopie te neem, gebruik die alfa-weergawe van 'n \"lewendige\" "
+"CD/DVD of 'n USB-stafie."
+
+#: ../tryit.html:38(a)
+msgid "Download for 32 bit systems (v0.3.0)"
+msgstr "Laai af vir 32-bisstelsels (0.3.0)"
+
+#: ../tryit.html:39(a)
+msgid "Download for 64 bit systems (v0.3.0)"
+msgstr "Laai af vir 64-bisstelsels (0.3.0)"
+
+#: ../tryit.html:46(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"Om van 'n CD/DVD af te laat loop, skryf die afgelaaide lêer na 'n skyf, sit "
+"dit in die rekenaar, en herbegin."
+
+#: ../tryit.html:50(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Laai die USB-beeldskrywer (onder) en pak dit uit"
+
+#: ../tryit.html:51(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+
+#: ../tryit.html:52(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+
+#: ../tryit.html:53(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+
+#: ../tryit.html:54(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+
+#: ../tryit.html:55(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+
+#: ../tryit.html:58(a)
+msgid "Download USB image writer"
+msgstr ""
+
+#: ../tryit.html:60(p)
+msgid "The user name for the live image is 'tux' and the password is empty."
+msgstr ""
+"Die gebruikernaam vir die lewendige beeld is 'tux' en die wagwoord is leeg."
+
+#: ../tryit.html:45(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+msgstr ""
+
+#: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
+msgid "The GNOME Project"
+msgstr "Die GNOME-projek"
+
+#: ../tryit.html:71(a) ../index.html:100(a) ../faq.html:78(a)
+msgid "Creative Commons CC-BY"
+msgstr ""
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 is vrygestel op 6 April 2011. Om dit vir 'n toetslopie te neem, "
+"gebruik die alfa-weergawe van 'n \"lewendige\" CD/DVD of 'n USB-stafie."
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
+"page for more details and for links to live demos."
+msgstr ""
+"GNOME 3 is vrygestel op 6 April 2011 en sal beskikbaar wees deur populêre "
+"verspreidings daarna. Sien gerus die bladsy <a href=\"tryit.html\">Probeer "
+"dit</a> vir meer besonderhede en skakels na lewendige demonstrasies."
+
+#: ../index.html:37(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Die bekendstelling van die volgende generasie GNOME-werkskerm"
+
+#: ../index.html:41(iframe:title)
+msgid "YouTube video player"
+msgstr "YouTube-videospeler"
+
+#: ../index.html:44(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"Vir GNOME 3, het die GNOME-projek van nuuts af begin om 'n heeltemal nuwe, "
+"moderne werkskerm te ontwerp vir vandag se gebruikers en tegnologie. Hier is "
+"'n paar van die dinge om te verwag van die nuwe GNOME:"
+
+#: ../index.html:52(h2)
+msgid "Simply beautiful"
+msgstr "Eenvoudig pragtig"
+
+#: ../index.html:54(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"GNOME se nuwe werkskerm neem elegansie na 'n nuwe vlak. Ons het die rommel "
+"weggevee en het 'n werkskerm gemaak wat eenvoudig is en maklik om te "
+"gebruik. Hierdie is ook die mooiste GNOME-werkskerm ooit, met 'n nuwe "
+"visuele tema, 'n verfynde nuwe font en noukeurig vervaardigde animasies."
+
+#: ../index.html:56(h2)
+msgid "An overview at a glance"
+msgstr "'n Oorsig met 'n oogopslag"
+
+#: ../index.html:58(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"Die aktiwiteite-aansig bied 'n maklike manier om by al die vensters en "
+"programme uit te kom. Dit is ook 'n wonderlike manier om tred te hou van "
+"alle aktiwiteite. Ons het 'n paar vinnige en maklike maniere voorsien om die "
+"aktiwiteite te sien, insluitend die aktiwiteite-knoppie (dikwels bekend as "
+"die Windows-sleutel) en die aksiehoek vir aktiwiteite."
+
+#: ../index.html:63(h2)
+msgid "Messaging built-in"
+msgstr "Kommunikasie ingebou"
+
+#: ../index.html:65(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"Kommunikasie is 'n belangrike deel van die moderne werkskerm, maar dit is "
+"moeite as mens vensters moet wissel om te antwoord op 'n boodskap. Dit is "
+"hoekom GNOME 3 mens laat voortgaan met gesprekke sonder om van fokus te "
+"verander. Die vermoë om 'n antwoord direk in die kennisgewing vir 'n "
+"boodskap te gee, maak kitsboodskappe werklik vinnig en maklik."
+
+#: ../index.html:67(h2)
+msgid "Distraction-free computing"
+msgstr "Werk sonder onderbrekings"
+
+#: ../index.html:69(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 is ontwerp om onderbrekings te verminder en die gebruiker in beheer "
+"te plaas. Ons nuwe kennisgewings wys boodskappe en stoor dit totdat die "
+"gebruiker gereed is daarvoor. Die GNOME 3-paneel is so gestileer dat dit "
+"deel is van die agtergrond, nie die voorgrond nie. Dié veranderinge laat "
+"mens fokus op jou kreatiewe take."
+
+#: ../index.html:75(h2)
+msgid "Everything at your fingertips"
+msgstr "Alles byderhand"
+
+#: ../index.html:77(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Met die nuwe GNOME-werkskerm kan alles vinnig met die sleutelbord bereik "
+"word. Druk die aktiwiteite-knoppie en soek: dis hoe maklik dit is. Dit is "
+"ideaal vir gebruikers wat wil sien dat dinge vinnig gebeur."
+
+#: ../index.html:79(h2)
+msgid "Redesigned system settings"
+msgstr "Stelselinstellings herontwerp"
+
+#: ../index.html:81(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Ons stelselinstellings is heeltemal herontwerp vir GNOME 3. Dit maak dit "
+"makliker as ooit om hulle te gebruik. GNOME 3 bied 'n nuwe manier om "
+"instellings te vind, en die kategorieë vir instellings is geherorganiseer. "
+"Dit maak dit vinnig en maklik om die gewenste instelling te vind."
+
+#: ../index.html:86(h2)
+msgid "And much, much more"
+msgstr "En nog baie meer"
+
+#: ../index.html:88(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 is propvol nuwe funksies. Hier is 'n paar ander dinge van GNOME 3 "
+"waarna mens kan uitsien:"
+
+#: ../index.html:90(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Vensteraansig langs mekaar dit eenvoudig en maklik te maak om verskeie "
+"vensters te gebruik"
+
+#: ../index.html:91(li)
+msgid "A redesigned file manager"
+msgstr "'n Herontwerpte lêerbestuurder"
+
+#: ../index.html:92(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr "Herontwerpte werkruimtes om vensters maklik te organiseer"
+
+#: ../index.html:93(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr "Groot onderliggende veranderinge vir 'n vinniger, gladder ervaring"
+
+#: ../index.html:94(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"'n Bevredigende ervaring, met watter tipe rekenaar ook al gebruik word: "
+"GNOME 3 voel tuis op netboeke én groter rekenaars"
+
+#: ../faq.html:38(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Hoe kry ek GNOME 3?"
+
+#: ../faq.html:40(p)
+msgid ""
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
+msgstr ""
+"GNOME 3 is geskeduleer vir vrystelling op 6 April 2011 en sal beskikbaar "
+"wees deur populêre verspreidings daarna. Sien gerus die bladsy <a "
+"href=\"tryit.html\">Probeer dit</a> vir meer besonderhede en skakels na "
+"lewendige demonstrasies."
+
+#: ../faq.html:42(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "Wat is die GNOME-projek nou eintlik?"
+
+#: ../faq.html:44(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"Die GNOME-projek is 'n internasionale gemeenskap wat saamwerk om fantastiese "
+"sagteware te maak. GNOME-sagteware is <a "
+"href=\"http://www.gnu.org/philosophy/free-sw.html\">Vry Sagteware</a>: elkeen "
+"is vry om ons werk te gebruik, te verander en te herversprei. Almal is "
+"welkom om deel te neem in die ontwikkeling daarvan. Sien <a "
+"href=\"http://www.gnome.org/about/\">Aangaande GNOME</a> vir meer inligting."
+
+#: ../faq.html:46(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Sal my rekenaar GNOME 3 kan loop?"
+
+#: ../faq.html:48(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"Rekenaars wat in die afgelope vier na vyf jaar gekoop is, behoort GNOME 3 "
+"maklik te kan loop. GNOME 3 se werkskerm benodig egter grafikahardeware met "
+"hardewareversnelling om ons toonaangewende ervaring te bied, en die "
+"volledige ervaring van GNOME 3 sal slegs beskikbaar wees op rekenaars met "
+"hierdie vermoë. Moet egter nie kommer nie: GNOME 3 sal terugval op 'n "
+"koppelvlak wat 'n uitstekende ervaring bied wanneer hardewareversnelling nie "
+"beskikbaar is nie, en dit bevat baie van die verbeteringe van GNOME 3. "
+"Verder werk die GNOME-projek en sy vennote hard daaraan om te verseker dat "
+"die volledige ervaring van GNOME 3 beskikbaar is vir so veel as moontlik "
+"mense, en werk daaraan om te verseker dat gebruikers wat aanvanklik nie dié "
+"ervaring kan hê nie, dit wel in die toekoms sal kan hê."
+
+#: ../faq.html:50(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "Sal ek my gunsteling GNOME-programme kan gebruik in GNOME 3?"
+
+#: ../faq.html:52(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"Ja! Bestaande GNOME-programme sal piekfyn werk in GNOME 3. GNOME 3 verskaf "
+"fasiliteite om programme selfs nog beter te maak. Kyk dus uit vir nuwe en "
+"verbeterde weergawes van u geliefde staatmakerprogramme spesifiek vir GNOME "
+"3."
+
+#: ../faq.html:54(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Wat gaan gebeur met die ou weergawe van GNOME?"
+
+#: ../faq.html:56(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"Die GNOME 2-werkskerm het 'n lang lewe geniet, en die onderhoud van dele "
+"daarvan het moeiliker geword oor dié tydperk. Gevolglik was volgehoue "
+"vrystelling van die volledige GNOME 2-werkskerm nooit 'n praktiese keuse vir "
+"die GNOME-projek nie, en dele van die ou GNOME 2-werkskerm sal nie nuut "
+"vrygestel word na GNOME 3 se vrystelling nie. Die tradisionele GNOME "
+"2-werkskerm gaan egter nie plotseling verdwyn nie: vrystellings van GNOME 2 "
+"sal steeds ondersteun word deur verspreidings in die jare wat voorlê."
+
+#: ../faq.html:58(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Hoekom is GNOME 3 se werkskerm ontwerp soos wat dit is?"
+
+#: ../faq.html:60(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"'n Groot klomp werk is gedoen aan die ontwerp van GNOME 3, en elkeen van die "
+"ontwerpbesluite daaragter is versigtig en grondig beredeneer. Indien u 'n "
+"spesifieke vraag het oor een van die ontwerpbesluite, lees gerus ons <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">antwoorde op algemene "
+"ontwerpvrae oor GNOME 3</a>. Andersins is meer uitgebreide besonderhede oor "
+"die ontwerp van GNOME 3 se werkskerm beskikbaar op <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/\">ontwerpblad vir GNOME 3 se "
+"werkskerm</a>."
+
+#: ../faq.html:62(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "Wat is GNOME se planne na GNOME 3 vrygestel is?"
+
+#: ../faq.html:64(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"Ons gaan 'n groot partytjie hou om die vrystelling te vier, en dan keer ons "
+"terug na ons werk om die werkskerm te verbeter sodat GNOME 3 beter en beter "
+"sal word met die daaropvolgende vrystellings. Ons het baie planne vir nuwe "
+"eienskappe wat die gebruik van GNOME selfs nog makliker en bevredigend sal "
+"maak, soos dokumentsoektogte en 'n opwindende nuwe raamwerk vir "
+"werkskermuitbreidings."
+
+#: ../faq.html:66(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "Hoe kan ek betrokke raak of help met GNOME 3?"
+
+#: ../faq.html:68(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"Om nuus oor GNOME 3 te versprei is 'n goeie manier om te help. Enige "
+"positiewe gekwetter, joerninskrywing, of statusboodskap sal waardeer word. "
+"Sluit gerus ook aan by ons <a href=\"http://www.facebook.com/GNOMEDesktop"
+"\">Facebook-groep</a> of word 'n <a "
+"href=\"http://www.gnome.org/friends/\">Vriend van GNOME</a>. Help gerus ook "
+"met een van die verskeidenheid take wat help om GNOME te skep. Kyk gerus na "
+"ons bladsy oor <a href=\"http://live.gnome.org/JoinGnome\">bydraes</a> vir "
+"meer besonderhede."
+
+#: ../faq.html:70(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "Ek wil skryf oor GNOME 3. Hoe kry ek meer inligting?"
+
+#: ../faq.html:72(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Meer besonderhede oor die vrystelling is beskikbaar op die <a "
+"href=\"http://live.gnome.org/ThreePointZero\">GNOME 3-wikibladsy</a>. "
+"Medianavrae moet gerig word aan <a href=\"mailto:gnome-press-"
+"contact@gnome.org\">gnome-press-contact@gnome.org</a>."
