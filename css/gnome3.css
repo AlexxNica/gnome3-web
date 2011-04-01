@@ -133,3 +133,7 @@ ul.navigation li a {
   text-align: right;
   color: gray;
 }
+
+#languages {
+  margin: 1em 2em;
+}

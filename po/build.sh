@@ -22,3 +22,7 @@ do
     done
 done
 
+for HTMLFILE in ../*.html
+do
+    cp $HTMLFILE $HTMLFILE.en
+done
