@@ -27,6 +27,7 @@ function GetCount(){
 	// time is already past
 	if(amount < 0){
 		document.getElementById('countbox').innerHTML="Now!";
+		document.getElementById('countbox').parentNode.style.visibility = 'visible';
 	}
 	// date is still good
 	else{
@@ -50,6 +51,7 @@ function GetCount(){
 		if(days != 0 || hours != 0 || mins != 0){out += mins +" minute"+((mins!=1)?"s":"")+", ";}
 		out += secs +" seconds";
 		document.getElementById('countbox').innerHTML=out;
+		document.getElementById('countbox').parentNode.style.visibility = 'visible';
 
 		setTimeout("GetCount()", 1000);
 	}
