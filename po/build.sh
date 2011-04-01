@@ -19,6 +19,12 @@ do
         sed -i -e 's/\(<script.*\)/\1<\/script>/' $HTMLFILE.$LANG
       grep -q '<iframe' $HTMLFILE.$LANG && \
         sed -i -e 's/\(<iframe.*\)/\1<\/iframe>/' $HTMLFILE.$LANG
+      grep -q 'index.html\"' $HTMLFILE.$LANG && \
+        sed -i -e "s/index.html\"/index.html.$LANG\"/" $HTMLFILE.$LANG
+      grep -q 'faq.html' $HTMLFILE.$LANG && \
+        sed -i -e "s/faq.html/faq.html.$LANG/" $HTMLFILE.$LANG
+      grep -q 'tryit.html' $HTMLFILE.$LANG && \
+        sed -i -e "s/tryit.html/tryit.html.$LANG/" $HTMLFILE.$LANG
     done
 done
 
