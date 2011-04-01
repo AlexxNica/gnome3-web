@@ -10,7 +10,7 @@
 // format: dateFuture = new Date(year,month-1,day,hour,min,sec)
 // example: dateFuture = new Date(2003,03,26,14,15,00) = April 26, 2003 - 2:15:00 pm
 
-dateFuture = new Date(2011,3,06,8,15,31);
+dateFuture = Date.UTC(2011,3,6,20,0,0);
 
 // TESTING: comment out the line below to print out the "dateFuture" for testing purposes
 //document.write(dateFuture +"<br />");
@@ -21,7 +21,8 @@ dateFuture = new Date(2011,3,06,8,15,31);
 function GetCount(){
 
 	dateNow = new Date();									//grab current date
-	amount = dateFuture.getTime() - dateNow.getTime();		//calc milliseconds between dates
+	dateNow = dateNow.getTime();
+	amount = dateFuture - dateNow;		//calc milliseconds between dates
 	delete dateNow;
 
 	// time is already past
