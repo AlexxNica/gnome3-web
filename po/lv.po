@@ -248,7 +248,7 @@ msgid ""
 "view, including the activities keyboard key (often known as the Windows key) "
 "and the activities hot corner."
 msgstr ""
-"Aktivitāšu skats dod vienkāršu pieeju visiem logiem un lietotnēm. Tas ir arī "
+"Aktivitāšu pārskats dod vienkāršu pieeju visiem logiem un lietotnēm. Tas ir arī "
 "lielisks veids, kā pārskatīt savas aktivitātes. Šo skatu var ieslēgt ar "
 "vairākiem ātriem un ērtiem paņēmieniem, tai skaitā ar aktivitāšu tastatūras "
 "taustiņu (zināms arī kā Windows taustiņš) un ar aktivitāšu stūri."
@@ -620,7 +620,7 @@ msgstr ""
 
 #: ../faq.html:70(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
-msgstr "Es vēlos rakstīt par GNOME 3. Kā es varu iegūt vairāk informācijas?"
+msgstr "Es vēlos rakstīt par GNOME 3. Kā es varu uzzināt ko vairāk?"
 
 #: ../faq.html:72(p)
 msgid ""
