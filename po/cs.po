@@ -370,7 +370,7 @@ msgstr ""
 
 #: ../index.html:104(span)
 msgid "This website is available in many languages:"
-msgstr "Webové stránky jsou dostupné v řadě jazyků:"
+msgstr "Webové stránky jsou dostupné v řadě jazyků: "
 
 #: ../index.html:105(a)
 msgid "English"
