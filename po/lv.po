@@ -1,0 +1,508 @@
+# Latvian translation for gnome3-web.
+# Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome3-web package.
+#
+# Peteris Krisjanis <pecisk@gmail.com>, 2011.
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-03-30 17:34+0000\n"
+"PO-Revision-Date: 2011-04-02 15:36+0300\n"
+"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Lokalize 1.1\n"
+
+#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - Vienkārši"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+msgid "Home"
+msgstr "Sākums"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../faq.html:30(h1)
+msgid "Common questions and answers"
+msgstr "Biežāk uzdotie jautājumi un atbildes"
+
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+msgid "Try it out!"
+msgstr "Izmēģini!"
+
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "Izlaidums pēc: <span id=\"countbox\"/>"
+
+#: ../tryit.html:30(h1)
+msgid "Try out GNOME 3"
+msgstr "Izmēģiniet GNOME 3"
+
+#: ../tryit.html:32(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
+"or USB stick."
+msgstr ""
+"GNOME 3 tiek aktīvi izstrādāts un netiks pabeigts līdz pat 2011. gada "
+"aprīlim. Ja vēlaties to izmēģināt, varat palaist alfa versiju no CD/DVD vai "
+"USB zibatmiņas."
+
+#: ../tryit.html:38(a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "Lejupielādēt 32 bitu versiju (v0.3.1)"
+
+#: ../tryit.html:39(a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "Lejupielādēt 64 bitu versiju (v0.3.1)"
+
+#: ../tryit.html:46(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"Lai palaistu no CD/DVD, iededziniet lejupielādēto diska attēlu, ievietojiet "
+"disku datorā un pārstartējiet to."
+
+#: ../tryit.html:50(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Lejupielādējiet USB attēla rakstītāju (zemāk) un atspiediet to."
+
+#: ../tryit.html:51(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"Atveriet termināli un dodieties uz atspiestā attēlu rakstītāja mapi "
+"(piemēram, <code> $ cd Lejupielādes/abock-image-usb-stick-f3b1002</code>)"
+
+#: ../tryit.html:52(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"Sagatavojiet attēla rakstītāju ar komandu: <code>$ chmod a+x ./image-usb-"
+"stick</code>"
+
+#: ../tryit.html:53(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+"Atvienojiet visas USB disku iekārtas un ievietojiet tukšu USB zibatmiņu, "
+"kurā vēlaties ierakstīt GNOME 3"
+
+#: ../tryit.html:54(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"Izpildiet attēla rakstītāja skriptu: <code>$ sudo ./image-usb-stick "
+"ceļš_uz_iso_failu.iso</code>"
+
+#: ../tryit.html:55(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+"Lai palaistu GNOME 3 \"dzīvo\" vidi, pārstartējiet datoru ar pievienotu USB "
+"zibatmiņu"
+
+#: ../tryit.html:58(a)
+msgid "Download USB image writer"
+msgstr "Lejupielādēt USB attēlu rakstītāju"
+
+#: ../tryit.html:60(p)
+msgid "The user name for the live image is 'tux' and the password is empty."
+msgstr "\"Dzīvās\" vides lietotāja vārds ir 'tux' ar tukšu paroli."
+
+#: ../tryit.html:45(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+msgstr ""
+"<placeholder-1/> Lai palaistu GNOME 3 alfa no USB: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+
+#: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
+msgid "The GNOME Project"
+msgstr "GNOME projekts"
+
+#: ../tryit.html:71(a) ../index.html:100(a) ../faq.html:78(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Autortiesības © 2011. gads <placeholder-1/><br/> Varat brīvi to izplatīt un "
+"remiksēt: <placeholder-2/><br/> Dalīties: <placeholder-3/> | <placeholder-4/"
+"><br/> ❧"
+
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 tika izlaista 2011. gada 6. aprīlī. Ja vēlaties to izmēģināt, varat "
+"palaist \"dzīvo\" versiju no CD/DVD diska vai USB zibatmiņas."
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
+"page for more details and for links to live demos."
+msgstr ""
+"GNOME 3 tika izlaista 2011. gada 6. aprīlī un būs pieejama populārajās "
+"distribūcijās. Lapā <a href=\"tryit.html\">Izmēģini</a> ir vairāk "
+"informācijas un saites \"dzīvo\" demonstrāciju lejupielādei."
+
+#: ../index.html:37(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Ieskats nākamās paaudzes GNOME darbvirsmā"
+
+#: ../index.html:44(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"GNOME 3 ir pilnīgi jauna, moderna darbvirsma, kas ir veidota šodienas "
+"lietotājiem un tehnoloģijām. Dažas lietas, ko varat sagaidīt no jaunās GNOME:"
+
+#: ../index.html:52(h2)
+msgid "Simply beautiful"
+msgstr "Vienkārši skaista"
+
+#: ../index.html:54(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"Jaunā GNOME darbvirsma sasniedz jaunu elegances līmeni. Atbrīvojot to no "
+"visa liekā, mēs izveidojām vienkāršu un viegli lietojamu darbvirsmu, un "
+"turklāt skaistāku par visām iepriekšējām, ar jaunu izskatu, uzlabotu fontu "
+"un meistarīgi veidotām animācijām."
+
+#: ../index.html:56(h2)
+msgid "An overview at a glance"
+msgstr "Īss pārskats"
+
+#: ../index.html:58(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"Aktivitāšu skats dod vienkāršu pieeju visiem logiem un lietotnēm. Tas ir "
+"arī lielisks veids, kā pārskatīt savas aktivitātes. Šo skatu var ieslēgt ar "
+"vairākiem ātriem un ērtiem paņēmieniem, tai skaitā ar aktivitāšu tastatūras "
+"taustiņu (zināms arī kā Windows taustiņš) un ar aktivitāšu stūri."
+
+#: ../index.html:63(h2)
+msgid "Messaging built-in"
+msgstr "Iebūvēta ziņojumu apmaiņa"
+
+#: ../index.html:65(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"Saziņa ir svarīga mūsdienu datora lietotājam, bet nav ērti pārslēgties starp "
+"logiem, lai atbildētu uz ziņojumiem. Tāpēc GNOME 3 ļauj jums turpināt "
+"sarunu, nemainot fokusu. Iespēja atbildēt pašos paziņojumos padara "
+"tūlītējo ziņojumapmaiņu ātru un vieglu."
+
+#: ../index.html:67(h2)
+msgid "Distraction-free computing"
+msgstr "Darbs bez uzmanības novēršanas"
+
+#: ../index.html:69(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 ir veidots tā, lai nenovērstu uzmanību un mazinātu nevēlamus darba "
+"pārtraukumus. Mūsu jaunā paziņojumu sistēma neuzkrītoši parādīs jaunos "
+"ziņojumus un tos saglabās, līdz būsiet gatavi tiem atbildēt. GNOME 3 panelis "
+"ir noformēts kā daļa no fona, nevis priekšplāna. Šīs izmaiņas ļauj jums "
+"pievērst uzmanību savam radošajam darbam."
+
+#: ../index.html:75(h2)
+msgid "Everything at your fingertips"
+msgstr "Viss ir viegli pieejams"
+
+#: ../index.html:77(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Jaunajā GNOME darbvirsmā viss ir viegli pieejams ar tastatūru. Vienkārši "
+"piespiediet "
+"aktivitāšu taustiņu un ierakstiet meklēto. Šī iespēja iepriecinās "
+"lietotājus, kam patīk ātrums un efektivitāte datora lietošanā."
+
+#: ../index.html:79(h2)
+msgid "Redesigned system settings"
+msgstr "Pārstrādāti sistēmas iestatījumi"
+
+#: ../index.html:81(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Mūsu sistēmas iestatījumi GNOME 3 ir pilnīgi pārveidoti, padarot "
+"tos vienkāršākus kā jebkad agrāk. GNOME 3 piedāvā arī jaunu iestatījumu "
+"pārlūkošanas veidu, un sadalījums kategorijās ir mainīts, lai atvieglotu "
+"vajadzīgo iestatījumu atrašanu."
+
+#: ../index.html:86(h2)
+msgid "And much, much more"
+msgstr "Un vēl daudz vairāk"
+
+#: ../index.html:88(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr "GNOME 3 ir pilna ar jaunām iespējām. Vēl daži piemēri:"
+
+#: ../index.html:90(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Logu izklāšana līdzās viens otram, kas padara vairāku logu lietošanu "
+"vienkāršu un vieglu"
+
+#: ../index.html:91(li)
+msgid "A redesigned file manager"
+msgstr "Pārveidots failu pārvaldnieks"
+
+#: ../index.html:92(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr "Pārveidotas darba virsmas, lai varētu viegli sakārtot logus"
+
+#: ../index.html:93(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr ""
+"Lieli uzlabojumi \"zem pārsega\" padara sistēmas lietošanu ātrāku un "
+"patīkamāku"
+
+#: ../index.html:94(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"Pozitīva pieredze, lai kādu datoru jūs lietotu: GNOME 3 iederēsies gan uz "
+"maziem tīmekļa klēpjdatoriem, gan uz lieliem stacionāriem datoriem"
+
+#: ../faq.html:38(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Kā iegūt GNOME 3?"
+
+#: ../faq.html:40(p)
+msgid ""
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
+msgstr ""
+"GNOME 3 tiks izlaista 2011. gada 6. aprīlī un būs pieejama populārajās "
+"distribūcijās. Lapā <a href=\"tryit.html\">Izmēģini</a> ir vairāk "
+"informācijas un saites \"dzīvo\" demonstrāciju lejupielādei."
+
+#: ../faq.html:42(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "Kas vispār ir GNOME projekts?"
+
+#: ../faq.html:44(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"GNOME projekts ir starptautiska kopiena, kas apvienojusies, lai veidotu "
+"lielisku programmatūru. GNOME programmatūra ir <a href=\"http://www.gnu."
+"org/philosophy/free-sw.html\">Brīva programmatūra</a>: "
+"visi mūsu darbi ir brīvi izmantojami, modificējami un izplatāmi. Katrs ir "
+"aicināts piedalīties tās izstrādē. Skatiet lapu <a "
+"href=\"http://www.gnome.org/about/\">Par GNOME</a>, lai iegūtu vairāk "
+"informācijas."
+
+#: ../faq.html:46(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Vai mans dators spēs darbināt GNOME 3?"
+
+#: ../faq.html:48(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"Datoriem, kuri ir iegādāti pēdējos 4 vai 5 gados, vajadzētu vairāk kā varēt "
+"pavilkt GNOME 3 vidi. Lai nodrošinātu mūsdienīgākās iespējas, GNOME 3 "
+"darbvirsmai ir vajadzīga aparatūras paātrināta grafika, tāpēc pilna GNOME 3 "
+"pieredze "
+"būs pieejama tikai datoriem, kuri to atbalsta. Tomēr uztraukumam nav pamata: "
+"GNOME 3 "
+"iekļauj atkāpšanās saskarni, kura var nodrošināt lielisku pieredzi arī "
+"bez aparatūras paātrināšanas un satur daudzus GNOME 3 uzlabojumus. Un GNOME "
+"projekts un tā partneri turpina strādāt, lai nodrošinātu pilnu GNOME 3 "
+"pieredzi pēc iespējas plašākam lietotāju lokam."
+
+#: ../faq.html:50(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "Vai es varēšu izmantot savas iecienītās GNOME lietotnes ar GNOME 3?"
+
+#: ../faq.html:52(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"Jā! Esošās GNOME lietotnes GNOME 3 strādās labi. Bet GNOME 3 dod iespējas "
+"padarīt lietotnes vēl labākas, tāpēc sekojiet līdzi jaunajām un uzlabotajām "
+"jūsu iecienīto "
+"lietotņu versijām GNOME 3 videi."
+
+#: ../faq.html:54(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Kas notiks ar veco GNOME versiju?"
+
+#: ../faq.html:56(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"GNOME 2 darbvirsmai ir bijis ilgs mūžs, un daļu no tās ir kļuvis grūti "
+"uzturēt. Tātad turpināt izlaist pilnas GNOME 2 versijas jebkurā gadījumā "
+"nebūtu praktiski, un vairākām vecās darbvirsmas daļām netiks veidotas jaunas "
+"versijas pēc GNOME 3 izlaišanas. Taču GNOME 2 darbvirsma uzreiz nepazudīs — "
+"distribūcijas turpinās to uzturēt vēl vairākus gadus."
+
+#: ../faq.html:58(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Kāpēc GNOME 3 ir veidota tieši tāda, kāda tā ir?"
+
+#: ../faq.html:60(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"GNOME 3 dizainā ir ieguldīts milzīgs darba apjoms, un katram dizaina lēmumam "
+"ir rūpīgi apdomāts pamatojums. Ja jums ir konkrēts jautājums par kādu no "
+"šiem "
+"lēmumiem, pamēģiniet atrast to lapā <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">atbildes uz GNOME "
+"3 dizaina jautājumiem</a>. Plašāka informācija par GNOME 3 darbvirsmas "
+"dizainu ir atrodama arī <a href=\"http://live.gnome.org/GnomeShell/Design/\">"
+"GNOME "
+"3 darbvirsmas dizaina viki lapā</a>."
+
+#: ../faq.html:62(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "Kādi ir plāni pēc GNOME 3 izlaišanas?"
+
+#: ../faq.html:64(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"Mēs nosvinēsim izlaišanu ar lielu ballīti, un tad atgriezīsimies pie "
+"darbvirsmas uzlabošanas darba, lai GNOME 3 kļūtu arvien labāka ar katru "
+"sekojošo laidienu. Mums ir daudz plānu jaunām iespējām, kas padarīs GNOME "
+"lietošanu vēl vienkāršāku un patīkamāku, piemēram, meklēšana dokumentos un "
+"jauns darbvirsmas paplašinājumu ietvars."
+
+#: ../faq.html:66(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "Kā es varu piedalīties vai palīdzēt GNOME 3?"
+
+#: ../faq.html:68(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"GNOME 3 popularizēšana ir lielisks veids, kā palīdzēt. Mēs vienmēr būsim "
+"pateicīgi par pozitīviem tvītiem, statusa ziņojumiem vai bloga ierakstiem. "
+"Jūs varat arī pievienoties mūsu <a href=\"http://www.facebook."
+"com/GNOMEDesktop\">Facebook grupai</a> vai "
+"kļūt par <a href=\"http://www.gnome.org/friends/\">GNOME draugu</a>. "
+"Turklāt jūs varat palīdzēt daudzajos darbos, kas ir saistīti ar "
+"GNOME izstrādi. Apskatiet mūsu  <a href=\"http://live.gnome.org/JoinGnome"
+"\">atbalsta lapu</a>, lai iegūtu vairāk informācijas."
+
+#: ../faq.html:70(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "Es vēlos rakstīt par GNOME 3. Kā es varu iegūt vairāk informācijas?"
+
+#: ../faq.html:72(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Lai iegūtu vairāk informācijas par šo laidienu, skatiet <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 viki lapu</a>. Preses vaicājumus "
+"vajadzētu sūtīt uz <a href=\"mailto:gnome-press-contact@gnome.org\">"
+"gnome-press-"
+"contact@gnome.org</a>."
+
