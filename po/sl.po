@@ -7,14 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-30 09:16+0000\n"
-"PO-Revision-Date: 2011-03-30 13:07+0100\n"
+"POT-Creation-Date: 2011-04-04 17:50+0000\n"
+"PO-Revision-Date: 2011-04-04 20:32+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
@@ -27,113 +27,137 @@ msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Ustvarjanje enostavnosti"
 
 #: ../tryit.html:21(a)
-#: ../index.html:27(a)
+#: ../index.html:28(a)
 #: ../faq.html:21(a)
 msgid "Home"
 msgstr "Začetna stran"
 
 #: ../tryit.html:21(a)
-#: ../index.html:27(a)
+#: ../index.html:28(a)
 #: ../faq.html:21(a)
 #: ../faq.html:30(h1)
 msgid "Common questions and answers"
 msgstr "Pogosta vprašanja in odgovori"
 
 #: ../tryit.html:22(a)
-#: ../index.html:28(a)
+#: ../index.html:29(a)
 #: ../faq.html:22(a)
 msgid "Try it out!"
 msgstr "Preizkusite GNOME3!"
 
 #: ../tryit.html:23(div)
-#: ../index.html:29(div)
+#: ../index.html:30(div)
 #: ../faq.html:23(div)
 msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr ""
+msgstr "Do izida še: <span id=\"countbox\"/>"
 
 #: ../tryit.html:30(h1)
 msgid "Try out GNOME 3"
 msgstr "Preizkusite GNOME 3"
 
 #: ../tryit.html:32(p)
-msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick."
+#, fuzzy
+msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live version from a CD/DVD or USB stick."
 msgstr "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno različico v živo z zagonom iz CD, DVD ali pa USB nosilca."
 
-#: ../tryit.html:38(a)
-msgid "Download for 32 bit systems (v0.3.0)"
-msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v0.3.0)"
+#: ../tryit.html:40(a)
+msgid "openSUSE"
+msgstr "openSUSE"
 
-#: ../tryit.html:39(a)
-msgid "Download for 64 bit systems (v0.3.0)"
-msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v0.3.0)"
+#: ../tryit.html:40(h4)
+#: ../tryit.html:48(h4)
+#, fuzzy
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME Commander na _spletu"
 
-#: ../tryit.html:46(p)
+#: ../tryit.html:42(a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v0.3.1)"
+
+#: ../tryit.html:44(a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v0.3.1)"
+
+#: ../tryit.html:48(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:50(a)
+msgid "Download for 32 bit systems (2011-03-31)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (31.03.2011)"
+
+#: ../tryit.html:56(p)
+#, fuzzy
+msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+
+#: ../tryit.html:57(p)
+#, fuzzy
+msgid "The user name for the Fedora live image is 'liveuser' and the password is empty."
+msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+
+#: ../tryit.html:64(p)
 msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
 msgstr "Za zagon iz CD ali DVD nosilca, zapišite prejeto datoteko odtisa na nosilec, vstavite nosilec v pogon in ponovno zaženite računalnik."
 
-#: ../tryit.html:50(li)
+#: ../tryit.html:68(li)
 msgid "Download the USB image writer (below) and extract it"
 msgstr "kliknite na spodnjo povezavo in prejmite arhiv s programom in ga razširite na disk,"
 
-#: ../tryit.html:51(li)
+#: ../tryit.html:69(li)
 msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
 msgstr "odprite okno terminala na mestu, kamor ste razširili program za zapis odtisa na USB  (npr. <code>$ cd Prejeto/abock-image-usb-stick-f3b1002</code>),"
 
-#: ../tryit.html:52(li)
+#: ../tryit.html:70(li)
 msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
 msgstr "pripravite program za zapisovanje z ukazom: <code>$ chmod a+x ./image-usb-stick</code>,"
 
-#: ../tryit.html:53(li)
+#: ../tryit.html:71(li)
 msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
 msgstr "odstranite vse naprave USB, ki so povezane z računalnikom in vstavite prazen USB nosilec, na katerega želite odtis zapisati,"
 
-#: ../tryit.html:54(li)
+#: ../tryit.html:72(li)
 msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
 msgstr "Zaženite skript zapisovalnika odtisov z ukazom: <code>$ sudo ./image-usb-stick pot_do_živega_odtisa.iso</code>,"
 
-#: ../tryit.html:55(li)
+#: ../tryit.html:73(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
 msgstr "po zapisu, ponovno zaženite računalnik s priklopljenim USB nosilcem."
 
-#: ../tryit.html:58(a)
+#: ../tryit.html:76(a)
 msgid "Download USB image writer"
 msgstr "Prejem programa za zapis odtisa na USB nosilec"
 
-#: ../tryit.html:60(p)
-msgid "The user name for the live image is 'tux' and the password is empty."
-msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+#: ../tryit.html:63(div)
+msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><placeholder-3/><br/>"
+msgstr "<placeholder-1/> Za zagon namizja GNOME 3 iz USB nosilca:  <placeholder-2/><placeholder-3/><br/>"
 
-#: ../tryit.html:45(div)
-msgid "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
-msgstr "<placeholder-1/> Za zagon namizja GNOME 3 iz USB nosilca:  <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
-
-#: ../tryit.html:70(a)
-#: ../index.html:99(a)
+#: ../tryit.html:87(a)
+#: ../index.html:100(a)
 #: ../faq.html:77(a)
 msgid "The GNOME Project"
 msgstr "Projekt GNOME"
 
-#: ../tryit.html:71(a)
-#: ../index.html:100(a)
+#: ../tryit.html:88(a)
+#: ../index.html:101(a)
 #: ../faq.html:78(a)
 msgid "Creative Commons CC-BY"
 msgstr "Dovoljenje Creative Commons - priznanje avtorstva"
 
-#: ../tryit.html:72(a)
-#: ../index.html:101(a)
+#: ../tryit.html:89(a)
+#: ../index.html:102(a)
 #: ../faq.html:79(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:72(a)
-#: ../index.html:101(a)
+#: ../tryit.html:89(a)
+#: ../index.html:102(a)
 #: ../faq.html:79(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:69(div)
-#: ../index.html:98(div)
+#: ../tryit.html:86(div)
 #: ../faq.html:76(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr "Avtorske pravice © 2011 <placeholder-1/><br/> Prosto za izmenjavo: <placeholder-2/><br/> Objavi na: <placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -148,93 +172,190 @@ msgstr "Namizje GNOME 3 je bilo objavljeno 6. aprila, 2011. V kolikor si želite
 msgid "GNOME 3 was released on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to live demos."
 msgstr ""
 
-#: ../index.html:37(h1)
+#: ../index.html:38(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "Predstavljamo najnovejšo različico namizja GNOME"
 
-#: ../index.html:41(iframe:title)
-msgid "YouTube video player"
-msgstr ""
-
-#: ../index.html:44(p)
+#: ../index.html:45(p)
 msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
 msgstr ""
 
-#: ../index.html:52(h2)
+#: ../index.html:53(h2)
 msgid "Simply beautiful"
 msgstr "Enostavno lepo"
 
-#: ../index.html:54(p)
+#: ../index.html:55(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
 msgstr ""
 
-#: ../index.html:56(h2)
+#: ../index.html:57(h2)
 msgid "An overview at a glance"
 msgstr "Preglednost v vsakem trenutku"
 
-#: ../index.html:58(p)
+#: ../index.html:59(p)
 msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
 msgstr ""
 
-#: ../index.html:63(h2)
+#: ../index.html:64(h2)
 msgid "Messaging built-in"
 msgstr "Vgrajeno hipno sporočanje"
 
-#: ../index.html:65(p)
+#: ../index.html:66(p)
 msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
 msgstr ""
 
-#: ../index.html:67(h2)
+#: ../index.html:68(h2)
 msgid "Distraction-free computing"
 msgstr "Nevsiljivo obveščanje"
 
-#: ../index.html:69(p)
+#: ../index.html:70(p)
 msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
 msgstr ""
 
-#: ../index.html:75(h2)
+#: ../index.html:76(h2)
 msgid "Everything at your fingertips"
 msgstr "Hitra dostopnost"
 
-#: ../index.html:77(p)
+#: ../index.html:78(p)
 msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
 msgstr ""
 
-#: ../index.html:79(h2)
+#: ../index.html:80(h2)
 msgid "Redesigned system settings"
 msgstr "Preoblikovane nastavitve sistema"
 
-#: ../index.html:81(p)
+#: ../index.html:82(p)
 msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. GNOME 3 also provides a new way to browse your settings, and our settings categories have been reorganised, making it quick and straightforward to find the setting that you want."
 msgstr ""
 
-#: ../index.html:86(h2)
+#: ../index.html:87(h2)
 msgid "And much, much more"
 msgstr "In veliko, veliko več"
 
-#: ../index.html:88(p)
+#: ../index.html:89(p)
 msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
 msgstr "Namizje GNOME 3 prinaša veliko novosti. Med najpomembnejšimi so:"
 
-#: ../index.html:90(li)
+#: ../index.html:91(li)
 msgid "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
 
-#: ../index.html:91(li)
+#: ../index.html:92(li)
 msgid "A redesigned file manager"
 msgstr "Predelan upravljalnik datotek"
 
-#: ../index.html:92(li)
+#: ../index.html:93(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr ""
 
-#: ../index.html:93(li)
+#: ../index.html:94(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr ""
 
-#: ../index.html:94(li)
+#: ../index.html:95(li)
 msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
 msgstr ""
+
+#: ../index.html:104(span)
+msgid "This website is available in many languages:"
+msgstr "Spletišče je na voljo tudi v:"
+
+#: ../index.html:105(a)
+msgid "English"
+msgstr "angleščini"
+
+#: ../index.html:106(a)
+msgid "العربية"
+msgstr "arabščini"
+
+#: ../index.html:107(a)
+msgid "Afrikaans"
+msgstr "afriščini"
+
+#: ../index.html:108(a)
+msgid "Čeština"
+msgstr "češčini"
+
+#: ../index.html:109(a)
+msgid "Ελληνικά"
+msgstr "grščini"
+
+#: ../index.html:110(a)
+msgid "Español"
+msgstr "španščini"
+
+#: ../index.html:111(a)
+msgid "Persian"
+msgstr "perzijščini"
+
+#: ../index.html:112(a)
+msgid "Galego"
+msgstr "galščini"
+
+#: ../index.html:113(a)
+msgid "Italiano"
+msgstr "italijanščini"
+
+#: ../index.html:114(a)
+msgid "日本語"
+msgstr "japonščini"
+
+#: ../index.html:115(a)
+msgid "Latvian"
+msgstr "latvijščini"
+
+#: ../index.html:116(a)
+msgid "한국어"
+msgstr "korejščini"
+
+#: ../index.html:117(a)
+msgid "Polski"
+msgstr "poljščini"
+
+#: ../index.html:118(a)
+msgid "Português do Brasil"
+msgstr "brazilski portugalščini"
+
+#: ../index.html:119(a)
+msgid "Română"
+msgstr "romunščini"
+
+#: ../index.html:120(a)
+msgid "Slovenščina"
+msgstr "slovenščini"
+
+#: ../index.html:121(a)
+msgid "Svenska"
+msgstr "švedščini"
+
+#: ../index.html:122(a)
+msgid "Turkish"
+msgstr "turščini"
+
+#: ../index.html:123(a)
+msgid "Uyghur"
+msgstr "ujgurščini"
+
+#: ../index.html:124(a)
+msgid "中文 (中国大陆)"
+msgstr "kitajščini"
+
+#: ../index.html:125(a)
+msgid "中文 (香港)"
+msgstr "hongkonški kitajščini"
+
+#: ../index.html:126(a)
+msgid "中文 (台灣)"
+msgstr "tajvanski kitajščini"
+
+#: ../index.html:103(div)
+msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+
+#. grid_16
+#: ../index.html:99(div)
+msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr "Avtorske pravice © 2011 <placeholder-1/><br/> Prosto za izmenjavo: <placeholder-2/><br/> Objavi na: <placeholder-3/> | <placeholder-4/><br/> ❧"
 
 #: ../faq.html:38(h2)
 msgid "How do I get GNOME 3?"
@@ -310,3 +431,4 @@ msgstr ""
 
 #~ msgid " "
 #~ msgstr " "
+
