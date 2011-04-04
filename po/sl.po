@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-04 17:50+0000\n"
-"PO-Revision-Date: 2011-04-04 20:32+0100\n"
+"PO-Revision-Date: 2011-04-04 20:53+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "Language: \n"
@@ -56,9 +56,8 @@ msgid "Try out GNOME 3"
 msgstr "Preizkusite GNOME 3"
 
 #: ../tryit.html:32(p)
-#, fuzzy
 msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live version from a CD/DVD or USB stick."
-msgstr "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno različico v živo z zagonom iz CD, DVD ali pa USB nosilca."
+msgstr "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno različico v živo, z zagonom iz CD, DVD ali pa USB nosilca."
 
 #: ../tryit.html:40(a)
 msgid "openSUSE"
@@ -66,9 +65,8 @@ msgstr "openSUSE"
 
 #: ../tryit.html:40(h4)
 #: ../tryit.html:48(h4)
-#, fuzzy
 msgid "GNOME 3 based on <placeholder-1/>"
-msgstr "GNOME Commander na _spletu"
+msgstr "GNOME 3 na sistemu <placeholder-1/>"
 
 #: ../tryit.html:42(a)
 msgid "Download for 32 bit systems (v0.3.1)"
@@ -87,14 +85,12 @@ msgid "Download for 32 bit systems (2011-03-31)"
 msgstr "Prejem datoteke odtisa za 32 bitne sisteme (31.03.2011)"
 
 #: ../tryit.html:56(p)
-#, fuzzy
 msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
-msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+msgstr "Uporabniško ime za dostop do namizja pri distribuciji openSUSE je 'tux', geslo pa je prazno."
 
 #: ../tryit.html:57(p)
-#, fuzzy
 msgid "The user name for the Fedora live image is 'liveuser' and the password is empty."
-msgstr "Uporabniško ime za dostop do namizja je 'tux', geslo pa je prazno."
+msgstr "Uporabniško ime za dostop do namizja pri distribuciji Fedora live je 'liveuser', geslo pa je prazno."
 
 #: ../tryit.html:64(p)
 msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
@@ -170,7 +166,7 @@ msgstr "Namizje GNOME 3 je bilo objavljeno 6. aprila, 2011. V kolikor si želite
 #. String to use in faq.html after release
 #: ../temp.html:13(p)
 msgid "GNOME 3 was released on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to live demos."
-msgstr ""
+msgstr "Namizje GNOME 3 je bilo izdano 6. aprila 2011 in bo na voljo pri večini distribucij. Za več podrobnosti si oglejte spletno stran <a href=\"tryit.html\">živih in namestitvenih različic</a>."
 
 #: ../index.html:38(h1)
 msgid "Introducing the next generation GNOME desktop"
@@ -178,7 +174,7 @@ msgstr "Predstavljamo najnovejšo različico namizja GNOME"
 
 #: ../index.html:45(p)
 msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
-msgstr ""
+msgstr "Razvoj namizja GNOME 3 je bil začet znova, s popolnim pregledom obstoječe kode in programskih rešitev. Rezultat je popolnoma novo, moderno namizje, ki podpira delovanje različnih sodobnih tehnologij in ponuja novo, boljšo uporabniško izkušnjo. Namizje GNOME 3 ponuja:"
 
 #: ../index.html:53(h2)
 msgid "Simply beautiful"
@@ -186,7 +182,7 @@ msgstr "Enostavno lepo"
 
 #: ../index.html:55(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
-msgstr ""
+msgstr "Namizje GNOME 3 ponuja za uporabnika enostaven in čist uporabniški vmesnik brez odvečnosti. Nedvomno je z novo obliko postalo najlepše zasnovano namizje GNOME, z novo temo, z izboljšano obliko pisave namizja in s skrbno oblikovanimi animacijami."
 
 #: ../index.html:57(h2)
 msgid "An overview at a glance"
