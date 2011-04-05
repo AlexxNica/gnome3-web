@@ -1,0 +1,683 @@
+# French translation for gnome3-web.
+# Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome3-web package.
+# Cédric Felizard <cedric@felizard.fr>, 2011.
+# Bruno Brouard <annoa.b@gmail.com>, 2011.
+# Claude Paroz <claude@2xlibre.net>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-04-03 14:13+0000\n"
+"PO-Revision-Date: 2011-04-04 09:53+0200\n"
+"Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
+"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - En toute simplicité"
+
+#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+msgid "Home"
+msgstr "Accueil"
+
+#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+#: ../faq.html:30(h1)
+msgid "Common questions and answers"
+msgstr "Questions fréquentes et réponses"
+
+#: ../tryit.html:22(a) ../index.html:29(a) ../faq.html:22(a)
+msgid "Try it out!"
+msgstr "Essayez-le !"
+
+#: ../tryit.html:23(div) ../index.html:30(div) ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "Sortie retentissante de cette version dans : <span id=\"countbox\"/>"
+
+#: ../tryit.html:30(h1)
+msgid "Try out GNOME 3"
+msgstr "Essayez GNOME 3"
+
+#: ../tryit.html:32(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live version from a CD/DVD or USB "
+"stick."
+msgstr ""
+"GNOME 3 est en cours de développement et ne sera pas achevé avant avril "
+"2011. Si vous voulez l'essayer, vous pouvez exécuter une version live depuis "
+"un CD/DVD ou une clé USB."
+
+#: ../tryit.html:40(a)
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../tryit.html:40(h4) ../tryit.html:48(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME 3 basé sur <placeholder-1/>"
+
+#: ../tryit.html:42(a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "Téléchargement pour systèmes 32 bits (v 0.3.1)"
+
+#: ../tryit.html:44(a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "Téléchargement pour systèmes 64 bits (v 0.3.1)"
+
+#: ../tryit.html:48(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:50(a)
+msgid "Download for 32 bit systems (2011-03-31)"
+msgstr "Téléchargement pour systèmes 32 bits (31/03/2011)"
+
+#: ../tryit.html:56(p)
+msgid ""
+"The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr ""
+"Le nom d'utilisateur pour l'image live openSUSE est « tux » et le mot de "
+"passe est vide."
+
+#: ../tryit.html:57(p)
+msgid ""
+"The user name for the Fedora live image is 'liveuser' and the password is "
+"empty."
+msgstr ""
+"Le nom d'utilisateur pour l'image live Fedora est « liveuser » et le mot de "
+"passe est vide."
+
+#: ../tryit.html:64(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"Pour l'exécuter à partir d'un CD/DVD, gravez le fichier téléchargé sur un "
+"disque, insérez-le dans votre ordinateur et redémarrez."
+
+#: ../tryit.html:68(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr ""
+"téléchargez l'utilitaire d'écriture d'image sur USB (ci-dessous) et faites-"
+"en une extraction,"
+
+#: ../tryit.html:69(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"ouvrez un terminal et déplacez-vous jusqu'au dossier dans lequel vous avez "
+"extrait l'utilitaire (par ex. <code>$ cd Téléchargements/abock-image-usb-"
+"stick-f3b1002</code>),"
+
+#: ../tryit.html:70(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"préparez l'utilitaire en exécutant : <code>$ chmod a+x ./image-usb-stick</"
+"code>,"
+
+#: ../tryit.html:71(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+"débranchez tous les périphériques de stockage USB que vous pourriez avoir "
+"connecté à votre ordinateur et insérez la clé USB vide sur laquelle vous "
+"souhaitez écrire,"
+
+#: ../tryit.html:72(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"exécutez l'utilitaire : <code>$ sudo ./image-usb-stick "
+"chemin_vers_l_image_live.iso</code>."
+
+#: ../tryit.html:73(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+"Pour exécuter l'image, redémarrez votre ordinateur en laissant la clé USB "
+"connectée."
+
+#: ../tryit.html:76(a)
+msgid "Download USB image writer"
+msgstr "Téléchargement de l'utilitaire d'écriture d'image USB"
+
+#: ../tryit.html:63(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/>"
+msgstr ""
+"<placeholder-1/> Pour exécuter GNOME 3 à ​​partir d'une clé USB : <placeholder-"
+"2/><placeholder-3/><br/>"
+
+#: ../tryit.html:87(a) ../index.html:100(a) ../faq.html:77(a)
+msgid "The GNOME Project"
+msgstr "Le projet GNOME"
+
+#: ../tryit.html:88(a) ../index.html:101(a) ../faq.html:78(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:86(div) ../faq.html:76(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Liberté de partage et de "
+"modification : <placeholder-2/><br/> Partager sur : <placeholder-3/> | "
+"<placeholder-4/><br/> ❧"
+
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 est sortie le 6 avril 2011. Si vous voulez l'essayer, vous pouvez "
+"exécuter une version live depuis un CD/DVD ou une clé USB."
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
+"page for more details and for links to live demos."
+msgstr ""
+"GNOME 3 est sortie le 6 avril 2011 et sera disponible dans les distributions "
+"populaires à partir de ce moment. Consultez la page <a href=\"tryit.html"
+"\">Essayez-le</a> pour avoir plus de détails et des liens vers des versions "
+"de démonstration live."
+
+#: ../index.html:38(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Présentation du bureau GNOME prochaine génération"
+
+#: ../index.html:45(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"Pour GNOME 3, le projet GNOME a commencé à partir de zéro et a créé un tout "
+"nouveau bureau moderne conçu pour les utilisateurs et les technologies "
+"modernes d'aujourd'hui. Voici quelques-unes des choses que vous pouvez "
+"attendre de la nouvelle version de GNOME :"
+
+#: ../index.html:53(h2)
+msgid "Simply beautiful"
+msgstr "Esthétisme simple"
+
+#: ../index.html:55(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"Le nouveau bureau GNOME amène à un nouveau niveau d'élégance. Nous avons "
+"éliminé la confusion et élaboré un bureau simple et facile à utiliser tout "
+"en créant un bureau GNOME plus beau que jamais avec un nouveau thème visuel, "
+"une nouvelle police raffinée et des animations soigneusement conçues."
+
+#: ../index.html:57(h2)
+msgid "An overview at a glance"
+msgstr "Un aperçu en un coup d'œil"
+
+# Meilleur traduction pour "the activities hot corner" ?
+#: ../index.html:59(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"La vue des activités apporte un moyen facile d'accéder à toutes vos fenêtres "
+"et applications. Elle est également un excellent moyen de suivre toutes vos "
+"activités. Nous avons fourni plusieurs méthodes rapides et pratiques pour "
+"accéder à cette vue des activités, notamment la touche clavier des activités "
+"(souvent connue sous le nom de touche Windows) et le coin actif des "
+"activités."
+
+#: ../index.html:64(h2)
+msgid "Messaging built-in"
+msgstr "Messagerie intégrée"
+
+#: ../index.html:66(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"La communication est un élément important d'un bureau moderne, mais c'est "
+"gênant de devoir changer de fenêtre pour répondre à un message. C'est "
+"pourquoi GNOME 3 vous permet de poursuivre vos conversations sans perdre "
+"votre contexte de travail. La possibilité de saisir une réponse directement "
+"dans les notifications de messagerie permet une messagerie instantanée "
+"rapide et naturelle."
+
+# Pas très beau, à revoir
+#: ../index.html:68(h2)
+msgid "Distraction-free computing"
+msgstr "L'informatique sans diversion"
+
+#: ../index.html:70(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 est conçu pour réduire les diversions et interruptions afin de vous "
+"laisser le contrôle. Notre nouveau système de notifications affiche ses "
+"messages de façon subtile et les enregistre jusqu'à ce que vous soyez prêt à "
+"les lire. Le tableau de bord de GNOME 3 a également été conçu de façon à ce "
+"qu'il fasse partie de l'arrière-plan, et non pas du premier plan. Ces "
+"changements permettent de vous concentrer sur vos tâches créatives."
+
+#: ../index.html:76(h2)
+msgid "Everything at your fingertips"
+msgstr "Tout à portée de main"
+
+# Meilleur traduction pour « touche des activités » ?
+#: ../index.html:78(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Avec le nouveau bureau GNOME, il est possible d'accéder rapidement à tout à "
+"partir du clavier. Appuyez sur la touche des activités et recherchez : c'est "
+"aussi simple que cela. Vous allez adorer cette fonctionnalité si vous êtes "
+"un utilisateur qui aime que les choses se déroulent rapidement."
+
+#: ../index.html:80(h2)
+msgid "Redesigned system settings"
+msgstr "Paramètres système réorganisés"
+
+#: ../index.html:82(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Nos réglages du système ont été complètement repensés pour GNOME 3, ce qui "
+"les rend plus faciles à paramétrer que jamais. GNOME 3 fournit également une "
+"nouvelle façon de parcourir vos réglages et les catégories des réglages ont "
+"été réorganisées de manière à rendre rapide et évidente la recherche du "
+"réglage que vous voulez modifier."
+
+#: ../index.html:87(h2)
+msgid "And much, much more"
+msgstr "Et plus encore"
+
+#: ../index.html:89(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 est bondé de nouvelles fonctionnalités. Voici un certain nombre "
+"d'entre elles dont vous pourrez vous réjouir à partir de GNOME 3 :"
+
+#: ../index.html:91(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Mosaïque des fenêtres côte à côte pour rendre l'utilisation de plusieurs "
+"fenêtres simple et facile"
+
+#: ../index.html:92(li)
+msgid "A redesigned file manager"
+msgstr "Un gestionnaire de fichiers repensé"
+
+#: ../index.html:93(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+"Des espaces de travail repensés de sorte que vous puissiez facilement "
+"organiser vos fenêtres"
+
+#: ../index.html:94(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr ""
+"D'importants changements sous le capot pour vous procurer un quotidien plus "
+"rapide et plus fluide"
+
+#: ../index.html:95(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"Une expérience satisfaisante, quel que soit le type d'ordinateur utilisé : "
+"GNOME 3 se sentira chez lui sur les mini-ordinateurs (netbooks) comme sur "
+"les machines plus grosses"
+
+#: ../index.html:104(span)
+msgid "This website is available in many languages:"
+msgstr "Ce site Web est disponible dans de nombreuses langues :"
+
+#: ../index.html:105(a)
+msgid "English"
+msgstr "English"
+
+#: ../index.html:106(a)
+msgid "العربية"
+msgstr "العربية"
+
+#: ../index.html:107(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:108(a)
+msgid "Čeština"
+msgstr "Čeština"
+
+#: ../index.html:109(a)
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
+
+#: ../index.html:110(a)
+msgid "Español"
+msgstr "Español"
+
+#: ../index.html:111(a)
+msgid "Persian"
+msgstr "Persian"
+
+#: ../index.html:112(a)
+msgid "Galego"
+msgstr "Galego"
+
+#: ../index.html:113(a)
+msgid "Italiano"
+msgstr "Italiano"
+
+#: ../index.html:114(a)
+msgid "日本語"
+msgstr "日本語"
+
+#: ../index.html:115(a)
+msgid "Latvian"
+msgstr "Latvian"
+
+#: ../index.html:116(a)
+msgid "한국어"
+msgstr "한국어"
+
+#: ../index.html:117(a)
+msgid "Polski"
+msgstr "Polski"
+
+#: ../index.html:118(a)
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
+
+#: ../index.html:119(a)
+msgid "Română"
+msgstr "Română"
+
+#: ../index.html:120(a)
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:121(a)
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:122(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:123(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:124(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:125(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:126(a)
+msgid "中文 (台灣)"
+msgstr "中文 (台灣)"
+
+#: ../index.html:103(div)
+msgid ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+msgstr ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+
+#. grid_16
+#: ../index.html:99(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Liberté de partage et de "
+"modification : <placeholder-2/><br/> Partager sur : <placeholder-3/> | "
+"<placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:38(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Comment obtenir GNOME 3 ?"
+
+#: ../faq.html:40(p)
+msgid ""
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
+msgstr ""
+"La sortie de GNOME 3 est prévue pour le 6 avril 2011 et sera disponible dans "
+"les distributions populaires à partir de ce moment. Consultez la page <a "
+"href=\"tryit.html\">Essayez-le</a> pour avoir plus de détails et des liens "
+"vers des versions de démonstration live."
+
+#: ../faq.html:42(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "Au fait, qu'est-ce que le projet GNOME ?"
+
+#: ../faq.html:44(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"Le projet GNOME est une communauté internationale qui se regroupe ensemble "
+"pour créer de formidables logiciels. Un logiciel GNOME est un <a href="
+"\"http://www.gnu.org/philosophy/free-sw.html\">logiciel libre</a> : tout "
+"notre travail est libre d'usage, de modification et de redistribution. "
+"Chacun est le bienvenu pour participer à son développement. Consultez la "
+"page <a href=\"http://www.gnome.org/about/\">À propos de GNOME</a> pour plus "
+"d'informations."
+
+#: ../faq.html:46(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Est-ce que mon ordinateur sera capable d'utiliser GNOME 3 ?"
+
+#: ../faq.html:48(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"Les ordinateurs achetés dans les 4 ou 5 dernières années devraient être plus "
+"que capables de faire tourner GNOME 3. Toutefois, le bureau GNOME 3 "
+"nécessite une accélération matérielle graphique afin d'offrir une expérience "
+"d'avant-garde ; l'expérience complète de GNOME 3 ne sera disponible que sur "
+"les ordinateurs ayant ces capacités. Ne vous inquiétez pas : GNOME 3 inclura "
+"une interface restreinte qui fournit une excellente expérience en l'absence "
+"d'accélération matérielle et qui intègre les nombreuses améliorations qui "
+"peuvent être trouvées dans GNOME 3. En outre, le projet GNOME et ses "
+"partenaires travaillent dur pour s'assurer que l'expérience complète de "
+"GNOME 3 soit disponible au plus grand nombre possible ; ils cherchent à "
+"garantir que les utilisateurs qui ne sont pas, dans un premier temps, en "
+"mesure de profiter de cette expérience, le pourront à l'avenir."
+
+#: ../faq.html:50(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr ""
+"Vais-je pouvoir utiliser mes applications GNOME préférées dans GNOME 3 ?"
+
+#: ../faq.html:52(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"Oui ! Les applications GNOME existantes fonctionnent parfaitement dans GNOME "
+"3. GNOME 3 fournit une infrastructure pour créer des applications encore "
+"meilleures ; surveillez donc les nouvelles versions GNOME 3 améliorées de "
+"ces fidèles applications que vous avez appris à aimer."
+
+#: ../faq.html:54(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Que va devenir l'ancienne version de GNOME ?"
+
+#: ../faq.html:56(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"Le bureau GNOME 2 a eu une longue vie, et des parties de celui-ci sont "
+"devenues difficile à maintenir. En conséquence, la poursuite du "
+"développement de l'ensemble du bureau GNOME 2 n'a jamais été une option "
+"viable pour le projet GNOME ; plusieurs parties de l'ancien bureau GNOME 2 "
+"ne recevront pas de nouvelles versions après la sortie de GNOME 3. Le bureau "
+"GNOME 2 traditionnel ne va cependant pas disparaître du jour au lendemain : "
+"les dernières versions de GNOME 2 continueront à être prises en charge par "
+"les distributions pour les années à venir."
+
+#: ../faq.html:58(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Pourquoi le bureau GNOME 3 est-il conçu comme cela ?"
+
+#: ../faq.html:60(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"Une énorme quantité de travail a été accomplie pour la création de GNOME 3 "
+"et chacune des décisions de conception a été examinée attentivement. Si vous "
+"avez une question précise sur une de ces décisions de conception, vous "
+"pouvez lire nos <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ"
+"\">réponses aux questions courantes sur la conception de GNOME 3</a> (<i>en "
+"anglais</i>). Par ailleurs, plus d'informations détaillées sur la conception "
+"du bureau GNOME 3 peuvent être trouvées sur la <a href=\"http://live.gnome."
+"org/GnomeShell/Design/\">page du wiki sur la conception du bureau GNOME 3</"
+"a> (<i>en anglais</i>)."
+
+#: ../faq.html:62(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "Quels sont les projets de GNOME après la sortie de GNOME 3 ?"
+
+# Meilleur traduction pour "extensions framework" ?
+#: ../faq.html:64(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"Nous allons faire une grande fête pour célébrer la sortie, puis nous allons "
+"retourner au travail afin d'améliorer notre bureau, de sorte que GNOME 3 "
+"s'améliore encore et encore avec les versions ultérieures. Nous avons "
+"beaucoup de projets pour de nouvelles fonctionnalités qui rendront GNOME "
+"encore plus facile et plus satisfaisant à l'utilisation, tels que la "
+"recherche de documents et une nouvelle structure pour les extensions de "
+"bureau."
+
+#: ../faq.html:66(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "Comment puis-je m'impliquer ou aider GNOME 3 ?"
+
+#: ../faq.html:68(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"Répandre la bonne parole sur GNOME 3 est un excellent moyen de nous venir en "
+"aide. Un message sur Twitter, une mise à jour de la situation ou un article "
+"positif est toujours apprécié. Vous pouvez également rejoindre notre <a href="
+"\"http://www.facebook.com/GNOMEDesktop\">groupe Facebook</ a> ou devenir un "
+"<a href=\"http://www.gnome.org/friends/\">Ami de GNOME</a>. En outre, vous "
+"pouvez nous aider dans l'une des nombreuses tâches variées pour la "
+"réalisation de GNOME. Il suffit de consulter notre <a href=\"http://live."
+"gnome.org/JoinGnome\">page des contributions</a> pour plus de détails."
+
+#: ../faq.html:70(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr ""
+"Je veux écrire à propos de GNOME 3. Comment puis-je obtenir plus "
+"d'informations ?"
+
+#: ../faq.html:72(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Des informations plus complètes sur la version peuvent être obtenues sur la "
+"<a href=\"http://live.gnome.org/ThreePointZero\">page du wiki GNOME 3</a>. "
+"Les requêtes de la presse doivent être envoyées à l'adresse <a href=\"mailto:"
+"gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
