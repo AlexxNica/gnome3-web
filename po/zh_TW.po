@@ -1,9 +1,10 @@
+# ericsun <eric629@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-02-22 19:42+0000\n"
-"PO-Revision-Date: 2011-02-23 14:04+0800\n"
-"Last-Translator: ericsun <eric629@gmail.com>\n"
+"POT-Creation-Date: 2011-04-05 06:18+0000\n"
+"PO-Revision-Date: 2011-04-05 20:41+0800\n"
+"Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,394 +13,486 @@ msgstr ""
 "X-Poedit-Language: Chinese\n"
 "X-Poedit-Country: TAIWAN\n"
 
-#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+#: ../tryit.html:7(title)
+#: ../index.html:8(title)
+#: ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Made of Easy"
 
-#: ../tryit.html:22(h1)
+#: ../tryit.html:21(a)
+#: ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Home"
+msgstr "首頁"
+
+#: ../tryit.html:21(a)
+#: ../index.html:27(a)
+#: ../faq.html:21(a)
+#: ../faq.html:30(h1)
+msgid "Common questions and answers"
+msgstr "常見問答集"
+
+#: ../tryit.html:22(a)
+#: ../index.html:28(a)
+#: ../faq.html:22(a)
+msgid "Try it out!"
+msgstr "開始體驗吧！"
+
+#: ../tryit.html:23(div)
+#: ../index.html:29(div)
+#: ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "驚喜釋出於： <span id=\"countbox\"/> 後"
+
+#: ../tryit.html:30(h1)
 msgid "Try out GNOME 3"
 msgstr "體驗 GNOME 3"
 
-#: ../tryit.html:27(p)
-msgid ""
-"GNOME 3 is under active development and will not be completed until April "
-"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
-"or USB stick."
-msgstr ""
-"GNOME 3 仍在持續開發中，並將於2011年4月發布。若你想要搶先體驗，可以使用 CD/"
-"DVD 或 USB 設備試用 live alpha開發版本。"
-
-#: ../tryit.html:29(a)
-msgid "Download for 32 bit systems"
-msgstr "下載 32 位元版本"
-
-#: ../tryit.html:30(a)
-msgid "Download for 64 bit systems"
-msgstr "下載 64 位元版本"
-
 #: ../tryit.html:32(p)
-msgid ""
-"To run from a CD/DVD, burn the download to a disk, insert into your computer "
-"and reboot."
-msgstr ""
-"直接從 CD/DVD 執行或下載並燒錄映像檔到光碟中，再將光碟放入電腦後重新開機。"
+#| msgid ""
+#| "GNOME 3 is under active development and will not be completed until April "
+#| "2011. If you want to try it, you can run a live alpha version from a CD/"
+#| "DVD or USB stick."
+msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live version from a CD/DVD or USB stick."
+msgstr "GNOME 3 仍在持續開發中，並將於2011年4月發布。若你想要搶先體驗，可以使用 CD/DVD 或 USB 設備試用 live 版本。"
 
-#: ../tryit.html:36(li)
+#: ../tryit.html:40(a)
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../tryit.html:40(h4)
+#: ../tryit.html:48(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME 3 基於 <placeholder-1/>"
+
+#: ../tryit.html:42(a)
+#| msgid "Download for 32 bit systems"
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "下載 32 位元版本 (v0.3.1)"
+
+#: ../tryit.html:44(a)
+#| msgid "Download for 64 bit systems"
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "下載 64 位元版本 (v0.3.1)"
+
+#: ../tryit.html:48(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:50(a)
+#| msgid "Download for 32 bit systems"
+msgid "Download for 32 bit systems (2011-03-31)"
+msgstr "下載 32 位元版本 (2011-03-31)"
+
+#: ../tryit.html:56(p)
+#| msgid ""
+#| "The user name for the live image is 'tux' and the password is 'linux'."
+msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr "openSUSE live 映像檔使用者的帳號名稱是 'tux'，密碼是空的。"
+
+#: ../tryit.html:57(p)
+#| msgid ""
+#| "The user name for the live image is 'tux' and the password is 'linux'."
+msgid "The user name for the Fedora live image is 'liveuser' and the password is empty."
+msgstr "Fedora live 映像檔使用者的帳號名稱是 'liveuser'，密碼是空的。"
+
+#: ../tryit.html:64(p)
+msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
+msgstr "直接從 CD/DVD 執行或下載並燒錄映像檔到光碟中，再將光碟放入電腦後重新開機。"
+
+#: ../tryit.html:68(li)
 msgid "Download the USB image writer (below) and extract it"
 msgstr "下載 USB 開機磁碟製作程式並解壓縮"
 
-#: ../tryit.html:37(li)
-msgid ""
-"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
-"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
-msgstr ""
-"開啟終端機，進入 開機磁碟製作程式所在的資料夾（例如 <code>$ cd ~/下載/abock-"
-"image-usb-stick-f3b1002</code>）"
+#: ../tryit.html:69(li)
+msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr "開啟終端機，進入 開機磁碟製作程式所在的資料夾（例如 <code>$ cd ~/下載/abock-image-usb-stick-f3b1002</code>）"
 
-#: ../tryit.html:38(li)
-msgid ""
-"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
-"code>"
+#: ../tryit.html:70(li)
+msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
 msgstr "準備開機磁碟製作程式：<code>$ chmod a+x ./image-usb-stick</code>"
 
-#: ../tryit.html:39(li)
-msgid ""
-"Remove any USB storage devices that you might have connected to your "
-"computer and insert the empty USB stick that you want to write to"
-msgstr ""
-"缷載所有連接到電腦的 USB 儲存設備，再插入即將用以寫入映像檔的空 USB 儲存設備"
+#: ../tryit.html:71(li)
+msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
+msgstr "缷載所有連接到電腦的 USB 儲存設備，再插入即將用以寫入映像檔的空 USB 儲存設備"
 
-#: ../tryit.html:40(li)
-msgid ""
-"Run the image writer script: <code>$ sudo ./image-usb-stick "
-"path_to_the_live_image.iso</code>"
-msgstr ""
-"執行開機磁碟製作程式：<code>$ sudo ./image-writer live_image.iso</code>（把命"
-"令中的 live_image.iso 替換為映像檔的存放位置）"
+#: ../tryit.html:72(li)
+msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+msgstr "執行開機磁碟製作程式：<code>$ sudo ./image-writer live_image.iso</code>（把命令中的 live_image.iso 替換為映像檔的存放位置）"
 
-#: ../tryit.html:41(li)
+#: ../tryit.html:73(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
 msgstr "重新啟動系統，並保持 USB 儲存設備插在電腦上"
 
-#: ../tryit.html:44(a)
+#: ../tryit.html:76(a)
 msgid "Download USB image writer"
 msgstr "下載 USB 開機磁碟製作程式"
 
-#: ../tryit.html:46(p)
-msgid "The user name for the live image is 'tux' and the password is 'linux'."
-msgstr "Live 映像檔使用者的帳號名稱是 tux，密碼是 linux"
+#: ../tryit.html:63(div)
+#| msgid ""
+#| "<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/"
+#| "> To run the GNOME 3 alpha from a USB stick: <placeholder-5/><placeholder-"
+#| "6/><br/><placeholder-7/>"
+msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><placeholder-3/><br/>"
+msgstr "<placeholder-1/> 使用 USB 設備執行 GNOME 3：<placeholder-2/><placeholder-3/><br/>"
 
-#. grid_16
-#: ../tryit.html:26(div)
-msgid ""
-"<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> "
-"To run the GNOME 3 alpha from a USB stick: <placeholder-5/><placeholder-6/"
-"><br/><placeholder-7/>"
-msgstr ""
-"<placeholder-1/><placeholder-2/><br/><placeholder-3/><br/><placeholder-4/> 使"
-"用 USB 設備執行 GNOME 3 開發版：<placeholder-5/><placeholder-6/><br/"
-"><placeholder-7/>"
-
-#: ../tryit.html:56(a) ../index.html:100(a) ../faq.html:59(a)
+#: ../tryit.html:87(a)
+#: ../index.html:105(a)
+#: ../faq.html:77(a)
 msgid "The GNOME Project"
 msgstr "GNOME 專案"
 
-#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
+#: ../tryit.html:88(a)
+#: ../index.html:106(a)
+#: ../faq.html:78(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:89(a)
+#: ../index.html:107(a)
+#: ../faq.html:79(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:57(a) ../index.html:101(a) ../faq.html:60(a)
+#: ../tryit.html:89(a)
+#: ../index.html:107(a)
+#: ../faq.html:79(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_16
-#: ../tryit.html:55(div) ../index.html:99(div) ../faq.html:58(div)
-msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-"<placeholder-3/><br/> ❧"
-msgstr ""
-"版權所有 © 2010 <placeholder-1/><br/> 分享到 <placeholder-2/> | <placeholder-"
-"3/><br/> ❧"
+#: ../tryit.html:86(div)
+#: ../faq.html:76(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+#| "<placeholder-3/><br/> ❧"
+msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr "版權所有 © 2011 <placeholder-1/><br/>自由分享與改作：<placeholder-2/><br/> 分享到 <placeholder-3/> | <placeholder-4/><br/> ❧"
 
-#: ../index.html:24(h1)
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+#| msgid ""
+#| "GNOME 3 is under active development and will not be completed until April "
+#| "2011. If you want to try it, you can run a live alpha version from a CD/"
+#| "DVD or USB stick."
+msgid "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a live version from a CD/DVD or USB stick."
+msgstr "GNOME 3 會在2011年4月6日發布。若你想要搶先體驗，可以使用 CD/DVD 或 USB 設備試用 live 版本。"
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+#| msgid ""
+#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
+#| "popular distributions after that time. Further details of how you can get "
+#| "GNOME 3 will posted on this site once it is available. If you can't wait "
+#| "that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
+#| "how to try a development version."
+msgid "GNOME 3 was released on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to live demos."
+msgstr "GNOME 3 會在2011年4月6日正式釋出，之後你將可以從各大主要的LINUX發行版網站上取得。更多的詳細內容將會在<a href=\"tryit.html\">開始體驗吧！</a>頁面介紹並提供 live 展示的連結。"
+
+#: ../index.html:37(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "新一代 GNOME 桌面"
 
-#: ../index.html:29(p)
-msgid ""
-"For GNOME 3, the GNOME Project has started from scratch and created a "
-"completely new, modern desktop designed for today's users and technologies. "
-"Here are some of the things that you can expect from the new GNOME:"
-msgstr ""
-"GNOME 3 使用最新的科技，為使用者從頭打造全新的現代化桌面。以下是一些值得你在"
-"新的 GNOME 3 期待的特色："
+#: ../index.html:40(p)
+msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
+msgstr "GNOME 3 使用最新的科技，為使用者從頭打造全新的現代化桌面。以下是一些值得你在新的 GNOME 3 期待的特色："
 
-#: ../index.html:37(h2)
+#: ../index.html:48(div)
+msgid "<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-appsearch.png\"/></a><br/>Access apps faster"
+msgstr "<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-appsearch.png\"/></a><br/>更快速存取程式"
+
+#: ../index.html:49(div)
+msgid "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-windows.png\"/></a><br/>Easier window managment"
+msgstr "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-windows.png\"/></a><br/>更簡單管理視窗"
+
+#: ../index.html:50(div)
+msgid "<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-workspaces.png\"/></a><br/>Create workspaces"
+msgstr "<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-workspaces.png\"/></a><br/>建立工作區"
+
+#: ../index.html:58(h2)
 msgid "Simply beautiful"
 msgstr "簡約美麗"
 
-#: ../index.html:39(p)
-msgid ""
-"GNOME's new desktop takes elegance to a new level. We've swept away the "
-"clutter and made a simple and easy-to-use desktop, and we've made this the "
-"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
-"font and carefully crafted animations--all while preserving compatibilty."
-msgstr ""
-"新的 GNOME 讓簡約的定義更上一層樓。我們清理雜亂元件、設計全新視覺主題、精雕細"
-"琢每一個符號和動畫，這一切造就的是 GNOME 專案有史以來最簡潔易用、最精緻的 "
-"GNOME 桌面。"
+#: ../index.html:60(p)
+#| msgid ""
+#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
+#| "clutter and made a simple and easy-to-use desktop, and we've made this "
+#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
+#| "new font and carefully crafted animations--all while preserving "
+#| "compatibilty."
+msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
+msgstr "新的 GNOME 桌面讓簡約的定義更上一層樓。我們清理雜亂元件、設計全新視覺主題、精雕細琢每一個符號和動畫，這一切造就的是 GNOME 專案有史以來最簡潔易用、最精緻的 GNOME 桌面。"
 
-#: ../index.html:41(h2)
+#: ../index.html:62(h2)
 msgid "An overview at a glance"
 msgstr "所有程式一目了然"
 
-#: ../index.html:43(p)
-msgid ""
-"The activities view provides an easy way to access all your windows and "
-"applications. It is also a great way to keep track of all your activities. "
-"We have provided several fast and convenient ways to access the activities "
-"view, including the activities keyboard key (often known as the Windows key) "
-"and the activities hot corner."
-msgstr ""
-"執行總覽功能讓你一眼就可以看盡所有執行中的視窗。它還是你用以記錄所有活動的一"
-"個絶佳辦法。我們為你提供了各種快速又方便的方式來檢視執行中的視窗，包括鍵盤快"
-"捷鍵和配合鍵（通常指定為 Windows 鍵）。"
+#: ../index.html:64(p)
+msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
+msgstr "執行總覽功能讓你一眼就可以看盡所有執行中的視窗。它還是你用以記錄所有活動的一個絶佳辦法。我們為你提供了各種快速又方便的方式來檢視執行中的視窗，包括鍵盤快捷鍵和配合鍵（通常指定為 Windows 鍵）。"
 
-#: ../index.html:48(h2)
+#: ../index.html:69(h2)
 msgid "Messaging built-in"
 msgstr "內建即時通訊"
 
-#: ../index.html:50(p)
-msgid ""
-"Communication is an important part of the modern desktop, but it's a hassle "
-"when you have to switch windows to reply to a message. That's why GNOME 3 "
-"will let you continue your conversations without changing focus. The ability "
-"to enter a reply straight into messaging notifications makes instant "
-"messaging quick and effortless."
-msgstr ""
-"交流溝通是現代桌面不可或缺的一部份，為了回復別人的訊息而不停地在視窗間切換是"
-"件很麻煩的事情。GNOME 3 讓你在不改變進行中的工作視窗即可進行對話。你可直接在"
-"訊息提示中輸入訊息，讓一切操作變得快速又有效率。"
+#: ../index.html:71(p)
+msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
+msgstr "交流溝通是現代桌面不可或缺的一部份，為了回復別人的訊息而不停地在視窗間切換是件很麻煩的事情。GNOME 3 讓你在不改變進行中的工作視窗即可進行對話。你可直接在訊息提示中輸入訊息，讓一切操作變得快速又有效率。"
 
-#: ../index.html:52(h2)
+#: ../index.html:73(h2)
 msgid "Distraction-free computing"
 msgstr "隨心所欲分配你的注意力"
 
-#: ../index.html:54(p)
-msgid ""
-"GNOME 3 is designed to reduce distraction and interruption and to put you in "
-"control. Our new notifications system subtly presents messages and will save "
-"them until you are ready for them, and the GNOME 3 panel has been styled so "
-"that it is part of the background, not the foreground. These changes allow "
-"you to focus on your creative tasks."
-msgstr ""
-"GNOME 3 的設計致力於減少注意力分散及工作中斷，讓一切盡在你的掌控之中。全新的"
-"提示系統能精確地顯示訊息，並將其保留直到你想要閱讀為止。同時 GNOME 3 的面板被"
-"設計成為背景的一部份，不再佔用寶貴的前景視線。"
+#: ../index.html:75(p)
+msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
+msgstr "GNOME 3 的設計致力於減少注意力分散及工作中斷，讓一切盡在你的掌控之中。全新的提示系統能精確地顯示訊息，並將其保留直到你想要閱讀為止。同時 GNOME 3 的面板被設計成為背景的一部份，不再佔用寶貴的前景視線。"
 
-#: ../index.html:60(h2)
+#: ../index.html:81(h2)
 msgid "Everything at your fingertips"
 msgstr "一切盡在彈指之間"
 
-#: ../index.html:62(p)
-msgid ""
-"With the new GNOME desktop, everything can be quickly accessed from the "
-"keyboard. Press the activities key and search: it's as simple as that. "
-"You'll love this feature if you're a user who likes things to happen fast."
-msgstr ""
-"全新的 GNOME 桌面允許你通過鍵盤快速瀏覽所有內容。按下快捷鍵即可開始搜索：一切"
-"就是這麼簡單。如果你是喜愛快速操作的使用者，一定會非常喜歡這個特色。"
+#: ../index.html:83(p)
+msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
+msgstr "全新的 GNOME 桌面允許你通過鍵盤快速瀏覽所有內容。按下快捷鍵即可開始搜索：一切就是這麼簡單。如果你是喜愛快速操作的使用者，一定會非常喜歡這個特色。"
 
-#: ../index.html:64(h2)
+#: ../index.html:85(h2)
 msgid "Redesigned system settings"
 msgstr "重新設定系統"
 
-#: ../index.html:66(p)
-msgid ""
-"Our system settings have been completely redesigned for GNOME 3, making them "
-"easier to use than ever before. There are some great new features in our "
-"system settings too, such as the ability to use Flickr images as desktop "
-"backgrounds."
-msgstr ""
-"我們的系統設定工具為 GNOME 3 進行了完全的全新設計，使其比以往更加易於使用。系"
-"統設定中也有一些非常優秀的特性，例如你可以使用 Flickr 上的圖片作為桌面背景。"
+#: ../index.html:87(p)
+#| msgid ""
+#| "Our system settings have been completely redesigned for GNOME 3, making "
+#| "them easier to use than ever before. There are some great new features in "
+#| "our system settings too, such as the ability to use Flickr images as "
+#| "desktop backgrounds."
+msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. GNOME 3 also provides a new way to browse your settings, and our settings categories have been reorganised, making it quick and straightforward to find the setting that you want."
+msgstr "我們的系統設定工具為 GNOME 3 進行了完全的全新設計，使其比以往更加易於使用。GNOME 3 提供了新的方式來瀏覽你的設定值，而我們的設定值分類也經過重新組織，讓它更快速且直覺的找到你想要設定的東西。"
 
-#: ../index.html:71(h2)
+#: ../index.html:92(h2)
 msgid "And much, much more"
 msgstr "更多值得期待的功能"
 
-#: ../index.html:73(p)
-msgid ""
-"GNOME 3 is crammed full of new features. Here are some of the other things "
-"that you can look forward to from GNOME 3:"
+#: ../index.html:94(p)
+msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
 msgstr "GNOME 3 有非常多的新特色，以下是其他一些值得你期待的設計："
 
-#: ../index.html:75(li)
-msgid "Window tiling to make using several windows simple and easy"
+#: ../index.html:96(li)
+#| msgid "Window tiling to make using several windows simple and easy"
+msgid "Side-by-side window tiling to make using several windows simple and easy"
 msgstr "視窗舖排讓多視窗的使用更簡易"
 
-#: ../index.html:76(li)
-msgid "An improved file manager"
-msgstr "更進化的檔案管理系統"
+#: ../index.html:97(li)
+#| msgid "An improved file manager"
+msgid "A redesigned file manager"
+msgstr "重新設計的檔案瀏覽器"
 
-#: ../index.html:77(li)
-msgid ""
-"Dark application themes for when you want to focus on pictures and videos"
-msgstr "當你觀賞圖片或影片的時候，背景會自動的變暗，讓你全心注意在當前的事物"
-
-#: ../index.html:78(li)
+#: ../index.html:98(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "重新設計的工作空間讓你可以更容易的管理你的視窗"
 
-#: ../index.html:79(li)
+#: ../index.html:99(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "不著痕跡的大改變讓你擁有更快速，更順暢的使用者體驗"
 
-#: ../index.html:80(li)
-msgid ""
-"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
-"feel right at home on netbooks as well as larger machines"
+#: ../index.html:100(li)
+msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
 msgstr "不論你是使用什麼樣的電腦，GNOME 3 都會讓你擁有滿意的使用者體驗 "
 
-#: ../index.html:90(a) ../faq.html:24(h1)
-msgid "Common questions and answers"
-msgstr "常見問答集"
+#: ../index.html:109(span)
+msgid "This website is available in many languages:"
+msgstr "這個網站提供許多語言："
 
-#. grid_6
-#: ../index.html:92(div)
-msgid " "
-msgstr " "
+#: ../index.html:110(a)
+msgid "English"
+msgstr "英文"
 
-#: ../index.html:95(a)
-msgid "Try it out!"
-msgstr "開始體驗吧！"
+#: ../index.html:111(a)
+msgid "العربية"
+msgstr "العربية"
 
-#: ../faq.html:28(h2)
+#: ../index.html:112(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:113(a)
+msgid "Čeština"
+msgstr "Čeština"
+
+#: ../index.html:114(a)
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
+
+#: ../index.html:115(a)
+msgid "Español"
+msgstr "Español"
+
+#: ../index.html:116(a)
+msgid "Persian"
+msgstr "波斯文"
+
+#: ../index.html:117(a)
+msgid "Galego"
+msgstr "Galego"
+
+#: ../index.html:118(a)
+msgid "Italiano"
+msgstr "Italiano"
+
+#: ../index.html:119(a)
+msgid "日本語"
+msgstr "日本語"
+
+#: ../index.html:120(a)
+msgid "Latvian"
+msgstr "Latvian"
+
+#: ../index.html:121(a)
+msgid "한국어"
+msgstr "한국어"
+
+#: ../index.html:122(a)
+msgid "Polski"
+msgstr "Polski"
+
+#: ../index.html:123(a)
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
+
+#: ../index.html:124(a)
+msgid "Română"
+msgstr "Română"
+
+#: ../index.html:125(a)
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:126(a)
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:127(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:128(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:129(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中國大陸)"
+
+#: ../index.html:130(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:131(a)
+msgid "中文 (台灣)"
+msgstr "中文 (臺灣)"
+
+#: ../index.html:108(div)
+msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+
+#. grid_16
+#: ../index.html:104(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+#| "<placeholder-3/><br/> ❧"
+msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr "版權所有 © 2011 <placeholder-1/><br/> 自由分享與改作：<placeholder-2/><br/>分享到 <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:38(h2)
 msgid "How do I get GNOME 3?"
 msgstr "我要如何取得 GNOME 3？"
 
-#: ../faq.html:30(p)
-msgid ""
-"GNOME 3 is scheduled for release in April 2011 and will be available via "
-"popular distributions after that time. Further details of how you can get "
-"GNOME 3 will posted on this site once it is available. If you can't wait "
-"that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
-"how to try a development version."
-msgstr ""
-"GNOME 3 計劃於2011年4月正式釋出，之後你將可以從各大主要的LINUX發行版網站上取"
-"得。更多的詳細內容將會隨著開發的進行而陸續在本站發表。如果你迫不及待地想體"
-"驗，我們的 <a href=\"tryit.html\">體驗 GNOME 3 </a>頁面介紹了試用開發版本的詳"
-"細資訊。"
+#: ../faq.html:40(p)
+#| msgid ""
+#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
+#| "popular distributions after that time. Further details of how you can get "
+#| "GNOME 3 will posted on this site once it is available. If you can't wait "
+#| "that long, our <a href=\"tryit.html\">Try It</a> page contains details on "
+#| "how to try a development version."
+msgid "GNOME 3 is scheduled for release on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to a live demos."
+msgstr "GNOME 3 計劃於2011年4月6日正式釋出，之後你將可以從各大主要的LINUX發行版網站上取得。更多的詳細內容將會在<a href=\"tryit.html\">開始體驗吧！</a>頁面介紹並提供 live 展示的連結。"
 
-#: ../faq.html:32(h2)
+#: ../faq.html:42(h2)
+#| msgid "The GNOME Project"
+msgid "What is the GNOME Project, anyway?"
+msgstr "到底 GNOME 專案是什麼？"
+
+#: ../faq.html:44(p)
+msgid "The GNOME Project is an international community which comes together to make great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a>: all our work is free to use, modify and redistribute. Everyone is welcome to participate in its development. See <a href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more information."
+msgstr "GNOME 計畫是國際性的社群，共同製做最好的軟體。GNOME 軟體是 <a href=\"http://www.gnu.org/philosophy/free-sw.html\">自由軟體</a>：我們所有的成果都可以自由的使用、修改和重新散佈。歡迎每個人來參與它的開發。請參閱<a href=\"http://www.gnome.org/about/\">關於 GNOME 頁面</a>以取得更多資訊。"
+
+#: ../faq.html:46(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "我的電腦能執行 GNOME 3 嗎？"
 
-#: ../faq.html:34(p)
-msgid ""
-"Computers purchased in the last 4 or 5 years should be more than capable of "
-"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
-"graphics in order to provide a cutting-edge experience however, and the "
-"complete GNOME 3 experience will only be available on computers capable of "
-"this. Do not worry though: GNOME 3 will come complete with a fallback "
-"interface which will provide an excellent experience in the absence of "
-"hardware acceleration, and which incorporates many of the improvements that "
-"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
-"working hard to ensure that the complete GNOME 3 experience is available to "
-"as many people as possible, and aim to ensure that users who are initially "
-"unable to have this experience will be able to in the future."
-msgstr ""
-"四、五年內購買的電腦應該可以毫無問題地執行 GNOME 3。GNOME 3 的全新桌面體驗需"
-"要更高的硬體顯示效能；但請不用擔心，GNOME 3 同時也為缺少硬體加速功能的桌面提"
-"供了極佳的桌面體驗。除此之外，GNOME 計劃及相關合作伙伴正全力確保它可以為更多"
-"的人服務，讓更多的朋友可以使用。"
+#: ../faq.html:48(p)
+msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
+msgstr "四、五年內購買的電腦應該可以毫無問題地執行 GNOME 3。GNOME 3 的全新桌面體驗需要更高的硬體顯示效能；但請不用擔心，GNOME 3 同時也為缺少硬體加速功能的桌面提供了極佳的桌面體驗。除此之外，GNOME 計劃及相關合作伙伴正全力確保它可以為更多的人服務，讓更多的朋友可以使用。"
 
-#: ../faq.html:36(h2)
+#: ../faq.html:50(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "我可以在 GNOME 3 進行我最喜歡的 GNOME 應用軟體嗎?"
 
-#: ../faq.html:38(p)
-msgid ""
-"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
-"does provide facilities to make applications even better though, so look out "
-"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
-"love."
-msgstr ""
-"當然可以！已有的 GNOME 應用軟體將在 GNOME 3 中順利執行。GNOME 3 有提昇使用者"
-"體驗的設計，所以請期待你喜愛的應用軟體在 GNOME 3 將表現的更加出色。"
+#: ../faq.html:52(p)
+msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
+msgstr "當然可以！已有的 GNOME 應用軟體將在 GNOME 3 中順利執行。GNOME 3 有提昇使用者體驗的設計，所以請期待你喜愛的應用軟體在 GNOME 3 將表現的更加出色。"
 
-#: ../faq.html:40(h2)
+#: ../faq.html:54(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "舊版的 GNOME 會怎樣？"
 
-#: ../faq.html:42(p)
-msgid ""
-"The GNOME 2 desktop had a long life, and parts of it became difficult to "
-"maintain over that period. As a result, continued releases of the entire "
-"GNOME 2 desktop was never a practical option for the GNOME Project, and "
-"several parts of the old GNOME 2 desktop will not receive new releases after "
-"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
-"overnight, however: releases of GNOME 2 will continue to be supported by "
-"distributions for years to come."
-msgstr ""
-"GNOME 2 存在了相當長的時間，其中的一些元件將隨著時間而變得越來越難以維護。因"
-"此，繼續發布 GNOME 2 桌面對於 GNOME 專案來說並不是一個很好的選擇，GNOME 2 有"
-"很多地方在 GNOME 3 發布後將不會再發布新的版本。然而，傳統的 GNOME 2 桌面還不"
-"會就此消失：各大發行版還會對 GNOME 2 提供多年的支援。"
+#: ../faq.html:56(p)
+msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
+msgstr "GNOME 2 存在了相當長的時間，其中的一些元件將隨著時間而變得越來越難以維護。因此，繼續發布 GNOME 2 桌面對於 GNOME 專案來說並不是一個很好的選擇，GNOME 2 有很多地方在 GNOME 3 發布後將不會再發布新的版本。然而，傳統的 GNOME 2 桌面還不會就此消失：各大發行版還會對 GNOME 2 提供多年的支援。"
 
-#: ../faq.html:44(h2)
+#: ../faq.html:58(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "GNOME 3 桌面的設計理念為何?"
 
-#: ../faq.html:46(p)
-msgid ""
-"A huge amount of work has gone into the design of GNOME 3, and each of the "
-"design decisions behind it has a carefully considered rationale. If you have "
-"a specific question about one of these design decisions, try reading our <a "
-"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
-"3 design questions</a>. Alternatively, more extensive details about the "
-"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
-"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
-msgstr ""
-"設計 GNOME 3 的過程中我們做了大量的工作，每一個背後的設計決定都經過用心的確"
-"認。如果你對某個特定的設計有疑問，請先閱讀我們的 <ahref=\"http://live.gnome."
-"org/GnomeShell/Design/FAQ\">GNOME 3 常見設計問答集</a>。此外，關於 GNOME 3 的"
-"更多設計細節可以在 <a href=\"http://live.gnome.org/GnomeShell/Design/"
-"\">GNOME 3 桌面設計 Wiki</a>上找到。"
+#: ../faq.html:60(p)
+msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr "設計 GNOME 3 的過程中我們做了大量的工作，每一個背後的設計決定都經過用心的確認。如果你對某個特定的設計有疑問，請先閱讀我們的 <ahref=\"http://live.gnome.org/GnomeShell/Design/FAQ\">GNOME 3 常見設計問答集</a>。此外，關於 GNOME 3 的更多設計細節可以在 <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 桌面設計 Wiki</a>上找到。"
 
-#: ../faq.html:48(h2)
+#: ../faq.html:62(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "GNOME 3 發布後，下一步的計劃是？"
 
-#: ../faq.html:50(p)
-msgid ""
-"We are going to have a huge party to celebrate the release, and then we're "
-"going to get back to work improving our desktop, so that GNOME 3 will get "
-"better and better with subsequent releases. We have lots of plans for new "
-"features which will make GNOME even easier and more satisfying to use, such "
-"as document search and an exciting new desktop extensions framework."
-msgstr ""
-"我們將為慶祝它的發布而舉行一個盛大的晚會，然後繼續改進的我們的桌面。在後續的"
-"發布中，GNOME 3 變得越來越好。我們有許多讓 GNOME 更易用、提供更好體驗的計劃，"
-"例如檔案檢索和令人振奮的新桌面擴充框架。"
+#: ../faq.html:64(p)
+msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
+msgstr "我們將為慶祝它的發布而舉行一個盛大的晚會，然後繼續改進的我們的桌面。在後續的發布中，GNOME 3 變得越來越好。我們有許多讓 GNOME 更易用、提供更好體驗的計劃，例如檔案檢索和令人振奮的新桌面擴充框架。"
 
-#: ../faq.html:52(h2)
+#: ../faq.html:66(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "我要如何參與或幫助 GNOME 3？"
 
-#: ../faq.html:54(p)
-msgid ""
-"Spreading the word about GNOME 3 is a great way to help out. A positive "
-"tweet, dent, status update or post is always appreciated. You can also join "
-"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
-"become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. "
-"Additionally, you can help out with one of the many varied tasks involved in "
-"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
-"\">contribution page</a> for more details."
-msgstr ""
-"向全世界傳播和推廣 GNOME 3 是幫助我們最好的方式。一則積極的微網誌或狀態訊息，"
-"甚至是部落格文章都是非常有價值的方式。你還可以加入我們的 <a href=\"http://"
-"www.facebook.com/GNOMEDesktop\">Facebook 小組</a>或成為一位<a href=\"http://"
-"www.gnome.org/friends/\">GNOME之友</a>。此外，你還可以在我們發起的 GNOME 各項"
-"計劃進行協助，詳情請參閱我們的<a href=\"http://live.gnome.org/JoinGnome\">如"
-"何貢獻</a>頁面。"
+#: ../faq.html:68(p)
+#| msgid ""
+#| "Spreading the word about GNOME 3 is a great way to help out. A positive "
+#| "tweet, dent, status update or post is always appreciated. You can also "
+#| "join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</"
+#| "a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</"
+#| "a>. Additionally, you can help out with one of the many varied tasks "
+#| "involved in producing GNOME. Just check out our <a href=\"http://live."
+#| "gnome.org/JoinGnome\">contribution page</a> for more details."
+msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
+msgstr "向全世界傳播和推廣 GNOME 3 是幫助我們最好的方式。一則積極的微網誌或狀態訊息，甚至是部落格文章都是非常有價值的方式。你還可以加入我們的 <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook 小組</a>或成為一位<a href=\"http://www.gnome.org/friends/\">GNOME之友</a>。此外，你還可以在我們發起的 GNOME 各項計劃進行協助，詳情請參閱我們的<a href=\"http://live.gnome.org/JoinGnome\">如何貢獻</a>頁面。"
+
+#: ../faq.html:70(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "我想要寫關於 GNOME 3 的文章。我要如何取得更多資訊？"
+
+#: ../faq.html:72(p)
+msgid "Further information about the release can be found on the <a href=\"http://live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
+msgstr "關於這次釋出的進一步資訊可以在 <a href=\"http://live.gnome.org/ThreePointZero\">GNOME 3 wiki 頁面</a>找到。新聞詢問則應該送到 <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>。"
+
+#~ msgid ""
+#~ "Dark application themes for when you want to focus on pictures and videos"
+#~ msgstr ""
+#~ "當你觀賞圖片或影片的時候，背景會自動的變暗，讓你全心注意在當前的事物"
+
+#~ msgid " "
+#~ msgstr " "
