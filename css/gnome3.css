@@ -137,3 +137,11 @@ ul.navigation li a {
 #languages {
   margin: 1em 2em;
 }
+
+.videos {
+  text-align: center;
+}
+
+.features {
+  margin-top: 50px;
+}
