@@ -7,14 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-05 06:18+0000\n"
-"PO-Revision-Date: 2011-04-05 14:14+0100\n"
+"POT-Creation-Date: 2011-04-05 16:36+0000\n"
+"PO-Revision-Date: 2011-04-05 18:39+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: \n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
@@ -177,16 +177,16 @@ msgid "For GNOME 3, the GNOME Project has started from scratch and created a com
 msgstr "Razvoj namizja GNOME 3 je bil začet znova, s popolnim pregledom obstoječe kode in programskih rešitev. Rezultat je popolnoma novo, moderno namizje, ki podpira delovanje različnih sodobnih tehnologij in ponuja novo, boljšo uporabniško izkušnjo. Namizje GNOME 3 ponuja:"
 
 #: ../index.html:48(div)
-msgid "<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-appsearch.png\"/></a><br/>Access apps faster"
-msgstr "<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-appsearch.png\"/></a><br/>Hitrejši dostop do programov"
+msgid "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-appsearch.png\"/></a><br/>Access apps faster"
+msgstr "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-appsearch.png\"/></a><br/>Hitrejši dostop do programov"
 
 #: ../index.html:49(div)
-msgid "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-windows.png\"/></a><br/>Easier window managment"
-msgstr "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-windows.png\"/></a><br/>Enostavnejše upravljanje z okni"
+msgid "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Easier window managment"
+msgstr "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Enostavnejše upravljanje z okni"
 
 #: ../index.html:50(div)
-msgid "<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-workspaces.png\"/></a><br/>Create workspaces"
-msgstr "<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-workspaces.png\"/></a><br/>Ustvarjanje delovnih površin"
+msgid "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-workspaces.png\"/></a><br/>Create workspaces"
+msgstr "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-workspaces.png\"/></a><br/>Ustvarjanje delovnih površin"
 
 #: ../index.html:58(h2)
 msgid "Simply beautiful"
@@ -439,3 +439,4 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 
 #~ msgid " "
 #~ msgstr " "
+
