@@ -6,34 +6,35 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-04-01 19:55+0000\n"
-"PO-Revision-Date: 2011-04-01 13:36+0800\n"
-"Last-Translator: Edison Zhao <edison0354@gmail.com>\n"
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-04-05 16:39+0000\n"
+"PO-Revision-Date: 2011-04-06 02:57+0800\n"
+"Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
-msgstr "GNOME 3 - 易用至上"
+msgstr "GNOME 3 - Made of Easy"
 
-#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Home"
 msgstr "首页"
 
-#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 #: ../faq.html:30(h1)
 msgid "Common questions and answers"
-msgstr "常见问题解答"
+msgstr "常见问题及解答"
 
-#: ../tryit.html:22(a) ../index.html:29(a) ../faq.html:22(a)
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
 msgid "Try it out!"
 msgstr "现在就试试！"
 
-#: ../tryit.html:23(div) ../index.html:30(div) ../faq.html:23(div)
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
 msgid "Releasing awesome in: <span id=\"countbox\"/>"
 msgstr "发布倒计时：<span id=\"countbox\"/>"
 
@@ -125,7 +126,7 @@ msgstr ""
 
 #: ../tryit.html:73(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
-msgstr "保持 USB 闪存插在计算机上，重启系统即可运行"
+msgstr "保持 USB 闪存插在计算机上，重启系统即可运行此 Live 镜像"
 
 #: ../tryit.html:76(a)
 msgid "Download USB image writer"
@@ -139,19 +140,19 @@ msgstr ""
 "<placeholder-1/> 从 USB 闪存运行 GNOME 3：<placeholder-2/><placeholder-3/"
 "><br/>"
 
-#: ../tryit.html:87(a) ../index.html:100(a) ../faq.html:77(a)
+#: ../tryit.html:87(a) ../index.html:105(a) ../faq.html:77(a)
 msgid "The GNOME Project"
 msgstr "GNOME 项目"
 
-#: ../tryit.html:88(a) ../index.html:101(a) ../faq.html:78(a)
+#: ../tryit.html:88(a) ../index.html:106(a) ../faq.html:78(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -161,8 +162,8 @@ msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
-"版权所有 © 2011 <placeholder-1/><br/> 授权方式：<placeholder-2/><br/> 分享到：<placeholder-3/> | <placeholder-"
-"4/><br/> ❧"
+"版权所有 © 2011 <placeholder-1/><br/> 授权方式：<placeholder-2/><br/> 分享"
+"到：<placeholder-3/> | <placeholder-4/><br/> ❧"
 
 #. String to use in tryit.html after release
 #: ../temp.html:11(p)
@@ -184,11 +185,11 @@ msgstr ""
 "及待地想要尝试它，若要获取更多信息及试用 Live 镜像，请参见我们的 <a href="
 "\"tryit.html\">尝试 GNOME 3</a> 页面。"
 
-#: ../index.html:38(h1)
+#: ../index.html:37(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "让我们一起走近全新的下一代 GNOME 桌面"
 
-#: ../index.html:45(p)
+#: ../index.html:40(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
@@ -197,26 +198,51 @@ msgstr ""
 "GNOME 项目使用最新的科技，为用户从头打造了全新的现代桌面——GNOME 3。以下是一些"
 "值得您在新的 GNOME 中期待的特性："
 
-#: ../index.html:53(h2)
+#: ../index.html:48(div)
+msgid ""
+"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>Access apps faster"
+msgstr ""
+"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>更快速地打开程序"
+
+
+#: ../index.html:49(div)
+msgid ""
+"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
+"png\"/></a><br/>Easier window managment"
+msgstr ""
+"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
+"png\"/></a><br/>更方便的窗口管理"
+
+
+#: ../index.html:50(div)
+msgid ""
+"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>Create workspaces"
+msgstr ""
+"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>更智能的工作区管理"
+#: ../index.html:58(h2)
 msgid "Simply beautiful"
 msgstr "界面简洁优雅"
 
-#: ../index.html:55(p)
+#: ../index.html:60(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
 "most beautiful GNOME desktop ever, with a new visual theme, a refined new "
 "font and carefully crafted animations."
 msgstr ""
-"新版 GNOME 让优雅的定义更上一层楼。我们清理了杂乱部件、设计全新视觉主题、精雕细"
-"琢每一个字符和动画、同时保留兼容性——这一切造就的是有史以来最简洁易用、精工细"
-"作的 GNOME 桌面。"
+"新版 GNOME 让优雅的定义更上一层楼。我们清理了杂乱部件、设计全新视觉主题、精雕"
+"细琢每一个字符和动画、同时保留兼容性——这一切造就的是有史以来最简洁易用、精工"
+"细作的 GNOME 桌面。"
 
-#: ../index.html:57(h2)
+#: ../index.html:62(h2)
 msgid "An overview at a glance"
 msgstr "活动一目了然"
 
-#: ../index.html:59(p)
+#: ../index.html:64(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -228,11 +254,11 @@ msgstr ""
 "有活动的一个绝佳办法。我们为您提供了多种方式察看活动视图，包括键盘快捷键和活"
 "动键（通常指定为 Windows 键）访问。"
 
-#: ../index.html:64(h2)
+#: ../index.html:69(h2)
 msgid "Messaging built-in"
 msgstr "内建即时通讯"
 
-#: ../index.html:66(p)
+#: ../index.html:71(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -244,11 +270,11 @@ msgstr ""
 "添烦恼。GNOME 3 允许您不改变焦点即可进行会话，直接在消息提示中输入回复使一切"
 "变得简洁有序。"
 
-#: ../index.html:68(h2)
+#: ../index.html:73(h2)
 msgid "Distraction-free computing"
 msgstr "零注意力分散"
 
-#: ../index.html:70(p)
+#: ../index.html:75(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -260,11 +286,11 @@ msgstr ""
 "全新的提示系统能精妙地显示消息，并将其保留，直到您阅读它们。而 GNOME 3 面板的"
 "风格使其与背景融为一体，不再占用宝贵的前景视线。"
 
-#: ../index.html:76(h2)
+#: ../index.html:81(h2)
 msgid "Everything at your fingertips"
 msgstr "一切尽在指尖"
 
-#: ../index.html:78(p)
+#: ../index.html:83(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -273,11 +299,11 @@ msgstr ""
 "全新的 GNOME 桌面允许您通过键盘快速访问所有内容。按下活动键即可开始搜索——一切"
 "就是这么简单。如果您是热爱快捷的用户，一定会非常喜欢这个特性。"
 
-#: ../index.html:80(h2)
+#: ../index.html:85(h2)
 msgid "Redesigned system settings"
 msgstr "轻松设置系统"
 
-#: ../index.html:82(p)
+#: ../index.html:87(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -288,136 +314,155 @@ msgstr ""
 "览设置选项的全新方式，我们重新组织了设置分类，使您可以更加快捷的找到想要的选"
 "项。"
 
-#: ../index.html:87(h2)
+#: ../index.html:92(h2)
 msgid "And much, much more"
 msgstr "更多精彩等您发现"
 
-#: ../index.html:89(p)
+#: ../index.html:94(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
 msgstr "GNOME 3 有满满一套新特性，值得期待："
 
-#: ../index.html:91(li)
+#: ../index.html:96(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr "窗口平铺使得切换多个窗口变的简单易行"
 
-#: ../index.html:92(li)
+#: ../index.html:97(li)
 msgid "A redesigned file manager"
 msgstr "重新设计的文件管理器"
 
-#: ../index.html:93(li)
+#: ../index.html:98(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "重新设计工作区，使窗口组织更容易"
 
-#: ../index.html:94(li)
+#: ../index.html:99(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "更快速、更平滑的使用体验"
 
-#: ../index.html:95(li)
+#: ../index.html:100(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
 msgstr "不论是家用上网本，还是更大的台式机，都能获得满意的用户体验"
 
-#: ../index.html:104(span)
+#: ../index.html:109(span)
 msgid "This website is available in many languages:"
 msgstr "此网站提供以下语言："
 
-#: ../index.html:105(a)
-msgid "English"
-msgstr ""
-
-#: ../index.html:106(a)
-msgid "Afrikaans"
-msgstr ""
-
-#: ../index.html:107(a)
-msgid "Čeština"
-msgstr ""
-
-#: ../index.html:108(a)
-msgid "Español"
-msgstr ""
-
-#: ../index.html:109(a)
-msgid "Persian"
-msgstr ""
-
 #: ../index.html:110(a)
-msgid "Galego"
-msgstr ""
+msgid "English"
+msgstr "English"
 
 #: ../index.html:111(a)
-msgid "Italiano"
-msgstr ""
+msgid "العربية"
+msgstr "العربية"
 
 #: ../index.html:112(a)
-msgid "日本語"
-msgstr ""
+msgid "Afrikaans"
+msgstr "Afrikaans"
 
 #: ../index.html:113(a)
-msgid "한국어"
-msgstr ""
+msgid "Čeština"
+msgstr "Čeština"
 
 #: ../index.html:114(a)
-msgid "polski"
-msgstr ""
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
 
 #: ../index.html:115(a)
-msgid "Português do Brasil"
-msgstr ""
+msgid "Español"
+msgstr "Español"
 
 #: ../index.html:116(a)
-msgid "Română"
-msgstr ""
+msgid "Persian"
+msgstr "Persian"
 
 #: ../index.html:117(a)
-msgid "Slovenščina"
-msgstr ""
+msgid "Galego"
+msgstr "Galego"
 
 #: ../index.html:118(a)
-msgid "Svenska"
-msgstr ""
+msgid "Italiano"
+msgstr "Italiano"
 
 #: ../index.html:119(a)
-msgid "Uyghur"
-msgstr ""
+msgid "日本語"
+msgstr "日本語"
 
 #: ../index.html:120(a)
-msgid "中文 (中国大陆)"
-msgstr ""
+msgid "Latvian"
+msgstr "Latvian"
 
 #: ../index.html:121(a)
-msgid "中文 (香港)"
-msgstr ""
+msgid "한국어"
+msgstr "한국어"
 
 #: ../index.html:122(a)
-msgid "中文 (台灣)"
-msgstr ""
+msgid "Polski"
+msgstr "Polski"
 
-#: ../index.html:103(div)
+#: ../index.html:123(a)
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
+
+#: ../index.html:124(a)
+msgid "Română"
+msgstr "Română"
+
+#: ../index.html:125(a)
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:126(a)
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:127(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:128(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:129(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:130(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:131(a)
+msgid "中文 (台灣)"
+msgstr "中文 (台灣)"
+
+#: ../index.html:108(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
-"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/>"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
-"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/>"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
 
 #. grid_16
-#: ../index.html:99(div)
+#: ../index.html:104(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 msgstr ""
-"版权所有 © 2011 <placeholder-1/><br/> 授权协议：<placeholder-2/><br/> 分享到：<placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+"版权所有 © 2011 <placeholder-1/><br/> 授权协议：<placeholder-2/><br/> 分享"
+"到：<placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 
 #: ../faq.html:38(h2)
 msgid "How do I get GNOME 3?"
@@ -447,10 +492,10 @@ msgid ""
 "information."
 msgstr ""
 "GNOME 项目是一个以编写卓越的软件为目的而相聚在一起的人们所组成的的国际社区。"
-"GNOME 是<a href=\"http://www.gnu.org/philosophy/free-sw.html\">自由软件</"
-"a>：我们所有的作品都可以自由地使用，修改，以及重新发行。欢迎任何人参与到我们"
-"的开发工作中。更多信息请参见<a href=\"http://www.gnome.org/about/\">关于"
-"GNOME</a> 页面。"
+"GNOME 是<a href=\"http://www.gnu.org/philosophy/free-sw.html\">自由软件</a>："
+"我们所有的作品都可以自由地使用，修改，以及重新发行。欢迎任何人参与到我们的开"
+"发工作中。更多信息请参见<a href=\"http://www.gnome.org/about/\">关于GNOME</"
+"a> 页面。"
 
 #: ../faq.html:46(h2)
 msgid "Will my computer be able to run GNOME 3?"
@@ -562,8 +607,8 @@ msgstr ""
 "章都是极有价值的方式。您还可以加入我们的 <a href=\"http://www.facebook.com/"
 "GNOMEDesktop\">Facebook 小组</a>或成为一位 <a href=\"http://www.gnome.org/"
 "friends/\">GNOME 之友</a>。此外，您还可以在我们开发 GNOME 的各个环节进行帮"
-"助，详情请参阅我们的<a href=\"http://live.gnome.org/JoinGnome\">如何贡献</"
-"a>页面。"
+"助，详情请参阅我们的<a href=\"http://live.gnome.org/JoinGnome\">如何贡献</a>"
+"页面。"
 
 #: ../faq.html:70(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
