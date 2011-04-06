@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-06 13:37+0000\n"
-"PO-Revision-Date: 2011-04-06 23:18+0900\n"
+"PO-Revision-Date: 2011-04-07 00:52+0900\n"
 "Last-Translator: Seong-ho, Cho <darkcircle.0426@gmail.com>\n"
 "Language-Team: gnome-kr <gnome-kr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -49,10 +49,7 @@ msgid ""
 "GNOME 3 is under active development and will not be completed until April "
 "2011. If you want to try it, you can run a live version from a CD/DVD or USB "
 "stick."
-msgstr ""
-"GNOME 3 는 개발중에 있으며 2011년 4월 이전까지는 완료되지 않을 것입니다. 만"
-"약 사용해보고 싶다면 CD/DVD나 USB 스틱상에서 라이브 알파 버전을 실행할 수 있"
-"습니다."
+msgstr "그놈 3는 개발중에 있으며 2011년 4월 이전까지는 완료되지 않을 것입니다. 만약 사용해보고 싶다면 CD/DVD나 USB 메모리에서 라이브 알파 버전을 실행할 수 있습니다."
 
 #: ../tryit.html:42(a)
 msgid "openSUSE"
@@ -81,15 +78,13 @@ msgstr "32비트 시스템용 다운로드 (2011-04-05)"
 #: ../tryit.html:58(p)
 msgid ""
 "The user name for the openSUSE live image is 'tux' and the password is empty."
-msgstr ""
-"오픈수세 라이브 이미지에서의 사용자 이름은 'tux' 이고, 암호는 없습니다."
+msgstr "오픈수세 라이브 이미지에서 사용자 이름은 'tux' 이고, 암호는 없습니다."
 
 #: ../tryit.html:59(p)
 msgid ""
 "The user name for the Fedora live image is 'liveuser' and the password is "
 "empty."
-msgstr ""
-"페도라 라이브 이미지에서의 사용자 이름은 'liveuser' 이고, 암호는 없습니다."
+msgstr "페도라 라이브 이미지에서 사용자 이름은 'liveuser' 이고, 암호는 없습니다."
 
 #: ../tryit.html:66(p)
 msgid ""
@@ -182,9 +177,7 @@ msgstr ""
 msgid ""
 "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
 "live version from a CD/DVD or USB stick."
-msgstr ""
-"GNOME 3 는 2011년 4월 6일 출시되었습니다. 만약 사용해보고 싶다면 CD/DVD나 "
-"USB 스틱상에서 실행할 수 있습니다."
+msgstr "그놈 3는 2011년 4월 6일 출시되었습니다. 만약 사용해보고 싶다면 CD/DVD나 USB 스틱상에서 실행할 수 있습니다."
 
 #. String to use in faq.html after release
 #: ../temp.html:13(p)
@@ -269,7 +262,7 @@ msgstr ""
 
 #: ../index.html:69(h2)
 msgid "An overview at a glance"
-msgstr "한 눈에 알아보다"
+msgstr "한 눈에 보기"
 
 #: ../index.html:71(p)
 msgid ""
@@ -278,12 +271,7 @@ msgid ""
 "We have provided several fast and convenient ways to access the activities "
 "view, including the activities keyboard key (often known as the Windows key) "
 "and the activities hot corner."
-msgstr ""
-"액티비티 뷰는 모든 창과 프로그램들에 접근하기 위한 쉬운 방법을 제공합니다. 이"
-"는 그동안 실행했던 액티비티들을 기억하는 최상의 방법이기도 합니다. 우리는 액"
-"티비티 키보드 키 (종종 윈도우즈 키로 알려져 있습니다) 와 액티비티 핫 코너가 "
-"포함된, 액티비티 뷰로 접근하기 위한 빠르고 편리한 여러가지 방법들을 제공합니"
-"다."
+msgstr "현재 활동 뷰는 모든 창과 프로그램들에 접근하기 위한 쉬운 방법을 제공합니다. 이는 그동안 실행했던 활동들을 기억하는 최상의 방법이기도 합니다. 우리는 현재 활동 키보드 키 (종종 윈도우즈 키로 알려져 있습니다) 와 현재 활동 핫 코너가 포함된, 현재 활동 뷰로 접근하기 위한 빠르고 편리한 여러가지 방법들을 제공합니다."
 
 #: ../index.html:76(h2)
 msgid "Messaging built-in"
@@ -330,9 +318,7 @@ msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
 "You'll love this feature if you're a user who likes things to happen fast."
-msgstr ""
-"새로운 그놈 데스크톱에서는 모든 것들을 키보드로 빠르게 접근할 수 있습니다. 액"
-"티비티 키를 누르고 검색해보십시오: 이처럼 간단합니다. "
+msgstr "새로운 그놈 데스크톱에서는 모든 것들을 키보드로 빠르게 접근할 수 있습니다. 현재 활동 키를 누르고 검색해보십시오: 이처럼 간단합니다."
 
 #: ../index.html:92(h2)
 msgid "Redesigned system settings"
@@ -344,10 +330,7 @@ msgid ""
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
 "your settings, and our settings categories have been reorganised, making it "
 "quick and straightforward to find the setting that you want."
-msgstr ""
-"시스템 설정은 이전보다 사용하기 쉽게 하도록 만든 그놈 3를 위해 완전히 재설계"
-"되었습니다. Flickr 이미지를 데스크톱의 배경화면으로 사용할 수 있는 기능과 같"
-"이 시스템 설정에서의 대단히 새로운 몇몇 기능들도 있습니다."
+msgstr "시스템 설정은 이전보다 사용하기 쉽게 하도록 만든 그놈 3를 위해 완전히 재설계되었습니다. Flickr 이미지를 데스크톱의 배경화면으로 사용할 수 있는 기능과 같이 시스템 설정에서 대단히 새로운 몇몇 기능들도 있습니다."
 
 #: ../index.html:99(h2)
 msgid "And much, much more"
@@ -357,9 +340,7 @@ msgstr "더 많아진 기능들"
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
-msgstr ""
-"그놈 3는 새로운 기능들이 꽉 채워졌습니다. 이 밖에 그놈 3로부터 미리 볼 수 있"
-"는 것들은 다음과 같습니다."
+msgstr "그놈 3는 새로운 기능들이 꽉 채워졌습니다. 이 밖에 그놈 3로부터 미리 볼 수 있는 것들은 다음과 같습니다:"
 
 #: ../index.html:103(li)
 msgid ""
@@ -390,7 +371,7 @@ msgstr ""
 
 #: ../index.html:116(span)
 msgid "This website is available in many languages:"
-msgstr "이 웹사이트의 내용은 다음의 수많은 언어로 제공됩니다"
+msgstr "이 웹사이트의 내용은 다음의 수많은 언어로 제공됩니다:"
 
 #: ../index.html:117(a)
 msgid "English"
@@ -566,16 +547,7 @@ msgid ""
 "working hard to ensure that the complete GNOME 3 experience is available to "
 "as many people as possible, and aim to ensure that users who are initially "
 "unable to have this experience will be able to in the future."
-msgstr ""
-"최근 4~5년 이내에 구매한 컴퓨터라면 그놈 3를 실행하는데 더할 나위가 없는 성능"
-"을 지니고 있을 것입니다. 그놈 3 데스트탑은 최신의 겅험을 제공하기 위해 하드웨"
-"어 가속 그래픽 카드를 필요로 하지만 완전한 그놈 3 경험은 단지 이 정도의 컴퓨>"
-"터 성능이라면 가능할 것입니다. 걱정하지 마세요. 그놈 3는 하드웨어 가속이 빠"
-"진 환경에서 최상의 경험을 제공할 대체 인터페이스와 그놈 3에서 찾아볼 수 있는 "
-"많은 향상요소의 통합과 함께 완성될 것입니다. 게다가 그놈 프로젝트와 파트너들"
-"은 많은 사람들이 완전한 그놈 3 경험을 사용할 수 있게 하는 것을 보장하기 위해 "
-"열심히 일하고 있고, 처음에 이 경험을 사용할 수 없는 사용자들이 나중에는 사용"
-"할 수 있도록 보장하는데 목표를 두고 있습니다."
+msgstr "최근 4~5년 이내에 구매한 컴퓨터라면 그놈 3를 실행하는데 더할 나위가 없는 성능을 지니고 있을 것입니다. 그놈 3 데스크톱은 최신의 겅험을 제공하기 위해 하드웨어 가속 그래픽 카드를 필요로 하지만 완전한 그놈 3 경험은 단지 이 정도의 컴퓨터 성능이라면 가능할 것입니다. 걱정하지 마세요. 그놈 3는 하드웨어 가속이 빠진 환경에서 최상의 경험을 제공할 대체 인터페이스와 그놈 3에서 찾아볼 수 있는 많은 향상요소의 통합과 함께 완성될 것입니다. 게다가 그놈 프로젝트와 파트너들은 많은 사람들이 완전한 그놈 3 경험을 사용할 수 있게 하는 것을 보장하기 위해 열심히 일하고 있고, 처음에 이 경험을 사용할 수 없는 사용자들이 나중에는 사용할 수 있도록 보장하는데 목표를 두고 있습니다."
 
 #: ../faq.html:52(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
@@ -665,14 +637,7 @@ msgid ""
 "Additionally, you can help out with one of the many varied tasks involved in "
 "producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
 "\">contribution page</a> for more details."
-msgstr ""
-"그놈 3에 대한 이야기를 널리 퍼뜨리는 것은 도움을 줄 수 있는 최상의 방법입니"
-"다. 적극적인 트윗, 주목적인 글 작성, 상태 업데이트 혹은 게시는 언제나 권장됩"
-"니다.  또한 <a href=\"http;//www.facebook.com/GNOMEDesktop\">페이스북 그룹</"
-"a>에 가입하거나 <a href=\"http://www.gnome.org/friends/\">그놈 친구</a>가 될 "
-"수도 있습니다. 이밖에, GNOME 제작에 관련된 많은 일들중 하나를 도울 수도 있습"
-"니다. 더 자세한 내용을 보시려면 <a href=\"http://live.gnome.org/JoinGnome\">"
-"공헌 페이지</a>를 확인해 보시기 바랍니다."
+msgstr "그놈 3에 대한 이야기를 널리 퍼뜨리는 것은 도움을 줄 수 있는 최상의 방법입니다. 적극적인 트윗, 주목적인 글 작성, 상태 업데이트 혹은 게시는 언제나 권장됩니다.  또한 <a href=\"http://www.facebook.com/GNOMEDesktop\">페이스북 그룹</a>에 가입하거나 <a href=\"http://www.gnome.org/friends/\">그놈 친구</a>가 될 수도 있습니다. 이밖에, GNOME 제작에 관련된 많은 일들중 하나를 도울 수도 있습니다. 더 자세한 내용을 보시려면 <a href=\"http://live.gnome.org/JoinGnome\">공헌 페이지</a>를 확인해 보시기 바랍니다."
 
 #: ../faq.html:72(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
