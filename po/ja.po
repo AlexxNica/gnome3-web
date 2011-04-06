@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-06 15:47+0000\n"
-"PO-Revision-Date: 2011-04-07 01:55+0900\n"
+"POT-Creation-Date: 2011-04-06 21:10+0000\n"
+"PO-Revision-Date: 2011-04-07 07:58+0900\n"
 "Last-Translator: Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "Language: ja\n"
@@ -21,32 +21,32 @@ msgstr ""
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Made of Easy"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
 msgid "Home"
 msgstr "ホーム"
 
 #. Alpha/Beta/New Banner
 #.         <img class="alpha-banner" src="img/alpha-banner.png"/>
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
-#: ../faq.html:32(h1)
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
+#: ../faq.html:31(h1)
 msgid "Common questions and answers"
 msgstr "よくある質問と答え"
 
-#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "試してみよう!"
 
-#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
-msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr "最高のリリースまで: <span id=\"countbox\"/>"
+#: ../tryit.html:22(div) ../index.html:28(div) ../faq.html:22(div)
+msgid "The next generation desktop has arrived"
+msgstr "次世代のデスクトップがやってきた"
 
 #. Alpha/Beta/NEW Banner
 #.         <img class="alpha-banner" src="img/alpha-banner.png"/>
-#: ../tryit.html:32(h1)
+#: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "GNOME 3 を試してみよう"
 
-#: ../tryit.html:34(p)
+#: ../tryit.html:33(p)
 msgid ""
 "GNOME 3 is under active development and will not be completed until April "
 "2011. If you want to try it, you can run a live version from a CD/DVD or USB "
@@ -55,43 +55,43 @@ msgstr ""
 "GNOME 3 は活発に開発が続いていて、2011年4月に完成の予定です。試すには、CD/"
 "DVD や USB スティックでライブ版を実行することができます。"
 
-#: ../tryit.html:42(a)
+#: ../tryit.html:41(a)
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../tryit.html:42(h4) ../tryit.html:50(h4)
+#: ../tryit.html:41(h4) ../tryit.html:49(h4)
 msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "<placeholder-1/> 上の GNOME 3"
 
-#: ../tryit.html:44(a)
+#: ../tryit.html:43(a)
 msgid "Download for 32 bit systems (v0.3.1)"
 msgstr "32 ビットシステム用をダウンロード (v0.3.1)"
 
-#: ../tryit.html:46(a)
+#: ../tryit.html:45(a)
 msgid "Download for 64 bit systems (v0.3.1)"
 msgstr "64 ビットシステム用をダウンロード (v0.3.1)"
 
-#: ../tryit.html:50(a)
+#: ../tryit.html:49(a)
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../tryit.html:52(a)
+#: ../tryit.html:51(a)
 msgid "Download for 32 bit systems (2011-04-05)"
 msgstr "32 ビットシステム用をダウンロード (2011-04-5)"
 
-#: ../tryit.html:58(p)
+#: ../tryit.html:57(p)
 msgid ""
 "The user name for the openSUSE live image is 'tux' and the password is empty."
 msgstr "openSUSE 版ライブイメージのユーザー名は 'tux' で、パスワードは空です。"
 
-#: ../tryit.html:59(p)
+#: ../tryit.html:58(p)
 msgid ""
 "The user name for the Fedora live image is 'liveuser' and the password is "
 "empty."
 msgstr ""
 "Fedora 版ライブイメージのユーザー名は 'liveuser' で、パスワードは空です。"
 
-#: ../tryit.html:66(p)
+#: ../tryit.html:65(p)
 msgid ""
 "To run from a CD/DVD, burn the download to a disk, insert into your computer "
 "and reboot."
@@ -99,11 +99,11 @@ msgstr ""
 "CD/DVD から実行するには、ダウンロードしたものをディスクに焼き、コンピュータに"
 "入れて再起動してください。"
 
-#: ../tryit.html:70(li)
+#: ../tryit.html:69(li)
 msgid "Download the USB image writer (below) and extract it"
 msgstr "下の USB イメージライターをダウンロードして、展開してください"
 
-#: ../tryit.html:71(li)
+#: ../tryit.html:70(li)
 msgid ""
 "Open a terminal and navigate to the extracted image writer folder (eg. <code>"
 "$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
@@ -111,7 +111,7 @@ msgstr ""
 "ターミナルを開き、展開したイメージライターのあるフォルダへ移動します (例: "
 "<code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)。"
 
-#: ../tryit.html:72(li)
+#: ../tryit.html:71(li)
 msgid ""
 "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
 "code>"
@@ -119,7 +119,7 @@ msgstr ""
 "イメージライターを起動する準備をします: <code>$ chmod a+x ./image-usb-stick</"
 "code>"
 
-#: ../tryit.html:73(li)
+#: ../tryit.html:72(li)
 msgid ""
 "Remove any USB storage devices that you might have connected to your "
 "computer and insert the empty USB stick that you want to write to"
@@ -127,7 +127,7 @@ msgstr ""
 "コンピューターに接続してある USB ストレージデバイスを外し、書き込みしたい空"
 "の USB ステッィクを差します"
 
-#: ../tryit.html:74(li)
+#: ../tryit.html:73(li)
 msgid ""
 "Run the image writer script: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
@@ -135,17 +135,17 @@ msgstr ""
 "イメージライターのスクリプトを実行します: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
 
-#: ../tryit.html:75(li)
+#: ../tryit.html:74(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
 msgstr ""
 "ライブイメージを実行するには、USB スティックを取り取り付けたまま、コンピュー"
 "ターを再起動します"
 
-#: ../tryit.html:78(a)
+#: ../tryit.html:77(a)
 msgid "Download USB image writer"
 msgstr "USB イメージライターをダウンロード"
 
-#: ../tryit.html:65(div)
+#: ../tryit.html:64(div)
 msgid ""
 "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/>"
@@ -153,24 +153,24 @@ msgstr ""
 "<placeholder-1/> GNOME 3 を USB スティックから実行する手順: <placeholder-2/"
 "><placeholder-3/><br/>"
 
-#: ../tryit.html:89(a) ../index.html:112(a) ../faq.html:79(a)
+#: ../tryit.html:88(a) ../index.html:113(a) ../faq.html:82(a)
 msgid "The GNOME Project"
 msgstr "GNOME プロジェクト"
 
-#: ../tryit.html:90(a) ../index.html:113(a) ../faq.html:80(a)
+#: ../tryit.html:89(a) ../index.html:114(a) ../faq.html:83(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
 msgid "Twitter"
 msgstr "Twitter"
 
-#. grid_16
-#: ../tryit.html:88(div) ../faq.html:78(div)
+#. grid_12
+#: ../tryit.html:87(div) ../faq.html:81(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
 "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -194,12 +194,15 @@ msgid ""
 "distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
 "page for more details and for links to live demos."
 msgstr ""
+"GNOME 3 は 2011 年 4 月 6 日にリリースされました。その後で著名なディストリ"
+"ビューション経由で利用可能になります。ライブ版のデモへのリンクは<a href="
+"\"tryit.html\">試してみよう</a>のページで詳しい情報をご覧ください。"
 
-#: ../index.html:39(h1)
-msgid "Introducing the next generation GNOME desktop"
-msgstr "次世代の GNOME デスクトップを紹介します"
+#: ../index.html:38(h1)
+msgid "The next generation GNOME desktop has arrived"
+msgstr "次世代の GNOME デスクトップがやってきた"
 
-#: ../index.html:42(p)
+#: ../index.html:49(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
@@ -209,51 +212,31 @@ msgstr ""
 "から作り上げました。イマドキのユーザーや最新技術にかなう設計となっています。"
 "この新しい GNOME の特長を紹介します。"
 
-#: ../index.html:50(div)
-msgid ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>Access apps faster"
-msgstr ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>アプリにより早くアクセス"
+#: ../index.html:50(label)
+msgid "Access apps faster"
+msgstr "アプリにより早くアクセス"
 
-#: ../index.html:51(div)
-msgid ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Easier window managment"
-msgstr ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>簡単なウィンドウ管理"
+#: ../index.html:51(label)
+msgid "Easier window managment"
+msgstr "簡単なウィンドウ管理"
 
-#: ../index.html:52(div)
-msgid ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>Create workspaces"
-msgstr ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>ワークスペースの作成"
+#: ../index.html:56(label)
+msgid "Create workspaces"
+msgstr "ワークスペースの作成"
 
-#: ../index.html:56(div)
-msgid ""
-"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"hardware.png\"/></a><br/>Deeper hardware integration"
-msgstr ""
-"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"hardware.png\"/></a><br/>より深いハードウェアの統合"
+#: ../index.html:57(label)
+msgid "Deeper hardware integration"
+msgstr "より深いハードウェアの統合"
 
-#: ../index.html:57(div)
-msgid ""
-"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appwindows.png\"/></a><br/>App-based window management"
-msgstr ""
-"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appwindows.png\"/></a><br/>アプリ単位のウィンドウ管理"
+#: ../index.html:58(label)
+msgid "App-based window management"
+msgstr "アプリ単位のウィンドウ管理"
 
-#: ../index.html:65(h2)
+#: ../index.html:66(h2)
 msgid "Simply beautiful"
 msgstr "シンプルで美しい"
 
-#: ../index.html:67(p)
+#: ../index.html:68(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -265,11 +248,11 @@ msgstr ""
 "フォント、細部まで作りこまれたアニメーションを使い、これまでで最も美しい "
 "GNOME デスクトップを作り上げました。"
 
-#: ../index.html:69(h2)
+#: ../index.html:70(h2)
 msgid "An overview at a glance"
 msgstr "一目で見渡す"
 
-#: ../index.html:71(p)
+#: ../index.html:72(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -283,11 +266,11 @@ msgstr ""
 "(ウィンドウズ・キーとも言います) や、アクティビティ・ホットコーナーなどが使え"
 "ます。"
 
-#: ../index.html:76(h2)
+#: ../index.html:77(h2)
 msgid "Messaging built-in"
 msgstr "組み込みのメッセージング"
 
-#: ../index.html:78(p)
+#: ../index.html:79(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -301,11 +284,11 @@ msgstr ""
 "メッセージの通知に対して直接返信ができ、さっと簡単にインスタント・メッセージ"
 "を使うことができます。"
 
-#: ../index.html:80(h2)
+#: ../index.html:81(h2)
 msgid "Distraction-free computing"
 msgstr "気が散らないデスクトップ環境"
 
-#: ../index.html:82(p)
+#: ../index.html:83(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -319,11 +302,11 @@ msgstr ""
 "面に出てくるのではなく、背景の一部となるようなスタイルになっています。こう"
 "いった変更点によって、創造的な作業に注力できるようになりました。"
 
-#: ../index.html:88(h2)
+#: ../index.html:89(h2)
 msgid "Everything at your fingertips"
 msgstr "すべてが手元に"
 
-#: ../index.html:90(p)
+#: ../index.html:91(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -333,11 +316,11 @@ msgstr ""
 "す。アクティビティ・キーを押して検索する、ただそれだけです。サクサク使いたい"
 "ならこの機能をとても気にいるでしょう。"
 
-#: ../index.html:92(h2)
+#: ../index.html:93(h2)
 msgid "Redesigned system settings"
 msgstr "再設計されたシステム設定"
 
-#: ../index.html:94(p)
+#: ../index.html:95(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -349,11 +332,11 @@ msgstr ""
 "また、GNOME 3 では設定を参照する新しい方法が提供され、その分類も再構成されま"
 "した。それによって必要とする設定を素早く簡単に見つけられるようになりました。"
 
-#: ../index.html:99(h2)
+#: ../index.html:100(h2)
 msgid "And much, much more"
 msgstr "そしてもっと、もっともっと"
 
-#: ../index.html:101(p)
+#: ../index.html:102(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
@@ -361,24 +344,24 @@ msgstr ""
 "GNOME 3 は新機能満載です。GNOME 3 が待ち遠しくなるような他の機能は次のとおり"
 "です:"
 
-#: ../index.html:103(li)
+#: ../index.html:104(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr "複数のウィンドウを単純かつ簡単に使える横並びのウィンドウのタイル表示"
 
-#: ../index.html:104(li)
+#: ../index.html:105(li)
 msgid "A redesigned file manager"
 msgstr "デザインし直されたファイルマネージャー"
 
-#: ../index.html:105(li)
+#: ../index.html:106(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "簡単にウィンドウを整理できる再設計されたワークスペース"
 
-#: ../index.html:106(li)
+#: ../index.html:107(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "高速で、よりスムーズな体験のための大きな修正"
 
-#: ../index.html:107(li)
+#: ../index.html:108(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
@@ -386,107 +369,107 @@ msgstr ""
 "どんなコンピューターでも得られる満足感: GNOME 3 は強力なマシンでもネットブッ"
 "クでも快適に使えます"
 
-#: ../index.html:116(span)
+#: ../index.html:117(span)
 msgid "This website is available in many languages:"
 msgstr "このウェブサイトはたくさんの言語で見ることができます:"
 
-#: ../index.html:117(a)
+#: ../index.html:118(a)
 msgid "English"
 msgstr ""
 
-#: ../index.html:118(a)
+#: ../index.html:119(a)
 msgid "Afrikaans"
 msgstr ""
 
-#: ../index.html:119(a)
+#: ../index.html:120(a)
 msgid "العربية"
 msgstr ""
 
-#: ../index.html:120(a)
+#: ../index.html:121(a)
 msgid "Čeština"
 msgstr ""
 
-#: ../index.html:121(a)
+#: ../index.html:122(a)
 msgid "Ελληνικά"
 msgstr ""
 
-#: ../index.html:122(a)
+#: ../index.html:123(a)
 msgid "Español"
 msgstr ""
 
-#: ../index.html:123(a)
+#: ../index.html:124(a)
 msgid "Persian"
 msgstr ""
 
-#: ../index.html:124(a)
+#: ../index.html:125(a)
 msgid "Français"
 msgstr ""
 
-#: ../index.html:125(a)
+#: ../index.html:126(a)
 msgid "Galego"
 msgstr ""
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Italiano"
 msgstr ""
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "Latvian"
 msgstr ""
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
 msgid "한국어"
 msgstr ""
 
-#: ../index.html:130(a)
+#: ../index.html:131(a)
 msgid "Polski"
 msgstr ""
 
-#: ../index.html:131(a)
+#: ../index.html:132(a)
 msgid "Português do Brasil"
 msgstr ""
 
-#: ../index.html:132(a)
+#: ../index.html:133(a)
 msgid "Română"
 msgstr ""
 
-#: ../index.html:133(a)
+#: ../index.html:134(a)
 msgid "Slovenščina"
 msgstr ""
 
-#: ../index.html:134(a)
+#: ../index.html:135(a)
 msgid "Svenska"
 msgstr ""
 
-#: ../index.html:135(a)
+#: ../index.html:136(a)
 msgid "Turkish"
 msgstr ""
 
-#: ../index.html:136(a)
+#: ../index.html:137(a)
 msgid "Uyghur"
 msgstr ""
 
-#: ../index.html:137(a)
+#: ../index.html:138(a)
 msgid "Українська"
 msgstr ""
 
-#: ../index.html:138(a)
+#: ../index.html:139(a)
 msgid "中文 (中国大陆)"
 msgstr ""
 
-#: ../index.html:139(a)
+#: ../index.html:140(a)
 msgid "中文 (香港)"
 msgstr ""
 
-#: ../index.html:140(a)
+#: ../index.html:141(a)
 msgid "中文 (台灣)"
 msgstr ""
 
-#: ../index.html:115(div)
+#: ../index.html:116(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -504,8 +487,8 @@ msgstr ""
 "> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
 "<placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
 
-#. grid_16
-#: ../index.html:111(div)
+#. grid_12
+#: ../index.html:112(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
 "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/"
@@ -515,22 +498,22 @@ msgstr ""
 "<placeholder-2/> | 共有: <placeholder-3/> | <placeholder-4/><placeholder-5/"
 "><br/> ❧"
 
-#: ../faq.html:40(h2)
+#: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
-msgstr ""
+msgstr "GNOME 3 はどうやって入手すればよいですか?"
 
-#: ../faq.html:42(p)
+#: ../faq.html:41(p)
 msgid ""
 "GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
 "popular distributions after that time. See the <a href=\"tryit.html\">Try "
 "It</a> page for more details and for links to a live demos."
 msgstr ""
 
-#: ../faq.html:44(h2)
+#: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
 msgstr "で、GNOME プロジェクトって何ですか?"
 
-#: ../faq.html:46(p)
+#: ../faq.html:45(p)
 msgid ""
 "The GNOME Project is an international community which comes together to make "
 "great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
@@ -540,11 +523,11 @@ msgid ""
 "information."
 msgstr ""
 
-#: ../faq.html:48(h2)
+#: ../faq.html:47(h2)
 msgid "Will my computer be able to run GNOME 3?"
-msgstr ""
+msgstr "私のコンピューターは GNOME 3 を実行できますか?"
 
-#: ../faq.html:50(p)
+#: ../faq.html:49(p)
 msgid ""
 "Computers purchased in the last 4 or 5 years should be more than capable of "
 "running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
@@ -559,11 +542,11 @@ msgid ""
 "unable to have this experience will be able to in the future."
 msgstr ""
 
-#: ../faq.html:52(h2)
+#: ../faq.html:51(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
-msgstr ""
+msgstr "私のお気に入りの GNOME アプリは GNOME 3 で使えますか?"
 
-#: ../faq.html:54(p)
+#: ../faq.html:53(p)
 msgid ""
 "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
 "does provide facilities to make applications even better though, so look out "
@@ -573,7 +556,7 @@ msgstr ""
 
 #: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
-msgstr ""
+msgstr "GNOME の古いバージョンはどうなりますか?"
 
 #: ../faq.html:58(p)
 msgid ""
@@ -586,11 +569,11 @@ msgid ""
 "distributions for years to come."
 msgstr ""
 
-#: ../faq.html:60(h2)
+#: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
-msgstr ""
+msgstr "GNOME 3 デスクトップはどうしてこのようなデザインになったのですか?"
 
-#: ../faq.html:62(p)
+#: ../faq.html:65(p)
 msgid ""
 "A huge amount of work has gone into the design of GNOME 3, and each of the "
 "design decisions behind it has a carefully considered rationale. If you have "
@@ -601,11 +584,11 @@ msgid ""
 "gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
 msgstr ""
 
-#: ../faq.html:64(h2)
+#: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
-msgstr ""
+msgstr "GNOME 3 がリリースされた後の GNOME の計画は?"
 
-#: ../faq.html:66(p)
+#: ../faq.html:69(p)
 msgid ""
 "We are going to have a huge party to celebrate the release, and then we're "
 "going to get back to work improving our desktop, so that GNOME 3 will get "
@@ -614,11 +597,11 @@ msgid ""
 "as document search and an exciting new desktop extensions framework."
 msgstr ""
 
-#: ../faq.html:68(h2)
+#: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
-msgstr ""
+msgstr "GNOME 3 を手伝いたいけど何ができますか?"
 
-#: ../faq.html:70(p)
+#: ../faq.html:73(p)
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
@@ -629,17 +612,56 @@ msgid ""
 "\">contribution page</a> for more details."
 msgstr ""
 
-#: ../faq.html:72(h2)
+#: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
 msgstr ""
+"GNOME 3 について書きたいのです。どうすればより多くの情報が得られますか?"
 
-#: ../faq.html:74(p)
+#: ../faq.html:77(p)
 msgid ""
 "Further information about the release can be found on the <a href=\"http://"
 "live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
 "be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
 "contact@gnome.org</a>."
 msgstr ""
+
+#~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
+#~ msgstr "最高のリリースまで: <span id=\"countbox\"/>"
+
+#~ msgid ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>Access apps faster"
+#~ msgstr ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>アプリにより早くアクセス"
+
+#~ msgid ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>Easier window managment"
+#~ msgstr ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>簡単なウィンドウ管理"
+
+#~ msgid ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>Create workspaces"
+#~ msgstr ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>ワークスペースの作成"
+
+#~ msgid ""
+#~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "hardware.png\"/></a><br/>Deeper hardware integration"
+#~ msgstr ""
+#~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "hardware.png\"/></a><br/>より深いハードウェアの統合"
+
+#~ msgid ""
+#~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appwindows.png\"/></a><br/>App-based window management"
+#~ msgstr ""
+#~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appwindows.png\"/></a><br/>アプリ単位のウィンドウ管理"
 
 #~ msgid ""
 #~ "Dark application themes for when you want to focus on pictures and videos"
