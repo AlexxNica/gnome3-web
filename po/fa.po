@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-03 07:56+0000\n"
-"PO-Revision-Date: 2011-04-06 17:15+0330\n"
+"PO-Revision-Date: 2011-04-06 17:20+0330\n"
 "Last-Translator: Mahyar Moghimi <mahyar.moqimi@gmail.com>\n"
 "Language-Team: Persian <translate@ifsug.org>\n"
 "MIME-Version: 1.0\n"
@@ -35,13 +35,13 @@ msgstr "خانه "
 #: ../faq.html:21(a)
 #: ../faq.html:30(h1)
 msgid "Common questions and answers"
-msgstr "سوال‌ها و جواب‌های معمول"
+msgstr "سوال‌ها و جواب‌های معمول "
 
 #: ../tryit.html:22(a)
 #: ../index.html:29(a)
 #: ../faq.html:22(a)
 msgid "Try it out!"
-msgstr "امتحانش کن"
+msgstr "امتحانش کن "
 
 #: ../tryit.html:23(div)
 #: ../index.html:30(div)
