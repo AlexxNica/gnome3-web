@@ -85,6 +85,7 @@ a.faq {
 
 .getit-splash {
   background-image: url(../img/switch.png) !important;
+  background-position: center !important;
 }
 
 .intro { margin-bottom: 3em; }
