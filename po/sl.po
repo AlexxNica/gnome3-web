@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-06 06:18+0000\n"
-"PO-Revision-Date: 2011-04-06 10:05+0100\n"
+"POT-Creation-Date: 2011-04-06 10:41+0000\n"
+"PO-Revision-Date: 2011-04-06 12:44+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -85,8 +85,8 @@ msgid "Fedora"
 msgstr "Fedora"
 
 #: ../tryit.html:52(a)
-msgid "Download for 32 bit systems (2011-03-31)"
-msgstr "Prejem datoteke odtisa za 32 bitne sisteme (31.03.2011)"
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (05.04.2011)"
 
 #: ../tryit.html:58(p)
 msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
