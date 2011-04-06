@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-06 10:13+0000\n"
+"POT-Creation-Date: 2011-04-06 18:20+0000\n"
 "PO-Revision-Date: 2011-04-06 20:07+0200\n"
 "Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
@@ -152,19 +152,19 @@ msgstr ""
 "<placeholder-1/> Per fer servir el GNOME 3 des d'un llapis USB: <placeholder-"
 "2/><placeholder-3/><br/>"
 
-#: ../tryit.html:89(a) ../index.html:112(a) ../faq.html:79(a)
+#: ../tryit.html:89(a) ../index.html:114(a) ../faq.html:79(a)
 msgid "The GNOME Project"
 msgstr "El projecte GNOME"
 
-#: ../tryit.html:90(a) ../index.html:113(a) ../faq.html:80(a)
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:80(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
+#: ../tryit.html:91(a) ../index.html:116(a) ../faq.html:81(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
+#: ../tryit.html:91(a) ../index.html:116(a) ../faq.html:81(a)
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -203,7 +203,7 @@ msgstr ""
 msgid "Introducing the next generation GNOME desktop"
 msgstr "Us presentem la nova evolució de l'escriptori GNOME"
 
-#: ../index.html:42(p)
+#: ../index.html:50(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
@@ -213,51 +213,31 @@ msgstr ""
 "completament nou i modern dissenyat per als usuaris i tecnologies d'avui en "
 "dia. Aquí teniu algunes de les millores que podeu esperar del pròxim GNOME:"
 
-#: ../index.html:50(div)
-msgid ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>Access apps faster"
-msgstr ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>Accés a les aplicacions més ràpidament"
+#: ../index.html:51(label)
+msgid "Access apps faster"
+msgstr "Accés a les aplicacions més ràpidament"
 
-#: ../index.html:51(div)
-msgid ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Easier window managment"
-msgstr ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Gestió de finestres més senzilla"
+#: ../index.html:52(label)
+msgid "Easier window managment"
+msgstr "Gestió de finestres més senzilla"
 
-#: ../index.html:52(div)
-msgid ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>Create workspaces"
-msgstr ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>Creació d'espais de treball"
+#: ../index.html:57(label)
+msgid "Create workspaces"
+msgstr "Creació d'espais de treball"
 
-#: ../index.html:56(div)
-msgid ""
-"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"hardware.png\"/></a><br/>Deeper hardware integration"
-msgstr ""
-"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"hardware.png\"/></a><br/>Integració amb el maquinari més eficient"
+#: ../index.html:58(label)
+msgid "Deeper hardware integration"
+msgstr "Integració amb el maquinari més eficient"
 
-#: ../index.html:57(div)
-msgid ""
-"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appwindows.png\"/></a><br/>App-based window management"
-msgstr ""
-"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appwindows.png\"/></a><br/>Gestió de finestres basada en les aplicacions"
+#: ../index.html:59(label)
+msgid "App-based window management"
+msgstr "Gestió de finestres basada en les aplicacions"
 
-#: ../index.html:65(h2)
+#: ../index.html:67(h2)
 msgid "Simply beautiful"
 msgstr "Simplement bonic"
 
-#: ../index.html:67(p)
+#: ../index.html:69(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -269,11 +249,11 @@ msgstr ""
 "i s'ha creat de tal manera que és el millor escriptori del GNOME, amb un "
 "tema visual nou, un tipus de lletra refinat i unes animacions molt acurades."
 
-#: ../index.html:69(h2)
+#: ../index.html:71(h2)
 msgid "An overview at a glance"
 msgstr "Un primer cop d'ull"
 
-#: ../index.html:71(p)
+#: ../index.html:73(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -287,11 +267,11 @@ msgstr ""
 "d'accedir-hi, com la tecla d'activitats del teclat (coneguda com la tecla de "
 "Windows) i el córner calent."
 
-#: ../index.html:76(h2)
+#: ../index.html:78(h2)
 msgid "Messaging built-in"
 msgstr "Missatgeria integrada"
 
-#: ../index.html:78(p)
+#: ../index.html:80(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -306,11 +286,11 @@ msgstr ""
 "els missatges des de les pròpies notificacions de missatgeria. D'aquesta "
 "manera la missatgeria serà ràpida i senzilla."
 
-#: ../index.html:80(h2)
+#: ../index.html:82(h2)
 msgid "Distraction-free computing"
 msgstr "Informàtica lliure de distraccions"
 
-#: ../index.html:82(p)
+#: ../index.html:84(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -325,11 +305,11 @@ msgstr ""
 "fons no del primer pla, d'aquesta manera us podeu centrar en les vostres "
 "tasques."
 
-#: ../index.html:88(h2)
+#: ../index.html:90(h2)
 msgid "Everything at your fingertips"
 msgstr "Tot el que voleu a la punta dels dits"
 
-#: ../index.html:90(p)
+#: ../index.html:92(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -339,11 +319,11 @@ msgstr ""
 "Només cal que premeu la tecla d'activitats i cerqueu: així de senzill. Us "
 "encantarà si sou del tipus d'usuari que li agrada que tot es faci al moment."
 
-#: ../index.html:92(h2)
+#: ../index.html:94(h2)
 msgid "Redesigned system settings"
 msgstr "Configuració del sistema redissenyada"
 
-#: ../index.html:94(p)
+#: ../index.html:96(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -356,11 +336,11 @@ msgstr ""
 "reorganitzat per tal que sigui instantani la cerca de la configuració que "
 "voleu."
 
-#: ../index.html:99(h2)
+#: ../index.html:101(h2)
 msgid "And much, much more"
 msgstr "I molt, molt més"
 
-#: ../index.html:101(p)
+#: ../index.html:103(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
@@ -368,28 +348,28 @@ msgstr ""
 "El GNOME 3 va farcit de noves funcionalitats. Aquí teniu una pinzellada "
 "d'algunes de les funcionalitats que hi trobareu al GNOME 3:"
 
-#: ../index.html:103(li)
+#: ../index.html:105(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
 "Disposició de finestres en mosaic (una al costat de l'altre) per tal de "
 "facilitar l'ús de diverses finestres al mateix temps "
 
-#: ../index.html:104(li)
+#: ../index.html:106(li)
 msgid "A redesigned file manager"
 msgstr "El gestor de fitxers redissenyat de dalt a baix"
 
-#: ../index.html:105(li)
+#: ../index.html:107(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr ""
 "Espais de treball redefinits per tal que l'organització de les finestres "
 "sigui un moment"
 
-#: ../index.html:106(li)
+#: ../index.html:108(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "Molts canvis per sota per tal que l'experiència sigui ràpida i suau"
 
-#: ../index.html:107(li)
+#: ../index.html:109(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
@@ -398,107 +378,107 @@ msgstr ""
 "GNOME 3 s'ajustarà perfectament al miniportàtil de casa així com a qualsevol "
 "màquina potent"
 
-#: ../index.html:116(span)
+#: ../index.html:118(span)
 msgid "This website is available in many languages:"
 msgstr "Aquest pàgina web està disponible en moltes llengües:"
 
-#: ../index.html:117(a)
+#: ../index.html:119(a)
 msgid "English"
 msgstr "Anglès"
 
-#: ../index.html:118(a)
+#: ../index.html:120(a)
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: ../index.html:119(a)
+#: ../index.html:121(a)
 msgid "العربية"
 msgstr "العربية"
 
-#: ../index.html:120(a)
+#: ../index.html:122(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:121(a)
+#: ../index.html:123(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:122(a)
+#: ../index.html:124(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:123(a)
+#: ../index.html:125(a)
 msgid "Persian"
 msgstr "Persian"
 
-#: ../index.html:124(a)
+#: ../index.html:126(a)
 msgid "Français"
 msgstr "Français"
 
-#: ../index.html:125(a)
+#: ../index.html:127(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:126(a)
+#: ../index.html:128(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:127(a)
+#: ../index.html:129(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:128(a)
+#: ../index.html:130(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:129(a)
+#: ../index.html:131(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:130(a)
+#: ../index.html:132(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:131(a)
+#: ../index.html:133(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:132(a)
+#: ../index.html:134(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:133(a)
+#: ../index.html:135(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:134(a)
+#: ../index.html:136(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:135(a)
+#: ../index.html:137(a)
 msgid "Turkish"
 msgstr "Turkish"
 
-#: ../index.html:136(a)
+#: ../index.html:138(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:137(a)
+#: ../index.html:139(a)
 msgid "Українська"
 msgstr "Українська"
 
-#: ../index.html:138(a)
+#: ../index.html:140(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:139(a)
+#: ../index.html:141(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:140(a)
+#: ../index.html:142(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
-#: ../index.html:115(div)
+#: ../index.html:117(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -517,7 +497,7 @@ msgstr ""
 "> | <placeholder-24/> | <placeholder-25/>"
 
 #. grid_16
-#: ../index.html:111(div)
+#: ../index.html:113(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
@@ -713,3 +693,38 @@ msgstr ""
 "org/ThreePointZero\">pàgina wiki del GNOME 3</a>. Les consultes de premsa "
 "s'haurien d'enviar a <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-"
 "press-contact@gnome.org</a>."
+
+#~ msgid ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>Access apps faster"
+#~ msgstr ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>Accés a les aplicacions més ràpidament"
+
+#~ msgid ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>Easier window managment"
+#~ msgstr ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>Gestió de finestres més senzilla"
+
+#~ msgid ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>Create workspaces"
+#~ msgstr ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>Creació d'espais de treball"
+
+#~ msgid ""
+#~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "hardware.png\"/></a><br/>Deeper hardware integration"
+#~ msgstr ""
+#~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "hardware.png\"/></a><br/>Integració amb el maquinari més eficient"
+
+#~ msgid ""
+#~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appwindows.png\"/></a><br/>App-based window management"
+#~ msgstr ""
+#~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appwindows.png\"/></a><br/>Gestió de finestres basada en les aplicacions"
