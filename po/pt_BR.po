@@ -41,7 +41,7 @@ msgstr "Experimente!"
 
 #: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
 msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr "Lançamento incrível em: <span id=\"countbox\"/>"
+msgstr "Lançamento em: <span id=\"countbox\"/>"
 
 #. Alpha/Beta/NEW Banner
 #.         <img class="alpha-banner" src="img/alpha-banner.png"/>
@@ -65,7 +65,7 @@ msgstr "openSUSE"
 
 #: ../tryit.html:42(h4) ../tryit.html:50(h4)
 msgid "GNOME 3 based on <placeholder-1/>"
-msgstr "GNOME 3 baseado em <placeholder-1/>"
+msgstr "GNOME 3 baseado no <placeholder-1/>"
 
 #: ../tryit.html:44(a)
 msgid "Download for 32 bit systems (v0.3.1)"
@@ -234,7 +234,7 @@ msgid ""
 "png\"/></a><br/>Easier window managment"
 msgstr ""
 "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"windows.png\"/></a><br/>Gerenciamento de janelas fácil"
+"windows.png\"/></a><br/>Gerencie janelas facilmente"
 
 #: ../index.html:52(div)
 msgid ""
@@ -349,7 +349,7 @@ msgstr ""
 
 #: ../index.html:92(h2)
 msgid "Redesigned system settings"
-msgstr "Configurações de sistema redesenhado"
+msgstr "Configurações de sistema redesenhadas"
 
 #: ../index.html:94(p)
 msgid ""
