@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-06 10:41+0000\n"
-"PO-Revision-Date: 2011-04-06 12:44+0100\n"
+"PO-Revision-Date: 2011-04-06 20:10+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -142,7 +142,7 @@ msgstr "Projekt GNOME"
 #: ../index.html:113(a)
 #: ../faq.html:80(a)
 msgid "Creative Commons CC-BY"
-msgstr "Dovoljenje Creative Commons - priznanje avtorstva"
+msgstr "dovoljenja Ustvarjalna Gmajna - priznanje avtorstva"
 
 #: ../tryit.html:91(a)
 #: ../index.html:114(a)
@@ -182,23 +182,23 @@ msgstr "Razvoj namizja GNOME 3 je bil začet znova, s popolnim pregledom obstoje
 
 #: ../index.html:50(div)
 msgid "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-appsearch.png\"/></a><br/>Access apps faster"
-msgstr "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-appsearch.png\"/></a><br/>Hitrejši dostop do programov"
+msgstr "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-appsearch.png\"/></a><br/>hitrejši dostop do programov,"
 
 #: ../index.html:51(div)
 msgid "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Easier window managment"
-msgstr "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Enostavnejše upravljanje z okni"
+msgstr "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>enostavnejše upravljanje z okni,"
 
 #: ../index.html:52(div)
 msgid "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-workspaces.png\"/></a><br/>Create workspaces"
-msgstr "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-workspaces.png\"/></a><br/>Ustvarjanje delovnih površin"
+msgstr "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-workspaces.png\"/></a><br/>ustvarjanje delovnih površin,"
 
 #: ../index.html:56(div)
 msgid "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-hardware.png\"/></a><br/>Deeper hardware integration"
-msgstr "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-hardware.png\"/></a><br/>Boljša povezljivost strojne opreme"
+msgstr "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-hardware.png\"/></a><br/>Boljšo povezljivost strojne opreme"
 
 #: ../index.html:57(div)
 msgid "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-appwindows.png\"/></a><br/>App-based window management"
-msgstr "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-appwindows.png\"/></a><br/>Programsko upravljanje z okni"
+msgstr "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-appwindows.png\"/></a><br/>programsko upravljanje z okni."
 
 #: ../index.html:65(h2)
 msgid "Simply beautiful"
@@ -206,7 +206,7 @@ msgstr "Enostavno lepo"
 
 #: ../index.html:67(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
-msgstr "Namizje GNOME 3 ponuja za uporabnika enostaven in čist uporabniški vmesnik brez odvečnosti. Nedvomno je z novo obliko postalo najlepše zasnovano namizje GNOME, z novo temo, z izboljšano obliko pisave namizja in s skrbno oblikovanimi animacijami."
+msgstr "Namizje GNOME 3 ponuja enostaven in čist uporabniški vmesnik brez navlake. Nedvomno je to najlepše zasnovano namizje GNOME, z novo temo, z izboljšano novo pisavo namizja in s skrbno oblikovanimi animacijami."
 
 #: ../index.html:69(h2)
 msgid "An overview at a glance"
@@ -222,7 +222,7 @@ msgstr "Vgrajeno hipno sporočanje"
 
 #: ../index.html:78(p)
 msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
-msgstr "Sporočanje in povezljivost s prijatelji, znanci in poslovnimi partnerji sta pomembni sestavini modernega namizja. Neprestano preklapljanje oken za odgovarjanje na prispela hipna sporočila, je časovno potratno in predvsem neučinkovito. Namizje GNOME 3 omogoča nadaljevanje pogovorov, neposredno v opomniku prispelega novega sporočila, hitro in brez dodatnega dela."
+msgstr "Sporočanje in povezljivost s prijatelji, znanci in poslovnimi partnerji sta pomembni sestavini modernega namizja. Neprestano preklapljanje oken, za odgovarjanje na prispela hipna sporočila, je časovno potratno in predvsem neučinkovito. Namizje GNOME 3 omogoča nadaljevanje pogovorov, neposredno v opomniku prispelega novega sporočila, hitro in brez dodatnega dela."
 
 #: ../index.html:80(h2)
 msgid "Distraction-free computing"
@@ -258,23 +258,23 @@ msgstr "Namizje GNOME 3 prinaša veliko novosti. Med najpomembnejšimi so:"
 
 #: ../index.html:103(li)
 msgid "Side-by-side window tiling to make using several windows simple and easy"
-msgstr "Skladanje oken na namizju za enostavnejši dostop do programov"
+msgstr "skladanje oken na namizju za enostavnejši dostop do programov,"
 
 #: ../index.html:104(li)
 msgid "A redesigned file manager"
-msgstr "Predelan upravljalnik datotek"
+msgstr "predelan upravljalnik datotek,"
 
 #: ../index.html:105(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
-msgstr "Predelane delovne površine za hitrejše upravljanje oken na namizju"
+msgstr "predelane delovne površine za hitrejše upravljanje oken na namizju,"
 
 #: ../index.html:106(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
-msgstr "Pomembnejše izboljšave za hitrejše in bolj gladko delovanje sistema"
+msgstr "pomembnejše izboljšave za hitrejše in bolj gladko delovanje sistema,"
 
 #: ../index.html:107(li)
 msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
-msgstr "Delovanje na vseh vrstah računalnikov: GNOME 3 deluje na malih prenosnikih in na večjih delovnih sistemih"
+msgstr "delovanje na vseh vrstah računalnikov: GNOME 3 deluje na malih prenosnikih in na večjih delovnih sistemih."
 
 #: ../index.html:116(span)
 msgid "This website is available in many languages:"
@@ -383,7 +383,7 @@ msgstr "<placeholder-1/><placeholder-2/>, <placeholder-3/>, <placeholder-4/>, <p
 #. grid_16
 #: ../index.html:111(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
-msgstr "Avtorske pravice © 2011 <placeholder-1/><br/> Prosto za izmenjavo: <placeholder-2/><br/> Objavi na: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr "Avtorske pravice © 2011 <placeholder-1/><br/> Objavljeno pod pogoji: <placeholder-2/><br/> Poveži se na: <placeholder-3/> | <placeholder-4/><br/> ❧"
 
 #: ../faq.html:40(h2)
 msgid "How do I get GNOME 3?"
@@ -459,3 +459,4 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 
 #~ msgid " "
 #~ msgstr " "
+
