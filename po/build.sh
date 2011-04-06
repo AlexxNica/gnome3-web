@@ -2,16 +2,16 @@
 
 # make sure all HTML files are valid XML, this will be required by xml2po
 # in the second phase...
-for HTMLFILE in ../*.html
+for HTMLFILE in $(ls ../*.html | grep -v video)
 do
     xmllint --noout $HTMLFILE
 done
 
-xml2po -e -m xhtml -o gnome3.pot ../*.html
+xml2po -e -m xhtml -o gnome3.pot $(ls ../*.html | grep -v video)
 for LANG in $(cat LINGUAS)
 do
     POFILE=$LANG.po
-    for HTMLFILE in ../*.html
+    for HTMLFILE in $(ls ../*.html | grep -v video)
     do
       echo "Writing $HTMLFILE.$LANG"
       xml2po -p $POFILE -m xhtml -o $HTMLFILE.$LANG $HTMLFILE
