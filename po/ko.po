@@ -6,248 +6,690 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-07 08:33+0000\n"
-"PO-Revision-Date: 2011-03-08 00:56+0900\n"
-"Last-Translator: Seong-ho, cho <darkcircle.0426@gmail.com>\n"
+"POT-Creation-Date: 2011-04-06 13:37+0000\n"
+"PO-Revision-Date: 2011-04-06 23:18+0900\n"
+"Last-Translator: Seong-ho, Cho <darkcircle.0426@gmail.com>\n"
 "Language-Team: gnome-kr <gnome-kr@googlegroups.com>\n"
-"Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
 
 #: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "그놈 3 - Made of Easy"
 
-#: ../tryit.html:20(a) ../index.html:25(a) ../faq.html:20(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Home"
 msgstr "홈"
 
-#: ../tryit.html:20(a) ../index.html:25(a) ../faq.html:20(a) ../faq.html:28(h1)
+#. Alpha/Beta/New Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../faq.html:32(h1)
 msgid "Common questions and answers"
 msgstr "일반적인 질문과 답변들"
 
-#: ../tryit.html:21(a) ../index.html:26(a) ../faq.html:21(a)
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
 msgid "Try it out!"
 msgstr "사용해 보세요!"
 
-#: ../tryit.html:28(h1)
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "멋진 작품이 출시되기까지 남은 시간 : <span id=\"countbox\"/>"
+
+#. Alpha/Beta/NEW Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:32(h1)
 msgid "Try out GNOME 3"
 msgstr "그놈 3를 사용해 보세요"
 
-#: ../tryit.html:30(p)
-msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick."
-msgstr "GNOME 3 는 개발중에 있으며 2011년 4월 이전까지는 완료되지 않을 것입니다. 만약 사용해보고 싶다면 CD/DVD나 USB 스틱상에서 라이브 알파 버전을 실행할 수 있습니다."
+#: ../tryit.html:34(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live version from a CD/DVD or USB "
+"stick."
+msgstr ""
+"GNOME 3 는 개발중에 있으며 2011년 4월 이전까지는 완료되지 않을 것입니다. 만"
+"약 사용해보고 싶다면 CD/DVD나 USB 스틱상에서 라이브 알파 버전을 실행할 수 있"
+"습니다."
 
-#: ../tryit.html:36(a)
-msgid "Download for 32 bit systems (v0.0.6)"
-msgstr "32비트 시스템용 다운로드"
+#: ../tryit.html:42(a)
+msgid "openSUSE"
+msgstr "오픈수세"
 
-#: ../tryit.html:37(a)
-msgid "Download for 64 bit systems (v0.0.6)"
-msgstr "64비트 시스템용 다운로드"
+#: ../tryit.html:42(h4) ../tryit.html:50(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "<placeholder-1/> 기반 그놈 3"
 
-#: ../tryit.html:44(p)
-msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
-msgstr "CD/DVD에서 실행하기 위해서는 디스크로 다운로드 받을 것을 굽고 컴퓨터에 넣고 재부팅 하시면 됩니다."
+#: ../tryit.html:44(a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "32비트 시스템용 다운로드 (v0.3.1)"
 
-#: ../tryit.html:48(li)
+#: ../tryit.html:46(a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "64비트 시스템용 다운로드 (v0.3.1)"
+
+#: ../tryit.html:50(a)
+msgid "Fedora"
+msgstr "페도라"
+
+#: ../tryit.html:52(a)
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "32비트 시스템용 다운로드 (2011-04-05)"
+
+#: ../tryit.html:58(p)
+msgid ""
+"The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr ""
+"오픈수세 라이브 이미지에서의 사용자 이름은 'tux' 이고, 암호는 없습니다."
+
+#: ../tryit.html:59(p)
+msgid ""
+"The user name for the Fedora live image is 'liveuser' and the password is "
+"empty."
+msgstr ""
+"페도라 라이브 이미지에서의 사용자 이름은 'liveuser' 이고, 암호는 없습니다."
+
+#: ../tryit.html:66(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"CD/DVD에서 실행하기 위해서는 디스크로 다운로드 받을 것을 굽고 컴퓨터에 넣고 "
+"재부팅 하시면 됩니다."
+
+#: ../tryit.html:70(li)
 msgid "Download the USB image writer (below) and extract it"
 msgstr "USB 이미지 라이터(아래)를 다운로드 받고 추출합니다"
 
-#: ../tryit.html:49(li)
-msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
-msgstr "터미널 창을 열고 추출된 이미지 라이터 폴더를 탐색합니다 (예: <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+#: ../tryit.html:71(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"터미널 창을 열고 추출된 이미지 라이터 폴더를 탐색합니다 (예: <code>$ cd "
+"Downloads/abock-image-usb-stick-f3b1002</code>)"
 
-#: ../tryit.html:50(li)
-msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
-msgstr "다음 명령을 실행하여 이미지 라이터를 준비합니다: <code>$ chmod a+x ./image-usb-stick</code>"
+#: ../tryit.html:72(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"다음 명령을 실행하여 이미지 라이터를 준비합니다: <code>$ chmod a+x ./image-"
+"usb-stick</code>"
 
-#: ../tryit.html:51(li)
-msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
-msgstr "컴퓨터에 연결된 다른 USB 저장장치들을 제거하고 이미지를 기록할 빈 USB 스틱을 장착합니다"
+#: ../tryit.html:73(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+"컴퓨터에 연결된 다른 USB 저장장치들을 제거하고 이미지를 기록할 빈 USB 스틱을 "
+"장착합니다"
 
-#: ../tryit.html:52(li)
-msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
-msgstr "이미지 라이터 스크립트를 실행합니다: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+#: ../tryit.html:74(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"이미지 라이터 스크립트를 실행합니다: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
 
-#: ../tryit.html:53(li)
+#: ../tryit.html:75(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
-msgstr "라이브 이미지를 실행하려면 USB 스틱을 장착한 채로 컴퓨터를 리부트 합니다"
+msgstr ""
+"라이브 이미지를 실행하려면 USB 스틱을 장착한 채로 컴퓨터를 리부트 합니다"
 
-#: ../tryit.html:56(a)
+#: ../tryit.html:78(a)
 msgid "Download USB image writer"
 msgstr "USB 이미지 라이터 다운로드"
 
-#: ../tryit.html:58(p)
-msgid "The user name for the live image is 'tux' and the password is 'linux'."
-msgstr "라이브 이미지에서의 사용자 이름은 'tux' 이고, 암호는 'linux' 입니다."
+#: ../tryit.html:65(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/>"
+msgstr ""
+"<placeholder-1/> 그놈 3을 USB 스틱에서 실행하려면:<placeholder-"
+"2><placeholder-3><br/>"
 
-#: ../tryit.html:43(div)
-msgid "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
-msgstr "<placeholder-1/> 그놈 3 알파버전을 USB 스틱에서 실행하려면:<placeholder-2><placeholder-3><br/><placeholder-4/>"
-
-#: ../tryit.html:68(a) ../index.html:91(a) ../faq.html:67(a)
+#: ../tryit.html:89(a) ../index.html:112(a) ../faq.html:79(a)
 msgid "The GNOME Project"
 msgstr "그놈 프로젝트"
 
-#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+#: ../tryit.html:90(a) ../index.html:113(a) ../faq.html:80(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
 msgid "Facebook"
 msgstr "페이스북"
 
-#: ../tryit.html:69(a) ../index.html:92(a) ../faq.html:68(a)
+#: ../tryit.html:91(a) ../index.html:114(a) ../faq.html:81(a)
 msgid "Twitter"
 msgstr "트위터"
 
 #. grid_16
-#: ../tryit.html:67(div) ../index.html:90(div) ../faq.html:66(div)
-msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
-msgstr "저작권한 © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
+#: ../tryit.html:88(div) ../faq.html:78(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 
-#: ../index.html:33(h1)
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 는 2011년 4월 6일 출시되었습니다. 만약 사용해보고 싶다면 CD/DVD나 "
+"USB 스틱상에서 실행할 수 있습니다."
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
+"page for more details and for links to live demos."
+msgstr ""
+"그놈 3은 2011년 4월 6일 출시되었고 이후에는 인기 있는 배포판을 통해 사용 가능"
+"하게 될 것입니다. 더 자세한 내용과 라이브 데모를 사용해보시려면 <a href="
+"\"tryit.html\">\"사용해 보세요\"</a> 페이지를 방문해보시기 바랍니다."
+
+#: ../index.html:39(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "차세대 그놈 데스트탑 소개"
 
-#: ../index.html:35(p)
-msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
-msgstr "그놈 3을 위해 그놈 프로젝트는 밑바닥부터 시작되었으며 오늘날의 사용자들과 기술들을 위해 디자인된 완전히 새로운 최신 데스크톱 입니다. 새로운 그놈으로부터 기대할 수 있는 몇가지 사항이 있습니다:"
+#: ../index.html:42(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"그놈 3을 위해 그놈 프로젝트는 밑바닥부터 시작되었으며 오늘날의 사용자들과 기"
+"술들을 위해 디자인된 완전히 새로운 최신 데스크톱 입니다. 새로운 그놈으로부터 "
+"기대할 수 있는 몇가지 사항이 있습니다:"
 
-#: ../index.html:43(h2)
+#: ../index.html:50(div)
+msgid ""
+"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>Access apps faster"
+msgstr ""
+"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>좀 더 빠른 프로그램 접근"
+
+#: ../index.html:51(div)
+msgid ""
+"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
+"png\"/></a><br/>Easier window managment"
+msgstr ""
+"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
+"png\"/></a><br/>더 쉬운 윈도우 관리"
+
+#: ../index.html:52(div)
+msgid ""
+"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>Create workspaces"
+msgstr ""
+"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>작업공간 생성"
+
+#: ../index.html:56(div)
+msgid ""
+"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"hardware.png\"/></a><br/>Deeper hardware integration"
+msgstr ""
+"<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"hardware.png\"/></a><br/>심도있는 하드웨어 통합"
+
+#: ../index.html:57(div)
+msgid ""
+"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appwindows.png\"/></a><br/>App-based window management"
+msgstr ""
+"<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+"appwindows.png\"/></a><br/>앱-기반 윈도우 관리"
+
+#: ../index.html:65(h2)
 msgid "Simply beautiful"
 msgstr "단순한 아름다움"
 
+#: ../index.html:67(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"그놈의 새로운 데스크톱은 새로운 수준의 간결함을 지니고 있습니다. 난잡함을 걷"
+"어내고 간단하고 사용하기 쉬운 데스크톱을 만들었으며, 호환성을 유지하면서 잘 "
+"다듬어진 새로운 글꼴과 정성들여 정교화된 애니메이션을 포함한 새로운 시각적 테"
+"마를 통해 더 아름다운 그놈 데스크톱을 만들어냈습니다."
 
-#: ../index.html:45(p)
-msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations--all while preserving compatibility."
-msgstr "그놈의 새로운 데스크톱은 새로운 수준의 간결함을 지니고 있습니다. 난잡함을 걷어내고 간단하고 사용하기 쉬운 데스크톱을 만들었으며, 호환성을 유지하면서 잘 다듬어진 새로운 글꼴과 정성들여 정교화된 애니메이션을 포함한 새로운 시각적 테마를 통해 더 아름다운 그놈 데스크톱을 만들어냈습니다."
-
-
-#: ../index.html:47(h2)
+#: ../index.html:69(h2)
 msgid "An overview at a glance"
 msgstr "한 눈에 알아보다"
 
-#: ../index.html:49(p)
-msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
-msgstr "액티비티 뷰는 모든 창과 프로그램들에 접근하기 위한 쉬운 방법을 제공합니다. 이는 그동안 실행했던 액티비티들을 기억하는 최상의 방법이기도 합니다. 우리는 액티비티 키보드 키 (종종 윈도우즈 키로 알려져 있습니다) 와 액티비티 핫 코너가 포함된, 액티비티 뷰로 접근하기 위한 빠르고 편리한 여러가지 방법들을 제공합니다."
+#: ../index.html:71(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"액티비티 뷰는 모든 창과 프로그램들에 접근하기 위한 쉬운 방법을 제공합니다. 이"
+"는 그동안 실행했던 액티비티들을 기억하는 최상의 방법이기도 합니다. 우리는 액"
+"티비티 키보드 키 (종종 윈도우즈 키로 알려져 있습니다) 와 액티비티 핫 코너가 "
+"포함된, 액티비티 뷰로 접근하기 위한 빠르고 편리한 여러가지 방법들을 제공합니"
+"다."
 
-#: ../index.html:54(h2)
+#: ../index.html:76(h2)
 msgid "Messaging built-in"
 msgstr "내장된 메시징 기능"
 
-#: ../index.html:56(p)
-msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
-msgstr "커뮤니케이션은 최신 데스크톱의 중요한 부분이지만, 메시지에 대해 회신하기 위해 윈도우를 전환해야만 할 때 귀찮은 존재입니다. 이것이 바로 그놈 3가 포커스의 전환 없이 여러분의 보존물이 지속되게 하려는 이유입니다. 답장을 하기 위해 메시징 알림으로 바로 들어가는 기능은 인스턴트 메시징을 손쉽고 빠르게 해줍니다."
+#: ../index.html:78(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"커뮤니케이션은 최신 데스크톱의 중요한 부분이지만, 메시지에 대해 회신하기 위"
+"해 윈도우를 전환해야만 할 때는 귀찮은 존재입니다. 이것이 바로 그놈 3가 포커스"
+"의 전환 없이 여러분의 저장 내용이 유지되게 하려는 이유입니다. 답장을 하기 위"
+"해 메시징 알림으로 바로 들어가는 기능은 인스턴트 메시징을 손쉽고 빠르게 해줍"
+"니다."
 
-#: ../index.html:58(h2)
+#: ../index.html:80(h2)
 msgid "Distraction-free computing"
 msgstr "혼란스럽지 않은 컴퓨팅"
 
-#: ../index.html:60(p)
-msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
-msgstr "그놈 3는 혼란스러움과 방해요소를 줄이고 여러분이 제어에 치중하도록 설계되었습니다. 우리의 새로운 알림 시스템은 기민하게 메시지를 표시하고 알림을 위해 기다리기 전까지 저장할 것이며, 그놈 3 패널은 일정한 양식에 맞게 디자인되어 전경이 아닌 배경의 일부가 됩니다. 이러한 변화로 하여금 여러분의 창조적 작업에 집중할 수 있도록 해줍니다."
+#: ../index.html:82(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"그놈 3는 혼란스러움과 방해요소를 줄이고 여러분이 제어에 치중하도록 설계되었습"
+"니다. 우리의 새로운 알림 시스템은 기민하게 메시지를 표시하고 알림을 위해 기다"
+"리기 전까지 저장할 것이며, 그놈 3 패널은 일정한 양식에 맞게 디자인되어 전경"
+"이 아닌 배경의 일부가 됩니다. 이러한 변화로 하여금 여러분의 창조적 작업에 집"
+"중할 수 있도록 해줍니다."
 
-#: ../index.html:66(h2)
+#: ../index.html:88(h2)
 msgid "Everything at your fingertips"
 msgstr "당신에 손 끝에 모든 것을 ..."
 
-#: ../index.html:68(p)
-msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
-msgstr "새로운 그놈 데스크톱에서는 모든 것들을 키보드로 빠르게 접근할 수 있습니다. 액티비티 키를 누르고 검색해보십시오: 이처럼 간단합니다. "
+#: ../index.html:90(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"새로운 그놈 데스크톱에서는 모든 것들을 키보드로 빠르게 접근할 수 있습니다. 액"
+"티비티 키를 누르고 검색해보십시오: 이처럼 간단합니다. "
 
-#: ../index.html:70(h2)
+#: ../index.html:92(h2)
 msgid "Redesigned system settings"
 msgstr "재설계된 시스템 설정"
 
-#: ../index.html:72(p)
-msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. There are some great new features in our system settings too, such as the ability to use Flickr images as desktop backgrounds."
-msgstr "시스템 설정은 이전보다 사용하기 쉽게 하도록 만든 그놈 3를 위해 완전히 재설계되었습니다. Flickr 이미지를 데스크톱의 배경화면으로 사용할 수 있는 기능과 같이 시스템 설정에서의 대단히 새로운 몇몇 기능들도 있습니다."
+#: ../index.html:94(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"시스템 설정은 이전보다 사용하기 쉽게 하도록 만든 그놈 3를 위해 완전히 재설계"
+"되었습니다. Flickr 이미지를 데스크톱의 배경화면으로 사용할 수 있는 기능과 같"
+"이 시스템 설정에서의 대단히 새로운 몇몇 기능들도 있습니다."
 
-#: ../index.html:77(h2)
+#: ../index.html:99(h2)
 msgid "And much, much more"
 msgstr "더 많아진 기능들"
 
-#: ../index.html:79(p)
-msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
-msgstr "그놈 3는 새로운 기능들이 꽉 채워졌습니다. 이 밖에 그놈 3로부터 미리 볼 수 있는 것들은 다음과 같습니다."
+#: ../index.html:101(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"그놈 3는 새로운 기능들이 꽉 채워졌습니다. 이 밖에 그놈 3로부터 미리 볼 수 있"
+"는 것들은 다음과 같습니다."
 
+#: ../index.html:103(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"사용중인 많은 윈도우들을 간단하고 쉽게 사용할 수 있도록 바둑판 모양으로 윈도"
+"우를 정렬"
 
-#: ../index.html:81(li)
-msgid "Window tiling to make using several windows simple and easy"
-msgstr "사용중인 많은 윈도우들을 간단하고 쉽게 사용할 수 있도록 하는 바둑판 모양 윈도우 정렬"
+#: ../index.html:104(li)
+msgid "A redesigned file manager"
+msgstr "재설계된 파일 매니저"
 
-#: ../index.html:82(li)
-msgid "An improved file manager"
-msgstr "향상된 파일 매니저"
-
-#: ../index.html:83(li)
-msgid "Dark application themes for when you want to focus on pictures and videos"
-msgstr "그림과 동영상에 집중하고 싶을때 사용하는 어두운 응용프로그램 테마"
-
-#: ../index.html:84(li)
+#: ../index.html:105(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "윈도우를 쉽게 정돈할 수 있도록 하는 재설계된 작업 공간"
 
-#: ../index.html:85(li)
+#: ../index.html:106(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "빠르고 부드러운 경험을 제공하기 위한 외형 내부로의 수많은 변화"
 
-#: ../index.html:86(li)
-msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
-msgstr "어떤 컴퓨터를 사용하든지 만족스러운 경험: 그놈 3는 집에서 넷북을 사용할 때 거대한 머신을 사용하는 것처럼 느끼게 해줄 것입니다"
+#: ../index.html:107(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"어떤 컴퓨터를 사용하든지 만족스러운 경험: 그놈 3는 집에서 넷북을 사용할 때 거"
+"대한 머신을 사용하는 것처럼 느끼게 해줄 것입니다"
 
-#: ../faq.html:36(h2)
+#: ../index.html:116(span)
+msgid "This website is available in many languages:"
+msgstr "이 웹사이트의 내용은 다음의 수많은 언어로 제공됩니다"
+
+#: ../index.html:117(a)
+msgid "English"
+msgstr "English"
+
+#: ../index.html:118(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:119(a)
+msgid "العربية"
+msgstr "العربية"
+
+#: ../index.html:120(a)
+msgid "Čeština"
+msgstr "Čeština"
+
+#: ../index.html:121(a)
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
+
+#: ../index.html:122(a)
+msgid "Español"
+msgstr "Español"
+
+#: ../index.html:123(a)
+msgid "Persian"
+msgstr "Persian"
+
+#: ../index.html:124(a)
+msgid "Français"
+msgstr "Français"
+
+#: ../index.html:125(a)
+msgid "Galego"
+msgstr "Galego"
+
+#: ../index.html:126(a)
+msgid "Italiano"
+msgstr "Italiano"
+
+#: ../index.html:127(a)
+msgid "日本語"
+msgstr "日本語"
+
+#: ../index.html:128(a)
+msgid "Latvian"
+msgstr "Latvian"
+
+#: ../index.html:129(a)
+msgid "한국어"
+msgstr "한국어"
+
+#: ../index.html:130(a)
+msgid "Polski"
+msgstr "Polski"
+
+#: ../index.html:131(a)
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
+
+#: ../index.html:132(a)
+msgid "Română"
+msgstr "Română"
+
+#: ../index.html:133(a)
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:134(a)
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:135(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:136(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:137(a)
+msgid "Українська"
+msgstr "Українська"
+
+#: ../index.html:138(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:139(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:140(a)
+msgid "中文 (台灣)"
+msgstr "中文 (台灣)"
+
+#: ../index.html:115(div)
+msgid ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/>"
+msgstr ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/>"
+
+#. grid_16
+#: ../index.html:111(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:40(h2)
 msgid "How do I get GNOME 3?"
 msgstr "그놈 3를 어떻게 구할 수 있습니까?"
 
-#: ../faq.html:38(p)
-msgid "GNOME 3 is scheduled for release in April 2011 and will be available via popular distributions after that time. Further details of how you can get GNOME 3 will be posted on this site once it is available. If you can't wait that long, our <a href=\"tryit.html\">Try It</a> page contains details on how to try a development version."
-msgstr "그놈 3은 2011년 4월 릴리즈를 하기로 예정되어 있고 그 이후에는 잘 알려진 배포판을 통해 출시될 것입니다. 그놈 3를 어떻게 구할 수 있는지에 대한 더 자세한 내용은 출시되고 나서 이 사이트에 게시될 것입니다. 오래 못 기다리시겠다면, 개발버전을 어떻게 사용하는지에 대한 자세한 내용들이 있는 <a href=\"tryit.html\">\"사용해 보세요\"</a> 페이지를 방문해보시기 바랍니다."
+#: ../faq.html:42(p)
+msgid ""
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
+msgstr ""
+"그놈 3은 2011년 4월 6일 출시되었고 그 이후에는 인기있는 배포판을 통해 사용 가"
+"능하게 될 것입니다.  더 자세한 내용과 라이브 데모를 사용해보시려면 <a href="
+"\"tryit.html\">\"사용해 보세요\"</a> 페이지를 방문해보시기 바랍니다."
 
+#: ../faq.html:44(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "어쨌든 그놈 프로젝트란 무엇입니까?"
 
-#: ../faq.html:40(h2)
+#: ../faq.html:46(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"그놈 프로젝트는 멋진 소프트웨어를 함께 만들어가는 국제적인 커뮤니티입니다. 그"
+"놈 소프트웨어는 <a href=\"http://www.gnu.org/philosophy/free-sw.html\">자유 "
+"소프트웨어</a> 입니다. 우리가 만들어낸 것들은 자유롭게 사용하고, 수정하고 재"
+"배포 할 수 있습니다, 개발에 대한 여러분의 참여를 환영합니다. 자세한 정보에 대"
+"하여는 <a href=\"http://www.gnome.org/about/\">그놈 소개 페이지</a> 를 참조하"
+"시기 바랍니다."
+
+#: ../faq.html:48(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "내 컴퓨터에서 그놈 3를 실행할 수 있습니까?"
 
-#: ../faq.html:42(p)
-msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
-msgstr "최근 4~5년 이내에 구매한 컴퓨터라면 그놈 3를 실행하는데 더할 나위가 없는 성능을 지니고 있을 것입니다. 그놈 3 데스트탑은 최신의 겅험을 제공하기 위해 하드웨어 가속 그래픽 카드를 필요로 하지만 완전한 그놈 3 경험은 단지 이 정도의 컴퓨>터 성능이라면 가능할 것입니다. 걱정하지 마세요. 그놈 3는 하드웨어 가속이 빠진 환경에서 최상의 경험을 제공할 대체 인터페이스와 그놈 3에서 찾아볼 수 있는 많은 향상요소의 통합과 함께 완성될 것입니다. 게다가 그놈 프로젝트와 파트너들은 많은 사람들이 완전한 그놈 3 경험을 사용할 수 있게 하는 것을 보장하기 위해 열심히 일하고 있고, 처음에 이 경험을 사용할 수 없는 사용자들이 나중에는 사용할 수 있도록 보장하는데 목표를 두고 있습니다."
+#: ../faq.html:50(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"최근 4~5년 이내에 구매한 컴퓨터라면 그놈 3를 실행하는데 더할 나위가 없는 성능"
+"을 지니고 있을 것입니다. 그놈 3 데스트탑은 최신의 겅험을 제공하기 위해 하드웨"
+"어 가속 그래픽 카드를 필요로 하지만 완전한 그놈 3 경험은 단지 이 정도의 컴퓨>"
+"터 성능이라면 가능할 것입니다. 걱정하지 마세요. 그놈 3는 하드웨어 가속이 빠"
+"진 환경에서 최상의 경험을 제공할 대체 인터페이스와 그놈 3에서 찾아볼 수 있는 "
+"많은 향상요소의 통합과 함께 완성될 것입니다. 게다가 그놈 프로젝트와 파트너들"
+"은 많은 사람들이 완전한 그놈 3 경험을 사용할 수 있게 하는 것을 보장하기 위해 "
+"열심히 일하고 있고, 처음에 이 경험을 사용할 수 없는 사용자들이 나중에는 사용"
+"할 수 있도록 보장하는데 목표를 두고 있습니다."
 
-#: ../faq.html:44(h2)
+#: ../faq.html:52(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
-msgstr "그놈 3에서 내가 관심있어하는 그놈 프로그램들을 사용할 수 있습니까?"
+msgstr "그놈 3에서 내가 관심있는 그놈 프로그램들을 사용할 수 있습니까?"
 
-#: ../faq.html:46(p)
-msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
-msgstr "네! 기존의 그놈 프로그램들은 그놈 3에서 잘 동작할 것입니다. 그놈 3는 프로그램을 더 낫게 할 수 있는 용이함을 제공하여 여러분들이 좋아하게 될 새롭게 향상된 그놈 3 버전 프로그램을 향해 더 나아갈 것입니다."
+#: ../faq.html:54(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"네! 기존의 그놈 프로그램들은 그놈 3에서 잘 동작할 것입니다. 그놈 3는 프로그램"
+"을 더 낫게 할 수 있는 용이함을 제공하여 여러분들이 좋아하게 될 새롭게 향상된 "
+"그놈 3 버전 프로그램을 향해 더 나아갈 것입니다."
 
-#: ../faq.html:48(h2)
+#: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "그놈 옛 버전은 어떻게 됩니까?"
 
-#: ../faq.html:50(p)
-msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
-msgstr "그놈 2 데스크톱은 오래되었고, 주기상 관리하기 어렵게 된 부분이 있습니다. 결과적으로 그놈 2 전체에 대한 릴리즈의 지속은 그놈 프로젝트를 위해서는 절대로 현실적인 선택이 될 수 없었으며, 오래된 그놈 2 데스크톱의 대부분은 그놈 3이(가) 출시되고 나면 새로운 릴리즈를 받을 수 없을 것입니다. 기존의 그놈 2 데스크톱은 어느날 갑자기 없어질 것은 아니지만, 그놈 2의 릴리즈는 배포판을 통해 몇년동안 지원이 지속될 것입니다."
+#: ../faq.html:58(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"그놈 2 데스크톱은 오래되었고, 주기상 관리하기 어렵게 된 부분이 있습니다. 결과"
+"적으로 그놈 2 전체에 대한 릴리즈의 지속은 그놈 프로젝트를 위해서는 절대로 현"
+"실적인 선택이 될 수 없었으며, 오래된 그놈 2 데스크톱의 대부분은 그놈 3이(가) "
+"출시되고 나면 새로운 릴리즈를 받을 수 없을 것입니다. 기존의 그놈 2 데스크톱"
+"은 어느날 갑자기 없어질 것은 아니지만, 그놈 2의 릴리즈는 배포판을 통해 몇년동"
+"안 지원이 지속될 것입니다."
 
-#: ../faq.html:52(h2)
+#: ../faq.html:60(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "그놈 3 데스크톱을 왜 이렇게 디자인 했습니까?"
 
-#: ../faq.html:54(p)
-msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
-msgstr "일의 대부분은 그놈 3의 디자인에 치중되었고, 각각의 디자인 결정 이전에는 근본적 원리가 신중히 고려되었습니다. 만약 이런 디자인 결정에 관한 어떤 질문이 있다면 <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">일반적인 그놈 3 디자인 질문들에 대한 답변들</a> 을 읽어보시기 바랍니다. 대신, 그놈 3 데스크톱의 디자인에 대한 더 광범위한 세부사항은 <a href=\"http://live.gnome.org/GnomeShell/Design/\">그놈 3 데스크톱 위키 페이지</a>에서 찾아볼 수 있습니다."
+#: ../faq.html:62(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"일의 대부분은 그놈 3의 디자인에 치중되었고, 각각의 디자인 결정 이전에는 근본"
+"적 원리가 신중히 고려되었습니다. 만약 이런 디자인 결정에 관한 어떤 질문이 있"
+"다면 <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">일반적인 그놈 3 "
+"디자인 질문들에 대한 답변들</a> 을 읽어보시기 바랍니다. 대신, 그놈 3 데스크톱"
+"의 디자인에 대한 더 광범위한 세부사항은 <a href=\"http://live.gnome.org/"
+"GnomeShell/Design/\">그놈 3 데스크톱 위키 페이지</a>에서 찾아볼 수 있습니다."
 
-#: ../faq.html:56(h2)
+#: ../faq.html:64(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "그놈 3가 출시된 이후 그놈의 계획은 무엇입니까?"
 
-#: ../faq.html:58(p)
-msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
-msgstr "출시를 축하하기 위한 성대한 파티를 치를 것이고, 파티가 끝나고 나면 데스크톱을 향상시키기 위한 일을 하러 돌아갈 것입니다. 그래서 그놈 3는 차후 릴리즈들을 통해 더 나아질 것입니다. 우리에게는 문서 검색과 흥미롭고 새로운 데스크톱 확장 프레임워크와 같은 더 간단하고 사용기에 만족스럽게 하는 새로운 기능들을 위한 계획들이 있습니다."
+#: ../faq.html:66(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"출시를 축하하기 위한 성대한 파티를 치를 것이고, 파티가 끝나고 나면 데스크톱"
+"을 향상시키기 위한 일을 하러 돌아갈 것입니다. 그래서 그놈 3는 차후 릴리즈들"
+"을 통해 더 나아질 것입니다. 우리에게는 문서 검색과 흥미롭고 새로운 데스크톱 "
+"확장 프레임워크와 같은 더 간단하고 사용기에 만족스럽게 하는 새로운 기능들을 "
+"위한 계획들이 있습니다."
 
-#: ../faq.html:60(h2)
+#: ../faq.html:68(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "그놈 3 프로젝트에 어떻게 참여하고 도울 수 있습니까?"
 
-#: ../faq.html:62(p)
-msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
-msgstr "그놈 3에 대한 이야기를 널리 퍼뜨리는 것은 도움을 줄 수 있는 최상의 방법입니다. 적극적인 트윗, 주목적인 글 작성, 상태 업데이트 혹은 게시는 언제나 권장됩니다.  또한 <a href=\"http;//www.facebook.com/GNOMEDesktop\">페이스북 그룹</a>에 가입하거나 <a href=\"http://www.gnome.org/friends/\">그놈 친구</a>가 될 수도 있습니다. 이밖에, GNOME 제작에 관련된 많은 일들중 하나를 도울 수도 있습니다. 더 자세한 내용을 보시려면 <a href=\"http://live.gnome.org/JoinGnome\">공헌 페이지</a>를 확인해 보시기 바랍니다."
+#: ../faq.html:70(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"그놈 3에 대한 이야기를 널리 퍼뜨리는 것은 도움을 줄 수 있는 최상의 방법입니"
+"다. 적극적인 트윗, 주목적인 글 작성, 상태 업데이트 혹은 게시는 언제나 권장됩"
+"니다.  또한 <a href=\"http;//www.facebook.com/GNOMEDesktop\">페이스북 그룹</"
+"a>에 가입하거나 <a href=\"http://www.gnome.org/friends/\">그놈 친구</a>가 될 "
+"수도 있습니다. 이밖에, GNOME 제작에 관련된 많은 일들중 하나를 도울 수도 있습"
+"니다. 더 자세한 내용을 보시려면 <a href=\"http://live.gnome.org/JoinGnome\">"
+"공헌 페이지</a>를 확인해 보시기 바랍니다."
+
+#: ../faq.html:72(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "그놈 3에 관한 글을 적고 싶습니다. 더 자세한 정보는 어떻게 얻습니까?"
+
+#: ../faq.html:74(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"출시작에 관한 더 많은 정보는 <a href=\"http://live.gnome.org/ThreePointZero"
+"\">그놈 3 위키 페이지</a>에서 찾아볼 수 있습니다. 게시물 게재 요청은 <a href="
+"\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>로 "
+"보내주십시오."
+
+#~ msgid ""
+#~ "Dark application themes for when you want to focus on pictures and videos"
+#~ msgstr "그림과 동영상에 집중하고 싶을때 사용하는 어두운 응용프로그램 테마"
