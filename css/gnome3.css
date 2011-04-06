@@ -65,12 +65,13 @@ a.faq {
 }
   #splash h1 {
     position: absolute;
-    font-size: 220%;
+    font-size: 200%;
     bottom: -12px;
     left: -3px;
     color: #eeeeec;
     text-shadow: 0 2px 15px #000000;
     margin: 0;
+    white-space: nowrap;
   }
 
   #splash .alpha-banner {
