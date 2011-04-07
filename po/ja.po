@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-06 21:10+0000\n"
-"PO-Revision-Date: 2011-04-07 07:58+0900\n"
+"POT-Creation-Date: 2011-04-07 05:10+0000\n"
+"PO-Revision-Date: 2011-04-07 15:05+0900\n"
 "Last-Translator: Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "Language: ja\n"
@@ -64,12 +64,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "<placeholder-1/> 上の GNOME 3"
 
 #: ../tryit.html:43(a)
-msgid "Download for 32 bit systems (v0.3.1)"
-msgstr "32 ビットシステム用をダウンロード (v0.3.1)"
+msgid "Download for 32 bit systems (v1.0.0)"
+msgstr "32 ビットシステム用をダウンロード (v1.0.0)"
 
 #: ../tryit.html:45(a)
-msgid "Download for 64 bit systems (v0.3.1)"
-msgstr "64 ビットシステム用をダウンロード (v0.3.1)"
+msgid "Download for 64 bit systems (v1.0.0)"
+msgstr "64 ビットシステム用をダウンロード (v1.0.0)"
 
 #: ../tryit.html:49(a)
 msgid "Fedora"
