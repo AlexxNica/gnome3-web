@@ -1,0 +1,497 @@
+# Danish translation for gnome3-web.
+# Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome3-web package.
+#
+# Kris Thomsen <lakristho@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-03-30 16:33+0000\n"
+"PO-Revision-Date: 2011-04-07 12:12+0000\n"
+"Last-Translator: Kris Thomsen <lakristho@gmail.com>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - Lavet af Nemt"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+msgid "Home"
+msgstr "Hjem"
+
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../faq.html:30(h1)
+msgid "Common questions and answers"
+msgstr "Hyppige spørgsmål og svar"
+
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+msgid "Try it out!"
+msgstr "Prøv det!"
+
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
+msgid "Releasing awesome in: <span id=\"countbox\"/>"
+msgstr "Udgiver fantastisk om: <span id=\"countbox\"/>"
+
+#: ../tryit.html:30(h1)
+msgid "Try out GNOME 3"
+msgstr "Prøv GNOME 3"
+
+#: ../tryit.html:32(p)
+msgid ""
+"GNOME 3 is under active development and will not be completed until April "
+"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
+"or USB stick."
+msgstr ""
+"GNOME 3 er under aktiv udvikling og vil ikke være færdig før april 2011. "
+"Hvis du vil prøve det, kan du køre en live-alpha-version fra en cd/dvd "
+"eller usb-pen."
+
+#: ../tryit.html:38(a)
+msgid "Download for 32 bit systems (v0.3.1)"
+msgstr "Hent til 32-bit systemer (v0.3.1)"
+
+#: ../tryit.html:39(a)
+msgid "Download for 64 bit systems (v0.3.1)"
+msgstr "Hent til 64-bit systemer (v0.3.1)"
+
+#: ../tryit.html:46(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"For at køre fra en cd/dvd skal du brænde nedhentningen til en skive, indsætte den "
+"i din computer og genstarte."
+
+#: ../tryit.html:50(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Hent usb-aftryksskriveren (nedenfor) og pak den ud"
+
+#: ../tryit.html:51(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"Åbn en terminal og navigér til mappen med den udpakkede aftryksskriver (f.eks. "
+"<code>$ cd Hentede filer/abock-image-usb-stick-f3b1002</code>)"
+
+#: ../tryit.html:52(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"Forbered aftryksskriveren ved at køre: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+
+#: ../tryit.html:53(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+"Fjern alle usb-lagerenheder som du har koblet til din computer og "
+"indsæt den tomme usb-pen som du vil skrive til"
+
+#: ../tryit.html:54(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"Kør aftryksskriver-scriptet: <code>$ sudo ./image-usb-stick "
+"sti_til_live_aftryk.iso</code>"
+
+#: ../tryit.html:55(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr "For at køre live-aftrykket skal du genstarte din computer med usb-pennen sat i"
+
+#: ../tryit.html:58(a)
+msgid "Download USB image writer"
+msgstr "Hent usb-aftryksskriver"
+
+#: ../tryit.html:60(p)
+msgid "The user name for the live image is 'tux' and the password is empty."
+msgstr "Brugernavnet på live-aftrykket er \"tux\" og der er ingen adgangskode."
+
+#: ../tryit.html:45(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+msgstr ""
+"<placeholder-1/> For at køre GNOME 3 alpha fra en usb-pen: <placeholder-2/"
+"><placeholder-3/><br/><placeholder-4/>"
+
+#: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
+msgid "The GNOME Project"
+msgstr "GNOME-projektet"
+
+#: ../tryit.html:71(a) ../index.html:100(a) ../faq.html:78(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_16
+#: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Ophavsret © 2011 <placeholder-1/><br/> Frit at dele og remixe: <placeholder-"
+"2/><br/> Del på: <placeholder-3/> | <placeholder-4/><br/> ❧"
+
+#. String to use in tryit.html after release
+#: ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 blev udgivet den 6. april 2011. Hvis du vil prøve det kan du køre en "
+"live-version fra en cd/dvd eller en usb-pen."
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
+"page for more details and for links to live demos."
+msgstr ""
+"GNOME 3 blev udgivet den 6. april 2011 og vil være tilgængelig via populære "
+"distributioner efter det. Se <a href=\"tryit.html\">Prøv det!</a>-siden for "
+"flere detaljer og links til live-demo'er."
+
+#: ../index.html:37(h1)
+msgid "Introducing the next generation GNOME desktop"
+msgstr "Introducerer næste generations GNOME-skrivebordmiljø"
+
+#: ../index.html:44(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"Til GNOME 3, er GNOME-projektet startet fra bunden og har lavet et fuldstændig "
+"nyt, moderne skrivebordsmiljø designet til nutidens brugere og teknologier. "
+"Her er nogen af de ting som du kan forvente fra den nye GNOME:"
+
+#: ../index.html:52(h2)
+msgid "Simply beautiful"
+msgstr "Simpelthen smukt"
+
+#: ../index.html:54(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"GNOMEs nye skrivebord bringer elegance op til et nyt niveau. Vi har skåret alt "
+"rodet væk og lavet et simpelt og nemt-at-bruge skrivebordsmiljø. Vi har gjort "
+"det til det smukkeste GNOME-skrivebord nogensinde med et nyt visuelt tema, en "
+"ny raffineret skrifttype og nøje forarbejdede animationer."
+
+#: ../index.html:56(h2)
+msgid "An overview at a glance"
+msgstr "Et hurtigt overblik"
+
+#: ../index.html:58(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. "
+"We have provided several fast and convenient ways to access the activities "
+"view, including the activities keyboard key (often known as the Windows key) "
+"and the activities hot corner."
+msgstr ""
+"Aktivitets-tilstanden giver en nem måde at tilgå alle dine vinduer og programmer. "
+"Det er også en god måde at holde styr på alle dine aktiviteter. Vi har givet mulighed "
+"for flere hurtige og behagelige måder at tilgå aktivitetsvisningen på, inklusiv "
+"aktivitets-tastaturtasten (ofte kendt som Windows-tasten) og hurtighjørnet (hot corner) for aktiviteter."
+
+#: ../index.html:63(h2)
+msgid "Messaging built-in"
+msgstr "Indbygget chat"
+
+#: ../index.html:65(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"Kommunikation er en vigtig del af et moderne skrivebordsmiljø, men det er besværligt "
+"når man skal til at skifte vindue for at svare på en besked. Det er derfor GNOME 3 "
+"giver dig mulighed for at fortsætte dine samtaler uden at skifte fokus. Muligheden "
+"for at skrive et svar direkte ind i besked-notifikationer gør chat hurtigt og "
+"ubesværet."
+
+#: ../index.html:67(h2)
+msgid "Distraction-free computing"
+msgstr "Arbejd uden forstyrrelser"
+
+#: ../index.html:69(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 er designet til at reducere forstyrrelser og til at sætte dig i førersædet. "
+"Vores nye besked-system præsenterer beskeder på en afslappet måde og gemmer dem "
+"til du klar til dem. Panelet i GNOME 3 er stylet så den er en del af baggrunden, ikke "
+"forgrunden. Disse ændringer gør dig i stand til at fokusere på dine kreative opgaver."
+
+#: ../index.html:75(h2)
+msgid "Everything at your fingertips"
+msgstr "Alt er nemt tilgængeligt"
+
+#: ../index.html:77(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. "
+"You'll love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Med det nye GNOME-skrivebordsmiljø, kan alt hurtigt blive tilgået fra tastaturet. "
+"Tryk på aktivitets-tasten og søg: så nemt er det. Du vil elske denne funktion "
+"hvis du er en bruger, som kan lide at tingene sker hurtigt."
+
+#: ../index.html:79(h2)
+msgid "Redesigned system settings"
+msgstr "Nydesignede systemindstillinger"
+
+#: ../index.html:81(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Vores systemindstillinger er blevet fuldstændigt designet på ny til GNOME 3, hvilket "
+"gør dem nemmere at bruge end nogensinde for. GNOME 3 tilbyder også en ny måde at "
+"gennemse dine indstillinger og vores indstillingskategorier er blevet omorganiseret "
+"for at gøre det hurtigt og ligetil at finde den indstilling du leder efter."
+
+#: ../index.html:86(h2)
+msgid "And much, much more"
+msgstr "Og meget, meget mere"
+
+#: ../index.html:88(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 er proppet med nye funktioner. Her er nogen af de andre ting, som "
+"du kan se frem til med GNOME 3:"
+
+#: ../index.html:90(li)
+msgid ""
+"Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Side-om-side vindueslægning for at gøre brugen af flere vinduer simpelt og nemt"
+
+#: ../index.html:91(li)
+msgid "A redesigned file manager"
+msgstr "En nydesignet filhåndtering"
+
+#: ../index.html:92(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr "Nydesignet arbejdsområder så du nemt kan organisere dine vinduer"
+
+#: ../index.html:93(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr "Kæmpe ændringer \"under hjelmen\" for at give dig en hurtigere, blødere oplevelse"
+
+#: ../index.html:94(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will "
+"feel right at home on netbooks as well as larger machines"
+msgstr ""
+"En tilfredsstillende oplevelse uanset hvilken slags computer du bruger: GNOME 3 "
+"vil føles hjemligt på netbooks og større maskiner"
+
+#: ../faq.html:38(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Hvordan får jeg fat i GNOME 3?"
+
+#: ../faq.html:40(p)
+msgid ""
+"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
+"popular distributions after that time. See the <a href=\"tryit.html\">Try "
+"It</a> page for more details and for links to a live demos."
+msgstr ""
+"GNOME 3 er planlagt til at blive udgivet den 6. april 2011 og vil blive tilgængelig "
+"via populære distributioner derefter. Se <a href=\"tryit.html\">Prøv "
+"det!</a>-siden for flere detaljer og links til live-demo'er."
+
+#: ../faq.html:42(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "Hvad er det der GNOME-projekt?"
+
+#: ../faq.html:44(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"GNOME-projektet er et internationalt fællesskab som samles omkring at lave "
+"fantastisk software. GNOME-software er <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">fri software</a>: alt vores arbejde er frit at bruge, ændre og "
+"redistribuere. Alle er velkomne til at deltage i dets udvikling. Se <a "
+"href=\"http://www.gnome.org/about/\">siden om GNOME</a> for mere "
+"information."
+
+#: ../faq.html:46(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Vil min computer være i stand til at køre GNOME 3?"
+
+#: ../faq.html:48(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"Computere som er købt indenfor de seneste fire eller fem år burde være mere end i "
+"stand til at køre GNOME 3. Skrivebordsmiljøet GNOME 3 kræver dog hardware-accelereret "
+"grafik, for at give den perfekte oplevelse, og den fulde GNOME 3 oplevelse vil kun "
+"være tilgængelig på computere som har dette. Du skal dog ikke være bekymret: GNOME 3 "
+"vil komme med en komplet reservebrugerflade, som giver en glimrende oplevelse som "
+"erstatning for hardwareacceleration og som indarbejder mange af de forbedringer, som "
+"findes i GNOME 3. Derudover arbejder GNOME-projektet og dets partnere hårdt på at "
+"sikre sig, at den komplette GNOME 3 oplevelse er tilgængelig for så mange mennesker som "
+"muligt, og sigter efter at sikre de brugere som her i begyndelsen ikke kan få denne "
+"oplevelse, vil være i stand til det i fremtiden."
+
+#: ../faq.html:50(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr "Vil jeg være i stand til at bruge mine yndlings GNOME-programmer i GNOME 3?"
+
+#: ../faq.html:52(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
+"does provide facilities to make applications even better though, so look out "
+"for new and improved GNOME 3 versions of those trusty apps you've learnt to "
+"love."
+msgstr ""
+"Ja! Eksisterende GNOME-programmer virker fint under GNOME 3. GNOME 3 giver "
+"dog nogen muligheder for at gøre programmerne endnu bedre, så kig efter nye "
+"og forbedrede GNOME 3-versioner af dine betroede programmer, som du har lært "
+"at elske."
+
+#: ../faq.html:54(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Hvad kommer til at ske med den gamle version af GNOME?"
+
+#: ../faq.html:56(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"Skrivebordsmiljøet GNOME 2 har haft et langt liv, og dele af det er blevet besværlige "
+"at vedligeholde over den periode. Som resultat deraf var det aldrig en praktisk løsning "
+"for GNOME-projektet at fortsætte med at lave udgivelser af hele GNOME 2-skrivebordsmiljøet."
+"Adskillige dele af det gamle GNOME 2-skrivebordsmiljø vil ikke længere modtage nye "
+"udgivelser efter at GNOME 3 er udgivet. Det traditionelle GNOME 2-skrivebordsmiljø vil dog ikke "
+"forsvinde med det samme; udgivelser af GNOME 2 vil fortsat blive understøttet af "
+"distributionerne i årene fremover."
+
+#: ../faq.html:58(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Hvorfor er GNOME 3-skrivebordet designet som det er?"
+
+#: ../faq.html:60(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"En kæmpe mængde arbejde er blevet lagt i at designe GNOME 3 og bag hver af disse "
+"designvalg er der et nøje udtænkt argument. Hvis du har et specifikt spørgsmål "
+"omkring et af disse designvalg, kan du prøve at læse vores <a href=\"http://"
+"live.gnome.org/GnomeShell/Design/FAQ\">svar til almindelige spørgsmål om GNOME 3-design</a>."
+"Du kan også læse vores uddybende detaljer om designet til GNOME 3-skrivebordsmiljøet, som "
+"findes på <a href=\"http://live.gnome.org/GnomeShell/Design/\">wikisiden for GNOME 3-skrivebordsdesign</a>."
+
+#: ../faq.html:62(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "Hvad er GNOMEs planer efter at GNOME 3 er udgivet?"
+
+#: ../faq.html:64(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"Vi vil holde en kæmpe fest for at fejre udgivelsen, og så vil vi gå tilbage "
+"til arbejdet for at forbedre vores skrivebordsmiljø, så GNOME 3 bliver bedre "
+"og bedre med de efterfølgende udgivelser. Vi har en masse planer for nye "
+"funktioner, som vil gøre GNOME endnu nemmere og mere tilfredsstillende at bruge, "
+"som for eksempel dokumentsøgning og et nyt og spændende system til skrivebordsudvidelser."
+
+#: ../faq.html:66(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "Hvordan kan jeg blive involveret eller hjælpe med GNOME 3?"
+
+#: ../faq.html:68(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"At sprede nyheden om GNOME 3 er en god måde at hjælpe på. Et positivt tweet, dent, "
+"statusopdatering eller indlæg er altid værdsat. Du kan også melde dig ind i vores "
+"<a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook-gruppe</a> eller blive "
+"<a href=\"http://www.gnome.org/friends/\">Ven af GNOME</a>. Derudover kan du også "
+"hjælpe med en af de mange forskellige opgaver, som hører med til at producere GNOME. "
+"Bare kig på vores <a href=\"http://live.gnome.org/JoinGnome\">bidragsyderside</a> for "
+"flere detaljer."
+
+#: ../faq.html:70(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "Jeg vil gerne skrive om GNOME 3. Hvor finder jeg mere information?"
+
+#: ../faq.html:72(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Yderligere information om udgivelsen kan findes på <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki-siden</a>. Presseforespørgsler skal "
+"sendes til <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
