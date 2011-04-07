@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-29 20:52+0000\n"
-"PO-Revision-Date: 2011-03-30 13:48+0200\n"
+"POT-Creation-Date: 2011-04-07 06:44+0000\n"
+"PO-Revision-Date: 2011-04-07 11:07+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
 "Language: af\n"
@@ -21,127 +21,34 @@ msgstr ""
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Moeitevry"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
 msgid "Home"
 msgstr "Tuis"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
-#: ../faq.html:30(h1)
+#. Alpha/Beta/New Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
+#: ../faq.html:31(h1)
 msgid "Common questions and answers"
 msgstr "Algemene vrae en antwoorde"
 
-#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "Probeer dit!"
 
-#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
-msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr "Asemrowendheid word vrygestel oor: <span id=\"countbox\"/>"
+#: ../tryit.html:22(div) ../index.html:28(div) ../faq.html:22(div)
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation desktop has arrived"
+msgstr "Die nuwe generasie werkskerm is hier"
 
-#: ../tryit.html:30(h1)
+#. Alpha/Beta/NEW Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "Probeer GNOME 3"
 
-#: ../tryit.html:32(p)
-msgid ""
-"GNOME 3 is under active development and will not be completed until April "
-"2011. If you want to try it, you can run a live alpha version from a CD/DVD "
-"or USB stick."
-msgstr ""
-"GNOME 3 word aktief ontwikkel en sal nie klaar wees voor April 2011 nie. Om "
-"dit vir 'n toetslopie te neem, gebruik die alfa-weergawe van 'n \"lewendige\" "
-"CD/DVD of 'n USB-stafie."
-
-#: ../tryit.html:38(a)
-msgid "Download for 32 bit systems (v0.3.0)"
-msgstr "Laai af vir 32-bisstelsels (0.3.0)"
-
-#: ../tryit.html:39(a)
-msgid "Download for 64 bit systems (v0.3.0)"
-msgstr "Laai af vir 64-bisstelsels (0.3.0)"
-
-#: ../tryit.html:46(p)
-msgid ""
-"To run from a CD/DVD, burn the download to a disk, insert into your computer "
-"and reboot."
-msgstr ""
-"Om van 'n CD/DVD af te laat loop, skryf die afgelaaide lêer na 'n skyf, sit "
-"dit in die rekenaar, en herbegin."
-
-#: ../tryit.html:50(li)
-msgid "Download the USB image writer (below) and extract it"
-msgstr "Laai die USB-beeldskrywer (onder) en pak dit uit"
-
-#: ../tryit.html:51(li)
-msgid ""
-"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
-"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
-msgstr ""
-
-#: ../tryit.html:52(li)
-msgid ""
-"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
-"code>"
-msgstr ""
-
-#: ../tryit.html:53(li)
-msgid ""
-"Remove any USB storage devices that you might have connected to your "
-"computer and insert the empty USB stick that you want to write to"
-msgstr ""
-
-#: ../tryit.html:54(li)
-msgid ""
-"Run the image writer script: <code>$ sudo ./image-usb-stick "
-"path_to_the_live_image.iso</code>"
-msgstr ""
-
-#: ../tryit.html:55(li)
-msgid "To run the live image, reboot your computer with the USB stick attached"
-msgstr ""
-
-#: ../tryit.html:58(a)
-msgid "Download USB image writer"
-msgstr ""
-
-#: ../tryit.html:60(p)
-msgid "The user name for the live image is 'tux' and the password is empty."
-msgstr ""
-"Die gebruikernaam vir die lewendige beeld is 'tux' en die wagwoord is leeg."
-
-#: ../tryit.html:45(div)
-msgid ""
-"<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/"
-"><placeholder-3/><br/><placeholder-4/>"
-msgstr ""
-
-#: ../tryit.html:70(a) ../index.html:99(a) ../faq.html:77(a)
-msgid "The GNOME Project"
-msgstr "Die GNOME-projek"
-
-#: ../tryit.html:71(a) ../index.html:100(a) ../faq.html:78(a)
-msgid "Creative Commons CC-BY"
-msgstr ""
-
-#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
-msgid "Facebook"
-msgstr "Facebook"
-
-#: ../tryit.html:72(a) ../index.html:101(a) ../faq.html:79(a)
-msgid "Twitter"
-msgstr "Twitter"
-
-#. grid_16
-#: ../tryit.html:69(div) ../index.html:98(div) ../faq.html:76(div)
-msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
-"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
-msgstr ""
-"Kopiereg © 2011 <placeholder-1/><br/> Vry om te deel en te hermeng: "
-"<placeholder-2/><br/> Deel op: <placeholder-3/> | <placeholder-4/><br/> ❧"
-
 #. String to use in tryit.html after release
-#: ../temp.html:11(p)
+#: ../tryit.html:33(p) ../temp.html:11(p)
 msgid ""
 "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
 "live version from a CD/DVD or USB stick."
@@ -149,8 +56,127 @@ msgstr ""
 "GNOME 3 is vrygestel op 6 April 2011. Om dit vir 'n toetslopie te neem, "
 "gebruik die alfa-weergawe van 'n \"lewendige\" CD/DVD of 'n USB-stafie."
 
+#: ../tryit.html:41(a)
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../tryit.html:41(h4) ../tryit.html:49(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME 3 gebaseer op <placeholder-1/>"
+
+#: ../tryit.html:43(a)
+#| msgid "Download for 32 bit systems (v0.3.0)"
+msgid "Download for 32 bit systems (v1.0.0)"
+msgstr "Laai af vir 32-bisstelsels (v1.0.0)"
+
+#: ../tryit.html:45(a)
+#| msgid "Download for 64 bit systems (v0.3.0)"
+msgid "Download for 64 bit systems (v1.0.0)"
+msgstr "Laai af vir 64-bisstelsels (v1.0.0)"
+
+#: ../tryit.html:49(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:51(a)
+#| msgid "Download for 32 bit systems (v0.3.0)"
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "Laai af vir 32-bisstelsels (2011-04-05)"
+
+#: ../tryit.html:57(p)
+#| msgid "The user name for the live image is 'tux' and the password is empty."
+msgid ""
+"The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr ""
+"Die gebruikernaam vir openSUSE se lewendige beeld is 'tux' en die wagwoord "
+"is leeg."
+
+#: ../tryit.html:58(p)
+#| msgid "The user name for the live image is 'tux' and the password is empty."
+msgid ""
+"The user name for the Fedora live image is 'liveuser' and the password is "
+"empty."
+msgstr ""
+"Die gebruikernaam vir Fedora se lewendige beeld is 'liveuser' en die "
+"wagwoord is leeg."
+
+#: ../tryit.html:65(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"Om van 'n CD/DVD af te laat loop, skryf die afgelaaide lêer na 'n skyf, sit "
+"dit in die rekenaar, en herbegin."
+
+#: ../tryit.html:69(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Laai die USB-beeldskrywer (onder) en pak dit uit"
+
+#: ../tryit.html:70(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+
+#: ../tryit.html:71(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+
+#: ../tryit.html:72(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your "
+"computer and insert the empty USB stick that you want to write to"
+msgstr ""
+
+#: ../tryit.html:73(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+
+#: ../tryit.html:74(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr ""
+
+#: ../tryit.html:77(a)
+msgid "Download USB image writer"
+msgstr ""
+
+#: ../tryit.html:64(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/>"
+msgstr ""
+
+#: ../tryit.html:88(a) ../index.html:113(a) ../faq.html:82(a)
+msgid "The GNOME Project"
+msgstr "Die GNOME-projek"
+
+#: ../tryit.html:89(a) ../index.html:114(a) ../faq.html:83(a)
+msgid "Creative Commons CC-BY"
+msgstr ""
+
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_12
+#: ../tryit.html:87(div) ../faq.html:81(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Kopiereg © 2011 <placeholder-1/><br/> Vry om te deel en te hermeng: "
+"<placeholder-2/><br/> Deel op: <placeholder-3/> | <placeholder-4/><br/> ❧"
+
 #. String to use in faq.html after release
-#: ../temp.html:13(p)
+#: ../temp.html:13(p) ../faq.html:41(p)
 msgid ""
 "GNOME 3 was released on 6th April 2011 and will be available via popular "
 "distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
@@ -160,29 +186,46 @@ msgstr ""
 "verspreidings daarna. Sien gerus die bladsy <a href=\"tryit.html\">Probeer "
 "dit</a> vir meer besonderhede en skakels na lewendige demonstrasies."
 
-#: ../index.html:37(h1)
-msgid "Introducing the next generation GNOME desktop"
-msgstr "Ons stel bekend: die nuwe generasie GNOME-werkskerm"
+#: ../index.html:38(h1)
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation GNOME desktop has arrived"
+msgstr "Die nuwe generasie GNOME-werkskerm is hier"
 
-#: ../index.html:41(iframe:title)
-msgid "YouTube video player"
-msgstr "YouTube-videospeler"
-
-#: ../index.html:44(p)
+#: ../index.html:49(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
 "Here are some of the things that you can expect from the new GNOME:"
 msgstr ""
-"Vir GNOME 3, het die GNOME-projek van nuuts af begin om 'n heeltemal nuwe, "
+"Vir GNOME 3 het die GNOME-projek van nuuts af begin om 'n heeltemal nuwe, "
 "moderne werkskerm te ontwerp vir vandag se gebruikers en tegnologie. Hier is "
 "'n paar van die dinge om te verwag van die nuwe GNOME:"
 
-#: ../index.html:52(h2)
+#: ../index.html:50(label)
+msgid "Access apps faster"
+msgstr "Kry programme vinniger"
+
+#: ../index.html:51(label)
+msgid "Easier window management"
+msgstr "Werk makliker met vensters"
+
+#: ../index.html:56(label)
+msgid "Create workspaces"
+msgstr "Skep werkareas"
+
+#: ../index.html:57(label)
+msgid "Deeper hardware integration"
+msgstr "Dieper integrasie met hardeware"
+
+#: ../index.html:58(label)
+msgid "App-based window management"
+msgstr "Programgebaseerde vensterbestuur"
+
+#: ../index.html:66(h2)
 msgid "Simply beautiful"
 msgstr "Eenvoudig pragtig"
 
-#: ../index.html:54(p)
+#: ../index.html:68(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -194,11 +237,11 @@ msgstr ""
 "gebruik. Hierdie is ook die mooiste GNOME-werkskerm ooit, met 'n nuwe "
 "visuele tema, 'n verfynde nuwe font en noukeurig vervaardigde animasies."
 
-#: ../index.html:56(h2)
+#: ../index.html:70(h2)
 msgid "An overview at a glance"
 msgstr "'n Oorsig met 'n oogopslag"
 
-#: ../index.html:58(p)
+#: ../index.html:72(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -212,11 +255,11 @@ msgstr ""
 "aktiwiteite te sien, insluitend die aktiwiteite-knoppie (dikwels bekend as "
 "die Windows-sleutel) en die aksiehoek vir aktiwiteite."
 
-#: ../index.html:63(h2)
+#: ../index.html:77(h2)
 msgid "Messaging built-in"
 msgstr "Kommunikasie ingebou"
 
-#: ../index.html:65(p)
+#: ../index.html:79(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -230,11 +273,11 @@ msgstr ""
 "verander. Die vermoë om 'n antwoord direk in die kennisgewing vir 'n "
 "boodskap te gee, maak kitsboodskappe werklik vinnig en maklik."
 
-#: ../index.html:67(h2)
+#: ../index.html:81(h2)
 msgid "Distraction-free computing"
 msgstr "Werk sonder onderbrekings"
 
-#: ../index.html:69(p)
+#: ../index.html:83(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -248,11 +291,11 @@ msgstr ""
 "deel is van die agtergrond, nie die voorgrond nie. Dié veranderinge laat "
 "mens fokus op jou kreatiewe take."
 
-#: ../index.html:75(h2)
+#: ../index.html:89(h2)
 msgid "Everything at your fingertips"
 msgstr "Alles byderhand"
 
-#: ../index.html:77(p)
+#: ../index.html:91(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -262,11 +305,11 @@ msgstr ""
 "word. Druk die aktiwiteite-knoppie en soek: dis hoe maklik dit is. Dit is "
 "ideaal vir gebruikers wat wil sien dat dinge vinnig gebeur."
 
-#: ../index.html:79(h2)
+#: ../index.html:93(h2)
 msgid "Redesigned system settings"
 msgstr "Stelselinstellings herontwerp"
 
-#: ../index.html:81(p)
+#: ../index.html:95(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -278,11 +321,11 @@ msgstr ""
 "instellings te vind, en die kategorieë vir instellings is geherorganiseer. "
 "Dit maak dit vinnig en maklik om die gewenste instelling te vind."
 
-#: ../index.html:86(h2)
+#: ../index.html:100(h2)
 msgid "And much, much more"
 msgstr "En nog baie meer"
 
-#: ../index.html:88(p)
+#: ../index.html:102(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
@@ -290,26 +333,26 @@ msgstr ""
 "GNOME 3 is propvol nuwe funksies. Hier is 'n paar ander dinge van GNOME 3 "
 "waarna mens kan uitsien:"
 
-#: ../index.html:90(li)
+#: ../index.html:104(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
 "Sy-aan-sy vensteruitleg maak dit eenvoudig en maklik om verskeie vensters te "
 "gebruik"
 
-#: ../index.html:91(li)
+#: ../index.html:105(li)
 msgid "A redesigned file manager"
 msgstr "'n Herontwerpte lêerbestuurder"
 
-#: ../index.html:92(li)
+#: ../index.html:106(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "Herontwerpte werkruimtes om vensters maklik te organiseer"
 
-#: ../index.html:93(li)
+#: ../index.html:107(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "Groot onderliggende veranderinge vir 'n vinniger, gladder ervaring"
 
-#: ../index.html:94(li)
+#: ../index.html:108(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
@@ -317,26 +360,139 @@ msgstr ""
 "'n Bevredigende ervaring, met watter tipe rekenaar ook al gebruik word: "
 "GNOME 3 voel tuis op netboeke én groter rekenaars"
 
-#: ../faq.html:38(h2)
+#: ../index.html:117(span)
+msgid "This website is available in many languages:"
+msgstr "Dié webwerf is beskikbaar in baie tale:"
+
+#: ../index.html:118(a)
+msgid "English"
+msgstr ""
+
+#: ../index.html:119(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:120(a)
+msgid "العربية"
+msgstr ""
+
+#: ../index.html:121(a)
+msgid "Čeština"
+msgstr ""
+
+#: ../index.html:122(a)
+msgid "Ελληνικά"
+msgstr ""
+
+#: ../index.html:123(a)
+msgid "Español"
+msgstr ""
+
+#: ../index.html:124(a)
+msgid "Persian"
+msgstr ""
+
+#: ../index.html:125(a)
+msgid "Français"
+msgstr ""
+
+#: ../index.html:126(a)
+msgid "Galego"
+msgstr ""
+
+#: ../index.html:127(a)
+msgid "Italiano"
+msgstr ""
+
+#: ../index.html:128(a)
+msgid "日本語"
+msgstr ""
+
+#: ../index.html:129(a)
+msgid "Latvian"
+msgstr ""
+
+#: ../index.html:130(a)
+msgid "한국어"
+msgstr ""
+
+#: ../index.html:131(a)
+msgid "Polski"
+msgstr ""
+
+#: ../index.html:132(a)
+msgid "Português do Brasil"
+msgstr ""
+
+#: ../index.html:133(a)
+msgid "Română"
+msgstr ""
+
+#: ../index.html:134(a)
+msgid "Slovenščina"
+msgstr ""
+
+#: ../index.html:135(a)
+msgid "Svenska"
+msgstr ""
+
+#: ../index.html:136(a)
+msgid "Turkish"
+msgstr ""
+
+#: ../index.html:137(a)
+msgid "Uyghur"
+msgstr ""
+
+#: ../index.html:138(a)
+msgid "Українська"
+msgstr ""
+
+#: ../index.html:139(a)
+msgid "中文 (中国大陆)"
+msgstr ""
+
+#: ../index.html:140(a)
+msgid "中文 (香港)"
+msgstr ""
+
+#: ../index.html:141(a)
+msgid "中文 (台灣)"
+msgstr ""
+
+#: ../index.html:116(div)
+msgid ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/>"
+msgstr ""
+
+#. grid_12
+#: ../index.html:112(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr ""
+"Kopiereg © 2011 <placeholder-1/><br/> Vry om te deel en te hermeng: "
+"<placeholder-2/><br/> Deel op: <placeholder-3/> | "
+"<placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
 msgstr "Hoe kry ek GNOME 3?"
 
-#: ../faq.html:40(p)
-msgid ""
-"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
-"popular distributions after that time. See the <a href=\"tryit.html\">Try "
-"It</a> page for more details and for links to a live demos."
-msgstr ""
-"GNOME 3 is geskeduleer vir vrystelling op 6 April 2011 en sal beskikbaar "
-"wees deur populêre verspreidings daarna. Sien gerus die bladsy <a "
-"href=\"tryit.html\">Probeer dit</a> vir meer besonderhede en skakels na "
-"lewendige demonstrasies."
-
-#: ../faq.html:42(h2)
+#: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
 msgstr "Wat is die GNOME-projek nou eintlik?"
 
-#: ../faq.html:44(p)
+#: ../faq.html:45(p)
 msgid ""
 "The GNOME Project is an international community which comes together to make "
 "great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
@@ -346,17 +502,17 @@ msgid ""
 "information."
 msgstr ""
 "Die GNOME-projek is 'n internasionale gemeenskap wat saamwerk om fantastiese "
-"sagteware te maak. GNOME-sagteware is <a "
-"href=\"http://www.gnu.org/philosophy/free-sw.html\">Vry Sagteware</a>: elkeen "
-"is vry om ons werk te gebruik, te verander en te herversprei. Almal is "
-"welkom om deel te neem in die ontwikkeling daarvan. Sien <a "
-"href=\"http://www.gnome.org/about/\">Aangaande GNOME</a> vir meer inligting."
+"sagteware te maak. GNOME-sagteware is <a href=\"http://www.gnu.org/"
+"philosophy/free-sw.html\">Vry Sagteware</a>: elkeen is vry om ons werk te "
+"gebruik, te verander en te herversprei. Almal is welkom om deel te neem in "
+"die ontwikkeling daarvan. Sien <a href=\"http://www.gnome.org/about/"
+"\">Aangaande GNOME</a> vir meer inligting."
 
-#: ../faq.html:46(h2)
+#: ../faq.html:47(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "Sal my rekenaar GNOME 3 kan loop?"
 
-#: ../faq.html:48(p)
+#: ../faq.html:49(p)
 msgid ""
 "Computers purchased in the last 4 or 5 years should be more than capable of "
 "running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
@@ -382,11 +538,11 @@ msgstr ""
 "mense, en werk daaraan om te verseker dat gebruikers wat aanvanklik nie dié "
 "ervaring kan hê nie, dit wel in die toekoms sal kan hê."
 
-#: ../faq.html:50(h2)
+#: ../faq.html:51(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "Sal ek my gunsteling GNOME-programme kan gebruik in GNOME 3?"
 
-#: ../faq.html:52(p)
+#: ../faq.html:53(p)
 msgid ""
 "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
 "does provide facilities to make applications even better though, so look out "
@@ -398,11 +554,11 @@ msgstr ""
 "verbeterde weergawes van u geliefde staatmakerprogramme spesifiek vir GNOME "
 "3."
 
-#: ../faq.html:54(h2)
+#: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "Wat gaan gebeur met die ou weergawe van GNOME?"
 
-#: ../faq.html:56(p)
+#: ../faq.html:58(p)
 msgid ""
 "The GNOME 2 desktop had a long life, and parts of it became difficult to "
 "maintain over that period. As a result, continued releases of the entire "
@@ -416,15 +572,15 @@ msgstr ""
 "daarvan het moeiliker geword oor dié tydperk. Gevolglik was volgehoue "
 "vrystelling van die volledige GNOME 2-werkskerm nooit 'n praktiese keuse vir "
 "die GNOME-projek nie, en dele van die ou GNOME 2-werkskerm sal nie nuut "
-"vrygestel word na GNOME 3 se vrystelling nie. Die tradisionele GNOME "
-"2-werkskerm gaan egter nie plotseling verdwyn nie: vrystellings van GNOME 2 "
+"vrygestel word na GNOME 3 se vrystelling nie. Die tradisionele GNOME 2-"
+"werkskerm gaan egter nie plotseling verdwyn nie: vrystellings van GNOME 2 "
 "sal steeds ondersteun word deur verspreidings in die jare wat voorlê."
 
-#: ../faq.html:58(h2)
+#: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "Hoekom is GNOME 3 se werkskerm ontwerp soos wat dit is?"
 
-#: ../faq.html:60(p)
+#: ../faq.html:65(p)
 msgid ""
 "A huge amount of work has gone into the design of GNOME 3, and each of the "
 "design decisions behind it has a carefully considered rationale. If you have "
@@ -436,18 +592,17 @@ msgid ""
 msgstr ""
 "'n Groot klomp werk is gedoen aan die ontwerp van GNOME 3, en elkeen van die "
 "ontwerpbesluite daaragter is versigtig en grondig beredeneer. Indien u 'n "
-"spesifieke vraag het oor een van die ontwerpbesluite, lees gerus ons <a "
-"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">antwoorde op algemene "
+"spesifieke vraag het oor een van die ontwerpbesluite, lees gerus ons <a href="
+"\"http://live.gnome.org/GnomeShell/Design/FAQ\">antwoorde op algemene "
 "ontwerpvrae oor GNOME 3</a>. Andersins is meer uitgebreide besonderhede oor "
-"die ontwerp van GNOME 3 se werkskerm beskikbaar op <a "
-"href=\"http://live.gnome.org/GnomeShell/Design/\">ontwerpblad vir GNOME 3 se "
-"werkskerm</a>."
+"die ontwerp van GNOME 3 se werkskerm beskikbaar op <a href=\"http://live."
+"gnome.org/GnomeShell/Design/\">ontwerpblad vir GNOME 3 se werkskerm</a>."
 
-#: ../faq.html:62(h2)
+#: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "Wat is GNOME se planne na GNOME 3 vrygestel is?"
 
-#: ../faq.html:64(p)
+#: ../faq.html:69(p)
 msgid ""
 "We are going to have a huge party to celebrate the release, and then we're "
 "going to get back to work improving our desktop, so that GNOME 3 will get "
@@ -462,11 +617,11 @@ msgstr ""
 "maak, soos dokumentsoektogte en 'n opwindende nuwe raamwerk vir "
 "werkskermuitbreidings."
 
-#: ../faq.html:66(h2)
+#: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "Hoe kan ek betrokke raak of help met GNOME 3?"
 
-#: ../faq.html:68(p)
+#: ../faq.html:73(p)
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
@@ -479,24 +634,48 @@ msgstr ""
 "Om nuus oor GNOME 3 te versprei is 'n goeie manier om te help. Enige "
 "positiewe gekwetter, joerninskrywing, of statusboodskap sal waardeer word. "
 "Sluit gerus ook aan by ons <a href=\"http://www.facebook.com/GNOMEDesktop"
-"\">Facebook-groep</a> of word 'n <a "
-"href=\"http://www.gnome.org/friends/\">Vriend van GNOME</a>. Help gerus ook "
-"met een van die verskeidenheid take wat help om GNOME te skep. Kyk gerus na "
-"ons bladsy oor <a href=\"http://live.gnome.org/JoinGnome\">bydraes</a> vir "
-"meer besonderhede."
+"\">Facebook-groep</a> of word 'n <a href=\"http://www.gnome.org/friends/"
+"\">Vriend van GNOME</a>. Help gerus ook met een van die verskeidenheid take "
+"wat help om GNOME te skep. Kyk gerus na ons bladsy oor <a href=\"http://live."
+"gnome.org/JoinGnome\">bydraes</a> vir meer besonderhede."
 
-#: ../faq.html:70(h2)
+#: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
 msgstr "Ek wil skryf oor GNOME 3. Hoe kry ek meer inligting?"
 
-#: ../faq.html:72(p)
+#: ../faq.html:77(p)
 msgid ""
 "Further information about the release can be found on the <a href=\"http://"
 "live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
 "be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
 "contact@gnome.org</a>."
 msgstr ""
-"Meer besonderhede oor die vrystelling is beskikbaar op die <a "
-"href=\"http://live.gnome.org/ThreePointZero\">GNOME 3-wikibladsy</a>. "
-"Medianavrae moet gerig word aan <a href=\"mailto:gnome-press-"
-"contact@gnome.org\">gnome-press-contact@gnome.org</a>."
+"Meer besonderhede oor die vrystelling is beskikbaar op die <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3-wikibladsy</a>. Medianavrae moet "
+"gerig word aan <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+
+#~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
+#~ msgstr "Asemrowendheid word vrygestel oor: <span id=\"countbox\"/>"
+
+#~ msgid ""
+#~ "GNOME 3 is under active development and will not be completed until April "
+#~ "2011. If you want to try it, you can run a live alpha version from a CD/"
+#~ "DVD or USB stick."
+#~ msgstr ""
+#~ "GNOME 3 word aktief ontwikkel en sal nie klaar wees voor April 2011 nie. "
+#~ "Om dit vir 'n toetslopie te neem, gebruik die alfa-weergawe van 'n "
+#~ "\"lewendige\" CD/DVD of 'n USB-stafie."
+
+#~ msgid "YouTube video player"
+#~ msgstr "YouTube-videospeler"
+
+#~ msgid ""
+#~ "GNOME 3 is scheduled for release on 6th April 2011 and will be available "
+#~ "via popular distributions after that time. See the <a href=\"tryit.html"
+#~ "\">Try It</a> page for more details and for links to a live demos."
+#~ msgstr ""
+#~ "GNOME 3 is geskeduleer vir vrystelling op 6 April 2011 en sal beskikbaar "
+#~ "wees deur populêre verspreidings daarna. Sien gerus die bladsy <a href="
+#~ "\"tryit.html\">Probeer dit</a> vir meer besonderhede en skakels na "
+#~ "lewendige demonstrasies."
