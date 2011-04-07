@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-07 10:53+0000\n"
-"PO-Revision-Date: 2011-04-07 14:13+0200\n"
+"PO-Revision-Date: 2011-04-07 14:16+0200\n"
 "Last-Translator: Luca Ferretti <lferrett@gnome.org>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "MIME-Version: 1.0\n"
@@ -36,9 +36,8 @@ msgid "Try it out!"
 msgstr "Scoprilo adesso!"
 
 #: ../tryit.html:22(div) ../index.html:28(div) ../faq.html:22(div)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation desktop has arrived"
-msgstr "La nuova generazione di desktop è arrivata"
+msgstr "Il desktop di nuova generazione è arrivato"
 
 #. Alpha/Beta/NEW Banner
 #.         <img class="alpha-banner" src="img/alpha-banner.png"/>
