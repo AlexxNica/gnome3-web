@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-06 19:57+0000\n"
-"PO-Revision-Date: 2011-04-06 17:48+0200\n"
+"POT-Creation-Date: 2011-04-07 06:44+0000\n"
+"PO-Revision-Date: 2011-04-07 12:05+0200\n"
 "Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -46,15 +46,14 @@ msgstr "Le bureau prochaine génération est arrivé"
 msgid "Try out GNOME 3"
 msgstr "Essayez GNOME 3"
 
-#: ../tryit.html:33(p)
+#. String to use in tryit.html after release
+#: ../tryit.html:33(p) ../temp.html:11(p)
 msgid ""
-"GNOME 3 is under active development and will not be completed until April "
-"2011. If you want to try it, you can run a live version from a CD/DVD or USB "
-"stick."
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
 msgstr ""
-"GNOME 3 est en cours de développement et ne sera pas achevé avant avril "
-"2011. Si vous voulez l'essayer, vous pouvez exécuter une version live depuis "
-"un CD/DVD ou une clé USB."
+"GNOME 3 est sortie le 6 avril 2011. Si vous voulez l'essayer, vous pouvez "
+"exécuter une version live depuis un CD/DVD ou une clé USB."
 
 #: ../tryit.html:41(a)
 msgid "openSUSE"
@@ -65,12 +64,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 basé sur <placeholder-1/>"
 
 #: ../tryit.html:43(a)
-msgid "Download for 32 bit systems (v0.3.1)"
-msgstr "Téléchargement pour systèmes 32 bits (v 0.3.1)"
+msgid "Download for 32 bit systems (v1.0.0)"
+msgstr "Téléchargement pour systèmes 32 bits (v 1.0.0)"
 
 #: ../tryit.html:45(a)
-msgid "Download for 64 bit systems (v0.3.1)"
-msgstr "Téléchargement pour systèmes 64 bits (v 0.3.1)"
+msgid "Download for 64 bit systems (v1.0.0)"
+msgstr "Téléchargement pour systèmes 64 bits (v 1.0.0)"
 
 #: ../tryit.html:49(a)
 msgid "Fedora"
@@ -187,17 +186,8 @@ msgstr ""
 "modification : <placeholder-2/><br/> Partager sur : <placeholder-3/> | "
 "<placeholder-4/><br/> ❧"
 
-#. String to use in tryit.html after release
-#: ../temp.html:11(p)
-msgid ""
-"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
-"live version from a CD/DVD or USB stick."
-msgstr ""
-"GNOME 3 est sortie le 6 avril 2011. Si vous voulez l'essayer, vous pouvez "
-"exécuter une version live depuis un CD/DVD ou une clé USB."
-
 #. String to use in faq.html after release
-#: ../temp.html:13(p)
+#: ../temp.html:13(p) ../faq.html:41(p)
 msgid ""
 "GNOME 3 was released on 6th April 2011 and will be available via popular "
 "distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
@@ -209,8 +199,8 @@ msgstr ""
 "de démonstration live."
 
 #: ../index.html:38(h1)
-msgid "Introducing the next generation GNOME desktop"
-msgstr "Présentation du bureau GNOME prochaine génération"
+msgid "The next generation GNOME desktop has arrived"
+msgstr "Le bureau GNOME prochaine génération est arrivé"
 
 #: ../index.html:49(p)
 msgid ""
@@ -526,17 +516,6 @@ msgstr ""
 #: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
 msgstr "Comment obtenir GNOME 3 ?"
-
-#: ../faq.html:41(p)
-msgid ""
-"GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
-"popular distributions after that time. See the <a href=\"tryit.html\">Try "
-"It</a> page for more details and for links to a live demos."
-msgstr ""
-"La sortie de GNOME 3 est prévue pour le 6 avril 2011 et sera disponible dans "
-"les distributions populaires à partir de ce moment. Consultez la page <a "
-"href=\"tryit.html\">Essayez-le</a> pour avoir plus de détails et des liens "
-"vers des versions de démonstration live."
 
 #: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
