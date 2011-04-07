@@ -228,7 +228,7 @@ msgid "Access apps faster"
 msgstr "Accès rapide aux applications"
 
 #: ../index.html:51(label)
-msgid "Easier window managment"
+msgid "Easier window management"
 msgstr "Gestion plus aisée des fenêtres"
 
 #: ../index.html:56(label)

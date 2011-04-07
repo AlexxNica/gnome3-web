@@ -179,8 +179,8 @@ msgstr "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-a
 #: ../index.html:49(div)
 #| msgid ""
 #| "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-"
-#| "windows.png\"/></a><br/>Easier window managment"
-msgid "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Easier window managment"
+#| "windows.png\"/></a><br/>Easier window management"
+msgid "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>Easier window management"
 msgstr "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows.png\"/></a><br/>更簡單管理視窗"
 
 #: ../index.html:50(div)
@@ -200,7 +200,7 @@ msgstr "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-ha
 #: ../index.html:55(div)
 #| msgid ""
 #| "<a href=\"video-windows.html\" rel=\"fancybox\"><img src=\"img/video-"
-#| "windows.png\"/></a><br/>Easier window managment"
+#| "windows.png\"/></a><br/>Easier window management"
 msgid "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-appwindows.png\"/></a><br/>App-based window management"
 msgstr "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-appwindows.png\"/></a><br/>應用程式為主的視窗管理"
 

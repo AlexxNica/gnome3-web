@@ -233,7 +233,7 @@ msgstr ""
 #: ../index.html:51(div)
 msgid ""
 "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Easier window managment"
+"png\"/></a><br/>Easier window management"
 msgstr ""
 "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
 "png\"/></a><br/>Łatwiejsze zarządzanie oknami"

@@ -218,7 +218,7 @@ msgid "Access apps faster"
 msgstr "Accés a les aplicacions més ràpidament"
 
 #: ../index.html:52(label)
-msgid "Easier window managment"
+msgid "Easier window management"
 msgstr "Gestió de finestres més senzilla"
 
 #: ../index.html:57(label)
@@ -703,7 +703,7 @@ msgstr ""
 
 #~ msgid ""
 #~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
-#~ "windows.png\"/></a><br/>Easier window managment"
+#~ "windows.png\"/></a><br/>Easier window management"
 #~ msgstr ""
 #~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "windows.png\"/></a><br/>Gestió de finestres més senzilla"
