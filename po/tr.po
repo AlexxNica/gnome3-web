@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-05 19:31+0000\n"
-"PO-Revision-Date: 2011-04-05 23:58+0300\n"
+"POT-Creation-Date: 2011-04-06 21:10+0000\n"
+"PO-Revision-Date: 2011-04-06 21:53+0300\n"
 "Last-Translator: Muhammet Kara <muhammet.k@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -19,28 +19,34 @@ msgstr ""
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Hamurunda Kolaylık Var"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
 msgid "Home"
 msgstr "Ev"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
-#: ../faq.html:30(h1)
+#. Alpha/Beta/New Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
+#: ../faq.html:31(h1)
 msgid "Common questions and answers"
 msgstr "Genel sorular ve cevapları"
 
-#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "Deneyin!"
 
-#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
-msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr "<span id=\"countbox\"/> içinde harika sürüm çıkıyor."
+#: ../tryit.html:22(div) ../index.html:28(div) ../faq.html:22(div)
+#, fuzzy
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation desktop has arrived"
+msgstr "HUZURLARINIZDA YENİ NESİL GNOME MASAÜSTÜ"
 
-#: ../tryit.html:30(h1)
+#. Alpha/Beta/NEW Banner
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "GNOME 3'Ü DENEYİN"
 
-#: ../tryit.html:32(p)
+#: ../tryit.html:33(p)
 msgid ""
 "GNOME 3 is under active development and will not be completed until April "
 "2011. If you want to try it, you can run a live version from a CD/DVD or USB "
@@ -50,42 +56,42 @@ msgstr ""
 "olmayacaktır. Eğer denemek isterseniz, çalışan sürümünü CD/DVD veya USB "
 "çubuk üzerinde çalıştırabilirsiniz."
 
-#: ../tryit.html:40(a)
+#: ../tryit.html:41(a)
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#: ../tryit.html:40(h4) ../tryit.html:48(h4)
+#: ../tryit.html:41(h4) ../tryit.html:49(h4)
 msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "<placeholder-1/> tabanlı GNOME 3"
 
-#: ../tryit.html:42(a)
+#: ../tryit.html:43(a)
 msgid "Download for 32 bit systems (v0.3.1)"
 msgstr "32 bit sistemler için İndirin (v0.3.1)"
 
-#: ../tryit.html:44(a)
+#: ../tryit.html:45(a)
 msgid "Download for 64 bit systems (v0.3.1)"
 msgstr "64 bit sistemler için İndirin (v0.3.1)"
 
-#: ../tryit.html:48(a)
+#: ../tryit.html:49(a)
 msgid "Fedora"
 msgstr "Fedora"
 
-#: ../tryit.html:50(a)
-msgid "Download for 32 bit systems (2011-03-31)"
-msgstr "32 bit sistemler için İndirin (2011-03-31)"
+#: ../tryit.html:51(a)
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "32 bit sistemler için İndirin (2011-04-05)"
 
-#: ../tryit.html:56(p)
+#: ../tryit.html:57(p)
 msgid ""
 "The user name for the openSUSE live image is 'tux' and the password is empty."
 msgstr "openSUSE çalışan kalıbının kullanıcı adı 'tux' ve parolası boştur."
 
-#: ../tryit.html:57(p)
+#: ../tryit.html:58(p)
 msgid ""
 "The user name for the Fedora live image is 'liveuser' and the password is "
 "empty."
 msgstr "Fedora çalışan kalıbının kullanıcı adı 'liveuser' ve parolası boştur."
 
-#: ../tryit.html:64(p)
+#: ../tryit.html:65(p)
 msgid ""
 "To run from a CD/DVD, burn the download to a disk, insert into your computer "
 "and reboot."
@@ -93,11 +99,11 @@ msgstr ""
 "CD/DVD'den çalıştırmak için, indirilen dosyayı bir diske yazın, "
 "bilgisayarınıza takın ve yeniden başlatın."
 
-#: ../tryit.html:68(li)
+#: ../tryit.html:69(li)
 msgid "Download the USB image writer (below) and extract it"
 msgstr "USB kalıp yazıcısını (aşağıda) indirin ve uygun bir yere çıkartın"
 
-#: ../tryit.html:69(li)
+#: ../tryit.html:70(li)
 msgid ""
 "Open a terminal and navigate to the extracted image writer folder (eg. <code>"
 "$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
@@ -105,7 +111,7 @@ msgstr ""
 "Bir uçbirim (terminal) penceresi açın ve çıkartılan kalıp yazıcısı klasörüne "
 "gidin (ör: <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
 
-#: ../tryit.html:70(li)
+#: ../tryit.html:71(li)
 msgid ""
 "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
 "code>"
@@ -113,7 +119,7 @@ msgstr ""
 "Şu komutu çalıştırarak kalıp yazıcısını hazır halde getirin: <code>$ chmod a"
 "+x ./image-usb-stick</code>"
 
-#: ../tryit.html:71(li)
+#: ../tryit.html:72(li)
 msgid ""
 "Remove any USB storage devices that you might have connected to your "
 "computer and insert the empty USB stick that you want to write to"
@@ -121,7 +127,7 @@ msgstr ""
 "Bilgisayarınıza bağlı tüm USB depolama aygıtlarını çıkarın ve kalıbın üstüne "
 "yazılmasını istediğiniz boş USB çubuğu takın"
 
-#: ../tryit.html:72(li)
+#: ../tryit.html:73(li)
 msgid ""
 "Run the image writer script: <code>$ sudo ./image-usb-stick "
 "path_to_the_live_image.iso</code>"
@@ -129,17 +135,17 @@ msgstr ""
 "Kalıp yazıcı betiğini çalıştırın: <code>$ sudo ./image-usb-stick "
 "çalışan_kalıba_giden_yol.iso</code>"
 
-#: ../tryit.html:73(li)
+#: ../tryit.html:74(li)
 msgid "To run the live image, reboot your computer with the USB stick attached"
 msgstr ""
 "Çalışan kalıbı çalıştırmak için, bilgisayarınızı USB çubuk takılıyken "
 "yeniden başlatın"
 
-#: ../tryit.html:76(a)
+#: ../tryit.html:77(a)
 msgid "Download USB image writer"
 msgstr "USB kalıp yazıcısını indirin"
 
-#: ../tryit.html:63(div)
+#: ../tryit.html:64(div)
 msgid ""
 "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/>"
@@ -147,24 +153,24 @@ msgstr ""
 "<placeholder-1/> GNOME 3'ü bir USB çubuktan çalıştırmak için: <placeholder-2/"
 "><placeholder-3/><br/>"
 
-#: ../tryit.html:87(a) ../index.html:105(a) ../faq.html:77(a)
+#: ../tryit.html:88(a) ../index.html:113(a) ../faq.html:82(a)
 msgid "The GNOME Project"
 msgstr "GNOME Projesi"
 
-#: ../tryit.html:88(a) ../index.html:106(a) ../faq.html:78(a)
+#: ../tryit.html:89(a) ../index.html:114(a) ../faq.html:83(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
+#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
 msgid "Twitter"
 msgstr "Twitter"
 
-#. grid_16
-#: ../tryit.html:86(div) ../faq.html:76(div)
+#. grid_12
+#: ../tryit.html:87(div) ../faq.html:81(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -194,11 +200,13 @@ msgstr ""
 "gösterimlerin bağlantıları için <a href=\"tryit.html\">Deneyin</a> sayfasına "
 "bakabilirsiniz."
 
-#: ../index.html:37(h1)
-msgid "Introducing the next generation GNOME desktop"
+#: ../index.html:38(h1)
+#, fuzzy
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation GNOME desktop has arrived"
 msgstr "HUZURLARINIZDA YENİ NESİL GNOME MASAÜSTÜ"
 
-#: ../index.html:40(p)
+#: ../index.html:49(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
@@ -208,35 +216,31 @@ msgstr ""
 "teknolojileri için tasarlanmış tamanen yeni, modern bir masaüstü oluşturdu. "
 "İşte yeni GNOME'dan bekleyebileceğiniz şeylerden bazıları:"
 
-#: ../index.html:48(div)
-msgid ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>Access apps faster"
-msgstr ""
-"<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"appsearch.png\"/></a><br/>Uygulamalara daha hızlı erişin"
+#: ../index.html:50(label)
+msgid "Access apps faster"
+msgstr "Uygulamalara daha hızlı erişin"
 
-#: ../index.html:49(div)
-msgid ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Easier window managment"
-msgstr ""
-"<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-windows."
-"png\"/></a><br/>Daha kolay pencere yönetimi"
+#: ../index.html:51(label)
+msgid "Easier window managment"
+msgstr "Daha kolay pencere yönetimi"
 
-#: ../index.html:50(div)
-msgid ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>Create workspaces"
-msgstr ""
-"<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
-"workspaces.png\"/></a><br/>Çalışma alanları oluşturun"
+#: ../index.html:56(label)
+msgid "Create workspaces"
+msgstr "Çalışma alanları oluşturun"
 
-#: ../index.html:58(h2)
+#: ../index.html:57(label)
+msgid "Deeper hardware integration"
+msgstr "Derinlemesine donanım bütünleşmesi"
+
+#: ../index.html:58(label)
+msgid "App-based window management"
+msgstr "Uygulama tabanlı pencere yönetimi"
+
+#: ../index.html:66(h2)
 msgid "Simply beautiful"
 msgstr "TEK KELİMEYLE GÜZEL"
 
-#: ../index.html:60(p)
+#: ../index.html:68(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -249,11 +253,11 @@ msgstr ""
 "canlandırmalarla bunu şimdiye kadarki en güzel GNOME masaüstü haline "
 "getirdik."
 
-#: ../index.html:62(h2)
+#: ../index.html:70(h2)
 msgid "An overview at a glance"
 msgstr "BİR BAKIŞTA GENEL GÖRÜNÜM"
 
-#: ../index.html:64(p)
+#: ../index.html:72(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -267,11 +271,11 @@ msgstr ""
 "bilinen) etkinlik klavye tuşu ve etkinlik köşesi dahil olmak üzere hızlı ve "
 "kullanışlı birkaç yol sunuyoruz."
 
-#: ../index.html:69(h2)
+#: ../index.html:77(h2)
 msgid "Messaging built-in"
 msgstr "TÜMLEŞİK MESAJLAŞMA"
 
-#: ../index.html:71(p)
+#: ../index.html:79(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -285,11 +289,11 @@ msgstr ""
 "sağlayacak. Mesajlaşma bildirimlerinin içine doğrudan bir yanıt girebilme "
 "becerisi, anlık iletişimi hızlı ve zahmetsiz hale getiriyor."
 
-#: ../index.html:73(h2)
+#: ../index.html:81(h2)
 msgid "Distraction-free computing"
 msgstr "DİKKAT DAĞITMAYAN BİLGİSAYAR KULLANIMI"
 
-#: ../index.html:75(p)
+#: ../index.html:83(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -303,11 +307,11 @@ msgstr ""
 "planın değil arka planın bir parçası olacak tarzda şekillendirildi. Bu "
 "değişiklikler, sizin yaratıcı görevlerinize odaklanmanıza olanak tanıyor."
 
-#: ../index.html:81(h2)
+#: ../index.html:89(h2)
 msgid "Everything at your fingertips"
 msgstr "HERŞEY PARMAKLARINIZIN UCUNDA"
 
-#: ../index.html:83(p)
+#: ../index.html:91(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -317,11 +321,11 @@ msgstr ""
 "tuşuna basın ve arayın: işte bu kadar basit. Eğer bir şeylerin hızlı "
 "gerçekleşmesinden hoşlanan bir kullanıcıysanız, bu özelliği çok seveceksiniz."
 
-#: ../index.html:85(h2)
+#: ../index.html:93(h2)
 msgid "Redesigned system settings"
 msgstr "YENİDEN TASARLANMIŞ SİSTEM AYARLARI"
 
-#: ../index.html:87(p)
+#: ../index.html:95(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -333,11 +337,11 @@ msgstr ""
 "yolunu sunuyor. Bunun yanında, ayarlar kategorilerimiz de istediğinizi hızlı "
 "ve kolay bulabileceğiniz şekilde yeniden düzenlendi."
 
-#: ../index.html:92(h2)
+#: ../index.html:100(h2)
 msgid "And much, much more"
 msgstr "VE ÇOK DAHA FAZLASI"
 
-#: ../index.html:94(p)
+#: ../index.html:102(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
@@ -345,30 +349,30 @@ msgstr ""
 "GNOME 3 yeni özelliklerle tıka basa dolu dolu. İşte GNOME 3'ten "
 "bekleyebileceğiniz diğer şeylerden bazıları:"
 
-#: ../index.html:96(li)
+#: ../index.html:104(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
 "Aynı anda birkaç pencere kullanımını basit ve kolay hale getirmek için "
 "yanyana pencere döşeme"
 
-#: ../index.html:97(li)
+#: ../index.html:105(li)
 msgid "A redesigned file manager"
 msgstr "Yeniden tasarlanmış bir dosya yöneticisi"
 
-#: ../index.html:98(li)
+#: ../index.html:106(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr ""
 "Yeniden tasarlanan çalışma alanları sayesinde pencerelerinizi kolayca "
 "düzenleyebilirsiniz"
 
-#: ../index.html:99(li)
+#: ../index.html:107(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr ""
 "Size daha hızlı, daha pürüzsüz bir deneyim sunmak için sistemin kalbinde "
 "önemli değişiklikler"
 
-#: ../index.html:100(li)
+#: ../index.html:108(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
@@ -377,116 +381,126 @@ msgstr ""
 "GNOME 3 hem büyük makinelerle hem de evdeki küçük dizüstü bilgisayarlarla "
 "(netbook) uyumlu olacak"
 
-#: ../index.html:109(span)
+#: ../index.html:117(span)
 msgid "This website is available in many languages:"
 msgstr "Bu web sitesi birçok dilde kullanılabilir:"
 
-#: ../index.html:110(a)
+#: ../index.html:118(a)
 msgid "English"
 msgstr "English"
 
-#: ../index.html:111(a)
-msgid "العربية"
-msgstr "العربية"
-
-#: ../index.html:112(a)
+#: ../index.html:119(a)
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: ../index.html:113(a)
+#: ../index.html:120(a)
+msgid "العربية"
+msgstr "العربية"
+
+#: ../index.html:121(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:114(a)
+#: ../index.html:122(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:115(a)
+#: ../index.html:123(a)
 msgid "Español"
 msgstr "İspanyolca"
 
-#: ../index.html:116(a)
+#: ../index.html:124(a)
 msgid "Persian"
 msgstr "Persian"
 
-#: ../index.html:117(a)
+#: ../index.html:125(a)
+msgid "Français"
+msgstr "Français"
+
+#: ../index.html:126(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:118(a)
+#: ../index.html:127(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:119(a)
+#: ../index.html:128(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:120(a)
+#: ../index.html:129(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:121(a)
+#: ../index.html:130(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:122(a)
+#: ../index.html:131(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:123(a)
+#: ../index.html:132(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:124(a)
+#: ../index.html:133(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:125(a)
+#: ../index.html:134(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:126(a)
+#: ../index.html:135(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:127(a)
+#: ../index.html:136(a)
 msgid "Turkish"
 msgstr "Türkçe"
 
-#: ../index.html:128(a)
+#: ../index.html:137(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:129(a)
+#: ../index.html:138(a)
+msgid "Українська"
+msgstr "Українська"
+
+#: ../index.html:139(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:130(a)
+#: ../index.html:140(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:131(a)
+#: ../index.html:141(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
-#: ../index.html:108(div)
+#: ../index.html:116(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
 "16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
-"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
 "16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
-"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/>"
 
-#. grid_16
-#: ../index.html:104(div)
+#. grid_12
+#: ../index.html:112(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
@@ -495,11 +509,11 @@ msgstr ""
 "serbest: <placeholder-2/><br/> Paylaş: <placeholder-3/> | <placeholder-4/"
 "><placeholder-5/><br/> ❧"
 
-#: ../faq.html:38(h2)
+#: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
 msgstr "GNOME 3'Ü NASIL EDİNİRİM?"
 
-#: ../faq.html:40(p)
+#: ../faq.html:41(p)
 msgid ""
 "GNOME 3 is scheduled for release on 6th April 2011 and will be available via "
 "popular distributions after that time. See the <a href=\"tryit.html\">Try "
@@ -510,11 +524,11 @@ msgstr ""
 "gösterim bağlantıları için <a href=\"tryit.html\">Deneyin</a> sayfasına "
 "bakabilirsiniz."
 
-#: ../faq.html:42(h2)
+#: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
 msgstr "GNOME PROJESİ DE NEDİR?"
 
-#: ../faq.html:44(p)
+#: ../faq.html:45(p)
 msgid ""
 "The GNOME Project is an international community which comes together to make "
 "great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
@@ -530,11 +544,11 @@ msgstr ""
 "katılmaya davet ediyoruz. Daha fazla bilgi için <a href=\"http://www.gnome."
 "org/about/\">GNOME Hakkında sayfası</a> bakınız."
 
-#: ../faq.html:46(h2)
+#: ../faq.html:47(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "BİLGİSAYARIM GNOME 3'Ü ÇALIŞTIRABİLECEK Mİ?"
 
-#: ../faq.html:48(p)
+#: ../faq.html:49(p)
 msgid ""
 "Computers purchased in the last 4 or 5 years should be more than capable of "
 "running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
@@ -560,11 +574,11 @@ msgstr ""
 "sağlamaya çalışıyor ve başlangıçta bu deneyimi yaşayamayan kullanıcıların da "
 "gelecekte bunu yapabilmelerini amaçlıyor."
 
-#: ../faq.html:50(h2)
+#: ../faq.html:51(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "EN SEVDİĞİM GNOME UYGULAMALARINI GNOME 3'TE KULLANABİLECEK MİYİM?"
 
-#: ../faq.html:52(p)
+#: ../faq.html:53(p)
 msgid ""
 "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 "
 "does provide facilities to make applications even better though, so look out "
@@ -576,11 +590,11 @@ msgstr ""
 "Bu yüzden, o çok sevdiğiniz güvenilir uygulamaların yeni ve gelişmiş GNOME 3 "
 "sürümlerini sakın kaçırmayın."
 
-#: ../faq.html:54(h2)
+#: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "GNOME'UN ESKİ SÜRÜMÜNE NE OLACAK?"
 
-#: ../faq.html:56(p)
+#: ../faq.html:58(p)
 msgid ""
 "The GNOME 2 desktop had a long life, and parts of it became difficult to "
 "maintain over that period. As a result, continued releases of the entire "
@@ -598,11 +612,11 @@ msgstr ""
 "ortadan kaybolmayacak: GNOME 2 sürümleri, dağıtımlar tarafından yıllarca "
 "desteklenmeye devam edecek."
 
-#: ../faq.html:58(h2)
+#: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "GNOME 3 MASAÜSTÜ NEDEN BU ŞEKİLDE TASARLANDI?"
 
-#: ../faq.html:60(p)
+#: ../faq.html:65(p)
 msgid ""
 "A huge amount of work has gone into the design of GNOME 3, and each of the "
 "design decisions behind it has a carefully considered rationale. If you have "
@@ -620,11 +634,11 @@ msgstr ""
 "live.gnome.org/GnomeShell/Design/\">GNOME 3 masaüstü tasarımı wiki sayfası</"
 "a>nda, GNOME 3 masaüstünün tasarımı hakkında daha geniş bilgi bulabilirsiniz."
 
-#: ../faq.html:62(h2)
+#: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "GNOME'UN, GNOME 3 ÇIKTIKTAN SONRAKİ PLANLARI NELERDİR?"
 
-#: ../faq.html:64(p)
+#: ../faq.html:69(p)
 msgid ""
 "We are going to have a huge party to celebrate the release, and then we're "
 "going to get back to work improving our desktop, so that GNOME 3 will get "
@@ -638,11 +652,11 @@ msgstr ""
 "verici, yeni bir masaüstü genişleme çerçevesi gibi, GNOME'un kullanımını "
 "daha da kolay ve daha tatmin edici hale getirecek bir sürü planımız var."
 
-#: ../faq.html:66(h2)
+#: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "GNOME 3'E NASIL KATILABİLİR YA DA YARDIM EDEBİLİRİM?"
 
-#: ../faq.html:68(p)
+#: ../faq.html:73(p)
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
@@ -661,12 +675,12 @@ msgstr ""
 "\"http://live.gnome.org/JoinGnome\">katkıda bulunma sayfası</a>na bakmanız "
 "yeterli."
 
-#: ../faq.html:70(h2)
+#: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
 msgstr ""
 "GNOME 3 HAKKINDA YAZI YAZMAK İSTİYORUM. NASIL DAHA FAZLA BİLGİ ALABİLİRİM?"
 
-#: ../faq.html:72(p)
+#: ../faq.html:77(p)
 msgid ""
 "Further information about the release can be found on the <a href=\"http://"
 "live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
@@ -677,3 +691,27 @@ msgstr ""
 "ThreePointZero\">GNOME 3 wiki sayfası</a>nda bulabilirsiniz. Basın "
 "sorularını <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
 "contact@gnome.org</a> adresine gönderiniz."
+
+#~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
+#~ msgstr "<span id=\"countbox\"/> içinde harika sürüm çıkıyor."
+
+#~ msgid ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>Access apps faster"
+#~ msgstr ""
+#~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "appsearch.png\"/></a><br/>Uygulamalara daha hızlı erişin"
+
+#~ msgid ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>Easier window managment"
+#~ msgstr ""
+#~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "windows.png\"/></a><br/>Daha kolay pencere yönetimi"
+
+#~ msgid ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>Create workspaces"
+#~ msgstr ""
+#~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
+#~ "workspaces.png\"/></a><br/>Çalışma alanları oluşturun"
