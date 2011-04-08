@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-04-07 06:44+0000\n"
-"PO-Revision-Date: 2011-04-07 16:21+0800\n"
+"POT-Creation-Date: 2011-04-07 11:30+0000\n"
+"PO-Revision-Date: 2011-04-09 06:06+0800\n"
 "Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgid "Home"
 msgstr "首頁"
 
 #. Alpha/Beta/New Banner
-#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:20(a)
 #: ../index.html:26(a)
 #: ../faq.html:20(a)
@@ -43,12 +43,11 @@ msgstr "開始體驗吧！"
 #: ../tryit.html:22(div)
 #: ../index.html:28(div)
 #: ../faq.html:22(div)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation desktop has arrived"
 msgstr "新一代桌面已經來到"
 
 #. Alpha/Beta/NEW Banner
-#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "體驗 GNOME 3"
@@ -69,12 +68,10 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 基於 <placeholder-1/>"
 
 #: ../tryit.html:43(a)
-#| msgid "Download for 32 bit systems (v0.3.1)"
 msgid "Download for 32 bit systems (v1.0.0)"
 msgstr "下載 32 位元版本 (v1.0.0)"
 
 #: ../tryit.html:45(a)
-#| msgid "Download for 64 bit systems (v0.3.1)"
 msgid "Download for 64 bit systems (v1.0.0)"
 msgstr "下載 64 位元版本 (v1.0.0)"
 
@@ -83,7 +80,6 @@ msgid "Fedora"
 msgstr "Fedora"
 
 #: ../tryit.html:51(a)
-#| msgid "Download for 32 bit systems (2011-03-31)"
 msgid "Download for 32 bit systems (2011-04-05)"
 msgstr "下載 32 位元版本 (2011-04-05)"
 
@@ -132,25 +128,25 @@ msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><pl
 msgstr "<placeholder-1/> 使用 USB 設備執行 GNOME 3：<placeholder-2/><placeholder-3/><br/>"
 
 #: ../tryit.html:88(a)
-#: ../index.html:113(a)
+#: ../index.html:114(a)
 #: ../faq.html:82(a)
 msgid "The GNOME Project"
 msgstr "GNOME 專案"
 
 #: ../tryit.html:89(a)
-#: ../index.html:114(a)
+#: ../index.html:115(a)
 #: ../faq.html:83(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
 #: ../tryit.html:90(a)
-#: ../index.html:115(a)
+#: ../index.html:116(a)
 #: ../faq.html:84(a)
 msgid "Facebook"
 msgstr "Facebook"
 
 #: ../tryit.html:90(a)
-#: ../index.html:115(a)
+#: ../index.html:116(a)
 #: ../faq.html:84(a)
 msgid "Twitter"
 msgstr "Twitter"
@@ -168,7 +164,6 @@ msgid "GNOME 3 was released on 6th April 2011 and will be available via popular 
 msgstr "GNOME 3 會在2011年4月6日正式釋出，之後你將可以從各大主要的LINUX發行版網站上取得。更多的詳細內容將會在<a href=\"tryit.html\">開始體驗吧！</a>頁面介紹並提供 live 展示的連結。"
 
 #: ../index.html:38(h1)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation GNOME desktop has arrived"
 msgstr "新一代 GNOME 桌面已經來到"
 
@@ -272,112 +267,116 @@ msgstr "不著痕跡的大改變讓你擁有更快速，更順暢的使用者體
 msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
 msgstr "不論你是使用什麼樣的電腦，GNOME 3 都會讓你擁有滿意的使用者體驗 "
 
-#: ../index.html:117(span)
+#: ../index.html:110(a)
+msgid "Read the GNOME 3.0 release notes"
+msgstr "閱讀 GNOME 3.0 釋出公告"
+
+#: ../index.html:118(span)
 msgid "This website is available in many languages:"
 msgstr "這個網站提供許多語言："
 
-#: ../index.html:118(a)
+#: ../index.html:119(a)
 msgid "English"
 msgstr "英文"
 
-#: ../index.html:119(a)
+#: ../index.html:120(a)
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: ../index.html:120(a)
+#: ../index.html:121(a)
 msgid "العربية"
 msgstr "العربية"
 
-#: ../index.html:121(a)
+#: ../index.html:122(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:122(a)
+#: ../index.html:123(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:123(a)
+#: ../index.html:124(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:124(a)
+#: ../index.html:125(a)
 msgid "Persian"
 msgstr "波斯文"
 
-#: ../index.html:125(a)
+#: ../index.html:126(a)
 msgid "Français"
 msgstr "Français"
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:130(a)
+#: ../index.html:131(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:131(a)
+#: ../index.html:132(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:132(a)
+#: ../index.html:133(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:133(a)
+#: ../index.html:134(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:134(a)
+#: ../index.html:135(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:135(a)
+#: ../index.html:136(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:136(a)
+#: ../index.html:137(a)
 msgid "Turkish"
 msgstr "Turkish"
 
-#: ../index.html:137(a)
+#: ../index.html:138(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:138(a)
+#: ../index.html:139(a)
 msgid "Українська"
 msgstr "Українська"
 
-#: ../index.html:139(a)
+#: ../index.html:140(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中國大陸)"
 
-#: ../index.html:140(a)
+#: ../index.html:141(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:141(a)
+#: ../index.html:142(a)
 msgid "中文 (台灣)"
 msgstr "中文 (臺灣)"
 
-#: ../index.html:116(div)
+#: ../index.html:117(div)
 msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
 msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
 
 #. grid_12
-#: ../index.html:112(div)
+#: ../index.html:113(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 msgstr "版權所有 © 2011 <placeholder-1/><br/> 自由分享與改作：<placeholder-2/><br/>分享到 <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 
@@ -451,7 +450,6 @@ msgstr "關於這次釋出的進一步資訊可以在 <a href=\"http://live.gnom
 
 #~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
 #~ msgstr "驚喜釋出於： <span id=\"countbox\"/> 後"
-
 #~ msgid ""
 #~ "GNOME 3 is under active development and will not be completed until April "
 #~ "2011. If you want to try it, you can run a live version from a CD/DVD or "
@@ -459,3 +457,4 @@ msgstr "關於這次釋出的進一步資訊可以在 <a href=\"http://live.gnom
 #~ msgstr ""
 #~ "GNOME 3 仍在持續開發中，並將於2011年4月發布。若你想要搶先體驗，可以使用 "
 #~ "CD/DVD 或 USB 設備試用 live 版本。"
+
