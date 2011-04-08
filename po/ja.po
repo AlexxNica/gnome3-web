@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-07 13:34+0000\n"
-"PO-Revision-Date: 2011-04-08 00:37+0900\n"
+"POT-Creation-Date: 2011-04-07 20:53+0000\n"
+"PO-Revision-Date: 2011-04-08 22:11+0900\n"
 "Last-Translator: Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "Language: ja\n"
@@ -370,43 +370,43 @@ msgstr "このウェブサイトはたくさんの言語で見ることができ
 
 #: ../index.html:119(a)
 msgid "English"
-msgstr ""
+msgstr "English"
 
 #: ../index.html:120(a)
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: ../index.html:121(a)
 msgid "العربية"
-msgstr ""
+msgstr "العربية"
 
 #: ../index.html:122(a)
 msgid "Čeština"
-msgstr ""
+msgstr "Čeština"
 
 #: ../index.html:123(a)
 msgid "Ελληνικά"
-msgstr ""
+msgstr "Ελληνικά"
 
 #: ../index.html:124(a)
 msgid "Español"
-msgstr ""
+msgstr "Español"
 
 #: ../index.html:125(a)
 msgid "Persian"
-msgstr ""
+msgstr "Persian"
 
 #: ../index.html:126(a)
 msgid "Français"
-msgstr ""
+msgstr "Français"
 
 #: ../index.html:127(a)
 msgid "Galego"
-msgstr ""
+msgstr "Galego"
 
 #: ../index.html:128(a)
 msgid "Italiano"
-msgstr ""
+msgstr "Italiano"
 
 #: ../index.html:129(a)
 msgid "日本語"
@@ -414,55 +414,55 @@ msgstr "日本語"
 
 #: ../index.html:130(a)
 msgid "Latvian"
-msgstr ""
+msgstr "Latvian"
 
 #: ../index.html:131(a)
 msgid "한국어"
-msgstr ""
+msgstr "한국어"
 
 #: ../index.html:132(a)
 msgid "Polski"
-msgstr ""
+msgstr "Polski"
 
 #: ../index.html:133(a)
 msgid "Português do Brasil"
-msgstr ""
+msgstr "Português do Brasil"
 
 #: ../index.html:134(a)
 msgid "Română"
-msgstr ""
+msgstr "Română"
 
 #: ../index.html:135(a)
 msgid "Slovenščina"
-msgstr ""
+msgstr "Slovenščina"
 
 #: ../index.html:136(a)
 msgid "Svenska"
-msgstr ""
+msgstr "Svenska"
 
 #: ../index.html:137(a)
 msgid "Turkish"
-msgstr ""
+msgstr "Turkish"
 
 #: ../index.html:138(a)
 msgid "Uyghur"
-msgstr ""
+msgstr "Uyghur"
 
 #: ../index.html:139(a)
 msgid "Українська"
-msgstr ""
+msgstr "Українська"
 
 #: ../index.html:140(a)
 msgid "中文 (中国大陆)"
-msgstr ""
+msgstr "中文 (中国大陆)"
 
 #: ../index.html:141(a)
 msgid "中文 (香港)"
-msgstr ""
+msgstr "中文 (香港)"
 
 #: ../index.html:142(a)
 msgid "中文 (台灣)"
-msgstr ""
+msgstr "中文 (台灣)"
 
 #: ../index.html:117(div)
 msgid ""
@@ -536,10 +536,10 @@ msgid ""
 "unable to have this experience will be able to in the future."
 msgstr ""
 "この4、5年に購入されたコンピューターであれば GNOME 3 の実行が可能です。しかし"
-"ながら、GNOME 3 デスクトップでは最先端の体験を得るにはハードウェアで高速化さ"
-"れたグラフィックス機能が必要で、完全な GNOME 3 の体験は、そのような機能を持つ"
-"コンピューターでのみ可能です。でも、心配しないでください。GNOME 3 ではハード"
-"ウェアによる高速化が無くてもすばらしい体験のできるフォールバック・インター"
+"ながら、GNOME 3 デスクトップの最先端の機能を体験するにはハードウェアで高速化"
+"されたグラフィックス機能が必要で、完全な GNOME 3 は、そのような機能を持つコン"
+"ピューターでのみ体験が可能です。でも、心配しないでください。GNOME 3 ではハー"
+"ドウェアによる高速化が無くてもすばらしい体験のできるフォールバック・インター"
 "フェイスが備わっています。フォールバック・インターフェイスでは GNOME 3 に登場"
 "した多くの改善点が含まれています。さらに、可能な限り多くの環境で完全な GNOME "
 "3 の体験が可能になるように、また、最初のリリースではこの体験ができないユー"
@@ -558,9 +558,8 @@ msgid ""
 "love."
 msgstr ""
 "はい! 既存の GNOME アプリケーションは GNOME 3 でもちゃんと動きます。GNOME 3 "
-"ではより良く動作するような仕組みを備えており、これら愛されるようになってきた"
-"信頼できるアプリの、新しい、改良された GNOME 3 バージョンを注視していてくださ"
-"い。"
+"ではより良く動作するような仕組みを備えています。愛されてきた信頼のおけるアプ"
+"リの、新しい、改良された GNOME 3 バージョンを注視していてください。"
 
 #: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
@@ -576,6 +575,13 @@ msgid ""
 "overnight, however: releases of GNOME 2 will continue to be supported by "
 "distributions for years to come."
 msgstr ""
+"GNOME 2 が生まれてから長い時間が経ちました。その一部はこの間、維持するのが難"
+"しくなりました。結果として、GNOME 2 デスクトップを引き続きリリースしていくの"
+"は GNOME プロジェクトにとっては現実的な選択肢ではありませんした。そして古い "
+"GNOME 2 デスクトップのいくつかの部分は GNOME 3 のリリース後には新しくリリース"
+"されることはありません。伝統的な GNOME 2 デスクトップが突然消え去ってしまうこ"
+"とはありません。GNOME 2 はディストリビューションによって来たる何年かはサポー"
+"トされ続けるでしょう。"
 
 #: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
@@ -591,6 +597,13 @@ msgid ""
 "design of the GNOME 3 desktop can be found on the <a href=\"http://live."
 "gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
 msgstr ""
+"GNOME 3 のデザインにはかなりの量の作業が費やされました。デザイン上の決定は十"
+"分に考えられた論拠の元に成されました。これらのデザイン上の決定のうちの一つに"
+"ついてでも何か疑問がありましたら、<a href=\"http://live.gnome.org/GnomeShell/"
+"Design/FAQ\">GNOME 3 のデザイン上の一般的な疑問点への答え</a>をご覧ください。"
+"あるいは、GNOME 3 デスクトップのデザインについての、より多くの詳細については"
+"<a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 デスクトップ・デ"
+"ザイン wiki ページ</a>で見ることができます。"
 
 #: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
@@ -604,6 +617,11 @@ msgid ""
 "features which will make GNOME even easier and more satisfying to use, such "
 "as document search and an exciting new desktop extensions framework."
 msgstr ""
+"リリースのあと、大々的なパーティを開催します。そして、私達のデスクトップを向"
+"上させる仕事に戻り、引き続きのリリースで GNOME 3 がもっともっと良くなっていく"
+"ようにします。GNOME をより使いやすく、より満足して使えるものにするための新機"
+"能を多く計画しています。たとえば、ドキュメントの検索や、わくわくするような、"
+"新しいデスクトップ拡張のためのフレームワークなどです。"
 
 #: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
@@ -619,6 +637,13 @@ msgid ""
 "producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
 "\">contribution page</a> for more details."
 msgstr ""
+"GNOME 3 についての評判を広めていくのは大変ありがたい助けとなります。ポジティ"
+"ブなツイート、dent、Status Update や投稿はいつでも歓迎です。<a href=\"http://"
+"www.facebook.com/GNOMEDesktop\">Facebook のグループ</a> に加入したり、<a "
+"href=\"http://www.gnome.org/friends/\">Friend of GNOME</a> になることもできま"
+"す。加えて、GNOME を作り上げていくための多くのいろんな仕事を手助けすることも"
+"できます。詳しくは<a href=\"http://live.gnome.org/JoinGnome\">貢献のページ</"
+"a>をチェックしてください。"
 
 #: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
@@ -632,6 +657,10 @@ msgid ""
 "be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
 "contact@gnome.org</a>."
 msgstr ""
+"このリリースについてのより詳しい情報は<a href=\"http://live.gnome.org/"
+"ThreePointZero\">GNOME 3 Wiki ページ</a> にあります。プレスの問い合わせは<a "
+"href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</"
+"a>へお送りください。"
 
 #~ msgid ""
 #~ "GNOME 3 is under active development and will not be completed until April "
