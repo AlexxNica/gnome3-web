@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-08 22:19+0000\n"
-"PO-Revision-Date: 2011-04-09 10:59+0400\n"
+"PO-Revision-Date: 2011-04-09 14:13+0400\n"
 "Last-Translator: Yuri Myaseodov <omerta13@yandex.ru>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -110,9 +110,8 @@ msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick<
 msgstr "Подготовьте программу записи образов к запуску: <code>$ chmod a+x ./image-usb-stick"
 
 #: ../tryit.html:72(li)
-#, fuzzy
 msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
-msgstr "Отсоедините все устройства хранения USB, подключённые к вашему компьютеру и вставьте пустой брелок USB"
+msgstr "Извлеките все USB-устройства хранения данных, подключённые к вашему компьютеру и вставьте пустой USB-брелок."
 
 #: ../tryit.html:73(li)
 msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
@@ -158,7 +157,7 @@ msgstr "Twitter"
 #: ../tryit.html:87(div)
 #: ../faq.html:81(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
-msgstr ""
+msgstr "Авторские права © 2011 <placeholder-1/><br/> Разрешается распространение и использование: <placeholder-2/><br/> Поделиться на: <placeholder-3/> | <placeholder-4/><br/> ❧"
 
 #. String to use in faq.html after release
 #: ../temp.html:13(p)
@@ -180,7 +179,7 @@ msgstr "Быстрый доступ к приложениям"
 
 #: ../index.html:51(label)
 msgid "Easier window management"
-msgstr "Более простое управление окнами"
+msgstr "Упрощённое управление окнами"
 
 #: ../index.html:56(label)
 msgid "Create workspaces"
@@ -188,7 +187,7 @@ msgstr "Создание рабочих мест"
 
 #: ../index.html:57(label)
 msgid "Deeper hardware integration"
-msgstr "Более глубокая интеграция с оборудованием"
+msgstr "Глубокая интеграция с оборудованием"
 
 #: ../index.html:58(label)
 msgid "App-based window management"
@@ -196,11 +195,11 @@ msgstr "Программно-ориентированное управление
 
 #: ../index.html:66(h2)
 msgid "Simply beautiful"
-msgstr "Просто красиво"
+msgstr "Красота простоты"
 
 #: ../index.html:68(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
-msgstr "Новый рабочий стол GNOME поднимает изящество на новый уровень. Мы вычистили мусор и сделали простой и понятный рабочий стол. Это — самый красивый рабочий стол GNOME, с новой визуальной темой оформления, улучшенным шрифтом и заботливо созданной анимацией."
+msgstr "Новый рабочий стол GNOME поднимает изящество на новый уровень. Мы вычистили мусор и сделали рабочий стол простым и понятным. Это — самый красивый рабочий стол GNOME, с новой визуальной темой оформления, улучшенным шрифтом и заботливо созданной анимацией."
 
 #: ../index.html:70(h2)
 msgid "An overview at a glance"
@@ -208,7 +207,7 @@ msgstr "Краткий обзор"
 
 #: ../index.html:72(p)
 msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
-msgstr "Обзор деятельности предоставляет простой доступ ко всем окнам и приложениям. Это также хороший способ для слежения за активностью. Мы предоставили несколько быстрых и удобных способов получения доступа к обзору активности, включая клавишу активности (более известную как клавишу Windows) и «горячий» угол активности."
+msgstr "Обзор активностей предоставляет простой доступ ко всем окнам и приложениям. Это также хороший способ для слежения за активностью. Мы предоставили несколько быстрых и удобных способов получения доступа к обзору активности, включая клавишу активности (более известную как клавишу Windows) и «горячий» угол активности."
 
 #: ../index.html:77(h2)
 msgid "Messaging built-in"
@@ -216,7 +215,7 @@ msgstr "Встроенный обмен сообщениями"
 
 #: ../index.html:79(p)
 msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
-msgstr "Общение — важная часть современного рабочего стола, и переключение между окнами мешает этому общению. Поэтому GNOME 3 позволяет поддерживать беседы без необходимости изменять фокус окна. Возможность вводить сообщения непосредственно в уведомлении делает обмен сообщениями более быстрым и удобным."
+msgstr "Общение — важная часть современного рабочего стола, и переключение между окнами мешает этому общению. Поэтому GNOME 3 поддерживеат ведение бесед без необходимости изменения фокуса окна. Возможность вводить сообщения непосредственно в уведомлении делает обмен сообщениями более быстрым и удобным."
 
 #: ../index.html:81(h2)
 msgid "Distraction-free computing"
@@ -256,20 +255,19 @@ msgstr "Размещение окон бок о бок для упрощения
 
 #: ../index.html:105(li)
 msgid "A redesigned file manager"
-msgstr "Переделанный файловый менеджер"
+msgstr "Переработанный файловый менеджер"
 
 #: ../index.html:106(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
-msgstr "Переделанные рабочие места упрощают управление окнами"
+msgstr "Переработанные рабочие места упрощают управление окнами"
 
 #: ../index.html:107(li)
-#, fuzzy
 msgid "Major changes under the hood to give you a faster, smoother experience"
-msgstr "Важные изменения под капотом "
+msgstr "Важные изменения внутри самой системы делают её работу более быстрой"
 
 #: ../index.html:108(li)
 msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
-msgstr ""
+msgstr "Удобство работы на любом виде компьютеров: GNOME 3 будет отлично работать как на нетбуках, так и на больших компьютерах."
 
 #: ../index.html:110(a)
 msgid "Read the GNOME 3.0 release notes"
@@ -382,73 +380,73 @@ msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> |
 #. grid_12
 #: ../index.html:113(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
-msgstr ""
+msgstr "Авторские права © 2011 <placeholder-1/><br/> Разрешается распространение и использование: <placeholder-2/><br/> Поделиться на: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 
 #: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
-msgstr ""
+msgstr "Как получить GNOME 3?"
 
 #: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
-msgstr ""
+msgstr "Что такое проект GNOME?"
 
 #: ../faq.html:45(p)
 msgid "The GNOME Project is an international community which comes together to make great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a>: all our work is free to use, modify and redistribute. Everyone is welcome to participate in its development. See <a href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more information."
-msgstr ""
+msgstr "Проект GNOME — это международное сообщество, создающее программное обеспечение. GNOME — <a href=\"http://www.gnu.org/philosophy/free-sw.html\">свободное программное обеспечние</a>: вся наша работа свободна для использования, изменения и распространения. Любой может принять участие в его разработке. Для получения более подробной информации см. <a href=\"http://www.gnome.org/about/\">о GNOME</a>."
 
 #: ../faq.html:47(h2)
 msgid "Will my computer be able to run GNOME 3?"
-msgstr ""
+msgstr "Смогу ли я запустить на компьютере GNOME 3?"
 
 #: ../faq.html:49(p)
 msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
-msgstr ""
+msgstr "Компьютеры, купленные 4-5 лет назад, должны быть более чем готовы к запуску GNOME 3. Рабочий стол GNOME 3 не требует аппаратного ускорения графики, но полноценный GNOME 3 будет доступен только на машинах, которые предоставляют такую возможность. Не беспокойтесь: в GNOME 3 доступен альтернативный режим, который обеспечивает превосходную работу при отсутствии аппаратного ускорения, режим включает в себя множество улучшений, которые можно найти в GNOME 3. Кроме того, проект GNOME и его партнёры работают над тем, чтобы полноценный GNOME 3 был доступен для максимально возможного количества людей, и чтобы пользователи, которые в данный момент не могут использовать полноценный рабочйи стол, смогли это сделать в будущем."
 
 #: ../faq.html:51(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
-msgstr ""
+msgstr "Смогу ли я использовать свои любимые приложения GNOME в GNOME 3?"
 
 #: ../faq.html:53(p)
 msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
-msgstr ""
+msgstr "Да! Существующие приложения GNOME будут отлично работать в GNOME 3. GNOME 3 предоставляет средства, с помощью которых можно сделать приложения ещё лучше, поэтому следите за обновлениями и улучшениями приложений в GNOME 3, которые вам полюбились."
 
 #: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
-msgstr ""
+msgstr "Что будет со старой версией GNOME?"
 
 #: ../faq.html:58(p)
 msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
-msgstr ""
+msgstr "У GNOME 2 длинная история и его компоненты стало трудно поддерживать. Продолжительные релизы рабочего стола GNOME 2 никогда не были практической целью для проекта GNOME 2, несколько компонентов прежнего рабочего стола GNOME 2 больше не будут выпускаться после выхода GNOME 3. Традиционный рабочий стол GNOME 2, однако, сразу не исчезнет: выпуски GNOME будут поддерживаться дистрибутивами долгие годы."
 
 #: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
-msgstr ""
+msgstr "Почему GNOME 3 такой, какой он есть?"
 
 #: ../faq.html:65(p)
 msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
-msgstr ""
+msgstr "Над дизайном GNOME 3 проделано огромное количество работы, за каждым из проектных решений стоит чёткое обоснование. Если у вас есть вопрос, касающийся одного из этих решений, прочтите наши <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">ответы на распространённые вопросы о дизайне GNOME 3</a>. Кроме того, дополнительную информацию о дизайне GNOME 3 можно найти на <a href=\"http://live.gnome.org/GnomeShell/Design/\">вики-странице, посвящённой рабочему столу GNOME 3</a>."
 
 #: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
-msgstr ""
+msgstr "Каковы планы GNOME после выхода GNOME 3?"
 
 #: ../faq.html:69(p)
 msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
-msgstr ""
+msgstr "Мы готовимся провести грандиозную вечеринку по поводу выпуска, затем мы собираемся вернуться к работе, чтобы улучшить рабочий стол, чтобы GNOME 3 становился всё лучше и лучше от выпуска к выпуску. У нас есть большие планы для новых возможностей, которые сделают GNOME ещё проще и лучше, например, поиск документов и новый каркас расширений для рабочего стола."
 
 #: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
-msgstr ""
+msgstr "Как я могу принять участие или помочь GNOME 3?"
 
 #: ../faq.html:73(p)
 msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
-msgstr ""
+msgstr "Распространение информации о GNOME 3 — отличный способ помочь. Положительные отзывы в социальных сетях также приветствуются. Вы можете присоединиться к <a href=\"http://www.facebook.com/GNOMEDesktop\">группе Facebook</a> или стать <a href=\"http://www.gnome.org/friends/\">другом GNOME</a>. Кроме того, вы можете помочь в решении одной из задач по выпуску GNOME. Для получения более подробной информации см. <a href=\"http://live.gnome.org/JoinGnome\">работу для помощников</a>."
 
 #: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
-msgstr ""
+msgstr "Я хочу написать о GNOME 3. Где я могу получить информацию?"
 
 #: ../faq.html:77(p)
 msgid "Further information about the release can be found on the <a href=\"http://live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
-msgstr ""
+msgstr "Дополнительные сведения о выпуске можно найти на <a href=\"http://live.gnome.org/ThreePointZero\">вики-странице GNOME 3</a>. Контактный адрес эл. почты для прессы: <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
 
