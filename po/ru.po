@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
 "POT-Creation-Date: 2011-04-08 22:19+0000\n"
-"PO-Revision-Date: 2011-04-09 14:13+0400\n"
+"PO-Revision-Date: 2011-04-09 18:04+0400\n"
 "Last-Translator: Yuri Myaseodov <omerta13@yandex.ru>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -195,7 +195,7 @@ msgstr "Программно-ориентированное управление
 
 #: ../index.html:66(h2)
 msgid "Simply beautiful"
-msgstr "Красота простоты"
+msgstr "Красота в простоте"
 
 #: ../index.html:68(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
@@ -207,7 +207,7 @@ msgstr "Краткий обзор"
 
 #: ../index.html:72(p)
 msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
-msgstr "Обзор активностей предоставляет простой доступ ко всем окнам и приложениям. Это также хороший способ для слежения за активностью. Мы предоставили несколько быстрых и удобных способов получения доступа к обзору активности, включая клавишу активности (более известную как клавишу Windows) и «горячий» угол активности."
+msgstr "Обзор активностей предоставляет быстрый доступ ко всем окнам и приложениям. Также это хороший способ, чтобы отслеживать свою деятельность. Мы предоставили несколько быстрых и удобных способов получения доступа к обзору активностей, включая клавишу активностей (более известную как клавиша «Windows») и «горячий» угол активностей."
 
 #: ../index.html:77(h2)
 msgid "Messaging built-in"
@@ -223,7 +223,7 @@ msgstr "Ненавязчивая работа"
 
 #: ../index.html:83(p)
 msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
-msgstr "GNOME 3 позволяет меньше отвлекаться и позволяет сохранять управление. Новая система уведомлений показывает сообщения и сохраняет их, пока вы не будете готовы к ним, панель GNOME 3 находится на заднем плане, а не на переднем. Эти изменения позволяют сосредоточиться на ваших задачах."
+msgstr "GNOME 3 позволяет вам меньше отвлекаться и сохранять управление системой. Новая система уведомлений показывает сообщения и сохраняет их до тех пор, пока вы не будете к ним готовы. Панель GNOME 3 находится на заднем плане, а не на переднем. Эти изменения позволяют вам сосредоточиться на своих задачах."
 
 #: ../index.html:89(h2)
 msgid "Everything at your fingertips"
@@ -239,11 +239,11 @@ msgstr "Улучшенные системные параметры"
 
 #: ../index.html:95(p)
 msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. GNOME 3 also provides a new way to browse your settings, and our settings categories have been reorganised, making it quick and straightforward to find the setting that you want."
-msgstr "Параметры системы были полностью переработаны для GNOME 3, использовать их теперь проще, чем когда-либо. GNOME 3 также предоставляет новый способ для просмотра параметров. Категории параметров были реорганизованы с целью улучшения эффективности поиска параметров."
+msgstr "Системные параметры были полностью переработаны для GNOME 3, теперь их использование стало проще, чем когда-либо. GNOME 3 также предоставляет новый способ для просмотра параметров, категории параметров были реорганизованы с целью улучшения эффективности поиска параметров."
 
 #: ../index.html:100(h2)
 msgid "And much, much more"
-msgstr "А также многое другое"
+msgstr "А также многое другое…"
 
 #: ../index.html:102(p)
 msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
