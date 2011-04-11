@@ -1,0 +1,139 @@
+23.789367424969, 90.41748046514, "Ankur Bangladesh", "Visit the Launch Party page here", http://www.ankur.org.bd/
+11.556996374516, 104.92080688056, "Phnom Penh Linux Users Group", "Visit our Launch Party page here", http://www.pplug.net/
+39.921534381413, 116.37268065938, "Beijing GUG", "Visit our Launch Party page here", https://live.gnome.org/China/BJGUG
+22.3261968114, 114.18777465366, "OAKA", "Visit our Launch Party page here", http://opensource.hk/gnome3party
+45.766757655425, 126.65039062011, "Harbin LUG", "Visit our Launch Party page here", https://live.gnome.org/China/HLUG
+39.936277731738, 116.41387938991, "Beijing Gnu/Linux User Group", "Visit our Launch Party page here", http://www.beijinglug.org/
+23.411840295956, 116.65145873561, "Shantou University Linux Association", "Visit our Launch Party page here", http://asso.stu.edu.cn/asso/AssoSky/stlist.asp?id=22
+36.123678579775, 120.36621093268, "Qingdao LUG", "Visit our Launch Party page here", https://groups.google.com/group/qdlug
+30.272352940125, 120.15197753429, "Hangzhou LUG", "Visit our Launch Party page here", https://groups.google.com/group/hzlug/
+31.249440230757, 121.46484374516, "Shanghai Linux User Group", "Visit our Launch Party page here", http://www.shlug.org/
+30.679496252446, 104.06799315983, "Chengdu LUG", "Visit our Launch Party page here", http://groups.google.com/group/cdlug_community
+11.01089365063, 76.960601803566, "ILUGCBE", "Visit our Launch Party page here", http://ilugcbe.techstud.org/index.php?title=Seventh_Meet
+23.368827912919, 85.326175686291, "Birla Institute of Technology LUG", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/BITLUG
+34.064123292452, 74.805736538774, "iKraft Software", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Srinagar
+23.020594326697, 72.596969601592, " Nirma University", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/Ahmedabad
+28.619729561009, 77.209167477386, "GNOME Users Delhi", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/Delhi
+26.918030505384, 75.817337033108, "Technox, Poornima College of Engineering", "Visit our Launch Party page here", http://osum.sun.com/group/technox
+12.976725849233, 77.557983395339, "GNOME.Asia team", "Visit our Launch Party page here", https://live.gnome.org/GnomeAsia/2011Summit
+28.607673872135, 77.194061276217, "Delhi TIHE Linux User Group", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Delhi/TIHELUG
+30.725547315363, 76.746368405139, "Panjab University", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Chandigarh/PanjabUniversityGNOME3.0PARTY/
+12.984755033756, 77.584075924638, "CMRGLUG", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Bangalore/
+11.009882641439, 76.950302120945, "Ramakrishna Mission Vidyalaya", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Coimbatore/Ramakrishna-Mission-Vidyalaya
+9.3661821894644, 78.840637203884, "Kalasalingam University", "Visit our Launch Party page here", http://tamilnadu.gtugs.org/
+15.851315507879, 74.500350949174, "Visvesvaraya Technological University", "Visit our Launch Party page here", http://osum.sun.com/group/osumclubleaders/
+13.048979157478, 80.150756832736, "SRM University", "Visit our Launch Party page here", http://osum.sun.com/group/srmrmposum/
+28.57511660202, 77.319030758634, "TechnoFreakZ", "Visit our Launch Party page here", http://osum.sun.com/group/osumclubleaders/
+28.665528553429, 77.176208493016, "LPU Tech Club", "Visit our Launch Party page here", http://osum.sun.com/group/lovelyprofessionaluniversity/
+9.963712368176, 76.251983639539, "Brahmaa Infotek", "Visit our Launch Party page here", http://www.brahmaainfotek.com/
+25.179716363586, 75.852355954003, "RTU OSUM", "Visit our Launch Party page here", http://osum.sun.com/group/rtusunosum
+13.091117178145, 80.273666378632, "JUG Chennai", "Visit our Launch Party page here", http://osum.sun.com/group/arunai
+12.998136431355, 77.562103268386, "GOVLUG", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Bangalore/
+18.531962183896, 73.848724362287, "COEP", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/India/Pune/
+29.971830240904, 76.845932003773, "Nitin Gupta", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/Kurukshetra
+9.4960667688415, 76.328201290896, "College of Engineering Chengannur", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/Allappuzha/CEC
+26.454838030694, 80.340270992888, "HBTI OSUM Club", "Visit our Launch Party page here", http://osum.sun.com/group/HBTIKanpur/
+21.202594994429, 72.820129391626, "MNP infotech", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/surat/MNP-Infotech
+10.847065107889, 76.039123532133, "MES-FSUG", "Visit our Launch Party page here", http://gnulabs.org/mesce/2011/gnome3
+10.52622841955, 76.213531491098, "FOSSer - VAST", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/FOSSers
+9.9845075976405, 76.578311917106, "FOSS - VJCET", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/FOSSvjc
+18.509825372856, 73.860397335919, "IIIT, Pune", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/India/IIITPune
+-6.2017201715295, 106.83380126526, "Febi Pratama", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Indonesia/Jakarta
+-6.5988563059159, 106.81869506408, " Open Source Software President University", "Visit our Launch Party page here", http://poss.president.ac.id/
+-6.917291329953, 107.61108398016, "Open Source Software Universitas Pendidikan Indonesia", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Indonesia/POSS-UPI/
+-7.2695693849442, 112.74444579627, "Kelompok Linux Arek Suroboyo", "Visit our Launch Party page here", http://surabaya.linux.or.id/
+-7.7978048862257, 110.35354613818, "GNOME 3.0 Pelita", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Indonesia/Gnome3-Pelita/
+-5.4457030807342, 105.27005195196, "OSUM IBI DARMAJAYA LAMPUNG", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Indonesia/ibidarmajaya
+32.656952080677, 51.624755857319, "Isfahan linux user group", "Visit our Launch Party page here", http://www.isfahanlug.org/
+34.676644513919, 135.16582488473, "Open Source Conference 2011 ", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Japan/OSC2011Kobe
+37.557317047155, 127.00744628409, "GNOME Korea", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Korea/GnomeKorea
+34.369455992593, 35.777149199069, "Ma3bar", "Visit our Launch Party page here", http://ma3bar.org/
+3.1366781951802, 101.67846679274, "Open Source Developer Club Malaysia ", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Malaysia/Kuala_Lumpur/
+33.755402922318, 72.597656247103, "GNOME Pakistan", "Visit our Launch Party page here", http://www.facebook.com/pages/Gnome-Pakistan/194956250525675
+7.2101743290085, 124.24301146966, "Mindanao Open Source Network", "Visit our Launch Party page here", http://www.minoss.org/
+6.9185213527311, 122.07870482915, "COMTECH INSTITUTE-FOSSGEN", "Visit our Launch Party page here", https://live.gnome.org/Zamboanga%20City%2C%20Philippines
+14.5931538648, 120.98144530764, "Allan Caeg", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Philippines/Manila
+6.2394711574627, 80.053596493386, "Hanthana Linux Team", "Visit our Launch Party page here", http://hanthana.org/gnome3.php
+24.155777209722, 120.64636229984, "Taiwan GUG", "Visit our Launch Party page here", http://gnome.tw/
+22.62820988336, 120.2865600543, "Taiwan GUG", "Visit our Launch Party page here", http://gnome.tw/
+25.049774882807, 121.53488158699, " Taiwan GUG", "Visit our Launch Party page here", http://gnome.tw/
+21.02195847618, 105.81207274967, "Hanoi Lug", "Visit our Launch Party page here", http://blog.hanoilug.org/
+10.785015979724, 106.70196532782, "Saigon Lug", "Visit our Launch Party page here", http://saigonlug.org/
+48.812019565858, 15.282325743997, "Stefan Hammer", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Austria/Waidhofen%20an%20der%20Thaya
+48.368009154183, 14.517230986954, "Simon Hornbachner", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Austria/Hagenberg
+50.854683408086, 4.3615722654505, "Olivier Le Thanh Duong", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Belgium/Brussels
+42.699798140301, 23.321228026414, "Bulgarian GNOME translation team", "Visit our Launch Party page here", http://fsa-bg.org/project/gtp/wiki/Jamborees
+50.088715727814, 14.420585631756, "Czech Translation Team", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Czech
+55.686256801987, 12.573852538558, "Frej Soya", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Denmark/Copenhagen
+49.181883926717, -0.36529541014167, "Olivier Le Monnier", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Caen
+47.321092326274, 5.0404930112732, "Emmanuel Garette", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Dijon
+45.757177016611, 4.8229980466818, "Dave Neary", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Lyon
+48.866703224611, 2.3167419432675, "YoBoY", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Paris
+48.580878361831, 7.7450180050582, "Alexandre Franke", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Strasbourg
+48.109908044955, -1.6822814940741, "Stéphane Démurget", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/France/Rennes
+60.451343894708, 22.264995574061, "Mika Rastas", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Finland/Turku
+48.370118890162, 10.883331298392, "Vinzenz Vietzke", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Augsburg
+52.525998379936, 13.39988708437, "Chris Kühl", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Berlin
+50.734674339907, 7.0947647091878, "Peter Hasse", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Bonn
+50.938268490642, 6.9522857663235, "Walter Justen", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/simfy
+53.55189516855, 9.9982855654141, "Tobias Mueller", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Hamburg
+48.469462441189, 7.937278747241, "Community FreieSoftwareOG", "Visit our Launch Party page here", http://www.freiesoftwareog.org/
+48.139700334082, 11.562780827198, "Daniel Siegel", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Munich
+50.146283322018, 9.0362548824532, "David Blaz", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Germany/Rodenbach%28Frankfurt%29
+38.00936584543, 23.724975584991, "LinuxTeamTEI-Ath", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Greece/Athens
+45.71068757875, 11.355743407746, "AViLug/ Linux User Group", "Visit our Launch Party page here", http://avilug.linux.it/
+44.493518696788, 11.341323852086, "GNOME Italia", "Visit our Launch Party page here", http://www.it.gnome.org/
+43.880029238199, 11.096191405807, "Prato Linux User Group", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Italy/Prato
+56.953363476723, 24.10812377835, "Peteris Krisjanis", "Visit our Launch Party page here", http://linux.edu.lv/
+55.92647173018, 23.313846587222, "Aivaras Kivilius", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Lithuania/%C5%A0iauliai
+41.99529989018, 21.431922911743, "Arangel Angov", "Visit our Launch Party page here", http://wiki.lugola.net/GNOME3_Release_Party
+52.079332877977, 4.3081426618757, "Reinout van Schouwen", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Netherlands/DenHaag
+53.427701959584, 14.542465209351, "Miesiecznik Komputerowy & SzLUUG", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Poland/Szczecin
+38.570865345302, -7.9098129269296, "NEEI (University of Evora)", "Visit our Launch Party page here", http://neei.uevora.pt/?q=node/70
+46.05436491595, 14.49851989688, "Slovenian Translation Team", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Slovenia/Ljubljana
+41.390024390041, 2.1653366088008, "Catalan Translation Team", "Visit our Launch Party page here", http://www.softcatala.org/wiki/Projectes/GNOME/Festa_Versio3
+37.384563460917, -5.9916687009274, "SUGUS (Seville University LUG) & Emergya", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Spain/Seville
+37.185704566873, -3.6213684080589, "Gcubo/Guadalinfo/OSL", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Spain/Granada
+43.318385016898, -1.9813156127142, "Itsas", "Visit our Launch Party page here", http://itsas.ehu.es/
+40.41632029305, -3.7034225462383, "GNOME Hispano", "Visit our Launch Party page here", http://gnomehispano.org/node/18
+43.364452942203, -8.4126091000072, "Galician Translation Team, GPUL and Ghandalf associations", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Spain/Galicia
+47.369711497406, 8.5398101803214, "Zurich Linux Club", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Switzerland/Zurich
+40.147337473494, 26.409244536292, "COMAK Team/ Çanakkale Onsekiz Mart University", "Visit our Launch Party page here", http://comakp.blogspot.com/
+53.484028451228, -2.2454917429983, "Team MFS", "Visit our Launch Party page here", http://libreplanet.org/wiki/Manchester/GnomeThreePointZero
+38.039656420819, -84.506149288602, "Blue Grass Linux Users Group", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/USA/Kentucky/BGLUG
+46.7735671888, -92.142848963963, "Duluth Linux Users Group - DuLUG", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/USA/Minnesota/DuLUG
+42.375996912052, -71.101112362884, "Boston social list", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/USA/Massachusetts/Cambridge
+39.628777498091, -79.956178662059, "WVU ACM", "Visit our Launch Party page here", http://wvu.acm.org/?p=142
+19.424119072867, -99.168090816642, "GUSLEZ", "Visit our Launch Party page here", http://www.guslez.esimez.ipn.mx/
+20.487745591951, -99.014282222609, "Open source University Meetup Users Group", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Mexico/Hidalgo
+19.437069827263, -99.144744869092, "GUSL-UACM", "Visit our Launch Party page here", http://www.gusl-uacm.blogspot.com/
+19.920681302327, -99.17495727139, "Wikiaula", "Visit our Launch Party page here", http://www.wikiaula.org/
+19.418938482021, -99.146118160058, "Generando Maldad TESOEM", "Visit our Launch Party page here", http://www.generandomaldad.net/
+19.288722038143, -99.657669063427, "CISC ", "Visit our Launch Party page here", http://www.wix.com/kioser/flisolitt
+19.42152879809, -99.141998287061, "Biblioteca Digital Telmex Hub", "Visit our Launch Party page here", http://www.telmexhub.mx/node/3113
+19.413757726045, -99.118652339736, "UAM-I ", "Visit our Launch Party page here", http://www.izt.uam.mx/
+20.96746825065, -89.624404903683, "Linux Mérida", "Visit our Launch Party page here", http://linuxmerida.org/
+19.267981481959, -99.645309444636, "OSUM UAEMex", "Visit our Launch Party page here", http://live.gnome.org/ThreePointZero/LaunchParty/Mexico/UAEMex
+17.933598384852, -98.683662410464, "Comunidad ICO de Software Libre Zumpango", "Visit our Launch Party page here", https://sites.google.com/site/cicoslzum/
+19.48627326887, -99.168090816328, "IPN-UPIICSA", "Visit our Launch Party page here", https://www.upiicsalibre.org/
+19.307515897923, -99.212036128849, "GIDA", "Visit our Launch Party page here", http://www.ie.uia.mx/
+25.571185928198, -108.51745605021, "GULAG", "Visit our Launch Party page here", http://www.gulag.org.mx/
+20.723622555779, -100.45623778892, "CFATA-UNAM", "Visit our Launch Party page here", http://www.fata.unam.mx/
+21.161738837988, -86.833276745274, "Festival Latinoamerricano de Software Libre", "Visit our Launch Party page here", http://www.flisol.info/Cancun
+-30.373821702096, -66.406860348911, "National University of La Rioja Sede Chamical", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Argentina/La%20Rioja/Chamical
+-22.916403641589, -43.220214842005, "Rodrigo Padula", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Rio%20de%20Janeiro
+-21.75796776109, -41.342926023743, "mari-cefet", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Campos%20dos%20Goytacazes
+-20.298006520899, -40.30609130699, "Vitória Launch Party", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Vit%C3%B3ria
+-12.958246373623, -38.515877722155, "Raul Libório", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Salvador
+-19.929199570611, -43.974151609542, "Luciana Fujii", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Belo%20Horizonte
+-10.186267210459, -48.3782958965, "Luiz Augusto Machado", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Brasil/Palmas
+6.2429693582651, -75.576068491135, "R. Molina", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty
+10.413130146139, -75.522766110269, "OSUM Tecnológico Comfenalco", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Colombia/Cartagena
+4.6033935422078, -74.081840512182, "Grupo de Trabajo Académico GNU/Linux ", "Visit our Launch Party page here", http://glud.udistrital.edu.co/
+-12.052480961258, -77.049179074077, "Diego Escalante Urrelo", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Peru/Lima
+-12.081354319786, -77.086944577003, "Luis Lira", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Peru/Lima/PUCP
+-12.079340000396, -75.211029049732, "Sergio Infante Montero", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Peru/Huancayo
+-31.388723685559, -57.972106931279, "Linux Salto", "Visit our Launch Party page here", http://linuxsalto.org/
+3.8614473019595, 11.519165038607, "PROTEGE QV", "Visit our Launch Party page here", http://gnomecameroon.wikidot.com/
+-1.295313521399, 36.786346434071, "Henry Addo", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Kenya/Nairobi
+-25.75574206863, 28.195724486137, "Karl Fischer", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/SouthAfrica/Pretoria
