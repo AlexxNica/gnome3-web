@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-07 06:44+0000\n"
-"PO-Revision-Date: 2011-04-07 12:05+0200\n"
+"POT-Creation-Date: 2011-04-12 10:05+0000\n"
+"PO-Revision-Date: 2011-04-12 23:45+0200\n"
 "Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,26 +17,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
+#: ../tryit.html:7(title) ../parties.html:7(title) ../index.html:8(title)
+#: ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - En toute simplicité"
 
-#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a)
 msgid "Home"
 msgstr "Accueil"
 
 #. Alpha/Beta/New Banner
 #.         <img class="alpha-banner" src="img/alpha-banner.png"/>
-#: ../tryit.html:20(a) ../index.html:26(a) ../faq.html:20(a)
-#: ../faq.html:31(h1)
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a) ../faq.html:31(h1)
 msgid "Common questions and answers"
 msgstr "Questions fréquentes et réponses"
 
-#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "Essayez-le !"
 
-#: ../tryit.html:22(div) ../index.html:28(div) ../faq.html:22(div)
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Launch parties"
+msgstr "Organisez des fêtes"
+
+#: ../tryit.html:22(div) ../parties.html:208(div) ../index.html:28(div)
+#: ../faq.html:22(div)
 msgid "The next generation desktop has arrived"
 msgstr "Le bureau prochaine génération est arrivé"
 
@@ -160,19 +169,22 @@ msgstr ""
 "<placeholder-1/> Pour exécuter GNOME 3 à ​​partir d'une clé USB : <placeholder-"
 "2/><placeholder-3/><br/>"
 
-#: ../tryit.html:88(a) ../index.html:113(a) ../faq.html:82(a)
+#: ../tryit.html:88(a) ../parties.html:234(a) ../index.html:114(a)
+#: ../faq.html:82(a)
 msgid "The GNOME Project"
 msgstr "Le projet GNOME"
 
-#: ../tryit.html:89(a) ../index.html:114(a) ../faq.html:83(a)
+#: ../tryit.html:89(a) ../index.html:115(a) ../faq.html:83(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:90(a) ../index.html:115(a) ../faq.html:84(a)
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -197,6 +209,415 @@ msgstr ""
 "populaires à partir de ce moment. Consultez la page <a href=\"tryit.html"
 "\">Essayez-le</a> pour avoir plus de détails et des liens vers des versions "
 "de démonstration live."
+
+#: ../parties.html:22(script)
+msgid ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, "
+"1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", "
+"{wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center "
+"point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map."
+"displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData"
+"[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + "
+"\"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\"
+"\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat."
+"lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+msgstr ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, "
+"1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", "
+"{wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center "
+"point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map."
+"displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData"
+"[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + "
+"\"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\"
+"\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat."
+"lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+
+#: ../parties.html:220(b)
+msgid ""
+"Javascript has either been disabled or is not supported by your browser."
+msgstr ""
+"Javascript a été désactivé ou il n'est pas pris en charge par votre navigateur."
+
+#: ../parties.html:220(noscript)
+msgid ""
+"<placeholder-1/> The map on this website is generated using Javascript. To "
+"view the map, enable Javascript by changing your browser options, and then "
+"try again."
+msgstr ""
+"<placeholder-1/> La carte de ce site Web est générée en utilisant Javascript. "
+"Pour afficher la carte, activez Javascript en modifiant les options de votre "
+"navigateur puis essayez à nouveau."
+
+#: ../parties.html:226(h2)
+msgid "Celebrate GNOME3"
+msgstr "Fêtez GNOME3"
+
+#: ../parties.html:227(p)
+msgid ""
+"For this unique occasion over a hundred people around the globe are "
+"organizing <strong>Release parties</strong>. You might want to take a look "
+"at the map on the left side and check if there is a party in your area. <br/"
+"><br/>As party dates vary based on organizer's convenience do visit the "
+"party home page and see whether the party has taken place or not. Should you "
+"have missed the party, it's never to late to celebrate GNOME 3 with a few "
+"friends and share your excitement about this new release. <br/><br/>And if "
+"you're alone living far way from anybody else, just visit the GNOME IRC "
+"channel on Gimpnet and party with us!"
+msgstr ""
+"Pour cette occasion unique, plus d'une centaine de personnes sur la planète "
+"organisent des <strong>fêtes pour cette sortie</strong>. Vous pouvez jeter "
+"un coup d'œil à la carte de gauche et vérifier s'il y a une fête dans votre "
+"région. <br/><br/>Comme les dates des évènements varient en fonction des "
+"disponibilités des organisateurs, visitez la page d'accueil de la fête et "
+"vérifiez si elle a eu lieu ou pas. Si vous avez raté la fête, il n'est jamais "
+"trop tard pour célébrer GNOME 3 avec quelques amis et partager votre excitation "
+"à propos de cette nouvelle version. <br/><br/>Et si vous êtes seul et habitez "
+"loin de tous, faites simplement un petit tour sur le canal IRC GNOME sur "
+"Gimpnet et fêtez cela avec nous !"
+
+#: ../parties.html:233(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Partager sur : <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
 
 #: ../index.html:38(h1)
 msgid "The next generation GNOME desktop has arrived"
@@ -385,107 +806,111 @@ msgstr ""
 "GNOME 3 se sentira chez lui sur les mini-ordinateurs (netbooks) comme sur "
 "les machines plus grosses"
 
-#: ../index.html:117(span)
+#: ../index.html:110(a)
+msgid "Read the GNOME 3.0 release notes"
+msgstr "Lire les notes de version de GNOME 3.0"
+
+#: ../index.html:118(span)
 msgid "This website is available in many languages:"
 msgstr "Ce site Web est disponible dans de nombreuses langues :"
 
-#: ../index.html:118(a)
+#: ../index.html:119(a)
 msgid "English"
 msgstr "English"
 
-#: ../index.html:119(a)
+#: ../index.html:120(a)
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: ../index.html:120(a)
+#: ../index.html:121(a)
 msgid "العربية"
 msgstr "العربية"
 
-#: ../index.html:121(a)
+#: ../index.html:122(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:122(a)
+#: ../index.html:123(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:123(a)
+#: ../index.html:124(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:124(a)
+#: ../index.html:125(a)
 msgid "Persian"
 msgstr "Persian"
 
-#: ../index.html:125(a)
+#: ../index.html:126(a)
 msgid "Français"
 msgstr "Français"
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:130(a)
+#: ../index.html:131(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:131(a)
+#: ../index.html:132(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:132(a)
+#: ../index.html:133(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:133(a)
+#: ../index.html:134(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:134(a)
+#: ../index.html:135(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:135(a)
+#: ../index.html:136(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:136(a)
+#: ../index.html:137(a)
 msgid "Turkish"
 msgstr "Turkish"
 
-#: ../index.html:137(a)
+#: ../index.html:138(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:138(a)
+#: ../index.html:139(a)
 msgid "Українська"
 msgstr "Українська"
 
-#: ../index.html:139(a)
+#: ../index.html:140(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:140(a)
+#: ../index.html:141(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:141(a)
+#: ../index.html:142(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
-#: ../index.html:116(div)
+#: ../index.html:117(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -504,7 +929,7 @@ msgstr ""
 "> | <placeholder-24/> | <placeholder-25/>"
 
 #. grid_12
-#: ../index.html:112(div)
+#: ../index.html:113(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
@@ -694,4 +1119,3 @@ msgstr ""
 "<a href=\"http://live.gnome.org/ThreePointZero\">page du wiki GNOME 3</a>. "
 "Les requêtes de la presse doivent être envoyées à l'adresse <a href=\"mailto:"
 "gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
-
