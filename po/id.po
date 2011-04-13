@@ -5,299 +5,845 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-03-29 05:01+0000\n"
-"PO-Revision-Date: 2011-04-14 04:44+0700\n"
+"POT-Creation-Date: 2011-04-13 21:48+0000\n"
+"PO-Revision-Date: 2011-04-14 05:22+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../tryit.html:7(title)
-#: ../index.html:8(title)
+#: ../tryit.html:7(title) ../parties.html:7(title) ../index.html:8(title)
 #: ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Made of Easy"
 
-#: ../tryit.html:21(a)
-#: ../index.html:27(a)
-#: ../faq.html:21(a)
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a)
 msgid "Home"
 msgstr "Beranda"
 
-#: ../tryit.html:21(a)
-#: ../index.html:27(a)
-#: ../faq.html:21(a)
-#: ../faq.html:30(h1)
+#. Alpha/Beta/New Banner
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a) ../faq.html:31(h1)
 msgid "Common questions and answers"
 msgstr "Pertanyaan umum dan jawaban"
 
-#: ../tryit.html:22(a)
-#: ../index.html:28(a)
-#: ../faq.html:22(a)
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "Cobalah!"
 
-#: ../tryit.html:23(div)
-#: ../index.html:29(div)
-#: ../faq.html:23(div)
-msgid "Releasing awesome in: <span id=\"countbox\"/>"
-msgstr "Akan diliris dalam: <span id=\"countbox\"/>"
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Launch parties"
+msgstr "Pesta peluncuran"
 
-#: ../tryit.html:30(h1)
+#: ../tryit.html:22(div) ../parties.html:208(div) ../index.html:28(div)
+#: ../faq.html:22(div)
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation desktop has arrived"
+msgstr "Desktop generasi berikutnya telah tiba"
+
+#. Alpha/Beta/NEW Banner
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "Mencoba GNOME 3"
 
-#: ../tryit.html:32(p)
-msgid "GNOME 3 is under active development and will not be completed until April 2011. If you want to try it, you can run a live alpha version from a CD/DVD or USB stick."
-msgstr "GNOME 3 sedang aktif dikembangkan dan tidak akan selesai sampai April 2011. Bila Anda ingin mencobanya, Anda dapat menjalankan versi alfa live dari CD/DVD atau flash USB."
-
-#: ../tryit.html:38(a)
-msgid "Download for 32 bit systems (v0.2.0)"
-msgstr "Unduh bagi sistem 32 bit (v0.2.0)"
-
-#: ../tryit.html:39(a)
-msgid "Download for 64 bit systems (v0.2.0)"
-msgstr "Unduh bagi sistem 64 bit (v0.2.0)"
-
-#: ../tryit.html:46(p)
-msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
-msgstr "Untuk menjalankan dari CD/DVD, bakar unduhan ke cakram, sisipkan ke komputer Anda dan boot ulang."
-
-#: ../tryit.html:50(li)
-msgid "Download the USB image writer (below) and extract it"
-msgstr "Unduh penulis image USB (di bawah) dan ekstraklah."
-
-#: ../tryit.html:51(li)
-msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
-msgstr "Buka terminal dan berpindahlah ke folder penulis image yang telah diekstrak (mis. <code>$ cd Unduh/abock-image-usb-stick-f3b1002</code>)"
-
-#: ../tryit.html:52(li)
-msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
-msgstr "Siapkan penulis image dengan menjalankan: <code>$ chmod a+x ./image-usb-stick</code>"
-
-#: ../tryit.html:53(li)
-msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
-msgstr "Lepaskan semua perangkat penyimpanan USB yang sedang tersambung ke komputer Anda lalu pasang flash USB kosong yang ingin Anda tulisi"
-
-#: ../tryit.html:54(li)
-msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
-msgstr "Jalankan skrip penulis image: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
-
-#: ../tryit.html:55(li)
-msgid "To run the live image, reboot your computer with the USB stick attached"
-msgstr "Untuk menjalankan image live, boot ulang komputer Anda dengan flash USB tetap terpasang"
-
-#: ../tryit.html:58(a)
-msgid "Download USB image writer"
-msgstr "Unduh penulis image USB"
-
-#: ../tryit.html:60(p)
-msgid "The user name for the live image is 'tux' and the password is empty."
-msgstr "Nama pengguna bagi image live adalah 'tux' dan sandinya kosong."
-
-#: ../tryit.html:45(div)
-msgid "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
-msgstr "<placeholder-1/> Untuk menjalankan GNOME 3 alfa dari flash USB: <placeholder-2/><placeholder-3/><br/><placeholder-4/>"
-
-#: ../tryit.html:70(a)
-#: ../index.html:99(a)
-#: ../faq.html:77(a)
-msgid "The GNOME Project"
-msgstr "Projek GNOME"
-
-#: ../tryit.html:71(a)
-#: ../index.html:100(a)
-#: ../faq.html:78(a)
-msgid "Creative Commons CC-BY"
-msgstr "Creative Commons CC-BY"
-
-#: ../tryit.html:72(a)
-#: ../index.html:101(a)
-#: ../faq.html:79(a)
-msgid "Facebook"
-msgstr "Facebook"
-
-#: ../tryit.html:72(a)
-#: ../index.html:101(a)
-#: ../faq.html:79(a)
-msgid "Twitter"
-msgstr "Twitter"
-
-#. grid_16
-#: ../tryit.html:69(div)
-#: ../index.html:98(div)
-#: ../faq.html:76(div)
-msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
-msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Bebas untuk dibagikan dan diremix: <placeholder-2/><br/> Dibagikan di: <placeholder-3/> | <placeholder-4/><br/> ❧"
-
 #. String to use in tryit.html after release
-#: ../temp.html:11(p)
+#: ../tryit.html:33(p) ../temp.html:11(p)
 msgid "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a live version from a CD/DVD or USB stick."
 msgstr "GNOME 3 diliris pada tanggal 6 April 2011. Bila Anda ingin mencobanya, Anda dapat menjalankan versi live dari CD/DVD atau flash USB."
 
+#: ../tryit.html:41(a)
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../tryit.html:41(h4) ../tryit.html:49(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME 3 berbasis <placeholder-1/>"
+
+#: ../tryit.html:43(a)
+#| msgid "Download for 32 bit systems (v0.2.0)"
+msgid "Download for 32 bit systems (v1.0.0)"
+msgstr "Unduh bagi sistem 32 bit (v1.0.0)"
+
+#: ../tryit.html:45(a)
+#| msgid "Download for 64 bit systems (v0.2.0)"
+msgid "Download for 64 bit systems (v1.0.0)"
+msgstr "Unduh bagi sistem 64 bit (v1.0.0)"
+
+#: ../tryit.html:49(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:51(a)
+#| msgid "Download for 32 bit systems (v0.2.0)"
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "Unduh bagi sistem 32 bit (2011-04-05)"
+
+#: ../tryit.html:57(p)
+#| msgid "The user name for the live image is 'tux' and the password is empty."
+msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr "Nama pengguna bagi image live openSUSE adalah 'tux' dan sandinya kosong."
+
+#: ../tryit.html:58(p)
+#| msgid "The user name for the live image is 'tux' and the password is empty."
+msgid "The user name for the Fedora live image is 'liveuser' and the password is empty."
+msgstr "Nama pengguna bagi image live Fedora adalah 'liveuser' dan sandinya kosong."
+
+#: ../tryit.html:65(p)
+msgid "To run from a CD/DVD, burn the download to a disk, insert into your computer and reboot."
+msgstr "Untuk menjalankan dari CD/DVD, bakar unduhan ke cakram, sisipkan ke komputer Anda dan boot ulang."
+
+#: ../tryit.html:69(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Unduh penulis image USB (di bawah) dan ekstraklah."
+
+#: ../tryit.html:70(li)
+msgid "Open a terminal and navigate to the extracted image writer folder (eg. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr "Buka terminal dan berpindahlah ke folder penulis image yang telah diekstrak (mis. <code>$ cd Unduh/abock-image-usb-stick-f3b1002</code>)"
+
+#: ../tryit.html:71(li)
+msgid "Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</code>"
+msgstr "Siapkan penulis image dengan menjalankan: <code>$ chmod a+x ./image-usb-stick</code>"
+
+#: ../tryit.html:72(li)
+msgid "Remove any USB storage devices that you might have connected to your computer and insert the empty USB stick that you want to write to"
+msgstr "Lepaskan semua perangkat penyimpanan USB yang sedang tersambung ke komputer Anda lalu pasang flash USB kosong yang ingin Anda tulisi"
+
+#: ../tryit.html:73(li)
+msgid "Run the image writer script: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+msgstr "Jalankan skrip penulis image: <code>$ sudo ./image-usb-stick path_to_the_live_image.iso</code>"
+
+#: ../tryit.html:74(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr "Untuk menjalankan image live, boot ulang komputer Anda dengan flash USB tetap terpasang"
+
+#: ../tryit.html:77(a)
+msgid "Download USB image writer"
+msgstr "Unduh penulis image USB"
+
+#: ../tryit.html:64(div)
+#| msgid ""
+#| "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-"
+#| "2/><placeholder-3/><br/><placeholder-4/>"
+msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><placeholder-3/><br/>"
+msgstr "<placeholder-1/> Untuk menjalankan GNOME 3 dari flash USB: <placeholder-2/><placeholder-3/><br/>"
+
+#: ../tryit.html:88(a) ../parties.html:234(a) ../index.html:114(a)
+#: ../faq.html:82(a)
+msgid "The GNOME Project"
+msgstr "Projek GNOME"
+
+#: ../tryit.html:89(a) ../index.html:115(a) ../faq.html:83(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+#. grid_12
+#: ../tryit.html:87(div) ../faq.html:81(div)
+msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Bebas untuk dibagikan dan diremix: <placeholder-2/><br/> Dibagikan di: <placeholder-3/> | <placeholder-4/><br/> ❧"
+
 #. String to use in faq.html after release
-#: ../temp.html:13(p)
+#: ../temp.html:13(p) ../faq.html:41(p)
 msgid "GNOME 3 was released on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to live demos."
 msgstr "GNOME 3 diliris pada tanggal 6 April 2011 dan akan tersedia melalui distribusi populer setelah itu. Lihat halaman <a href=\"tryit.html\">Cobalah</a> untuk lebih banyak rincian dan taut ke demo live."
 
-#: ../index.html:37(h1)
-msgid "Introducing the next generation GNOME desktop"
-msgstr "Memperkenalkan desktop GNOME generasi berikutnya"
+#: ../parties.html:22(script)
+msgid ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, 1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", {wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map.displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n"
+"');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + \"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+msgstr ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, 1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", {wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map.displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n"
+"');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + \"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
 
-#: ../index.html:41(iframe:title)
-msgid "YouTube video player"
-msgstr "Pemutar video YouTube"
+#: ../parties.html:220(b)
+msgid "Javascript has either been disabled or is not supported by your browser."
+msgstr "Javascript mungkin dimatikan atau tak didukung oleh peramban Anda."
 
-#: ../index.html:44(p)
+#: ../parties.html:220(noscript)
+msgid "<placeholder-1/> The map on this website is generated using Javascript. To view the map, enable Javascript by changing your browser options, and then try again."
+msgstr "<placeholder-1/> Peta pada situs web ini dibuat memakai Javascript. Untuk melihat peta, aktifkan Javascript dengan mengubah opsi peramban Anda, lalu coba lagi."
+
+#: ../parties.html:226(h2)
+msgid "Celebrate GNOME3"
+msgstr "Rayakan GNOME3"
+
+#: ../parties.html:227(p)
+msgid "For this unique occasion over a hundred people around the globe are organizing <strong>Release parties</strong>. You might want to take a look at the map on the left side and check if there is a party in your area. <br/><br/>As party dates vary based on organizer's convenience do visit the party home page and see whether the party has taken place or not. Should you have missed the party, it's never to late to celebrate GNOME 3 with a few friends and share your excitement about this new release. <br/><br/>And if you're alone living far way from anybody else, just visit the GNOME IRC channel on Gimpnet and party with us!"
+msgstr "Untuk peristiwa unik ini lebih dari seratus orang di seluruh dunia mengorganisir <strong>Pesta rilis</strong>. Anda mungkin ingin melihat peta di sisi kiri dan memeriksa apakah ada pesta di daerah Anda. <br/><br/>Karena tanggal pesta berbeda-beda berdasarkan kenyamanan penyelenggara maka kunjungilah laman pesta dan lihathan apakah pesta telah dilaksanakan atau belum. Bila Anda ketinggalan, tak ada kata terlambat untuk merayakan GNOME 3 dengan beberapa teman dan berbagi kegairahan Anda tentang rilis baru ini. <br/><br/>Dan bila Anda tinggal jauh dari siapapun, kunjungi saja kanal IRC GNOME di Gimpnet dan berpestalah bersama kami!"
+
+#: ../parties.html:233(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
+msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Dibagikan di: <placeholder-2/> | <placeholder-3/><br/> ❧"
+
+#: ../index.html:38(h1)
+#| msgid "Introducing the next generation GNOME desktop"
+msgid "The next generation GNOME desktop has arrived"
+msgstr "Desktop GNOME generasi berikutnya telah hadir"
+
+#: ../index.html:49(p)
 msgid "For GNOME 3, the GNOME Project has started from scratch and created a completely new, modern desktop designed for today's users and technologies. Here are some of the things that you can expect from the new GNOME:"
 msgstr "Bagi GNOME 3, Projek GNOME telah memulai dari awal dan membuat suatu desktop yang sepenuhnya baru dan modern yang dirancang bagi pengguna dan teknologi kini. Inilah beberapa hal yang dapat Anda harapkan dari GNOME baru:"
 
-#: ../index.html:52(h2)
+#: ../index.html:50(label)
+msgid "Access apps faster"
+msgstr "Mengakses aplikasi lebih cepat"
+
+#: ../index.html:51(label)
+msgid "Easier window management"
+msgstr "Manajemen jendela lebih mudah"
+
+#: ../index.html:56(label)
+msgid "Create workspaces"
+msgstr "Membuat ruang kerja"
+
+#: ../index.html:57(label)
+msgid "Deeper hardware integration"
+msgstr "Integrasi perangkat keras lebih dalam"
+
+#: ../index.html:58(label)
+msgid "App-based window management"
+msgstr "Manajemen jendela berbasis aplikasi"
+
+#: ../index.html:66(h2)
 msgid "Simply beautiful"
 msgstr "Hanya satu kata: indah"
 
-#: ../index.html:54(p)
+#: ../index.html:68(p)
 msgid "GNOME's new desktop takes elegance to a new level. We've swept away the clutter and made a simple and easy-to-use desktop, and we've made this the most beautiful GNOME desktop ever, with a new visual theme, a refined new font and carefully crafted animations."
 msgstr "Desktop GNOME yang baru membawa keanggunan ke tingkat yang baru. Kami telah membuang serakan dan membuat suatu desktop yang sederhana dan mudah dipakai, dan kami telah membuat ini menjadi desktop GNOME yang paling cantik, dengan tema visual baru, fonta baru yang diperbaiki, dan animasi yang dirangkai dengan hati-hati."
 
-#: ../index.html:56(h2)
+#: ../index.html:70(h2)
 msgid "An overview at a glance"
 msgstr "Sekilas ringkasan"
 
-#: ../index.html:58(p)
+#: ../index.html:72(p)
 msgid "The activities view provides an easy way to access all your windows and applications. It is also a great way to keep track of all your activities. We have provided several fast and convenient ways to access the activities view, including the activities keyboard key (often known as the Windows key) and the activities hot corner."
 msgstr "Tilikan aktivitas menyediakan suatu cara yang mudah untuk mengakses semua jendela dan aplikasi Anda. Itu juga merupakan cara yang hebat untuk mengikuti semua aktivitas Anda. Kami telah menyediakan beberapa cara yang cepat dan nyaman untuk mengakses tilikan aktivitas, termasuk tombol papan tik aktivitas (sering dikenal sebagai tombol Jendela) dan pojok panas aktivitas."
 
-#: ../index.html:63(h2)
+#: ../index.html:77(h2)
 msgid "Messaging built-in"
 msgstr "Termasuk Perpesanan "
 
-#: ../index.html:65(p)
+#: ../index.html:79(p)
 msgid "Communication is an important part of the modern desktop, but it's a hassle when you have to switch windows to reply to a message. That's why GNOME 3 will let you continue your conversations without changing focus. The ability to enter a reply straight into messaging notifications makes instant messaging quick and effortless."
 msgstr "Komunikasi adalah suatu bagian penting dari desktop modern, tapi merepotkan bila Anda mesti berpindah jendela untuk menjawab suatu pesan. Itulah mengapa GNOME 3 akan memungkinkan Anda meneruskan percakapan tanpa berpindah fokus. Kemampuan untuk menuliskan jawaban langsung ke pemberitahuan perpesanan membuat pesan instan cepat dan gampang."
 
-#: ../index.html:67(h2)
+#: ../index.html:81(h2)
 msgid "Distraction-free computing"
 msgstr "Komputasi tanpa gangguan"
 
-#: ../index.html:69(p)
+#: ../index.html:83(p)
 msgid "GNOME 3 is designed to reduce distraction and interruption and to put you in control. Our new notifications system subtly presents messages and will save them until you are ready for them, and the GNOME 3 panel has been styled so that it is part of the background, not the foreground. These changes allow you to focus on your creative tasks."
 msgstr "GNOME 3 dirancang untuk mengurangi gangguan dan interupsi dan memberi Anda kendali. Sistem pemberitahuan baru kami secara halus menyajikan pesan dan akan menyimpan mereka sampai Anda siap, dan panel GNOME 3 telah disusun sehingga menjadi bagian dari latar belakang, bukan latar depan. Perubahan ini memungkinkan Anda fokus ke tugas kreatif Anda."
 
-#: ../index.html:75(h2)
+#: ../index.html:89(h2)
 msgid "Everything at your fingertips"
 msgstr "Semua di ujung jari Anda"
 
-#: ../index.html:77(p)
+#: ../index.html:91(p)
 msgid "With the new GNOME desktop, everything can be quickly accessed from the keyboard. Press the activities key and search: it's as simple as that. You'll love this feature if you're a user who likes things to happen fast."
 msgstr "Dengan desktop GNOME baru, semua dapat diakses secara cepat dari papan tik. Tekan tombol aktivitas dan cari: sesederhana itu. Anda akan mencintai fitur ini bila Anda adalah pengguna yang suka berbagai hal dilakukan dengan cepat."
 
-#: ../index.html:79(h2)
+#: ../index.html:93(h2)
 msgid "Redesigned system settings"
 msgstr "Pengaturan sistem yang dirancang ulang"
 
-#: ../index.html:81(p)
+#: ../index.html:95(p)
 msgid "Our system settings have been completely redesigned for GNOME 3, making them easier to use than ever before. GNOME 3 also provides a new way to browse your settings, and our settings categories have been reorganised, making it quick and straightforward to find the setting that you want."
 msgstr "Pengaturan sistem kami telah dirancang ulang sepenuhnya bagi GNOME 3, membuat mereka lebih mudah dipakai daripada sebelumnya. GNOME 3 juga menyediakan cara baru untuk meramban pengaturan Anda, dan katagori pengaturan kami telah ditata ulang, sehingga cepat dan mudah untuk menemukan pengaturan yang Anda inginkan."
 
-#: ../index.html:86(h2)
+#: ../index.html:100(h2)
 msgid "And much, much more"
 msgstr "Dan lebih, lebih banyak lagi"
 
-#: ../index.html:88(p)
+#: ../index.html:102(p)
 msgid "GNOME 3 is crammed full of new features. Here are some of the other things that you can look forward to from GNOME 3:"
 msgstr "GNOME 3 dipenuhi dengan fitur-fitur baru. Berikut ini adalah beberapa hal lain yang dapat Anda harapkan dari GNOME 3:"
 
-#: ../index.html:90(li)
+#: ../index.html:104(li)
 msgid "Side-by-side window tiling to make using several windows simple and easy"
 msgstr "Pengubinan jendela bersisian untuk membuat penggunaan beberapa jendela sederhana dan mudah."
 
-#: ../index.html:91(li)
+#: ../index.html:105(li)
 msgid "A redesigned file manager"
 msgstr "Manajer berkas yang dirancang ulang"
 
-#: ../index.html:92(li)
+#: ../index.html:106(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr "Ruang kerja yang dirancang ulang sehingga Anda dapat menata jendela Anda dengan mudah"
 
-#: ../index.html:93(li)
+#: ../index.html:107(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr "Perubahan besar di balik layar memberi Anda pengalaman yang lebih cepat dan mulus"
 
-#: ../index.html:94(li)
+#: ../index.html:108(li)
 msgid "A satisfying experience, whatever kind of computer you use: GNOME 3 will feel right at home on netbooks as well as larger machines"
 msgstr "Pengalaman yang memuaskan, apapun jenis komputer yang Anda pakai: GNOME 3 akan terasa pas pada netbook maupun pada mesin yang lebih besar"
 
-#: ../faq.html:38(h2)
+#: ../index.html:110(a)
+msgid "Read the GNOME 3.0 release notes"
+msgstr "Baca catatan rilis GNOME 3.0"
+
+#: ../index.html:118(span)
+msgid "This website is available in many languages:"
+msgstr "Situs web ini tersedia dalam banyak bahasa:"
+
+#: ../index.html:119(a)
+msgid "English"
+msgstr "Inggris"
+
+#: ../index.html:120(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:121(a)
+msgid "العربية"
+msgstr "Arab"
+
+#: ../index.html:122(a)
+msgid "Čeština"
+msgstr "Čeština"
+
+#: ../index.html:123(a)
+msgid "Ελληνικά"
+msgstr "Yunani"
+
+#: ../index.html:124(a)
+msgid "Español"
+msgstr "Spanyol"
+
+#: ../index.html:125(a)
+msgid "Persian"
+msgstr "Persia"
+
+#: ../index.html:126(a)
+msgid "Français"
+msgstr "Perancis"
+
+#: ../index.html:127(a)
+msgid "Galego"
+msgstr "Galego"
+
+#: ../index.html:128(a)
+msgid "Italiano"
+msgstr "Italia"
+
+#: ../index.html:129(a)
+#, fuzzy
+msgid "日本語"
+msgstr "日本語"
+
+#: ../index.html:130(a)
+msgid "Latvian"
+msgstr "Latvia"
+
+#: ../index.html:131(a)
+msgid "한국어"
+msgstr "Korea"
+
+#: ../index.html:132(a)
+msgid "Polski"
+msgstr "Polandia"
+
+#: ../index.html:133(a)
+msgid "Português do Brasil"
+msgstr "Portugis Brasil"
+
+#: ../index.html:134(a)
+msgid "Română"
+msgstr "Rumania"
+
+#: ../index.html:135(a)
+msgid "Slovenščina"
+msgstr "Slovakia"
+
+#: ../index.html:136(a)
+#, fuzzy
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:137(a)
+msgid "Turkish"
+msgstr "Turki"
+
+#: ../index.html:138(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:139(a)
+#, fuzzy
+msgid "Українська"
+msgstr "Українська"
+
+#: ../index.html:140(a)
+#, fuzzy
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:141(a)
+#, fuzzy
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:142(a)
+#, fuzzy
+msgid "中文 (台灣)"
+msgstr "中文 (台灣)"
+
+#: ../index.html:117(div)
+msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
+msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
+
+#. grid_12
+#: ../index.html:113(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Bebas untuk dibagikan dan diremix: <placeholder-2/><br/> Dibagikan di: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:39(h2)
 msgid "How do I get GNOME 3?"
 msgstr "Bagaimana saya mendapat GNOME 3?"
 
-#: ../faq.html:40(p)
-msgid "GNOME 3 is scheduled for release on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to a live demos."
-msgstr "GNOME 3 dijadwalkan untuk rilis pada 6 April 2011 dan akan tersedia melalui distribusi populer setelahnya. Lihat halaman <a href=\"tryit.html\">Cobalah</a> untuk rincian lebih jauh dan bagi tautan untuk demo live."
-
-#: ../faq.html:42(h2)
+#: ../faq.html:43(h2)
 msgid "What is the GNOME Project, anyway?"
 msgstr "Apa sih Projek GNOME itu?"
 
-#: ../faq.html:44(p)
+#: ../faq.html:45(p)
 msgid "The GNOME Project is an international community which comes together to make great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a>: all our work is free to use, modify and redistribute. Everyone is welcome to participate in its development. See <a href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more information."
 msgstr "Projek GNOME adalah komunitas internasional yang bekerja sama untuk membuat perangkat lunak yang hebat. Perangkat lunak GNOME adalah <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Perangkat Lunak Bebas</a>: semua hasil kerja kami bebas dipakai, diubah, dan disebarluaskan. Setiap orang dipersilakan untuk berpartisipasi dalam pengembangannya. Lihat <a href=\"http://www.gnome.org/about/\">halaman Tentang GNOME</a> untuk informasi lebih lanjut."
 
-#: ../faq.html:46(h2)
+#: ../faq.html:47(h2)
 msgid "Will my computer be able to run GNOME 3?"
 msgstr "Apakah komputer saya akan bisa menjalankan GNOME 3?"
 
-#: ../faq.html:48(p)
+#: ../faq.html:49(p)
 msgid "Computers purchased in the last 4 or 5 years should be more than capable of running GNOME 3. The GNOME 3 desktop does require hardware accelerated graphics in order to provide a cutting-edge experience however, and the complete GNOME 3 experience will only be available on computers capable of this. Do not worry though: GNOME 3 will come complete with a fallback interface which will provide an excellent experience in the absence of hardware acceleration, and which incorporates many of the improvements that can be found in GNOME 3. Furthermore, the GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
 msgstr "Komputer yang dibeli dalam 4 atau 5 tahun terakhir mestinya lebih dari cukup untuk menjalankan GNOME 3. Namun desktop GNOME 3 memerlukan grafis yang dipercepat oleh perangkat keras untuk menyediakan pengalaman yang paling mutakhir, dan pengalaman lengkap GNOME 3 hanya akan tersedia pada komputer dengan kemampuan ini. Namun jangan khawatir: GNOME 3 akan hadir lengkap dengan antar muka cadangan yang akan menyediakan pengalaman yang sempurna tanpa kehadiran percepatan perangkat keras, yang menyertakan banyak perbaikan yang dapat ditemukan di GNOME 3. Lebih lanjut, projek GNOME dan partnernya sedang bekerja keras untuk memastikan bahwa pengalaman lengkap GNOME 3 tersedia ke sebanyak mungkin orang, dan mengarah untuk memastikan bahwa pengguna yang pada awalnya tak memperoleh pengalaman ini akan bisa di masa mendatang."
 
-#: ../faq.html:50(h2)
+#: ../faq.html:51(h2)
 msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgstr "Akankah saya bisa memakai aplikasi GNOME favorit saya di GNOME 3?"
 
-#: ../faq.html:52(p)
+#: ../faq.html:53(p)
 msgid "Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does provide facilities to make applications even better though, so look out for new and improved GNOME 3 versions of those trusty apps you've learnt to love."
 msgstr "Ya! Aplikasi GNOME yang ada akan berjalan baik-baik saja di GNOME 3. GNOME 3 menyediakan fasilitas bahkan untuk membuat aplikasi lebih baik, jadi perhatikan versi GNOME 3 yang baru dan lebih baik dari aplikasi terpercaya tersebut yang telah Anda cintai."
 
-#: ../faq.html:54(h2)
+#: ../faq.html:56(h2)
 msgid "What will happen to the old version of GNOME?"
 msgstr "Apa yang akan terjadi pada versi lama GNOME?"
 
-#: ../faq.html:56(p)
+#: ../faq.html:58(p)
 msgid "The GNOME 2 desktop had a long life, and parts of it became difficult to maintain over that period. As a result, continued releases of the entire GNOME 2 desktop was never a practical option for the GNOME Project, and several parts of the old GNOME 2 desktop will not receive new releases after GNOME 3 is released. The traditional GNOME 2 desktop will not disappear overnight, however: releases of GNOME 2 will continue to be supported by distributions for years to come."
 msgstr "Desktop GNOME 2 telah berumur panjang, dan bagian-bagiannya menjadi sulit dipelihara selama itu. Akibatnya, rilis berkelanjutan seluruh desktop GNOME 2 bukan pilihan yang praktis bagi Projek GNOME, dan beberapa bagian dari desktop GNOME 2 yang lama tidak akan menerima rilis baru setelah GNOME 3 dirilis. Desktop GNOME 2 tradisional tidak akan menghilang dalam sekejap, namun: rilis GNOME 2 akan terus didukung oleh berbagai distribusi di tahun-tahun mendatang."
 
-#: ../faq.html:58(h2)
+#: ../faq.html:63(h2)
 msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgstr "Kenapa desktop GNOME 3 dirancang sedemikian?"
 
-#: ../faq.html:60(p)
+#: ../faq.html:65(p)
 msgid "A huge amount of work has gone into the design of GNOME 3, and each of the design decisions behind it has a carefully considered rationale. If you have a specific question about one of these design decisions, try reading our <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME 3 design questions</a>. Alternatively, more extensive details about the design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome.org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
 msgstr "Sejumlah luar biasa banyak pekerjaan telah dicurahkan ke dalam rancangan GNOME 3, dan setiap keputusan rancangan dibaliknya memiliki alasan-alasan yang telah dipertimbangkan secara matang. Bila Anda memiliki pertanyaan spesifik tentang salah satu dari keputusan rancangan, cobalah membaca <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">jawaban atas pertanyaan umum tentang rancangan GNOME 3</a>. Sebagai alternatif, rincian lebih mendalam tentang rancangan dari desktop GNOME 3 dapat ditemukan di <a href=\"http://live.gnome.org/GnomeShell/Design/\">halaman wiki rancangan desktop GNOME 3</a>."
 
-#: ../faq.html:62(h2)
+#: ../faq.html:67(h2)
 msgid "What are GNOME's plans after GNOME 3 is released?"
 msgstr "Apa rencana GNOME setelah GNOME 3 dirilis?"
 
-#: ../faq.html:64(p)
+#: ../faq.html:69(p)
 msgid "We are going to have a huge party to celebrate the release, and then we're going to get back to work improving our desktop, so that GNOME 3 will get better and better with subsequent releases. We have lots of plans for new features which will make GNOME even easier and more satisfying to use, such as document search and an exciting new desktop extensions framework."
 msgstr "Kami akan menyeleggarakan pesta besar untuk merayakan rilis, dan kami akan kembali bekerja memperbaiki desktop kami, sehingga GNOME 3 akan menjadi lebih baik lagi para rilis-rilis berikutnya. Kami punya banyak rencana bagi fitur-fitur baru yang akan membuat GNOME menjadi lebih mudah dan lebih memuaskan untuk dipakai, seperti pencarian dokumen dan kerangka kerja perluasan desktop baru yang menarik."
 
-#: ../faq.html:66(h2)
+#: ../faq.html:71(h2)
 msgid "How can I get involved or help with GNOME 3?"
 msgstr "Bagaimana saya bisa terlibat atau membantu GNOME 3?"
 
-#: ../faq.html:68(p)
+#: ../faq.html:73(p)
 msgid "Spreading the word about GNOME 3 is a great way to help out. A positive tweet, dent, status update or post is always appreciated. You can also join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. Additionally, you can help out with one of the many varied tasks involved in producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome\">contribution page</a> for more details."
 msgstr "Menyebarluaskan berita tentang GNOME 3 adalah cara bagus untuk membantu. Twit, pembaruan status, atau pengiriman posting yang positif selalu dihargai. Anda juga dapat bergabung ke <a href=\"http://www.facebook.com/GNOMEDesktop\">grup Facebook</a> atau menjadi seorang <a href=\"http://www.gnome.org/friends/\">Sahabat GNOME</a>. Selain itu, Anda dapat membantu salah satu dari banyak kegiatan dalam membangun GNOME. Periksa saja <a href=\"http://live.gnome.org/JoinGnome\">halaman kontribusi</a> kami untuk rincian lebih lanjut."
 
-#: ../faq.html:70(h2)
+#: ../faq.html:75(h2)
 msgid "I want to write about GNOME 3. How do I get more information?"
 msgstr "Saya ingin menulis tentang GNOME 3. Bagaimana saya mendapat lebih banyak informasi?"
 
-#: ../faq.html:72(p)
+#: ../faq.html:77(p)
 msgid "Further information about the release can be found on the <a href=\"http://live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
 msgstr "Informasi lebih lanjut tentang rilis dapat diperoleh di <a href=\"http://live.gnome.org/ThreePointZero\">halaman wiki GNOME 3</a>. Queri dari press mesti dikirim ke <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-contact@gnome.org</a>."
 
+#~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
+#~ msgstr "Akan diliris dalam: <span id=\"countbox\"/>"
+
+#~ msgid ""
+#~ "GNOME 3 is under active development and will not be completed until April "
+#~ "2011. If you want to try it, you can run a live alpha version from a CD/"
+#~ "DVD or USB stick."
+#~ msgstr ""
+#~ "GNOME 3 sedang aktif dikembangkan dan tidak akan selesai sampai April "
+#~ "2011. Bila Anda ingin mencobanya, Anda dapat menjalankan versi alfa live "
+#~ "dari CD/DVD atau flash USB."
+
+#~ msgid "YouTube video player"
+#~ msgstr "Pemutar video YouTube"
+
+#~ msgid ""
+#~ "GNOME 3 is scheduled for release on 6th April 2011 and will be available "
+#~ "via popular distributions after that time. See the <a href=\"tryit.html"
+#~ "\">Try It</a> page for more details and for links to a live demos."
+#~ msgstr ""
+#~ "GNOME 3 dijadwalkan untuk rilis pada 6 April 2011 dan akan tersedia "
+#~ "melalui distribusi populer setelahnya. Lihat halaman <a href=\"tryit.html"
+#~ "\">Cobalah</a> untuk rincian lebih jauh dan bagi tautan untuk demo live."
