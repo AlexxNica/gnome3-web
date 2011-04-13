@@ -27,6 +27,8 @@ do
         sed -i -e "s/faq.html/faq.html.$LANG/" $HTMLFILE.$LANG
       grep -q 'tryit.html' $HTMLFILE.$LANG && \
         sed -i -e "s/tryit.html/tryit.html.$LANG/" $HTMLFILE.$LANG
+      grep -q 'parties.html' $HTMLFILE.$LANG && \
+        sed -i -e "s/parties.html/parties.html.$LANG/" $HTMLFILE.$LANG
     done
 done
 
