@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome 3-web\n"
-"POT-Creation-Date: 2011-04-07 11:30+0000\n"
-"PO-Revision-Date: 2011-04-09 06:18+0800\n"
+"POT-Creation-Date: 2011-04-12 10:05+0000\n"
+"PO-Revision-Date: 2011-04-14 19:41+0800\n"
 "Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
 "MIME-Version: 1.0\n"
@@ -14,20 +14,23 @@ msgstr ""
 "X-Poedit-Country: TAIWAN\n"
 
 #: ../tryit.html:7(title)
+#: ../parties.html:7(title)
 #: ../index.html:8(title)
 #: ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Made of Easy"
 
 #: ../tryit.html:20(a)
+#: ../parties.html:206(a)
 #: ../index.html:26(a)
 #: ../faq.html:20(a)
 msgid "Home"
 msgstr "首頁"
 
 #. Alpha/Beta/New Banner
-#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:20(a)
+#: ../parties.html:206(a)
 #: ../index.html:26(a)
 #: ../faq.html:20(a)
 #: ../faq.html:31(h1)
@@ -35,19 +38,28 @@ msgid "Common questions and answers"
 msgstr "常見問答集"
 
 #: ../tryit.html:21(a)
+#: ../parties.html:207(a)
 #: ../index.html:27(a)
 #: ../faq.html:21(a)
 msgid "Try it out!"
 msgstr "開始體驗吧！"
 
+#: ../tryit.html:21(a)
+#: ../parties.html:207(a)
+#: ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Launch parties"
+msgstr "發行派對"
+
 #: ../tryit.html:22(div)
+#: ../parties.html:208(div)
 #: ../index.html:28(div)
 #: ../faq.html:22(div)
 msgid "The next generation desktop has arrived"
 msgstr "新一代桌面已經來到"
 
 #. Alpha/Beta/NEW Banner
-#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:31(h1)
 msgid "Try out GNOME 3"
 msgstr "體驗 GNOME 3"
@@ -128,6 +140,7 @@ msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><pl
 msgstr "<placeholder-1/> 使用 USB 設備執行 GNOME 3：<placeholder-2/><placeholder-3/><br/>"
 
 #: ../tryit.html:88(a)
+#: ../parties.html:234(a)
 #: ../index.html:114(a)
 #: ../faq.html:82(a)
 msgid "The GNOME Project"
@@ -140,12 +153,14 @@ msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
 #: ../tryit.html:90(a)
+#: ../parties.html:236(a)
 #: ../index.html:116(a)
 #: ../faq.html:84(a)
 msgid "Facebook"
 msgstr "Facebook"
 
 #: ../tryit.html:90(a)
+#: ../parties.html:236(a)
 #: ../index.html:116(a)
 #: ../faq.html:84(a)
 msgid "Twitter"
@@ -162,6 +177,203 @@ msgstr "版權所有 © 2011 <placeholder-1/><br/>自由分享與改作：<place
 #: ../faq.html:41(p)
 msgid "GNOME 3 was released on 6th April 2011 and will be available via popular distributions after that time. See the <a href=\"tryit.html\">Try It</a> page for more details and for links to live demos."
 msgstr "GNOME 3 會在2011年4月6日正式推出，之後你將可以從各大主要的LINUX發行版網站上取得。更多的詳細內容將會在<a href=\"tryit.html\">開始體驗吧！</a>頁面介紹並提供 live 展示的連結。"
+
+#: ../parties.html:22(script)
+msgid ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, 1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", {wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map.displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n"
+"');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + \"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+msgstr ""
+
+#: ../parties.html:220(b)
+msgid "Javascript has either been disabled or is not supported by your browser."
+msgstr "Javascript 可能被停用了或是你的瀏覽器不支援。"
+
+#: ../parties.html:220(noscript)
+msgid "<placeholder-1/> The map on this website is generated using Javascript. To view the map, enable Javascript by changing your browser options, and then try again."
+msgstr "<placeholder-1/> 這個網站的地圖是使用 Javascript 產生的。要檢視這個地圖，請改變你的瀏覽器選項啟用 Javascript，然後再試一次。"
+
+#: ../parties.html:226(h2)
+msgid "Celebrate GNOME3"
+msgstr "慶祝 GNOME3"
+
+#: ../parties.html:227(p)
+msgid "For this unique occasion over a hundred people around the globe are organizing <strong>Release parties</strong>. You might want to take a look at the map on the left side and check if there is a party in your area. <br/><br/>As party dates vary based on organizer's convenience do visit the party home page and see whether the party has taken place or not. Should you have missed the party, it's never to late to celebrate GNOME 3 with a few friends and share your excitement about this new release. <br/><br/>And if you're alone living far way from anybody else, just visit the GNOME IRC channel on Gimpnet and party with us!"
+msgstr "在這個特別的時刻全球各地有上百人在組織<strong>推出派對</strong>。你可能會想看一下左邊的地圖以了解在你的所在地有沒有舉辦派對。<br/><br/>由於派對日期都是以主辦者的方便為主，請務必參訪派對首頁以了解派對是否已經舉辦了。即使你已經錯過派對，找幾個朋友分享你對這次新推出的軟件來慶祝 GNOME 3 也決不會嫌晚。<br/><br/>如果你住的地方離其他人很遠，也可以使用 Gimpnet 上的 GNOME IRC 頻道來加入我們！"
+
+#: ../parties.html:233(div)
+#| msgid ""
+#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
+msgstr "版權所有 © 2011 <placeholder-1/><br/>分享：<placeholder-2/> | <placeholder-3/><br/> ❧"
 
 #: ../index.html:38(h1)
 msgid "The next generation GNOME desktop has arrived"
@@ -450,6 +662,7 @@ msgstr "關於這次推出的進一步資訊可以在 <a href=\"http://live.gnom
 
 #~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
 #~ msgstr "驚喜釋出於： <span id=\"countbox\"/> 後"
+
 #~ msgid ""
 #~ "GNOME 3 is under active development and will not be completed until April "
 #~ "2011. If you want to try it, you can run a live version from a CD/DVD or "
@@ -457,4 +670,3 @@ msgstr "關於這次推出的進一步資訊可以在 <a href=\"http://live.gnom
 #~ msgstr ""
 #~ "GNOME 3 仍在持續開發中，並將於2011年4月發布。若你想要搶先體驗，可以使用 "
 #~ "CD/DVD 或 USB 設備試用 live 版本。"
-
