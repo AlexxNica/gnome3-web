@@ -1,41 +1,41 @@
 # Greek translation for gnome3-web.
 # Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome3-web package.
-#
 # Vasilis Tsivikis <vasitsiv@hotmail.com>, 2011.
 # Simos Xenitellis <simos@gnome.org>, 2011.
-#
+# Michael Kotsarinis <mk73628@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-03 07:56+0000\n"
-"PO-Revision-Date: 2011-04-03 16:44+0300\n"
-"Last-Translator: Simos Xenitellis <simos@gnome.org>\n"
-"Language-Team: Greek <team@lists.gnome.gr>\n"
+"POT-Creation-Date: 2011-04-05 02:08+0000\n"
+"PO-Revision-Date: 2011-04-05 07:55+0300\n"
+"Last-Translator: Michael Kotsarinis <mk73628@gmail.com>\n"
+"Language-Team: team@gnome.gr\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Lokalize 1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: ../tryit.html:7(title) ../index.html:8(title) ../faq.html:7(title)
 msgid "GNOME 3 - Made of Easy"
 msgstr "GNOME 3 - Ευκολία στη χρήση"
 
-#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 msgid "Home"
 msgstr "Αρχή"
 
-#: ../tryit.html:21(a) ../index.html:28(a) ../faq.html:21(a)
+#: ../tryit.html:21(a) ../index.html:27(a) ../faq.html:21(a)
 #: ../faq.html:30(h1)
 msgid "Common questions and answers"
 msgstr "Κοινές ερωτήσεις και απαντήσεις"
 
-#: ../tryit.html:22(a) ../index.html:29(a) ../faq.html:22(a)
+#: ../tryit.html:22(a) ../index.html:28(a) ../faq.html:22(a)
 msgid "Try it out!"
 msgstr "Δοκιμάστε το!"
 
-#: ../tryit.html:23(div) ../index.html:30(div) ../faq.html:23(div)
+#: ../tryit.html:23(div) ../index.html:29(div) ../faq.html:23(div)
 msgid "Releasing awesome in: <span id=\"countbox\"/>"
 msgstr "Θα είναι έτοιμο σε: <span id=\"countbox\"/>"
 
@@ -157,19 +157,19 @@ msgstr ""
 "<placeholder-1/> Για να τρέξετε το GNOME 3 από ένα USB stick: <placeholder-2/"
 "><placeholder-3/><br/>"
 
-#: ../tryit.html:87(a) ../index.html:100(a) ../faq.html:77(a)
+#: ../tryit.html:87(a) ../index.html:105(a) ../faq.html:77(a)
 msgid "The GNOME Project"
 msgstr "Το έργο GNOME"
 
-#: ../tryit.html:88(a) ../index.html:101(a) ../faq.html:78(a)
+#: ../tryit.html:88(a) ../index.html:106(a) ../faq.html:78(a)
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../index.html:102(a) ../faq.html:79(a)
+#: ../tryit.html:89(a) ../index.html:107(a) ../faq.html:79(a)
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -204,11 +204,11 @@ msgstr ""
 "href=\"tryit.html\">Δοκιμάστε το</a> για περισσότερες πληροφορίες και "
 "συνδέσμους σε δοκιμή σε κατάσταση live."
 
-#: ../index.html:38(h1)
+#: ../index.html:37(h1)
 msgid "Introducing the next generation GNOME desktop"
 msgstr "Παρουσιάζοντας τη νέα γενιά επιφάνειας εργασίας GNOME"
 
-#: ../index.html:45(p)
+#: ../index.html:40(p)
 msgid ""
 "For GNOME 3, the GNOME Project has started from scratch and created a "
 "completely new, modern desktop designed for today's users and technologies. "
@@ -219,11 +219,35 @@ msgstr ""
 "τις τεχνολογίες του σήμερα. Εδώ βρίσκονται μερικά από τα πράγματα που μπορεί "
 "να αναμένετε από το νέο GNOME:"
 
-#: ../index.html:53(h2)
+#: ../index.html:48(div)
+msgid ""
+"<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>Access apps faster"
+msgstr ""
+"<a href=\"video-appsearch.html\" rel=\"fancybox\"><img src=\"img/video-"
+"appsearch.png\"/></a><br/>Γρηγορότερη πρόσβαση στις εφαρμογές"
+
+#: ../index.html:49(div)
+msgid ""
+"<a href=\"video-interruptions.html\" rel=\"fancybox\"><img src=\"img/video-"
+"interruptions.png\"/></a><br/>Get fewer interruptions"
+msgstr ""
+"<a href=\"video-interruptions.html\" rel=\"fancybox\"><img src=\"img/video-"
+"interruptions.png\"/></a><br/>Λιγότερες διακοπές στη δουλειά σας"
+
+#: ../index.html:50(div)
+msgid ""
+"<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>Create workspaces"
+msgstr ""
+"<a href=\"video-workspaces.html\" rel=\"fancybox\"><img src=\"img/video-"
+"workspaces.png\"/></a><br/>Δημιουργία χώρων εργασίας"
+
+#: ../index.html:58(h2)
 msgid "Simply beautiful"
 msgstr "Απλά όμορφο"
 
-#: ../index.html:55(p)
+#: ../index.html:60(p)
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -236,11 +260,11 @@ msgstr ""
 "από ποτέ, με ένα νέο οπτικό θέμα (theme), μια νέα γραμματοσειρά και "
 "προσεκτικά επελεγμένα οπτικά εφέ."
 
-#: ../index.html:57(h2)
+#: ../index.html:62(h2)
 msgid "An overview at a glance"
 msgstr "Επισκόπηση με μια ματιά"
 
-#: ../index.html:59(p)
+#: ../index.html:64(p)
 msgid ""
 "The activities view provides an easy way to access all your windows and "
 "applications. It is also a great way to keep track of all your activities. "
@@ -255,11 +279,11 @@ msgstr ""
 "συμπεριλαμβανομένων του πλήκτρου δραστηριοτήτων (συχνά γνωστού ως πλήκτρο "
 "Παραθύρα) και της γωνιάς δραστηριοτήτων."
 
-#: ../index.html:64(h2)
+#: ../index.html:69(h2)
 msgid "Messaging built-in"
 msgstr "Ενσωματωμένη ανταλλαγή μηνυμάτων"
 
-#: ../index.html:66(p)
+#: ../index.html:71(p)
 msgid ""
 "Communication is an important part of the modern desktop, but it's a hassle "
 "when you have to switch windows to reply to a message. That's why GNOME 3 "
@@ -274,11 +298,11 @@ msgstr ""
 "απάντηση απευθείας στις ειδοποιήσεις μηνυμάτων κάνει την άμεση συνομιλία "
 "γρήγορη και χωρίς κόπο."
 
-#: ../index.html:68(h2)
+#: ../index.html:73(h2)
 msgid "Distraction-free computing"
 msgstr "Πληροφορική χωρίς περισπασμούς"
 
-#: ../index.html:70(p)
+#: ../index.html:75(p)
 msgid ""
 "GNOME 3 is designed to reduce distraction and interruption and to put you in "
 "control. Our new notifications system subtly presents messages and will save "
@@ -293,11 +317,11 @@ msgstr ""
 "είναι κομμάτι του φόντου, όχι του προσκήνιου. Αυτές οι αλλαγές σας "
 "επιτρέπουν να δώσετε προσοχή στις δημιουργικές εργασίες σας."
 
-#: ../index.html:76(h2)
+#: ../index.html:81(h2)
 msgid "Everything at your fingertips"
 msgstr "Τα πάντα στη διάθεσή σας"
 
-#: ../index.html:78(p)
+#: ../index.html:83(p)
 msgid ""
 "With the new GNOME desktop, everything can be quickly accessed from the "
 "keyboard. Press the activities key and search: it's as simple as that. "
@@ -308,11 +332,11 @@ msgstr ""
 "απλό. θα αγαπήσετε αυτό το χαρακτηριστικό αν είστε ένας χρήστης που του "
 "αρέσουν τα πράγματα να συμβαίνουν γρήγορα."
 
-#: ../index.html:80(h2)
+#: ../index.html:85(h2)
 msgid "Redesigned system settings"
 msgstr "Ανασχεδιασμένες ρυθμίσεις συστήματος"
 
-#: ../index.html:82(p)
+#: ../index.html:87(p)
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -325,11 +349,11 @@ msgstr ""
 "ρυθμίσεων μας αναδιοργανώθηκαν, κάνοντας την εύρεση της ρύθμισης που θέλετε "
 "γρήγορη και άμεση."
 
-#: ../index.html:87(h2)
+#: ../index.html:92(h2)
 msgid "And much, much more"
 msgstr "Και πολλά, πολλά άλλα"
 
-#: ../index.html:89(p)
+#: ../index.html:94(p)
 msgid ""
 "GNOME 3 is crammed full of new features. Here are some of the other things "
 "that you can look forward to from GNOME 3:"
@@ -337,30 +361,30 @@ msgstr ""
 "Το GNOME 3 είναι γεμάτο με νέα χαρακτηριστικά. Εδώ είναι μερικά άλλα "
 "πράγματα που μπορείτε να αναμένετε από το GNOME 3:"
 
-#: ../index.html:91(li)
+#: ../index.html:96(li)
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
 "Μικρογραφίες παραθύρων δίπλα-δίπλα για να κάνουν την χρήση αρκετών παράθυρων "
 "απλή και εύκολη"
 
-#: ../index.html:92(li)
+#: ../index.html:97(li)
 msgid "A redesigned file manager"
 msgstr "Ένας ανασχεδιασμένος διαχειριστής αρχείων"
 
-#: ../index.html:93(li)
+#: ../index.html:98(li)
 msgid "Redesigned workspaces so you can easily organise your windows"
 msgstr ""
 "Ανασχεδιασμένοι χώροι εργασίας για να μπορείτε να οργανώνετε εύκολα τα "
 "παράθυρα σας"
 
-#: ../index.html:94(li)
+#: ../index.html:99(li)
 msgid "Major changes under the hood to give you a faster, smoother experience"
 msgstr ""
 "Σημαντικές αλλαγές στο παρασκήνιο για να σας δώσουν μια πιο γρήγορη, "
 "ομαλότερη εμπειρία"
 
-#: ../index.html:95(li)
+#: ../index.html:100(li)
 msgid ""
 "A satisfying experience, whatever kind of computer you use: GNOME 3 will "
 "feel right at home on netbooks as well as larger machines"
@@ -369,107 +393,99 @@ msgstr ""
 "θα αισθάνεστε GNOME 3 σωστά σε φορητούς υπολογιστές όπως και σε μεγαλύτερα "
 "συστήματα"
 
-#: ../index.html:104(span)
+#: ../index.html:109(span)
 msgid "This website is available in many languages:"
 msgstr "Οι σελίδες είναι διαθέσιμες σε πολλές γλώσσες:"
 
-#: ../index.html:105(a)
+#: ../index.html:110(a)
 msgid "English"
 msgstr "English"
 
-#: ../index.html:106(a)
+#: ../index.html:111(a)
 msgid "العربية"
 msgstr "العربية"
 
-#: ../index.html:107(a)
+#: ../index.html:112(a)
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: ../index.html:108(a)
+#: ../index.html:113(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:109(a)
+#: ../index.html:114(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:110(a)
+#: ../index.html:115(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:111(a)
+#: ../index.html:116(a)
 msgid "Persian"
 msgstr "Persian"
 
-#: ../index.html:112(a)
+#: ../index.html:117(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:113(a)
+#: ../index.html:118(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:114(a)
+#: ../index.html:119(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:115(a)
+#: ../index.html:120(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:116(a)
+#: ../index.html:121(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:117(a)
-#| msgid "polski"
+#: ../index.html:122(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:118(a)
+#: ../index.html:123(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:119(a)
+#: ../index.html:124(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:120(a)
+#: ../index.html:125(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:121(a)
+#: ../index.html:126(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:122(a)
+#: ../index.html:127(a)
 msgid "Turkish"
 msgstr "Turkish"
 
-#: ../index.html:123(a)
+#: ../index.html:128(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:124(a)
+#: ../index.html:129(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:125(a)
+#: ../index.html:130(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:126(a)
+#: ../index.html:131(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
-#: ../index.html:103(div)
-#| msgid ""
-#| "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
-#| "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> "
-#| "| <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-"
-#| "12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
-#| "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-"
-#| "19/>"
+#: ../index.html:108(div)
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -486,7 +502,7 @@ msgstr ""
 "<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/>"
 
 #. grid_16
-#: ../index.html:99(div)
+#: ../index.html:104(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
 "2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
