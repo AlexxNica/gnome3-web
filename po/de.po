@@ -1,0 +1,1132 @@
+# German translation for gnome3-web.
+# Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome3-web package.
+# Marc Redemske <brianvanthom@googlemail.com>, 2011.
+# Mario Blättermann <mariobl@freenet.de>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome3-web master\n"
+"POT-Creation-Date: 2011-04-20 06:48+0000\n"
+"PO-Revision-Date: 2011-04-20 19:47+0100\n"
+"Last-Translator: Mario Blättermann <mariobl@freenet.de>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../tryit.html:7(title) ../parties.html:7(title) ../index.html:8(title)
+#: ../faq.html:7(title)
+msgid "GNOME 3 - Made of Easy"
+msgstr "GNOME 3 - Made of Easy"
+
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a)
+msgid "Home"
+msgstr "Startseite"
+
+#. Alpha/Beta/New Banner
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:20(a) ../parties.html:206(a) ../index.html:26(a)
+#: ../faq.html:20(a) ../faq.html:31(h1)
+msgid "Common questions and answers"
+msgstr "Häufig gestellte Fragen und Antworten"
+
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Try it out!"
+msgstr "Probieren Sie es aus!"
+
+#: ../tryit.html:21(a) ../parties.html:207(a) ../index.html:27(a)
+#: ../faq.html:21(a)
+msgid "Launch parties"
+msgstr "Veröffentlichungs-Partys"
+
+# Zugegeben, klingt etwas übertrieben, angesichts des derzeitigen Zustands
+# von GNOME 3. Aber »next generation« sollte man hier wohl etwas freier
+# übersetzen.
+#: ../tryit.html:22(div) ../parties.html:208(div) ../index.html:28(div)
+#: ../faq.html:22(div)
+msgid "The next generation desktop has arrived"
+msgstr "Die Arbeitsumgebung der Zukunft ist da"
+
+#. Alpha/Beta/NEW Banner
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
+#: ../tryit.html:31(h1)
+msgid "Try out GNOME 3"
+msgstr "Probieren Sie GNOME 3"
+
+#. String to use in tryit.html after release
+#: ../tryit.html:33(p) ../temp.html:11(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
+"live version from a CD/DVD or USB stick."
+msgstr ""
+"GNOME 3 ist am 6. April 2011 erschienen. Sie können eine Live-Version von CD/"
+"DVD oder einem USB-Stick starten, um es zu testen."
+
+#: ../tryit.html:41(a)
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: ../tryit.html:41(h4) ../tryit.html:49(h4)
+msgid "GNOME 3 based on <placeholder-1/>"
+msgstr "GNOME 3 basierend auf <placeholder-1/>"
+
+#: ../tryit.html:43(a)
+msgid "Download for 32 bit systems (v1.0.0)"
+msgstr "Download für 32-Bit-Systeme (v1.0.0)"
+
+#: ../tryit.html:45(a)
+msgid "Download for 64 bit systems (v1.0.0)"
+msgstr "Download für 64-Bit-Systeme (v1.0.0)"
+
+#: ../tryit.html:49(a)
+msgid "Fedora"
+msgstr "Fedora"
+
+#: ../tryit.html:51(a)
+msgid "Download for 32 bit systems (2011-04-05)"
+msgstr "Download für 32-Bit-Systeme (05.04.2011)"
+
+# Wir verwenden grundsätzlich die französischen Anführungszeichen » und «
+# im Fließtext.
+#: ../tryit.html:57(p)
+msgid ""
+"The user name for the openSUSE live image is 'tux' and the password is empty."
+msgstr ""
+"Der Benutzername für das openSUSE-Live-Abbild ist »tux«. Es wird kein "
+"Passwort benötigt."
+
+#: ../tryit.html:58(p)
+msgid ""
+"The user name for the Fedora live image is 'liveuser' and the password is "
+"empty."
+msgstr ""
+"Der Benutzername für das Fedora-Live-Abbild ist »liveuser«. Es wird kein "
+"Passwort benötigt."
+
+#: ../tryit.html:65(p)
+msgid ""
+"To run from a CD/DVD, burn the download to a disk, insert into your computer "
+"and reboot."
+msgstr ""
+"Um von CD/DVD zu starten, brennen Sie das heruntergeladene Abbild auf ein "
+"geeignetes Medium. Starten Sie Ihren Rechner mit der eingelegten CD/DVD neu."
+
+#: ../tryit.html:69(li)
+msgid "Download the USB image writer (below) and extract it"
+msgstr "Laden Sie den USB-Image-Writer herunter (unten) und entpacken Sie ihn."
+
+# folder → Ordner
+#: ../tryit.html:70(li)
+msgid ""
+"Open a terminal and navigate to the extracted image writer folder (eg. <code>"
+"$ cd Downloads/abock-image-usb-stick-f3b1002</code>)"
+msgstr ""
+"Öffnen Sie ein Terminal-Fenster und wechseln Sie in den Ordner des entpackten "
+"Image-Writers (z. B. <code>$ cd Downloads/abock-image-usb-stick-f3b1002</"
+"code>)"
+
+#: ../tryit.html:71(li)
+msgid ""
+"Prepare the image writer by running: <code>$ chmod a+x ./image-usb-stick</"
+"code>"
+msgstr ""
+"Um den Image-Writer starten zu können, führen Sie folgenden Befehl aus: <code>"
+"$ chmod a+x ./image-usb-stick</code>"
+
+#: ../tryit.html:72(li)
+msgid ""
+"Remove any USB storage devices that you might have connected to your computer "
+"and insert the empty USB stick that you want to write to"
+msgstr ""
+"Entfernen Sie jegliche USB-Massenspeicher von Ihrem Rechner und stecken Sie "
+"den USB-Stick an, auf den Sie das Live-Abbild schreiben möchten."
+
+#: ../tryit.html:73(li)
+msgid ""
+"Run the image writer script: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+msgstr ""
+"Starten Sie das Image-Writer-Skript wie folgt: <code>$ sudo ./image-usb-stick "
+"path_to_the_live_image.iso</code>"
+
+# computer → Rechner (Konsistenz!)
+#: ../tryit.html:74(li)
+msgid "To run the live image, reboot your computer with the USB stick attached"
+msgstr "Starten Sie Ihren Rechner neu, mit dem eingesteckten USB-Stick."
+
+#: ../tryit.html:77(a)
+msgid "Download USB image writer"
+msgstr "USB-Image-Writer herunterladen"
+
+# Die Formulierung »to do this or that« übersetzen wir im Fließtext mit
+# »So tun Sie dies oder das«, in Überschriften hingegen einfach im Infinitiv.
+#: ../tryit.html:64(div)
+msgid ""
+"<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
+"><placeholder-3/><br/>"
+msgstr ""
+"<placeholder-1/> So starten Sie GNOME 3 von einem USB-Stick: <placeholder-2/"
+"><placeholder-3/><br/>"
+
+#: ../tryit.html:88(a) ../parties.html:234(a) ../index.html:114(a)
+#: ../faq.html:82(a)
+msgid "The GNOME Project"
+msgstr "Das GNOME-Projekt"
+
+#: ../tryit.html:89(a) ../index.html:115(a) ../faq.html:83(a)
+msgid "Creative Commons CC-BY"
+msgstr "Creative Commons CC-BY"
+
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../tryit.html:90(a) ../parties.html:236(a) ../index.html:116(a)
+#: ../faq.html:84(a)
+msgid "Twitter"
+msgstr "Twitter"
+
+# Bin mir hier nicht ganz sicher,ob es »freigeben« heißen sollte.
+#. grid_12
+#: ../tryit.html:87(div) ../faq.html:81(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Zur freien Verteilung und "
+"Neugestaltung: <placeholder-2/><br/> Freigeben auf: <placeholder-3/> | "
+"<placeholder-4/><br/> ❧"
+
+#. String to use in faq.html after release
+#: ../temp.html:13(p) ../faq.html:41(p)
+msgid ""
+"GNOME 3 was released on 6th April 2011 and will be available via popular "
+"distributions after that time. See the <a href=\"tryit.html\">Try It</a> page "
+"for more details and for links to live demos."
+msgstr ""
+"GNOME 3 ist am 6. April 2011 erschienen und wird über alle gängigen "
+"Distributionen erhältlich sein. <a href=\"tryit.html\">Probieren</a> Sie "
+"GNOME 3 als Live-Demo, um sich zu überzeugen."
+
+#: ../parties.html:22(script)
+msgid ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, "
+"1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", {wrapDateLine: "
+"true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center "
+"point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map."
+"displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData"
+"[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + "
+"\"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\"
+"\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat."
+"lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+msgstr ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, "
+"1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", {wrapDateLine: "
+"true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center "
+"point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map."
+"displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData"
+"[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + "
+"\"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\"
+"\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat."
+"lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
+
+#: ../parties.html:220(b)
+msgid "Javascript has either been disabled or is not supported by your browser."
+msgstr ""
+"Javascript ist entweder deaktiviert oder wird nicht von Ihrem Browser "
+"unterstützt."
+
+#: ../parties.html:220(noscript)
+msgid ""
+"<placeholder-1/> The map on this website is generated using Javascript. To "
+"view the map, enable Javascript by changing your browser options, and then "
+"try again."
+msgstr ""
+"<placeholder-1/> Die Karte auf dieser Seite wird unter Verwendung von "
+"Javascript generiert. Um die Karte korrekt anzeigen zu können, aktivieren Sie "
+"bitte Javascript in den Optionen Ihres Browsers und laden Sie die Seite "
+"erneut."
+
+#: ../parties.html:226(h2)
+msgid "Celebrate GNOME3"
+msgstr "Feiern Sie GNOME3"
+
+#: ../parties.html:227(p)
+msgid ""
+"For this unique occasion over a hundred people around the globe are "
+"organizing <strong>Release parties</strong>. You might want to take a look at "
+"the map on the left side and check if there is a party in your area. <br/><br/"
+">As party dates vary based on organizer's convenience do visit the party home "
+"page and see whether the party has taken place or not. Should you have missed "
+"the party, it's never to late to celebrate GNOME 3 with a few friends and "
+"share your excitement about this new release. <br/><br/>And if you're alone "
+"living far way from anybody else, just visit the GNOME IRC channel on Gimpnet "
+"and party with us!"
+msgstr ""
+"Hunderte von Menschen weltweit organisieren <strong>Veröffentlichungs-Partys</"
+"strong>. Um eine Party in Ihrer Nähe zu finden, schauen Sie auf die Karte auf "
+"der linken Seite. Da der Umfang der Daten der einzelnen Partys von den "
+"Veranstaltern abhängt, können Sie weitere Details, zum Beispiel ob die Party "
+"schon stattgefunden hat oder nicht, auf den jeweiligen Internetseiten finden. "
+"Es ist nicht schlimm, wenn Sie eine der Partys verpasst haben, denn es ist "
+"nie zu spät, die Veröffentlichung von GNOME 3 zu feiern, und sei es nur mit "
+"ein paar Freunden. Falls Sie fernab von Anderen wohnen, besuchen Sie uns in "
+"unserem GNOME-IRC-Channel auf Gimpnet und feieren dort mit uns!"
+
+#: ../parties.html:233(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Freigeben auf: <placeholder-2/> | "
+"<placeholder-3/><br/> ❧"
+
+# »desktop« wollen wir verschwinden lassen. Wir übersetzen das (kontextabhängig)
+# als »Arbeitsfläche« oder »Arbeitsumgebung«.
+#: ../index.html:38(h1)
+msgid "The next generation GNOME desktop has arrived"
+msgstr "Die nächste Generation der GNOME-Arbeitsumgebung ist da"
+
+#: ../index.html:49(p)
+msgid ""
+"For GNOME 3, the GNOME Project has started from scratch and created a "
+"completely new, modern desktop designed for today's users and technologies. "
+"Here are some of the things that you can expect from the new GNOME:"
+msgstr ""
+"Das GNOME-Projekt hat GNOME 3 von Grund auf neu entwickelt, und somit eine "
+"komplett neue und moderne Arbeitsumgebung für heutige Anwendungen und "
+"Bedürfnisse entworfen. Nachfolgend einige der Neuerungen, die Sie vom neuen "
+"GNOME erwarten können:"
+
+#: ../index.html:50(label)
+msgid "Access apps faster"
+msgstr "Schnellerer Zugang zu Anwendungen"
+
+#: ../index.html:51(label)
+msgid "Easier window management"
+msgstr "Einfachere Verwaltung der Fenster"
+
+#: ../index.html:56(label)
+msgid "Create workspaces"
+msgstr "Arbeitsflächen erstellen"
+
+#: ../index.html:57(label)
+msgid "Deeper hardware integration"
+msgstr "Tiefere Hardware-Integration"
+
+#: ../index.html:58(label)
+msgid "App-based window management"
+msgstr "Anwendungsbasierte Fensterverwaltung"
+
+#: ../index.html:66(h2)
+msgid "Simply beautiful"
+msgstr "Einfach großartig"
+
+#: ../index.html:68(p)
+msgid ""
+"GNOME's new desktop takes elegance to a new level. We've swept away the "
+"clutter and made a simple and easy-to-use desktop, and we've made this the "
+"most beautiful GNOME desktop ever, with a new visual theme, a refined new "
+"font and carefully crafted animations."
+msgstr ""
+"Der neue GNOME-Desktop bringt Eleganz auf eine neue Ebene. Wir haben das "
+"Durcheinander entwirrt und eine einfache und benutzerfreundliche "
+"Arbeitsumgebung entwickelt - und zudem die schönste aller Zeiten, mit neuem "
+"Erscheinungsbild, neu überarbeiteten Schriften und Animationen, und all das "
+"mit Hinblick auf gute Kompatibilität."
+
+#: ../index.html:70(h2)
+msgid "An overview at a glance"
+msgstr "Alles auf einen Blick"
+
+# Aktivitäten-Ecke klingt noch etwas holprig, aber ist akzeptabel.
+#: ../index.html:72(p)
+msgid ""
+"The activities view provides an easy way to access all your windows and "
+"applications. It is also a great way to keep track of all your activities. We "
+"have provided several fast and convenient ways to access the activities view, "
+"including the activities keyboard key (often known as the Windows key) and "
+"the activities hot corner."
+msgstr ""
+"Die Sicht auf alle Aktivitäten ermöglicht Ihnen eine einfache Handhabung "
+"aller Fenster und Anwendungen, ebenso wie das Zurückverfolgen bisheriger "
+"Aktivitäten. Wir bieten viele schnelle und komfortable Wege, um Zugang zu "
+"allen Aktivitäten zu bekommen, so zum Beispiel die Aktivitäten-Taste (auch "
+"bekannt als die Windows-Taste) und der Aktivitäten-Ecke."
+
+#: ../index.html:77(h2)
+msgid "Messaging built-in"
+msgstr "Integrierte Benachrichtigungen"
+
+#: ../index.html:79(p)
+msgid ""
+"Communication is an important part of the modern desktop, but it's a hassle "
+"when you have to switch windows to reply to a message. That's why GNOME 3 "
+"will let you continue your conversations without changing focus. The ability "
+"to enter a reply straight into messaging notifications makes instant "
+"messaging quick and effortless."
+msgstr ""
+"Kommunikation ist ein wichtiger Teil einer modernen Arbeitsumgebung. Da es "
+"lästig ist, zwischen mehreren Fenstern zu wechseln, um eine Nachricht zu "
+"beantworten, macht es Ihnen GNOME 3 möglich, eine Unterhaltung zu führen, "
+"ohne den Fokus einer anderen Anwendung zu verlieren. Die Möglichkeit, sofort "
+"auf eine Nachricht innerhalb des Benachrichtigungsfeldes zu antworten, macht "
+"die Konversation über Sofortnachrichten einfach und mühelos."
+
+#: ../index.html:81(h2)
+msgid "Distraction-free computing"
+msgstr "Ablenkungsfreies Arbeiten"
+
+#: ../index.html:83(p)
+msgid ""
+"GNOME 3 is designed to reduce distraction and interruption and to put you in "
+"control. Our new notifications system subtly presents messages and will save "
+"them until you are ready for them, and the GNOME 3 panel has been styled so "
+"that it is part of the background, not the foreground. These changes allow "
+"you to focus on your creative tasks."
+msgstr ""
+"GNOME 3 wurde entworfen, um Ablenkungen und Unterbrechungen zu vermeiden und "
+"um Ihnen die Zügel in die Hand zu geben. Unser neues Benachrichtungssystem "
+"bietet die Möglichkeit, Mitteilungen zu speichern, bis Sie sie lesen möchten. "
+"Außerdem ist das GNOME-Panel nun Teil des Hintergrundes, was es Ihnen "
+"erlaubt, sich gänzlich auf Ihre kreative Arbeit zu konzentrieren."
+
+#: ../index.html:89(h2)
+msgid "Everything at your fingertips"
+msgstr "Alles auf Knopfdruck"
+
+#: ../index.html:91(p)
+msgid ""
+"With the new GNOME desktop, everything can be quickly accessed from the "
+"keyboard. Press the activities key and search: it's as simple as that. You'll "
+"love this feature if you're a user who likes things to happen fast."
+msgstr ""
+"Mit der neuen GNOME-Arbeitsumgebung können Sie alles einfach über die "
+"Tastatur erreichen. Mit der Suche über die Aktivitäten-Taste ist alles "
+"denkbar einfach. Sie werden es lieben, sofern Sie eine schnelle Arbeitsweise "
+"bevorzugen."
+
+#: ../index.html:93(h2)
+msgid "Redesigned system settings"
+msgstr "Neu gestaltete System-Umgebungen"
+
+#: ../index.html:95(p)
+msgid ""
+"Our system settings have been completely redesigned for GNOME 3, making them "
+"easier to use than ever before. GNOME 3 also provides a new way to browse "
+"your settings, and our settings categories have been reorganised, making it "
+"quick and straightforward to find the setting that you want."
+msgstr ""
+"Unser System wurde komplett neu entworfen, um eine noch einfachere Handhabung "
+"als jemals zuvor zu gewährleisten. GNOME 3 bietet neue Einstellmöglichkeiten. "
+"Zudem wurden die Einstellungs-Kategorien überarbeitet, damit Sie Ihr System "
+"noch besser und schneller an Ihre Bedürfnisse anpassen können."
+
+#: ../index.html:100(h2)
+msgid "And much, much more"
+msgstr "Und vieles, vieles mehr"
+
+#: ../index.html:102(p)
+msgid ""
+"GNOME 3 is crammed full of new features. Here are some of the other things "
+"that you can look forward to from GNOME 3:"
+msgstr ""
+"GNOME 3 ist vollgepackt mit neuen Funktionen. Nachfolgend einige Dinge, auf "
+"die Sie gespannt sein dürfen:"
+
+#: ../index.html:104(li)
+msgid "Side-by-side window tiling to make using several windows simple and easy"
+msgstr ""
+"Anordnen von Fenstern in Kacheln macht das Benutzen mehrerer Anwendungen "
+"einfach und leicht"
+
+#: ../index.html:105(li)
+msgid "A redesigned file manager"
+msgstr "Ein neu gestalteter Datei-Manager"
+
+#: ../index.html:106(li)
+msgid "Redesigned workspaces so you can easily organise your windows"
+msgstr ""
+"Die neu gestalteten Arbeitsflächen ermöglichen ein einfacheres Anordnen Ihrer "
+"Fenster"
+
+#: ../index.html:107(li)
+msgid "Major changes under the hood to give you a faster, smoother experience"
+msgstr ""
+"Wesentliche Veränderungen unter der Haube ermöglichen ein schnelleres und "
+"reibungsloseres Arbeiten"
+
+#: ../index.html:108(li)
+msgid ""
+"A satisfying experience, whatever kind of computer you use: GNOME 3 will feel "
+"right at home on netbooks as well as larger machines"
+msgstr ""
+"Eine überzeugende Erfahrung, egal welche Art von Rechner Sie benutzen: GNOME "
+"3 fühlt sich sowohl auf Netbooks als auch auf großen Rechnern zu Hause"
+
+# Die sogenannten »Deppenleerzeichen« (siehe unser Wiki) lassen sich oft
+# durch Umstellung der Syntax elegant umgehen.
+#: ../index.html:110(a)
+msgid "Read the GNOME 3.0 release notes"
+msgstr "Lesen Sie die Versionshinweise zu GNOME 3.0"
+
+#: ../index.html:118(span)
+msgid "This website is available in many languages:"
+msgstr "Diese Webseite ist in mehreren Sprachen verfügbar:"
+
+#: ../index.html:119(a)
+msgid "English"
+msgstr "English"
+
+#: ../index.html:120(a)
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: ../index.html:121(a)
+msgid "العربية"
+msgstr "العربية"
+
+#: ../index.html:122(a)
+msgid "Català"
+msgstr "Català"
+
+#: ../index.html:123(a)
+msgid "Čeština"
+msgstr "Čeština"
+
+#: ../index.html:124(a)
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
+
+#: ../index.html:125(a)
+msgid "Español"
+msgstr "Español"
+
+#: ../index.html:126(a)
+msgid "Persian"
+msgstr "Persian"
+
+#: ../index.html:127(a)
+msgid "Français"
+msgstr "Français"
+
+#: ../index.html:128(a)
+msgid "Galego"
+msgstr "Galego"
+
+#: ../index.html:129(a)
+msgid "Italiano"
+msgstr "Italiano"
+
+#: ../index.html:130(a)
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
+
+#: ../index.html:131(a)
+msgid "日本語"
+msgstr "日本語"
+
+#: ../index.html:132(a)
+msgid "Latvian"
+msgstr "Latvian"
+
+#: ../index.html:133(a)
+msgid "한국어"
+msgstr "한국어"
+
+#: ../index.html:134(a)
+msgid "Polski"
+msgstr "Polski"
+
+#: ../index.html:135(a)
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
+
+#: ../index.html:136(a)
+msgid "Română"
+msgstr "Română"
+
+#: ../index.html:137(a)
+msgid "Русский"
+msgstr "Русский"
+
+#: ../index.html:138(a)
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:139(a)
+msgid "Svenska"
+msgstr "Svenska"
+
+#: ../index.html:140(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:141(a)
+msgid "Uyghur"
+msgstr "Uyghur"
+
+#: ../index.html:142(a)
+msgid "Українська"
+msgstr "Українська"
+
+#: ../index.html:143(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:144(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:145(a)
+msgid "中文 (台灣)"
+msgstr "中文 (台灣)"
+
+#: ../index.html:117(div)
+msgid ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/"
+"> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> "
+"| <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-27/"
+"> | <placeholder-28/>"
+msgstr ""
+"<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+"<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
+"<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/"
+"> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> "
+"| <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-27/"
+"> | <placeholder-28/>"
+
+#. grid_12
+#: ../index.html:113(div)
+msgid ""
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
+"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/"
+"><placeholder-5/><br/> ❧"
+msgstr ""
+"Copyright © 2011 <placeholder-1/><br/> Zur freien Verteilung und "
+"Neugestaltung: <placeholder-2/><br/> Freigeben auf: <placeholder-3/> | "
+"<placeholder-4/><placeholder-5/><br/> ❧"
+
+#: ../faq.html:39(h2)
+msgid "How do I get GNOME 3?"
+msgstr "Wie bekomme ich GNOME 3?"
+
+#: ../faq.html:43(h2)
+msgid "What is the GNOME Project, anyway?"
+msgstr "Was ist das GNOME-Projekt überhaput?"
+
+#: ../faq.html:45(p)
+msgid ""
+"The GNOME Project is an international community which comes together to make "
+"great software. GNOME software is <a href=\"http://www.gnu.org/philosophy/"
+"free-sw.html\">Free Software</a>: all our work is free to use, modify and "
+"redistribute. Everyone is welcome to participate in its development. See <a "
+"href=\"http://www.gnome.org/about/\">the GNOME About page</a> for more "
+"information."
+msgstr ""
+"Das GNOME-Projekt ist eine internationale Gemeinschaft, die sich zusammen "
+"gefunden hat, um eine großartige Software zu schaffen. GNOME-Software ist <a "
+"href=\"http://www.gnu.org/philosophy/free-sw.html\">freie Software</a>. Das "
+"bedeutet, sie darf frei verwendet, verändert und weitergegeben werden. Jeder "
+"ist eingeladen, zur Entwicklung beizutragen. Besuchen Sie die<a href=\"http://"
+"www.gnome.org/about/\">Über-Uns-Seite</a> für weitere Informationen."
+
+#: ../faq.html:47(h2)
+msgid "Will my computer be able to run GNOME 3?"
+msgstr "Wird GNOME 3 auf meinem Rechner laufen?"
+
+# Ist zwar Quatsch, denn es ist keineswegs eine Frage des Alters, sondern des
+# Zusammenspiels von Clutter und Grafiktreiber. Aber so steht es nun mal hier …
+# Allzu viele Verschachtelungen (viele Kommas) möglichst vermeiden,
+# durch Umbau der Syntax.
+#: ../faq.html:49(p)
+msgid ""
+"Computers purchased in the last 4 or 5 years should be more than capable of "
+"running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
+"graphics in order to provide a cutting-edge experience however, and the "
+"complete GNOME 3 experience will only be available on computers capable of "
+"this. Do not worry though: GNOME 3 will come complete with a fallback "
+"interface which will provide an excellent experience in the absence of "
+"hardware acceleration, and which incorporates many of the improvements that "
+"can be found in GNOME 3. Furthermore, the GNOME project and its partners are "
+"working hard to ensure that the complete GNOME 3 experience is available to "
+"as many people as possible, and aim to ensure that users who are initially "
+"unable to have this experience will be able to in the future."
+msgstr ""
+"Rechner, die nicht älter als 4 bis 5 Jahre sind, sollten keine Probleme mit "
+"GNOME 3 haben. Die GNOME 3-Arbeitsumgebung benötigt eine hardware-"
+"beschleunigte Grafik, um ein erstklassiges Erlebnis zu bieten. Daher "
+"benötigen Sie einen Rechner, der diese Art von Grafik unterstützt, um GNOME 3 "
+"in vollen Zügen genießen zu können. Aber nicht verzagen: GNOME 3 ist mit "
+"einer hohen Flexibilität ausgestattetund ermöglicht Ihnen auch ohne Hardware-"
+"Beschleunigung exzellentes Arbeiten. Diese Flexibilität vereinigt viele "
+"Verbesserungen, die GNOME 3 zu dem machen, was es ist. Desweiteren arbeiten "
+"wir, das GNOME-Projekt und unsere Partner, sehr hart daran, GNOME 3 für so "
+"viele Menschen wie möglich zur Verfügung zu stellen und möchten auch in "
+"Zukunft davon Menschen überzeugen, denen es bisher nicht vergönnt war, GNOME "
+"zu genießen."
+
+#: ../faq.html:51(h2)
+msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
+msgstr ""
+"Kann ich meine Lieblings-GNOME-Anwendungen auch unter GNOME 3 verwenden?"
+
+#: ../faq.html:53(p)
+msgid ""
+"Yes! Existing GNOME applications will work just fine in GNOME 3. GNOME 3 does "
+"provide facilities to make applications even better though, so look out for "
+"new and improved GNOME 3 versions of those trusty apps you've learnt to love."
+msgstr ""
+"Ja! Alle GNOME-Anwendungen laufen auch unter GNOME 3. Desweiteren bietet "
+"GNOME 3 Möglichkeiten, Programme noch besser zu machen. Sein Sie gespannt auf "
+"die neuen GNOME 3-Versionen altbewährter und gewohnter Anwendungen."
+
+#: ../faq.html:56(h2)
+msgid "What will happen to the old version of GNOME?"
+msgstr "Was passiert mit der alten Version von GNOME?"
+
+#: ../faq.html:58(p)
+msgid ""
+"The GNOME 2 desktop had a long life, and parts of it became difficult to "
+"maintain over that period. As a result, continued releases of the entire "
+"GNOME 2 desktop was never a practical option for the GNOME Project, and "
+"several parts of the old GNOME 2 desktop will not receive new releases after "
+"GNOME 3 is released. The traditional GNOME 2 desktop will not disappear "
+"overnight, however: releases of GNOME 2 will continue to be supported by "
+"distributions for years to come."
+msgstr ""
+"Die GNOME 2-Arbeitsumgebung hatte ein wirklich langes Leben, obwohl es nicht "
+"immer leicht war, diese am Leben zu erhalten. Daher waren weitere "
+"Veröffentlichungen der GNOME 2-Arbeitsumgebung keine praktikable Lösung mehr "
+"für das GNOME-Projekt. Daher werden einige Teile der GNOME 2-Arbeitsumgebung "
+"nicht weiterentwickelt, nachdem GNOME 3 erschienen ist. Trotzdem wird die "
+"GNOME 2-Arbeitsumgebung nicht über Nacht verschwinden: Es werden weitere "
+"Veröffentlichungen folgen und von den jeweiligen Distributionen für die "
+"kommenden Jahre unterstützt."
+
+#: ../faq.html:63(h2)
+msgid "Why is the GNOME 3 desktop designed the way it is?"
+msgstr "Warum wurde der GNOME 3-Desktop so gestaltet?"
+
+#: ../faq.html:65(p)
+msgid ""
+"A huge amount of work has gone into the design of GNOME 3, and each of the "
+"design decisions behind it has a carefully considered rationale. If you have "
+"a specific question about one of these design decisions, try reading our <a "
+"href=\"http://live.gnome.org/GnomeShell/Design/FAQ\">answers to common GNOME "
+"3 design questions</a>. Alternatively, more extensive details about the "
+"design of the GNOME 3 desktop can be found on the <a href=\"http://live.gnome."
+"org/GnomeShell/Design/\">GNOME 3 desktop design wiki page</a>."
+msgstr ""
+"Jede Menge Arbeit steckt im Design von GNOME 3 und jede Entscheidung wurde "
+"sorgfältig getroffen. Falls Sie spezielle Fragen bezüglich des Designs haben, "
+"lesen Sie bitte die <a href=\"http://live.gnome.org/GnomeShell/Design/FAQ"
+"\">häufig gestellten Fragen zum Design</a>. Andernfalls können Sie weitere "
+"Details auf der <a href=\"http://live.gnome.org/GnomeShell/Design/\">Wiki-"
+"Seite zum Design der GNOME 3-Arbeitsumgebung</a> nachlesen."
+
+#: ../faq.html:67(h2)
+msgid "What are GNOME's plans after GNOME 3 is released?"
+msgstr "Was sind die Pläne des GNOME-Projektes, nachdem GNOME 3 erschienen ist?"
+
+# Ich denke, dass wir »framework« als solches belassen sollten.
+#: ../faq.html:69(p)
+msgid ""
+"We are going to have a huge party to celebrate the release, and then we're "
+"going to get back to work improving our desktop, so that GNOME 3 will get "
+"better and better with subsequent releases. We have lots of plans for new "
+"features which will make GNOME even easier and more satisfying to use, such "
+"as document search and an exciting new desktop extensions framework."
+msgstr ""
+"Wir werden die Veröffentlichung von GNOME 3 gebührend feiern und danach "
+"sofort wieder an die Arbeit gehen, um unsere Arbeitsumgebung durch "
+"nachfolgende Veröffentlichungen noch weiter zu verbessern. Wir haben viele "
+"Pläne, GNOME noch einfacher, besser und überzeugender zu machen, zum Beispiel "
+"durch eine Dokumenten-Suche und einem neuen Framework für Erweiterungen der "
+"Arbeitsumgebung."
+
+#: ../faq.html:71(h2)
+msgid "How can I get involved or help with GNOME 3?"
+msgstr "Wie kann ich mich beteiligen oder GNOME 3 helfen?"
+
+#: ../faq.html:73(p)
+msgid ""
+"Spreading the word about GNOME 3 is a great way to help out. A positive "
+"tweet, dent, status update or post is always appreciated. You can also join "
+"our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</a> or "
+"become a <a href=\"http://www.gnome.org/friends/\">Friend of GNOME</a>. "
+"Additionally, you can help out with one of the many varied tasks involved in "
+"producing GNOME. Just check out our <a href=\"http://live.gnome.org/JoinGnome"
+"\">contribution page</a> for more details."
+msgstr ""
+"GNOME 3 weiterempfehlen ist ein guter Weg, uns zu helfen! Ein positiver "
+"Tweet, ein Status-Update oder ein Eintrag auf Ihrer Webseite wird immer gern "
+"gesehen. Ebenso sind Sie herzlich eingeladen, unserer <a href=\"http://www."
+"facebook.com/GNOMEDesktop\">Facebook-Gruppe</a> beizutreten oder ein <a href="
+"\"http://www.gnome.org/friends/\">GNOME-Freund</a> zu werden. Außerdem können "
+"Sie uns helfen, indem Sie sich an einem unserer vielen Projekte beteiligen. "
+"Besuchen Sie einfach unsere <a href=\"http://live.gnome.org/JoinGnome"
+"\">»Mitmach«-Seite</a> für weiterführende Informationen."
+
+#: ../faq.html:75(h2)
+msgid "I want to write about GNOME 3. How do I get more information?"
+msgstr "Ich möchte über GNOME 3 berichten. Wie bekomme ich mehr Informationen?"
+
+#: ../faq.html:77(p)
+msgid ""
+"Further information about the release can be found on the <a href=\"http://"
+"live.gnome.org/ThreePointZero\">GNOME 3 wiki page</a>. Press queries should "
+"be sent to <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
+"contact@gnome.org</a>."
+msgstr ""
+"Weitere Informationen über die Veröffentlichung finden Sie auf der <a href="
+"\"http://live.gnome.org/ThreePointZero\">GNOME 3 Wiki-Seite</a>. "
+"Presseanfragen können an <a href=\"mailto:gnome-press-contact@gnome.org"
+"\">gnome-press-contact@gnome.org</a> gerichtet werden."
