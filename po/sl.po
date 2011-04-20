@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-15 17:55+0000\n"
-"PO-Revision-Date: 2011-04-16 13:52+0100\n"
+"POT-Creation-Date: 2011-04-20 13:33+0000\n"
+"PO-Revision-Date: 2011-04-20 18:01+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "Language: \n"
@@ -659,111 +659,119 @@ msgstr "Preberite opombe k izdaji GNOME 3.0"
 
 #: ../index.html:118(span)
 msgid "This website is available in many languages:"
-msgstr "Spletišče je na voljo tudi v:"
+msgstr "Jezik:"
 
 #: ../index.html:119(a)
 msgid "English"
-msgstr "angleščini"
+msgstr "English"
 
 #: ../index.html:120(a)
 msgid "Afrikaans"
-msgstr "afriščini"
+msgstr "Afrikaans"
 
 #: ../index.html:121(a)
 msgid "العربية"
-msgstr "arabščini"
+msgstr "العربية"
 
 #: ../index.html:122(a)
-msgid "Čeština"
-msgstr "češčini"
+msgid "Català"
+msgstr "Català"
 
 #: ../index.html:123(a)
-msgid "Ελληνικά"
-msgstr "grščini"
+msgid "Čeština"
+msgstr "Čeština"
 
 #: ../index.html:124(a)
-msgid "Español"
-msgstr "španščini"
+msgid "Ελληνικά"
+msgstr "Ελληνικά"
 
 #: ../index.html:125(a)
-msgid "Persian"
-msgstr "perzijščini"
+msgid "Español"
+msgstr "Español"
 
 #: ../index.html:126(a)
-msgid "Français"
-msgstr "francoščini"
+msgid "Persian"
+msgstr "Persian"
 
 #: ../index.html:127(a)
-msgid "Galego"
-msgstr "galščini"
+msgid "Français"
+msgstr "Français"
 
 #: ../index.html:128(a)
-msgid "Italiano"
-msgstr "italijanščini"
+msgid "Galego"
+msgstr "Galego"
 
 #: ../index.html:129(a)
-msgid "日本語"
-msgstr "japonščini"
+msgid "Italiano"
+msgstr "Italiano"
 
 #: ../index.html:130(a)
-msgid "Latvian"
-msgstr "latvijščini"
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
 
 #: ../index.html:131(a)
-msgid "한국어"
-msgstr "korejščini"
+msgid "日本語"
+msgstr "日本語"
 
 #: ../index.html:132(a)
-msgid "Polski"
-msgstr "poljščini"
+msgid "Latvian"
+msgstr "Latvian"
 
 #: ../index.html:133(a)
-msgid "Português do Brasil"
-msgstr "brazilski portugalščini"
+msgid "한국어"
+msgstr "한국어"
 
 #: ../index.html:134(a)
-msgid "Română"
-msgstr "romunščini"
+msgid "Polski"
+msgstr "Polski"
 
 #: ../index.html:135(a)
-msgid "Русский"
-msgstr "ruščini"
+msgid "Português do Brasil"
+msgstr "Português do Brasil"
 
 #: ../index.html:136(a)
-msgid "Slovenščina"
-msgstr "slovenščini"
+msgid "Română"
+msgstr "Română"
 
 #: ../index.html:137(a)
-msgid "Svenska"
-msgstr "švedščini"
+msgid "Русский"
+msgstr "Русский"
 
 #: ../index.html:138(a)
-msgid "Turkish"
-msgstr "turščini"
+msgid "Slovenščina"
+msgstr "Slovenščina"
 
 #: ../index.html:139(a)
-msgid "Uyghur"
-msgstr "ujgurščini"
+msgid "Svenska"
+msgstr "Svenska"
 
 #: ../index.html:140(a)
-msgid "Українська"
-msgstr "ukrajinščini"
+msgid "Turkish"
+msgstr "Turkish"
 
 #: ../index.html:141(a)
-msgid "中文 (中国大陆)"
-msgstr "kitajščini"
+msgid "Uyghur"
+msgstr "Uyghur"
 
 #: ../index.html:142(a)
-msgid "中文 (香港)"
-msgstr "hongkonški kitajščini"
+msgid "Українська"
+msgstr "Українська"
 
 #: ../index.html:143(a)
+msgid "中文 (中国大陆)"
+msgstr "中文 (中国大陆)"
+
+#: ../index.html:144(a)
+msgid "中文 (香港)"
+msgstr "中文 (香港)"
+
+#: ../index.html:145(a)
 msgid "中文 (台灣)"
-msgstr "tajvanski kitajščini"
+msgstr "中文 (台灣)"
 
 #: ../index.html:117(div)
-msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
-msgstr "<placeholder-1/><placeholder-2/>, <placeholder-3/>, <placeholder-4/>, <placeholder-5/>, <placeholder-6/>, <placeholder-7/>, <placeholder-8/>, <placeholder-9/>, <placeholder-10/>, <placeholder-11/>, <placeholder-12/>, <placeholder-13/>, <placeholder-14/>, <placeholder-15/>, <placeholder-16/>, <placeholder-17/>, <placeholder-18/>, <placeholder-19/>, <placeholder-20/>, <placeholder-21/>, <placeholder-22/>, <placeholder-23/>, <placeholder-24/>, <placeholder-25/> in <placeholder-26/>"
+msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-27/> | <placeholder-28/>"
+msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-27/> | <placeholder-28/>"
 
 #. grid_12
 #: ../index.html:113(div)
