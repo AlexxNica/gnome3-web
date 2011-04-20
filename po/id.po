@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-13 21:48+0000\n"
-"PO-Revision-Date: 2011-04-14 05:22+0700\n"
+"POT-Creation-Date: 2011-04-14 19:26+0000\n"
+"PO-Revision-Date: 2011-04-20 10:48+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,6 @@ msgstr "Pesta peluncuran"
 
 #: ../tryit.html:22(div) ../parties.html:208(div) ../index.html:28(div)
 #: ../faq.html:22(div)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation desktop has arrived"
 msgstr "Desktop generasi berikutnya telah tiba"
 
@@ -66,12 +65,10 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 berbasis <placeholder-1/>"
 
 #: ../tryit.html:43(a)
-#| msgid "Download for 32 bit systems (v0.2.0)"
 msgid "Download for 32 bit systems (v1.0.0)"
 msgstr "Unduh bagi sistem 32 bit (v1.0.0)"
 
 #: ../tryit.html:45(a)
-#| msgid "Download for 64 bit systems (v0.2.0)"
 msgid "Download for 64 bit systems (v1.0.0)"
 msgstr "Unduh bagi sistem 64 bit (v1.0.0)"
 
@@ -80,17 +77,14 @@ msgid "Fedora"
 msgstr "Fedora"
 
 #: ../tryit.html:51(a)
-#| msgid "Download for 32 bit systems (v0.2.0)"
 msgid "Download for 32 bit systems (2011-04-05)"
 msgstr "Unduh bagi sistem 32 bit (2011-04-05)"
 
 #: ../tryit.html:57(p)
-#| msgid "The user name for the live image is 'tux' and the password is empty."
 msgid "The user name for the openSUSE live image is 'tux' and the password is empty."
 msgstr "Nama pengguna bagi image live openSUSE adalah 'tux' dan sandinya kosong."
 
 #: ../tryit.html:58(p)
-#| msgid "The user name for the live image is 'tux' and the password is empty."
 msgid "The user name for the Fedora live image is 'liveuser' and the password is empty."
 msgstr "Nama pengguna bagi image live Fedora adalah 'liveuser' dan sandinya kosong."
 
@@ -127,9 +121,6 @@ msgid "Download USB image writer"
 msgstr "Unduh penulis image USB"
 
 #: ../tryit.html:64(div)
-#| msgid ""
-#| "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: <placeholder-"
-#| "2/><placeholder-3/><br/><placeholder-4/>"
 msgid "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/><placeholder-3/><br/>"
 msgstr "<placeholder-1/> Untuk menjalankan GNOME 3 dari flash USB: <placeholder-2/><placeholder-3/><br/>"
 
@@ -523,14 +514,10 @@ msgid "For this unique occasion over a hundred people around the globe are organ
 msgstr "Untuk peristiwa unik ini lebih dari seratus orang di seluruh dunia mengorganisir <strong>Pesta rilis</strong>. Anda mungkin ingin melihat peta di sisi kiri dan memeriksa apakah ada pesta di daerah Anda. <br/><br/>Karena tanggal pesta berbeda-beda berdasarkan kenyamanan penyelenggara maka kunjungilah laman pesta dan lihathan apakah pesta telah dilaksanakan atau belum. Bila Anda ketinggalan, tak ada kata terlambat untuk merayakan GNOME 3 dengan beberapa teman dan berbagi kegairahan Anda tentang rilis baru ini. <br/><br/>Dan bila Anda tinggal jauh dari siapapun, kunjungi saja kanal IRC GNOME di Gimpnet dan berpestalah bersama kami!"
 
 #: ../parties.html:233(div)
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
-#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
 msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Dibagikan di: <placeholder-2/> | <placeholder-3/><br/> ❧"
 
 #: ../index.html:38(h1)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation GNOME desktop has arrived"
 msgstr "Desktop GNOME generasi berikutnya telah hadir"
 
@@ -644,7 +631,7 @@ msgstr "Situs web ini tersedia dalam banyak bahasa:"
 
 #: ../index.html:119(a)
 msgid "English"
-msgstr "Inggris"
+msgstr "English"
 
 #: ../index.html:120(a)
 msgid "Afrikaans"
@@ -652,7 +639,7 @@ msgstr "Afrikaans"
 
 #: ../index.html:121(a)
 msgid "العربية"
-msgstr "Arab"
+msgstr "العربية"
 
 #: ../index.html:122(a)
 msgid "Čeština"
@@ -660,19 +647,19 @@ msgstr "Čeština"
 
 #: ../index.html:123(a)
 msgid "Ελληνικά"
-msgstr "Yunani"
+msgstr "Ελληνικά"
 
 #: ../index.html:124(a)
 msgid "Español"
-msgstr "Spanyol"
+msgstr "Español"
 
 #: ../index.html:125(a)
 msgid "Persian"
-msgstr "Persia"
+msgstr "Persian"
 
 #: ../index.html:126(a)
 msgid "Français"
-msgstr "Perancis"
+msgstr "Français"
 
 #: ../index.html:127(a)
 msgid "Galego"
@@ -680,79 +667,82 @@ msgstr "Galego"
 
 #: ../index.html:128(a)
 msgid "Italiano"
-msgstr "Italia"
+msgstr "Italiano"
 
 #: ../index.html:129(a)
-#, fuzzy
 msgid "日本語"
 msgstr "日本語"
 
 #: ../index.html:130(a)
 msgid "Latvian"
-msgstr "Latvia"
+msgstr "Latvian"
 
 #: ../index.html:131(a)
 msgid "한국어"
-msgstr "Korea"
+msgstr "한국어"
 
 #: ../index.html:132(a)
 msgid "Polski"
-msgstr "Polandia"
+msgstr "Polski"
 
 #: ../index.html:133(a)
 msgid "Português do Brasil"
-msgstr "Portugis Brasil"
+msgstr "Português do Brasil"
 
 #: ../index.html:134(a)
 msgid "Română"
-msgstr "Rumania"
+msgstr "Română"
 
 #: ../index.html:135(a)
-msgid "Slovenščina"
-msgstr "Slovakia"
+msgid "Русский"
+msgstr "Русский"
 
 #: ../index.html:136(a)
-#, fuzzy
+msgid "Slovenščina"
+msgstr "Slovenščina"
+
+#: ../index.html:137(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:137(a)
-msgid "Turkish"
-msgstr "Turki"
-
 #: ../index.html:138(a)
+msgid "Turkish"
+msgstr "Turkish"
+
+#: ../index.html:139(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:139(a)
-#, fuzzy
+#: ../index.html:140(a)
 msgid "Українська"
 msgstr "Українська"
 
-#: ../index.html:140(a)
-#, fuzzy
+#: ../index.html:141(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:141(a)
-#, fuzzy
+#: ../index.html:142(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:142(a)
-#, fuzzy
+#: ../index.html:143(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
 #: ../index.html:117(div)
-msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
-msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
+#| msgid ""
+#| "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
+#| "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> "
+#| "| <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-"
+#| "12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
+#| "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-"
+#| "19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
+#| "<placeholder-23/> | <placeholder-24/> | <placeholder-25/>"
+msgid "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
+msgstr "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | <placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> | <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
 
 #. grid_12
 #: ../index.html:113(div)
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
-#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgid "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 msgstr "Hak Cipta © 2011 <placeholder-1/><br/> Bebas untuk dibagikan dan diremix: <placeholder-2/><br/> Dibagikan di: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 
