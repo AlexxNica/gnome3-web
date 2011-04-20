@@ -137,3 +137,5 @@
 3.8614473019595, 11.519165038607, "PROTEGE QV", "Visit our Launch Party page here", http://gnomecameroon.wikidot.com/
 -1.295313521399, 36.786346434071, "Henry Addo", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/Kenya/Nairobi
 -25.75574206863, 28.195724486137, "Karl Fischer", "Visit our Launch Party page here", https://live.gnome.org/ThreePointZero/LaunchParty/SouthAfrica/Pretoria
+10.132930714645, -64.692134854596, "Javier Gallucci", "Visit our Launch Party page here", http://cuslanz.org.ve/
+37.763927608494, -122.41883038982, "The guys @ Yorba and Dave Neary", "Visit our Launch Party page here", http://yorba.org/about/
