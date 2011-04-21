@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-14 19:26+0000\n"
-"PO-Revision-Date: 2011-04-16 18:52+0200\n"
+"POT-Creation-Date: 2011-04-20 06:48+0000\n"
+"PO-Revision-Date: 2011-04-21 09:30+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: Czech <gnome-cs-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -379,6 +379,183 @@ msgid ""
 "}\n"
 "//]]>"
 msgstr ""
+"//<![CDATA[\n"
+"var map;\n"
+"var markers;\n"
+"var selectControl;\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parse the markers data text file.\n"
+"//-------------------------------------------------------------------------\n"
+"function recursiveParsing(line) {\n"
+"  function state0Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == ',')\n"
+"                ? loop(rest, cumulated.concat(buffer), \"\", false, 0)\n"
+"                : (character == '\\\"') ? loop(rest,cumulated,buffer,false, "
+"1)\n"
+"                : loop(rest,cumulated, buffer+character, false, 0)\n"
+"\n"
+"  }\n"
+"  function state1Loop(line, cumulated, buffer, escaping) {\n"
+"        return (character = line.substring(0,1)) &&\n"
+"               (rest = line.substring(1)) &&\n"
+"               (character == '\\\\')\n"
+"                ? escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false, 1)\n"
+"                : loop(rest, cumulated, buffer, true, 1)\n"
+"                : escaping\n"
+"                ? loop(rest, cumulated, buffer+character, false,1)\n"
+"                : (character == '\\\"')\n"
+"                ? loop(rest, cumulated, buffer, false, 0)\n"
+"                : loop(rest, cumulated, buffer+character, false, 1)\n"
+"  }\n"
+"  function loop(line, cumulated, buffer, escaping, state) {\n"
+"    return (line == \"\")\n"
+"    ? (buffer == \"\")\n"
+"      ? cumulated\n"
+"      : cumulated.concat(buffer)\n"
+"    : (state == 0)\n"
+"      ? state0Loop(line,cumulated, buffer, escaping)\n"
+"      :(state == 1)\n"
+"      ? state1Loop(line, cumulated, buffer, escaping)\n"
+"      : null\n"
+"  }\n"
+"  return loop(line, [], \"\", false, 0)\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"//-------------------------------------------------------------------------\n"
+"function makeHttpObject() {\n"
+"    try {return new XMLHttpRequest();}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Msxml2.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"    try {return new ActiveXObject(\"Microsoft.XMLHTTP\");}\n"
+"    catch (error) {}\n"
+"\n"
+"    throw new Error(\"Could not create HTTP request object.\");\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Display popup on marker selection.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureSelect(feature) {\n"
+"    feature.popup = new OpenLayers.Popup.FramedCloud(\"popup\",\n"
+"        feature.geometry.getBounds().getCenterLonLat(),\n"
+"        null,\n"
+"        feature.attributes.text,\n"
+"        null,\n"
+"        true,\n"
+"        null\n"
+"    );\n"
+"    //    function() { selectControl.unselectAll(); }\n"
+"    map.addPopup(feature.popup);\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Hide popup on marker unselect.\n"
+"//-------------------------------------------------------------------------\n"
+"function onFeatureUnselect(feature) {\n"
+"    feature.popup.destroy();\n"
+"    feature.popup = null;\n"
+"}\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Initialize the map and load markers.\n"
+"//-------------------------------------------------------------------------\n"
+"function init() {\n"
+"    map = new OpenLayers.Map({\n"
+"        div: \"map\",\n"
+"        controls: [\n"
+"          new OpenLayers.Control.Navigation(),\n"
+"          new OpenLayers.Control.PanZoomBar(),\n"
+"          new OpenLayers.Control.LayerSwitcher(),\n"
+"          new OpenLayers.Control.KeyboardDefaults(),\n"
+"          new OpenLayers.Control.Attribution()\n"
+"        ],\n"
+"        projection: new OpenLayers.Projection(\"EPSG:900913\"),\n"
+"        displayProjection: new OpenLayers.Projection(\"EPSG:4326\"),\n"
+"        units: \"m\",\n"
+"        maxResolution: 156543.0339,\n"
+"        numZoomLevels: 20,\n"
+"    });\n"
+"\n"
+"    // Warning: wrapDateLine does not work as expected.\n"
+"    //var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\", "
+"{wrapDateLine: true, displayOutsideMaxExtent: true});\n"
+"    var mapnik = new OpenLayers.Layer.OSM.Mapnik(\"Mapnik\");\n"
+"    var osmarender = new OpenLayers.Layer.OSM.Osmarender(\"Osmarender\");\n"
+"    map.addLayers([mapnik, osmarender]);\n"
+"\n"
+"    if (typeof(google) != 'undefined') {\n"
+"        var gmap = new OpenLayers.Layer.Google(\"Google Streets\");\n"
+"        map.addLayers([gmap]);\n"
+"    }\n"
+"\n"
+"//-------------------------------------------------------------------------\n"
+"// Parameters to change for the map starting point: LonLat(x,y) is center "
+"point and map.setCenter(lonlat, z) is zoom level\n"
+"//-------------------------------------------------------------------------\n"
+"    var lonLat = new OpenLayers.LonLat(14, 30).transform(map."
+"displayProjection, map.projection);\n"
+"    map.setCenter (lonLat, 2);\n"
+"\n"
+"    markers = new OpenLayers.Layer.Vector(\"GNOME Release Parties\", {\n"
+"        styleMap: new OpenLayers.StyleMap({\n"
+"            externalGraphic: \"osm/marker.png\",\n"
+"            backgroundGraphic: \"osm/marker_shadow.png\",\n"
+"            graphicXOffset: -10,\n"
+"            graphicYOffset: -34,\n"
+"            backgroundXOffset: 0,\n"
+"            backgroundYOffset: -34,\n"
+"            graphicZIndex: 11,\n"
+"            backgroundGraphicZIndex: 10,\n"
+"            pointRadius: 17\n"
+"        }),\n"
+"        rendererOptions: {yOrdering: true}\n"
+"    });\n"
+"\n"
+"    map.addLayer(markers);\n"
+"\n"
+"    // Activate control functions on marker select.\n"
+"    selectControl = new OpenLayers.Control.SelectFeature(markers, {\n"
+"        onSelect: onFeatureSelect,\n"
+"        onUnselect: onFeatureUnselect\n"
+"    });\n"
+"    map.addControl(selectControl);\n"
+"    selectControl.activate();\n"
+"\n"
+"    // Get the map marker data from the server\n"
+"    var features = [];\n"
+"    var request = makeHttpObject();\n"
+"    request.open(\"GET\", \"osm/coords.txt\", true);\n"
+"    request.send(null);\n"
+"    request.onreadystatechange = function() {\n"
+"        if (request.readyState == 4) {\n"
+"            var lines = request.responseText.split('\\n');\n"
+"            // add the points\n"
+"            for (var i = 0, len = lines.length; i < len; ++i) {\n"
+"                var teamData = recursiveParsing(lines[i]);\n"
+"                if (isFinite(teamData[0]) && isFinite(teamData[1])) {\n"
+"                    var lonLat = new OpenLayers.LonLat(teamData[1], teamData"
+"[0]).transform(map.displayProjection, map.projection);\n"
+"                    var popupContentHTML = \"<a href=\\\"\" + teamData[4] + "
+"\"\\\" target=\\\"_blank\\\" >\" + teamData[3] + \"</a><br /><p style=\\"
+"\"font-size: 75%\\\">Contact: \" + teamData[2] + \"</p>\";\n"
+"                    features.push(new OpenLayers.Feature.Vector(\n"
+"                        new OpenLayers.Geometry.Point(lonLat.lon, lonLat."
+"lat),\n"
+"                        { text: popupContentHTML }\n"
+"                    ));\n"
+"                }\n"
+"            }\n"
+"            markers.addFeatures(features);\n"
+"        }\n"
+"    }\n"
+"}\n"
+"//]]>"
 
 #: ../parties.html:220(b)
 msgid ""
@@ -422,9 +599,6 @@ msgstr ""
 "GNOME na síti Gimpnet a udělejte si párty s námi."
 
 #: ../parties.html:233(div)
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
-#| "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -628,90 +802,98 @@ msgid "العربية"
 msgstr "العربية"
 
 #: ../index.html:122(a)
+msgid "Català"
+msgstr "Català"
+
+#: ../index.html:123(a)
 msgid "Čeština"
 msgstr "Čeština"
 
-#: ../index.html:123(a)
+#: ../index.html:124(a)
 msgid "Ελληνικά"
 msgstr "Ελληνικά"
 
-#: ../index.html:124(a)
+#: ../index.html:125(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:125(a)
+#: ../index.html:126(a)
 msgid "Persian"
 msgstr "Persian"
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Français"
 msgstr "Français"
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "Galego"
 msgstr "Galego"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
+
+#: ../index.html:131(a)
 msgid "日本語"
 msgstr "日本語"
 
-#: ../index.html:130(a)
+#: ../index.html:132(a)
 msgid "Latvian"
 msgstr "Latvian"
 
-#: ../index.html:131(a)
+#: ../index.html:133(a)
 msgid "한국어"
 msgstr "한국어"
 
-#: ../index.html:132(a)
+#: ../index.html:134(a)
 msgid "Polski"
 msgstr "Polski"
 
-#: ../index.html:133(a)
+#: ../index.html:135(a)
 msgid "Português do Brasil"
 msgstr "Português do Brasil"
 
-#: ../index.html:134(a)
+#: ../index.html:136(a)
 msgid "Română"
 msgstr "Română"
 
-#: ../index.html:135(a)
+#: ../index.html:137(a)
 msgid "Русский"
 msgstr "Русский"
 
-#: ../index.html:136(a)
+#: ../index.html:138(a)
 msgid "Slovenščina"
 msgstr "Slovenščina"
 
-#: ../index.html:137(a)
+#: ../index.html:139(a)
 msgid "Svenska"
 msgstr "Svenska"
 
-#: ../index.html:138(a)
+#: ../index.html:140(a)
 msgid "Turkish"
 msgstr "Turkish"
 
-#: ../index.html:139(a)
+#: ../index.html:141(a)
 msgid "Uyghur"
 msgstr "Uyghur"
 
-#: ../index.html:140(a)
+#: ../index.html:142(a)
 msgid "Українська"
 msgstr "Українська"
 
-#: ../index.html:141(a)
+#: ../index.html:143(a)
 msgid "中文 (中国大陆)"
 msgstr "中文 (中国大陆)"
 
-#: ../index.html:142(a)
+#: ../index.html:144(a)
 msgid "中文 (香港)"
 msgstr "中文 (香港)"
 
-#: ../index.html:143(a)
+#: ../index.html:145(a)
 msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
@@ -724,7 +906,7 @@ msgstr "中文 (台灣)"
 #| "<placeholder-15/> | <placeholder-16/> | <placeholder-17/> | "
 #| "<placeholder-18/> | <placeholder-19/> | <placeholder-20/> | "
 #| "<placeholder-21/> | <placeholder-22/> | <placeholder-23/> | "
-#| "<placeholder-24/> | <placeholder-25/>"
+#| "<placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -732,7 +914,8 @@ msgid ""
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
 "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
 "> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
-"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
+"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
+"> | <placeholder-27/> | <placeholder-28/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -740,7 +923,8 @@ msgstr ""
 "| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
 "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
 "> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
-"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
+"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
+"> | <placeholder-27/> | <placeholder-28/>"
 
 #. grid_12
 #: ../index.html:113(div)
