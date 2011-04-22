@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web\n"
-"POT-Creation-Date: 2011-04-20 06:48+0000\n"
-"PO-Revision-Date: 2011-04-20 10:25+0200\n"
+"POT-Creation-Date: 2011-04-22 20:31+0000\n"
+"PO-Revision-Date: 2011-04-22 23:17+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "MIME-Version: 1.0\n"
@@ -76,12 +76,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 oparte na <placeholder-1/>"
 
 #: ../tryit.html:43(a)
-msgid "Download for 32 bit systems (v1.0.0)"
-msgstr "Pobierz dla komputerów 32 bitowych (v1.0.0)"
+msgid "Download for 32 bit systems (v1.1.0)"
+msgstr "Pobierz dla komputerów 32 bitowych (v1.1.0)"
 
 #: ../tryit.html:45(a)
-msgid "Download for 64 bit systems (v1.0.0)"
-msgstr "Pobierz dla komputerów 64 bitowych (v1.0.0)"
+msgid "Download for 64 bit systems (v1.1.0)"
+msgstr "Pobierz dla komputerów 64 bitowych (v1.1.0)"
 
 #: ../tryit.html:49(a)
 msgid "Fedora"
@@ -445,90 +445,94 @@ msgid "Čeština"
 msgstr "czeski"
 
 #: ../index.html:124(a)
+msgid "Deutsch"
+msgstr "niemiecki"
+
+#: ../index.html:125(a)
 msgid "Ελληνικά"
 msgstr "grecki"
 
-#: ../index.html:125(a)
+#: ../index.html:126(a)
 msgid "Español"
 msgstr "hiszpański"
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Persian"
 msgstr "perski"
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "Français"
 msgstr "francuski"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "Galego"
 msgstr "galicyjski"
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
 msgid "Italiano"
 msgstr "włoski"
 
-#: ../index.html:130(a)
+#: ../index.html:131(a)
 msgid "Bahasa Indonesia"
 msgstr "indonezyjski"
 
-#: ../index.html:131(a)
+#: ../index.html:132(a)
 msgid "日本語"
 msgstr "japoński"
 
-#: ../index.html:132(a)
+#: ../index.html:133(a)
 msgid "Latvian"
 msgstr "łotewski"
 
-#: ../index.html:133(a)
+#: ../index.html:134(a)
 msgid "한국어"
 msgstr "koreański"
 
-#: ../index.html:134(a)
+#: ../index.html:135(a)
 msgid "Polski"
 msgstr "polski"
 
-#: ../index.html:135(a)
+#: ../index.html:136(a)
 msgid "Português do Brasil"
 msgstr "portugalski brazylijski"
 
-#: ../index.html:136(a)
+#: ../index.html:137(a)
 msgid "Română"
 msgstr "rumuński"
 
-#: ../index.html:137(a)
+#: ../index.html:138(a)
 msgid "Русский"
 msgstr "rosyjski"
 
-#: ../index.html:138(a)
+#: ../index.html:139(a)
 msgid "Slovenščina"
 msgstr "słowacki"
 
-#: ../index.html:139(a)
+#: ../index.html:140(a)
 msgid "Svenska"
 msgstr "szwedzki"
 
-#: ../index.html:140(a)
+#: ../index.html:141(a)
 msgid "Turkish"
 msgstr "turecki"
 
-#: ../index.html:141(a)
+#: ../index.html:142(a)
 msgid "Uyghur"
 msgstr "ujgurski"
 
-#: ../index.html:142(a)
+#: ../index.html:143(a)
 msgid "Українська"
 msgstr "ukraiński"
 
-#: ../index.html:143(a)
+#: ../index.html:144(a)
 msgid "中文 (中国大陆)"
 msgstr "chiński uproszczony"
 
-#: ../index.html:144(a)
+#: ../index.html:145(a)
 msgid "中文 (香港)"
 msgstr "chiński tradycyjny (Hong Kong)"
 
-#: ../index.html:145(a)
+#: ../index.html:146(a)
 msgid "中文 (台灣)"
 msgstr "chiński tradycyjny (Tajwan)"
 
@@ -541,7 +545,7 @@ msgid ""
 "16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
 "<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
 "> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-"
-"27/> | <placeholder-28/>"
+"27/> | <placeholder-28/> | <placeholder-29/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -550,7 +554,7 @@ msgstr ""
 "16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
 "<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
 "> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-"
-"27/> | <placeholder-28/>"
+"27/> | <placeholder-28/> | <placeholder-29/>"
 
 #. grid_12
 #: ../index.html:113(div)
