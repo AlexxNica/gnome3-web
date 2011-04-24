@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-22 20:31+0000\n"
-"PO-Revision-Date: 2011-04-24 03:54+0300\n"
+"POT-Creation-Date: 2011-04-24 01:03+0000\n"
+"PO-Revision-Date: 2011-04-24 04:06+0300\n"
 "Last-Translator: Muhammet Kara <muhammet.k@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -71,12 +71,10 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "<placeholder-1/> tabanlı GNOME 3"
 
 #: ../tryit.html:43(a)
-#| msgid "Download for 32 bit systems (v1.0.0)"
 msgid "Download for 32 bit systems (v1.1.0)"
 msgstr "32 bit sistemler için İndirin (v1.1.0)"
 
 #: ../tryit.html:45(a)
-#| msgid "Download for 64 bit systems (v1.0.0)"
 msgid "Download for 64 bit systems (v1.1.0)"
 msgstr "64 bit sistemler için İndirin (v1.1.0)"
 
@@ -887,7 +885,7 @@ msgid "Svenska"
 msgstr "Svenska"
 
 #: ../index.html:141(a)
-msgid "Turkish"
+msgid "Türkçe"
 msgstr "Türkçe"
 
 #: ../index.html:142(a)
@@ -911,16 +909,6 @@ msgid "中文 (台灣)"
 msgstr "中文 (台灣)"
 
 #: ../index.html:117(div)
-#| msgid ""
-#| "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
-#| "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> "
-#| "| <placeholder-9/> | <placeholder-10/> | <placeholder-11/> | "
-#| "<placeholder-12/> | <placeholder-13/> | <placeholder-14/> | "
-#| "<placeholder-15/> | <placeholder-16/> | <placeholder-17/> | "
-#| "<placeholder-18/> | <placeholder-19/> | <placeholder-20/> | "
-#| "<placeholder-21/> | <placeholder-22/> | <placeholder-23/> | "
-#| "<placeholder-24/> | <placeholder-25/> | <placeholder-26/> | "
-#| "<placeholder-27/> | <placeholder-28/>"
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -1122,6 +1110,9 @@ msgstr ""
 "ThreePointZero\">GNOME 3 wiki sayfası</a>nda bulabilirsiniz. Basın "
 "sorularını <a href=\"mailto:gnome-press-contact@gnome.org\">gnome-press-"
 "contact@gnome.org</a> adresine gönderiniz."
+
+#~ msgid "Turkish"
+#~ msgstr "Türkçe"
 
 #~ msgid ""
 #~ "GNOME 3 is under active development and will not be completed until April "
