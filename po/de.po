@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-22 20:31+0000\n"
-"PO-Revision-Date: 2011-04-23 17:28+0100\n"
+"POT-Creation-Date: 2011-04-24 01:03+0000\n"
+"PO-Revision-Date: 2011-04-24 19:43+0100\n"
 "Last-Translator: Mario Blättermann <mariobl@freenet.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -904,8 +904,8 @@ msgid "Svenska"
 msgstr "Svenska"
 
 #: ../index.html:141(a)
-msgid "Turkish"
-msgstr "Turkish"
+msgid "Türkçe"
+msgstr "Türkçe"
 
 #: ../index.html:142(a)
 msgid "Uyghur"
@@ -1134,3 +1134,6 @@ msgstr ""
 "\"http://live.gnome.org/ThreePointZero\">GNOME 3 Wiki-Seite</a>. "
 "Presseanfragen können an <a href=\"mailto:gnome-press-contact@gnome.org"
 "\">gnome-press-contact@gnome.org</a> gerichtet werden."
+
+#~ msgid "Turkish"
+#~ msgstr "Turkish"
