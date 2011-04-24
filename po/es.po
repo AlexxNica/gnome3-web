@@ -1,15 +1,15 @@
 # Spanish translation for gnome3-web.
 # Copyright (C) 2011 gnome3-web's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome3-web package.
-# Jorge González <jorgegonz@svn.gnome.org>, 2011.
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011.
+# Jorge González <jorgegonz@svn.gnome.org>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-20 06:48+0000\n"
-"PO-Revision-Date: 2011-04-22 12:33+0200\n"
-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+"POT-Creation-Date: 2011-04-24 01:03+0000\n"
+"PO-Revision-Date: 2011-04-24 11:06+0200\n"
+"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -72,12 +72,14 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 basado en <placeholder-1/>"
 
 #: ../tryit.html:43(a)
-msgid "Download for 32 bit systems (v1.0.0)"
-msgstr "Descarga para sistemas de 32 bit (v1.0.0)"
+#| msgid "Download for 32 bit systems (v1.0.0)"
+msgid "Download for 32 bit systems (v1.1.0)"
+msgstr "Descarga para sistemas de 32 bit (v1.1.0)"
 
 #: ../tryit.html:45(a)
-msgid "Download for 64 bit systems (v1.0.0)"
-msgstr "Descarga para sistemas de 64 bit (v1.0.0)"
+#| msgid "Download for 64 bit systems (v1.0.0)"
+msgid "Download for 64 bit systems (v1.1.0)"
+msgstr "Descarga para sistemas de 64 bit (v1.1.0)"
 
 #: ../tryit.html:49(a)
 msgid "Fedora"
@@ -810,7 +812,7 @@ msgstr "Afrikaans"
 
 #: ../index.html:121(a)
 msgid "العربية"
-msgstr "العربية"
+msgstr "Árabe"
 
 #: ../index.html:122(a)
 msgid "Català"
@@ -821,92 +823,96 @@ msgid "Čeština"
 msgstr "Checo"
 
 #: ../index.html:124(a)
-msgid "Ελληνικά"
-msgstr "Ελληνικά"
+msgid "Deutsch"
+msgstr "Alemán"
 
 #: ../index.html:125(a)
+msgid "Ελληνικά"
+msgstr "Griego"
+
+#: ../index.html:126(a)
 msgid "Español"
 msgstr "Español"
 
-#: ../index.html:126(a)
+#: ../index.html:127(a)
 msgid "Persian"
 msgstr "Persa"
 
-#: ../index.html:127(a)
+#: ../index.html:128(a)
 msgid "Français"
 msgstr "Francés"
 
-#: ../index.html:128(a)
+#: ../index.html:129(a)
 msgid "Galego"
 msgstr "Gallego"
 
-#: ../index.html:129(a)
+#: ../index.html:130(a)
 msgid "Italiano"
 msgstr "Italiano"
 
-#: ../index.html:130(a)
+#: ../index.html:131(a)
 msgid "Bahasa Indonesia"
 msgstr "Indonesio"
 
-#: ../index.html:131(a)
-msgid "日本語"
-msgstr "日本語"
-
 #: ../index.html:132(a)
+msgid "日本語"
+msgstr "Japonés"
+
+#: ../index.html:133(a)
 msgid "Latvian"
 msgstr "Letón"
 
-#: ../index.html:133(a)
-msgid "한국어"
-msgstr "한국어"
-
 #: ../index.html:134(a)
+msgid "한국어"
+msgstr "Coreano"
+
+#: ../index.html:135(a)
 msgid "Polski"
 msgstr "Polaco"
 
-#: ../index.html:135(a)
+#: ../index.html:136(a)
 msgid "Português do Brasil"
 msgstr "Portugués de Brasil"
 
-#: ../index.html:136(a)
+#: ../index.html:137(a)
 msgid "Română"
 msgstr "Rumano"
 
-#: ../index.html:137(a)
+#: ../index.html:138(a)
 msgid "Русский"
 msgstr "Ruso"
 
-#: ../index.html:138(a)
+#: ../index.html:139(a)
 msgid "Slovenščina"
 msgstr "Esloveno"
 
-#: ../index.html:139(a)
+#: ../index.html:140(a)
 msgid "Svenska"
 msgstr "Sueco"
 
-#: ../index.html:140(a)
-msgid "Turkish"
+#: ../index.html:141(a)
+msgid "Türkçe"
 msgstr "Turco"
 
-#: ../index.html:141(a)
+#: ../index.html:142(a)
 msgid "Uyghur"
 msgstr "Uigur"
 
-#: ../index.html:142(a)
+#: ../index.html:143(a)
 msgid "Українська"
 msgstr "Ucraniano"
 
-#: ../index.html:143(a)
-msgid "中文 (中国大陆)"
-msgstr "中文 (中国大陆)"
-
 #: ../index.html:144(a)
-msgid "中文 (香港)"
-msgstr "中文 (香港)"
+msgid "中文 (中国大陆)"
+msgstr "Chino continental"
 
 #: ../index.html:145(a)
+msgid "中文 (香港)"
+msgstr "Chino de Hong Kong"
+
+#: ../index.html:146(a)
 msgid "中文 (台灣)"
-msgstr "中文 (台灣)"
+msgstr "Chino de Taiwán"
 
 #: ../index.html:117(div)
 #| msgid ""
@@ -917,7 +923,8 @@ msgstr "中文 (台灣)"
 #| "<placeholder-15/> | <placeholder-16/> | <placeholder-17/> | "
 #| "<placeholder-18/> | <placeholder-19/> | <placeholder-20/> | "
 #| "<placeholder-21/> | <placeholder-22/> | <placeholder-23/> | "
-#| "<placeholder-24/> | <placeholder-25/> | <placeholder-26/>"
+#| "<placeholder-24/> | <placeholder-25/> | <placeholder-26/> | "
+#| "<placeholder-27/> | <placeholder-28/>"
 msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -926,7 +933,7 @@ msgid ""
 "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
 "> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
 "<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
-"> | <placeholder-27/> | <placeholder-28/>"
+"> | <placeholder-27/> | <placeholder-28/> | <placeholder-29/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
@@ -935,7 +942,7 @@ msgstr ""
 "<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
 "> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
 "<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
-"> | <placeholder-27/> | <placeholder-28/>"
+"> | <placeholder-27/> | <placeholder-28/> | <placeholder-29/>"
 
 #. grid_12
 #: ../index.html:113(div)
@@ -1121,6 +1128,9 @@ msgstr ""
 "\"http://live.gnome.org/ThreePointZero\">wiki de GNOME 3</a>. Las consultas "
 "de prensa se deben enviar a <a href=\"mailto:gnome-press-contact@gnome.org"
 "\">gnome-press-contact@gnome.org</a>."
+
+#~ msgid "Turkish"
+#~ msgstr "Turco"
 
 #~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
 #~ msgstr "Impresionante publicación en <span id=\"countbox\"/>"
