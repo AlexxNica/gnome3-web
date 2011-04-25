@@ -15,6 +15,8 @@ do
     do
       echo "Writing $HTMLFILE.$LANG"
       xml2po -p $POFILE -m xhtml -o $HTMLFILE.$LANG $HTMLFILE
+      grep -q '<html lang="en"' $HTMLFILE.$LANG && \
+	sed -i -e "s/lang=\"en\"/lang=\"$LANG\"/" $HTMLFILE.$LANG
       grep -q '<script src' $HTMLFILE.$LANG && \
         sed -i -e 's/\(<script src.*\)/\1<\/script>/' $HTMLFILE.$LANG
       grep -q '<iframe' $HTMLFILE.$LANG && \
