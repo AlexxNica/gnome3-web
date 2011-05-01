@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web\n"
-"POT-Creation-Date: 2011-04-25 11:24+0000\n"
-"PO-Revision-Date: 2011-04-25 15:45+0200\n"
+"POT-Creation-Date: 2011-04-30 08:59+0000\n"
+"PO-Revision-Date: 2011-05-01 15:08+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <gnomepl@aviary.pl>\n"
 "MIME-Version: 1.0\n"
@@ -71,12 +71,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 oparte na <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.1.0)"
-msgstr "Pobierz dla komputerów 32 bitowych (v1.1.0)"
+msgid "Download for 32 bit systems (v1.2.0)"
+msgstr "Pobierz dla komputerów 32 bitowych (v1.2.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.1.0)"
-msgstr "Pobierz dla komputerów 64 bitowych (v1.1.0)"
+msgid "Download for 64 bit systems (v1.2.0)"
+msgstr "Pobierz dla komputerów 64 bitowych (v1.2.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
