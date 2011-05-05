@@ -7,14 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-27 20:35+0000\n"
-"PO-Revision-Date: 2011-04-28 20:58+0100\n"
+"POT-Creation-Date: 2011-05-02 07:56+0000\n"
+"PO-Revision-Date: 2011-05-05 14:18+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
@@ -35,7 +35,7 @@ msgid "Home"
 msgstr "Začetna stran"
 
 #. Alpha/Beta/New Banner
-#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:20(a)
 #: ../parties.html:206(a)
 #: ../index.html:26(a)
@@ -60,7 +60,7 @@ msgid "Launch parties"
 msgstr "Zabave ob izidu"
 
 #. Alpha/Beta/NEW Banner
-#.         <img class="alpha-banner" src="img/alpha-banner.png"/>
+#. <img class="alpha-banner" src="img/alpha-banner.png"/>
 #: ../tryit.html:30(h1)
 msgid "Try out GNOME 3"
 msgstr "Preizkusite GNOME 3"
@@ -81,12 +81,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 na sistemu <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.1.0)"
-msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v1.1.0)"
+msgid "Download for 32 bit systems (v1.2.0)"
+msgstr "Prejem datoteke odtisa za 32 bitne sisteme (v1.2.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.1.0)"
-msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v1.1.0)"
+msgid "Download for 64 bit systems (v1.2.0)"
+msgstr "Prejem datoteke odtisa za 64 bitne sisteme (v1.2.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
@@ -842,7 +842,7 @@ msgstr "Kaj GNOME pripravlja po izidu namizja GNOME3?"
 
 #: ../faq.html:62(p)
 msgid "The GNOME Project is already working hard on the next release of GNOME 3, which will be completed in September/October 2011. This next release will include general improvements to GNOME 3, as well as major new features."
-msgstr ""
+msgstr "Pri projektu GNOME že potekajo priprave na novi objavi namizja GNOME 3, ki bo končana predvidoma Septembra in Octobra 2011. Naslednja objava bo vključevala splošne izboljšave namizja in seveda veliko novih zmožnosti programske opreme."
 
 #: ../faq.html:64(h3)
 msgid "How can I get involved or help with GNOME 3?"
@@ -866,8 +866,10 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 
 #~ msgid "The next generation desktop has arrived"
 #~ msgstr "Namizje naslednje generacije je tu!"
+
 #~ msgid "Celebrate GNOME3"
 #~ msgstr "Praznujte GNOME3"
+
 #~ msgid ""
 #~ "For this unique occasion over a hundred people around the globe are "
 #~ "organizing <strong>Release parties</strong>. You might want to take a "
@@ -888,6 +890,7 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "in tako izrazite veselje ob tem dogodku.<br/><br/>V kolikor ste sami in "
 #~ "daleč naokoli ni nikogar, pa obiščite GNOME IRC kanal na spletišču "
 #~ "Gimpnet in se zabavajte z nami!"
+
 #~ msgid ""
 #~ "For GNOME 3, the GNOME Project has started from scratch and created a "
 #~ "completely new, modern desktop designed for today's users and "
@@ -898,10 +901,13 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "kode in programskih rešitev. Rezultat je popolnoma novo, moderno namizje, "
 #~ "ki podpira delovanje različnih sodobnih tehnologij in ponuja novo, boljšo "
 #~ "uporabniško izkušnjo. Namizje GNOME 3 ponuja:"
+
 #~ msgid "Persian"
 #~ msgstr "Persian"
+
 #~ msgid "Turkish"
 #~ msgstr "Turkish"
+
 #~ msgid ""
 #~ "We are going to have a huge party to celebrate the release, and then "
 #~ "we're going to get back to work improving our desktop, so that GNOME 3 "
@@ -915,6 +921,7 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "izboljšati izkušnjo, ki jo namizje GNOME 3 ponuja. Plan dela je že dolgo "
 #~ "znan in prepričani smo, da bomo z vsakim novim izidom dokazali, da GNOME "
 #~ "ponuja najboljšo uporabniško izkušnjo."
+
 #~ msgid ""
 #~ "<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"/"
 #~ "><meta name=\"description\" content=\"Introducing the next generation "
@@ -945,6 +952,7 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "type=\"text/javascript\"/><script src=\"http://maps.google.com/maps/api/"
 #~ "js?sensor=false\"/><placeholder-2/>\\\"\" + teamData[4] + \"\\\" target=\\"
 #~ "\"_blank\\\" &gt;\" + teamData[3] + \""
+
 #~ msgid ""
 #~ "<placeholder-1/>\\\"font-size: 75%\\\"&gt;Contact: \" + teamData[2] + "
 #~ "\"\"; features.push(new OpenLayers.Feature.Vector( new OpenLayers."
@@ -955,6 +963,7 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "\"\"; features.push(new OpenLayers.Feature.Vector( new OpenLayers."
 #~ "Geometry.Point(lonLat.lon, lonLat.lat), { text: "
 #~ "popupContentHTML } )); } } markers.addFeatures(features); } } }"
+
 #~ msgid ""
 #~ "GNOME 3 is under active development and will not be completed until April "
 #~ "2011. If you want to try it, you can run a live version from a CD/DVD or "
@@ -963,8 +972,10 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "Namizje GNOME 3 se še dejavno razvija in ne bo končano do aprila 2011. V "
 #~ "kolikor si želite namizje ogledati že prej, lahko preizkusite razvojno "
 #~ "različico v živo, z zagonom iz CD, DVD ali pa USB nosilca."
+
 #~ msgid "Introducing the next generation GNOME desktop"
 #~ msgstr "Predstavljamo najnovejšo različico namizja GNOME"
+
 #~ msgid ""
 #~ "GNOME 3 is scheduled for release on 6th April 2011 and will be available "
 #~ "via popular distributions after that time. See the <a href=\"tryit.html"
@@ -974,38 +985,44 @@ msgstr "Več podrobnosti o izdaji namizja, si je mogoče ogledati na <a href=\"h
 #~ "vseh modernih distribucijah sistema Linux. Za več podrobnosti si oglejte "
 #~ "spletne strani <a href=\"tryit.html\">preizkusnih različih</a>, kjer "
 #~ "najdete tudi povezave do živih distribucij."
+
 #~ msgid "Releasing awesome in: <span id=\"countbox\"/>"
 #~ msgstr "Do izida še: <span id=\"countbox\"/>"
+
 #~ msgid ""
 #~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "appsearch.png\"/></a><br/>Access apps faster"
 #~ msgstr ""
 #~ "<a href=\"video-appsearch.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "appsearch.png\"/></a><br/>hitrejši dostop do programov,"
+
 #~ msgid ""
 #~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "windows.png\"/></a><br/>Easier window managment"
 #~ msgstr ""
 #~ "<a href=\"video-windows.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "windows.png\"/></a><br/>enostavnejše upravljanje z okni,"
+
 #~ msgid ""
 #~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "workspaces.png\"/></a><br/>Create workspaces"
 #~ msgstr ""
 #~ "<a href=\"video-workspaces.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "workspaces.png\"/></a><br/>ustvarjanje delovnih površin,"
+
 #~ msgid ""
 #~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "hardware.png\"/></a><br/>Deeper hardware integration"
 #~ msgstr ""
 #~ "<a href=\"video-hardware.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "hardware.png\"/></a><br/>Boljšo povezljivost strojne opreme"
+
 #~ msgid ""
 #~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "appwindows.png\"/></a><br/>App-based window management"
 #~ msgstr ""
 #~ "<a href=\"video-appwindows.html\" rel=\"fancyvid\"><img src=\"img/video-"
 #~ "appwindows.png\"/></a><br/>programsko upravljanje z okni."
+
 #~ msgid " "
 #~ msgstr " "
-
