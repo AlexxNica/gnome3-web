@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-05-02 07:56+0000\n"
-"PO-Revision-Date: 2011-05-05 14:18+0100\n"
+"POT-Creation-Date: 2011-05-07 19:48+0000\n"
+"PO-Revision-Date: 2011-05-09 12:44+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -533,11 +533,11 @@ msgstr "<placeholder-1/> Zemljevid na spletišču je ustvarjen s pomočjo skript
 
 #: ../parties.html:226(p)
 msgid "GNOME is used and supported by people across the world. To celebrate the release of GNOME 3.0, over one hundred release parties were organized in almost 50 countries."
-msgstr ""
+msgstr "Namizje GNOME uporabljajo številni uporabniki po svetu. Objavo zadnje različice namizja GNOME 3.0, lahko proslavite v krogu souporabnikov na več kot stotih zabavah ob objavi v skoraj petdesetih državah."
 
 #: ../parties.html:227(p)
 msgid "Use the map to see where GNOME 3.0 release parties happened and to find links to each one."
-msgstr ""
+msgstr "Uporabite zemljevid in poiščite mesta, kjer bodo potekale zabave ob izdaji namizja."
 
 #: ../parties.html:231(div)
 msgid "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | <placeholder-3/><br/> ❧"
@@ -549,7 +549,7 @@ msgstr "Namizje naslednje generacije je tu!"
 
 #: ../index.html:39(p)
 msgid "GNOME 3 is the next generation of GNOME. It provides a completely new modern desktop that has been designed for today's users and technologies."
-msgstr ""
+msgstr "Namizje GNOME 3 je namizje prihodnosti. Ponuja povsem nov, modern pristop k uporabi namizja, ki odraža sodobni način dela in podpira najsodobnejše tehnologije."
 
 #: ../index.html:47(label)
 msgid "Access apps faster"
@@ -802,7 +802,7 @@ msgstr "Računalniška oprema kupljena v zadnjih 4 ali 5 letih je dovolj zmoglji
 
 #: ../faq.html:45(p)
 msgid "The GNOME project and its partners are working hard to ensure that the complete GNOME 3 experience is available to as many people as possible, and aim to ensure that users who are initially unable to have this experience will be able to in the future."
-msgstr ""
+msgstr "Skupina, ki sodeluje pri razvoju projekta GNOME, razvija rešitve, ki bi bile na voljo čim širšemu krogu uporabnikov, hkrati pa se osredotoča tudi na razvoj novih zmožnosti, ki bi omogočale, da sistem uporabljajo tudi tisti, ki ga sedaj še ne morejo."
 
 #: ../faq.html:47(h3)
 msgid "Can I use my favourite GNOME apps in GNOME 3?"
