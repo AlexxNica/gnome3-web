@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-30 08:59+0000\n"
-"PO-Revision-Date: 2011-05-02 09:55+0200\n"
+"POT-Creation-Date: 2011-05-23 12:41+0000\n"
+"PO-Revision-Date: 2011-05-23 21:26+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español <gnome-es-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -67,14 +67,14 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 basado en <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-#| msgid "Download for 32 bit systems (v1.1.0)"
-msgid "Download for 32 bit systems (v1.2.0)"
-msgstr "Descarga para sistemas de 32 bit (v1.2.0)"
+#| msgid "Download for 32 bit systems (v1.2.0)"
+msgid "Download for 32 bit systems (v1.3.0)"
+msgstr "Descarga para sistemas de 32 bit (v1.3.0)"
 
 #: ../tryit.html:44(a)
-#| msgid "Download for 64 bit systems (v1.1.0)"
-msgid "Download for 64 bit systems (v1.2.0)"
-msgstr "Descarga para sistemas de 64 bit (v1.2.0)"
+#| msgid "Download for 64 bit systems (v1.2.0)"
+msgid "Download for 64 bit systems (v1.3.0)"
+msgstr "Descarga para sistemas de 64 bit (v1.3.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
@@ -158,7 +158,7 @@ msgstr ""
 "<placeholder-1/> Para ejecutar GNOME 3 desde una memoria USB: <placeholder-2/"
 "><placeholder-3/><br/>"
 
-#: ../tryit.html:87(a) ../parties.html:232(a) ../index.html:111(a)
+#: ../tryit.html:87(a) ../parties.html:233(a) ../index.html:111(a)
 #: ../faq.html:56(h2) ../faq.html:75(a)
 msgid "The GNOME Project"
 msgstr "El proyecto GNOME"
@@ -167,12 +167,12 @@ msgstr "El proyecto GNOME"
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Twitter"
 msgstr "Twitter"
@@ -590,7 +590,7 @@ msgstr ""
 "Use el mapa para ver dónde se han celebrado las fiestas de publicación de "
 "GNOME 3.0 y para encontrar enlaces a cada una de ellas."
 
-#: ../parties.html:231(div)
+#: ../parties.html:232(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -1144,16 +1144,15 @@ msgstr ""
 #~ "just visit the GNOME IRC channel on Gimpnet and party with us!"
 #~ msgstr ""
 #~ "Para esta ocasión única, más de un centenar de personas en todo el mundo "
-#~ "están organizando <strong>fiestas de lanzamiento</strong>. Es posible "
-#~ "que quiera echar un vistazo al mapa en el lado izquierdo y comprobar si "
-#~ "hay una fiesta en su área. <br/><br/>Como las fechas de las fiestas "
-#~ "varían en función de la conveniencia de los organizadores, visite la "
-#~ "página de inicio de las fiestas y vea si la fiesta ya se ha celebrado o "
-#~ "no. Si se ha perdido la fiesta, nunca es tarde para celebrar GNOME 3 con "
-#~ "algunos amigos y compartir su entusiasmo por esta nueva versión. <br/><br/"
-#~ ">Y si está sólo, o vive lejos de cualquier otra persona, simplemente "
-#~ "visite el canal de IRC de GNOME en Gimpnet y celebre la fiesta con "
-#~ "nosotros."
+#~ "están organizando <strong>fiestas de lanzamiento</strong>. Es posible que "
+#~ "quiera echar un vistazo al mapa en el lado izquierdo y comprobar si hay "
+#~ "una fiesta en su área. <br/><br/>Como las fechas de las fiestas varían en "
+#~ "función de la conveniencia de los organizadores, visite la página de "
+#~ "inicio de las fiestas y vea si la fiesta ya se ha celebrado o no. Si se "
+#~ "ha perdido la fiesta, nunca es tarde para celebrar GNOME 3 con algunos "
+#~ "amigos y compartir su entusiasmo por esta nueva versión. <br/><br/>Y si "
+#~ "está sólo, o vive lejos de cualquier otra persona, simplemente visite el "
+#~ "canal de IRC de GNOME en Gimpnet y celebre la fiesta con nosotros."
 
 #~ msgid ""
 #~ "For GNOME 3, the GNOME Project has started from scratch and created a "
