@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-30 08:59+0000\n"
-"PO-Revision-Date: 2011-04-30 22:12+0100\n"
+"POT-Creation-Date: 2011-05-23 12:41+0000\n"
+"PO-Revision-Date: 2011-06-02 20:35+0100\n"
 "Last-Translator: Mario Blättermann <mariobl@freenet.de>\n"
 "Language-Team: Deutsch <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -68,12 +68,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 basierend auf <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.2.0)"
-msgstr "Download für 32-Bit-Systeme (v1.2.0)"
+msgid "Download for 32 bit systems (v1.3.0)"
+msgstr "Download für 32-Bit-Systeme (v1.3.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.2.0)"
-msgstr "Download für 64-Bit-Systeme (v1.2.0)"
+msgid "Download for 64 bit systems (v1.3.0)"
+msgstr "Download für 64-Bit-Systeme (v1.3.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
@@ -165,7 +165,7 @@ msgstr ""
 "<placeholder-1/> So starten Sie GNOME 3 von einem USB-Stick: <placeholder-2/"
 "><placeholder-3/><br/>"
 
-#: ../tryit.html:87(a) ../parties.html:232(a) ../index.html:111(a)
+#: ../tryit.html:87(a) ../parties.html:233(a) ../index.html:111(a)
 #: ../faq.html:56(h2) ../faq.html:75(a)
 msgid "The GNOME Project"
 msgstr "Das GNOME-Projekt"
@@ -174,12 +174,12 @@ msgstr "Das GNOME-Projekt"
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Twitter"
 msgstr "Twitter"
@@ -599,7 +599,7 @@ msgstr ""
 "Nutzen Sie die Karte, um zu sehen, wo GNOME 3 Veröffentlichungs-Partys statt "
 "fanden und um Verweise darauf zu finden."
 
-#: ../parties.html:231(div)
+#: ../parties.html:232(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
