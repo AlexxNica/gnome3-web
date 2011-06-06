@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-04-30 08:59+0000\n"
-"PO-Revision-Date: 2011-05-07 21:48+0200\n"
+"POT-Creation-Date: 2011-05-23 12:41+0000\n"
+"PO-Revision-Date: 2011-06-06 13:15+0200\n"
 "Last-Translator: Fran Diéguez <frandieguez@gnome.org>\n"
 "Language-Team: Galician <gnome-l10n-gl@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,10 +54,6 @@ msgstr "Proba GNOME 3"
 
 #. String to use in tryit.html after release
 #: ../tryit.html:32(p) ../temp.html:11(p)
-#| msgid ""
-#| "GNOME 3 is under active development and will not be completed until April "
-#| "2011. If you want to try it, you can run a live alpha version from a CD/"
-#| "DVD or USB stick."
 msgid ""
 "GNOME 3 was released on 6th April 2011. If you want to try it, you can run a "
 "live version from a CD/DVD or USB stick."
@@ -74,32 +70,29 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 baseado en <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-#| msgid "Download for 32 bit systems (v0.1.1)"
-msgid "Download for 32 bit systems (v1.2.0)"
-msgstr "Descarga para computadores de 32 bits (v1.2.0)"
+#| msgid "Download for 32 bit systems (v1.2.0)"
+msgid "Download for 32 bit systems (v1.3.0)"
+msgstr "Descarga para computadores de 32 bits (v1.3.0)"
 
 #: ../tryit.html:44(a)
-#| msgid "Download for 64 bit systems (v0.1.1)"
-msgid "Download for 64 bit systems (v1.2.0)"
-msgstr "Descarga para computadores de 64 bits (v1.2.0)"
+#| msgid "Download for 64 bit systems (v1.2.0)"
+msgid "Download for 64 bit systems (v1.3.0)"
+msgstr "Descarga para computadores de 64 bits (v1.3.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
 msgstr "Fedora"
 
 #: ../tryit.html:50(a)
-#| msgid "Download for 32 bit systems (v0.1.1)"
 msgid "Download for 32 bit systems (2011-04-05)"
 msgstr "Descarga para computadores de 32 bit (2011-04-05)"
 
 #: ../tryit.html:56(p)
-#| msgid "The user name for the live image is 'tux' and the password is empty."
 msgid ""
 "The user name for the openSUSE live image is 'tux' and the password is empty."
 msgstr "O nome de usuario da imaxe de OpenSUSE é «tux», sen contrasinal."
 
 #: ../tryit.html:57(p)
-#| msgid "The user name for the live image is 'tux' and the password is empty."
 msgid ""
 "The user name for the Fedora live image is 'liveuser' and the password is "
 "empty."
@@ -160,9 +153,6 @@ msgid "Download USB image writer"
 msgstr "Descargar o gravador de imaxe en USB"
 
 #: ../tryit.html:63(div)
-#| msgid ""
-#| "<placeholder-1/> To run the GNOME 3 alpha from a USB stick: "
-#| "<placeholder-2/><placeholder-3/><br/><placeholder-4/>"
 msgid ""
 "<placeholder-1/> To run the GNOME 3 from a USB stick: <placeholder-2/"
 "><placeholder-3/><br/>"
@@ -170,7 +160,7 @@ msgstr ""
 "<placeholder-1/>Para executar GNOME 3 desde unha chave USB: <placeholder-2/"
 "><br/><placeholder-3/><br/><placeholder-4/>"
 
-#: ../tryit.html:87(a) ../parties.html:232(a) ../index.html:111(a)
+#: ../tryit.html:87(a) ../parties.html:233(a) ../index.html:111(a)
 #: ../faq.html:56(h2) ../faq.html:75(a)
 msgid "The GNOME Project"
 msgstr "O Proxecto GNOME"
@@ -179,21 +169,18 @@ msgstr "O Proxecto GNOME"
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Twitter"
 msgstr "Twitter"
 
 #. grid_12
 #: ../tryit.html:86(div) ../faq.html:74(div)
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-#| "<placeholder-3/><br/> ❧"
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
 "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -204,12 +191,6 @@ msgstr ""
 
 #. String to use in faq.html after release
 #: ../temp.html:13(p)
-#| msgid ""
-#| "GNOME 3 is scheduled for release in April 2011 and will be available via "
-#| "popular distributions after that time. Further details of how you can get "
-#| "GNOME 3 will be posted on this site once it is available. If you can't "
-#| "wait that long, our <a href=\"tryit.html\">Try It</a> page contains "
-#| "details on how to try a development version."
 msgid ""
 "GNOME 3 was released on 6th April 2011 and will be available via popular "
 "distributions after that time. See the <a href=\"tryit.html\">Try It</a> "
@@ -612,7 +593,7 @@ msgstr ""
 "Use o mapa para ver onde se celebraron as festas de publicación de GNOME 3.0 "
 "e para encontrar ligazóns a cada unha delas."
 
-#: ../parties.html:231(div)
+#: ../parties.html:232(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -621,7 +602,6 @@ msgstr ""
 "<placeholder-3/><br/> ❧"
 
 #: ../index.html:37(h1)
-#| msgid "Introducing the next generation GNOME desktop"
 msgid "The next generation GNOME desktop has arrived"
 msgstr "Chegou a nova xeración do Escritorio GNOME"
 
@@ -659,12 +639,6 @@ msgid "Simply beautiful"
 msgstr "Simplemente bonito"
 
 #: ../index.html:65(p)
-#| msgid ""
-#| "GNOME's new desktop takes elegance to a new level. We've swept away the "
-#| "clutter and made a simple and easy-to-use desktop, and we've made this "
-#| "the most beautiful GNOME desktop ever, with a new visual theme, a refined "
-#| "new font and carefully crafted animations--all while preserving "
-#| "compatibility."
 msgid ""
 "GNOME's new desktop takes elegance to a new level. We've swept away the "
 "clutter and made a simple and easy-to-use desktop, and we've made this the "
@@ -750,11 +724,6 @@ msgid "Redesigned system settings"
 msgstr "Configuracións do sistema redeseñadas"
 
 #: ../index.html:92(p)
-#| msgid ""
-#| "Our system settings have been completely redesigned for GNOME 3, making "
-#| "them easier to use than ever before. There are some great new features in "
-#| "our system settings too, such as the ability to use Flickr images as "
-#| "desktop backgrounds."
 msgid ""
 "Our system settings have been completely redesigned for GNOME 3, making them "
 "easier to use than ever before. GNOME 3 also provides a new way to browse "
@@ -780,7 +749,6 @@ msgstr ""
 "pode atopar en GNOME 3:"
 
 #: ../index.html:101(li)
-#| msgid "Window tiling to make using several windows simple and easy"
 msgid ""
 "Side-by-side window tiling to make using several windows simple and easy"
 msgstr ""
@@ -788,7 +756,6 @@ msgstr ""
 "doado"
 
 #: ../index.html:102(li)
-#| msgid "An improved file manager"
 msgid "A redesigned file manager"
 msgstr "Un xestor de ficheiros redeseñado"
 
@@ -960,9 +927,6 @@ msgstr ""
 
 #. grid_12
 #: ../index.html:110(div)
-#| msgid ""
-#| "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
-#| "<placeholder-3/><br/> ❧"
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
 "<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/"
@@ -994,19 +958,6 @@ msgid "Will my computer be able to run GNOME 3?"
 msgstr "O meu computador poderá executar GNOME 3?"
 
 #: ../faq.html:44(p)
-#| msgid ""
-#| "Computers purchased in the last 4 or 5 years should be more than capable "
-#| "of running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
-#| "graphics in order to provide a cutting-edge experience however, and the "
-#| "complete GNOME 3 experience will only be available on computers capable "
-#| "of this. Do not worry though: GNOME 3 will come complete with a fallback "
-#| "interface which will provide an excellent experience in the absence of "
-#| "hardware acceleration, and which incorporates many of the improvements "
-#| "that can be found in GNOME 3. Furthermore, the GNOME project and its "
-#| "partners are working hard to ensure that the complete GNOME 3 experience "
-#| "is available to as many people as possible, and aim to ensure that users "
-#| "who are initially unable to have this experience will be able to in the "
-#| "future."
 msgid ""
 "Computers purchased in the last 4 or 5 years should be more than capable of "
 "running GNOME 3. The GNOME 3 desktop does require hardware accelerated "
@@ -1038,7 +989,6 @@ msgstr ""
 "inicialmente non poidan desfrutar desta experiencia, poidan facelo no futuro."
 
 #: ../faq.html:47(h3)
-#| msgid "Will I be able to use my favourite GNOME apps in GNOME 3?"
 msgid "Can I use my favourite GNOME apps in GNOME 3?"
 msgstr "Podo usar os meus aplicativos favoritos de GNOME en GNOME 3?"
 
@@ -1059,14 +1009,6 @@ msgid "What will happen to the old version of GNOME?"
 msgstr "Que pasará coa anterior versión de GNOME?"
 
 #: ../faq.html:51(p)
-#| msgid ""
-#| "The GNOME 2 desktop had a long life, and parts of it became difficult to "
-#| "maintain over that period. As a result, continued releases of the entire "
-#| "GNOME 2 desktop was never a practical option for the GNOME Project, and "
-#| "several parts of the old GNOME 2 desktop will not receive new releases "
-#| "after GNOME 3 is released. The traditional GNOME 2 desktop will not "
-#| "disappear overnight, however: releases of GNOME 2 will continue to be "
-#| "supported by distributions for years to come."
 msgid ""
 "GNOME 2 had a long life, and parts of it became difficult to maintain over "
 "that period. As a result, continued releases of the entire GNOME 2 desktop "
@@ -1085,7 +1027,6 @@ msgstr ""
 "polas distribucións nos seguintes anos."
 
 #: ../faq.html:53(h3)
-#| msgid "Why is the GNOME 3 desktop designed the way it is?"
 msgid "Why was the GNOME 3 desktop designed the way it was?"
 msgstr "Porqué o escritorio GNOME 3 foi deseñado desta maneira?"
 
@@ -1109,7 +1050,6 @@ msgstr ""
 "escritorio de GNOME 3</a>. "
 
 #: ../faq.html:58(h3)
-#| msgid "The GNOME Project"
 msgid "What is the GNOME Project, anyway?"
 msgstr "De todos modos, que é o Proxecto GNOME?"
 
@@ -1149,14 +1089,6 @@ msgid "How can I get involved or help with GNOME 3?"
 msgstr "Como podo involucrarme ou axudar en GNOME 3?"
 
 #: ../faq.html:65(p)
-#| msgid ""
-#| "Spreading the word about GNOME 3 is a great way to help out. A positive "
-#| "tweet, dent, status update or post is always appreciated. You can also "
-#| "join our <a href=\"http://www.facebook.com/GNOMEDesktop\">Facebook group</"
-#| "a> or become a <a href=\"http://www.gnome.org/friends/\">friend of GNOME</"
-#| "a>. Additionally, you can help out with one of the many varied tasks "
-#| "involved in producing GNOME. Just check out our <a href=\"http://live."
-#| "gnome.org/JoinGnome\">contribution page</a> for more details."
 msgid ""
 "Spreading the word about GNOME 3 is a great way to help out. A positive "
 "tweet, dent, status update or post is always appreciated. You can also join "
