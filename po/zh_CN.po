@@ -4,12 +4,13 @@
 # Aron Xu <aronxu@gnome.org>, 2011.
 # Edison Zhao <edison0354@gmail.com>, 2011.
 # Yinghua Wang <wantinghard@gmail.com>, 2011.
+# Richard Ma <richard.ma.19850509@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome3-web master\n"
-"POT-Creation-Date: 2011-05-09 18:16+0000\n"
-"PO-Revision-Date: 2011-05-16 16:46+0800\n"
-"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"POT-Creation-Date: 2011-07-15 15:21+0000\n"
+"PO-Revision-Date: 2011-07-26 22:17+0800\n"
+"Last-Translator: Richard Ma <richard.ma.19850509@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,12 +69,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "基于 <placeholder-1/> 的 GNOME 3"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.2.0)"
-msgstr "下载 32 位版本(v1.2.0)"
+msgid "Download for 32 bit systems (v1.3.0)"
+msgstr "下载 32 位版本(v1.3.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.2.0)"
-msgstr "下载 64 位版本(v1.2.0)"
+msgid "Download for 64 bit systems (v1.3.0)"
+msgstr "下载 64 位版本(v1.3.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
@@ -148,7 +149,7 @@ msgstr ""
 "<placeholder-1/> 从 USB 闪存运行 GNOME 3：<placeholder-2/><placeholder-3/"
 "><br/>"
 
-#: ../tryit.html:87(a) ../parties.html:232(a) ../index.html:111(a)
+#: ../tryit.html:87(a) ../parties.html:233(a) ../index.html:111(a)
 #: ../faq.html:56(h2) ../faq.html:75(a)
 msgid "The GNOME Project"
 msgstr "GNOME 项目"
@@ -157,12 +158,12 @@ msgstr "GNOME 项目"
 msgid "Creative Commons CC-BY"
 msgstr "Creative Commons CC-BY"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Facebook"
 msgstr "Facebook"
 
-#: ../tryit.html:89(a) ../parties.html:234(a) ../index.html:113(a)
+#: ../tryit.html:89(a) ../parties.html:235(a) ../index.html:113(a)
 #: ../faq.html:77(a)
 msgid "Twitter"
 msgstr "Twitter"
@@ -170,8 +171,8 @@ msgstr "Twitter"
 #. grid_12
 #: ../tryit.html:86(div) ../faq.html:74(div)
 msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
-"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><br/> ❧"
 msgstr ""
 "版权所有 © 2011 <placeholder-1/><br/> 授权方式：<placeholder-2/><br/> 分享"
 "到：<placeholder-3/> | <placeholder-4/><br/> ❧"
@@ -574,7 +575,7 @@ msgid ""
 "links to each one."
 msgstr "用地图查看举行 GNOME 发布聚会的地点并查找聚会的对应链接。"
 
-#: ../parties.html:231(div)
+#: ../parties.html:232(div)
 msgid ""
 "Copyright © 2011 <placeholder-1/><br/> Share on: <placeholder-2/> | "
 "<placeholder-3/><br/> ❧"
@@ -867,29 +868,26 @@ msgid ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
-"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
-"<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
-"> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
-"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
-"> | <placeholder-27/> | <placeholder-28/> | <placeholder-29/> | "
-"<placeholder-30/>"
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-"
+"27/> | <placeholder-28/> | <placeholder-29/> | <placeholder-30/>"
 msgstr ""
 "<placeholder-1/><placeholder-2/> | <placeholder-3/> | <placeholder-4/> | "
 "<placeholder-5/> | <placeholder-6/> | <placeholder-7/> | <placeholder-8/> | "
 "<placeholder-9/> | <placeholder-10/> | <placeholder-11/> | <placeholder-12/> "
-"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | "
-"<placeholder-16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/"
-"> | <placeholder-20/> | <placeholder-21/> | <placeholder-22/> | "
-"<placeholder-23/> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/"
-"> | <placeholder-27/> | <placeholder-28/> | <placeholder-29/> | "
-"<placeholder-30/>"
+"| <placeholder-13/> | <placeholder-14/> | <placeholder-15/> | <placeholder-"
+"16/> | <placeholder-17/> | <placeholder-18/> | <placeholder-19/> | "
+"<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
+"> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-"
+"27/> | <placeholder-28/> | <placeholder-29/> | <placeholder-30/>"
 
 #. grid_12
 #: ../index.html:110(div)
 msgid ""
-"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: "
-"<placeholder-2/><br/> Share on: <placeholder-3/> | <placeholder-4/"
-"><placeholder-5/><br/> ❧"
+"Copyright © 2011 <placeholder-1/><br/> Free to share and remix: <placeholder-"
+"2/><br/> Share on: <placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
 msgstr ""
 "版权所有 © 2011 <placeholder-1/><br/> 授权协议：<placeholder-2/><br/> 分享"
 "到：<placeholder-3/> | <placeholder-4/><placeholder-5/><br/> ❧"
