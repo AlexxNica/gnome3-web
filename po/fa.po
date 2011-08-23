@@ -80,12 +80,12 @@ msgstr "گنوم ۳ بر اساس <placeholder-1/>"
 
 #: ../tryit.html:42(a)
 #| msgid "Download for 32 bit systems (v0.3.1)"
-msgid "Download for 32 bit systems (v1.3.0)"
+msgid "Download for 32 bit systems (v1.5.0)"
 msgstr "بارگیری برای سیستم‌های ۳۲ بیتی (نسخه ۱.۳.۰)"
 
 #: ../tryit.html:44(a)
 #| msgid "Download for 64 bit systems (v0.3.1)"
-msgid "Download for 64 bit systems (v1.3.0)"
+msgid "Download for 64 bit systems (v1.5.0)"
 msgstr "بارگیری برای سیستم‌های ۶۴ بیتی (نسخه ۱.۳.۰)"
 
 #: ../tryit.html:48(a)

@@ -69,12 +69,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "基于 <placeholder-1/> 的 GNOME 3"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.3.0)"
-msgstr "下载 32 位版本(v1.3.0)"
+msgid "Download for 32 bit systems (v1.5.0)"
+msgstr "下载 32 位版本(v1.5.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.3.0)"
-msgstr "下载 64 位版本(v1.3.0)"
+msgid "Download for 64 bit systems (v1.5.0)"
+msgstr "下载 64 位版本(v1.5.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"

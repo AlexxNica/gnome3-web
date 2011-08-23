@@ -68,12 +68,12 @@ msgid "GNOME 3 based on <placeholder-1/>"
 msgstr "GNOME 3 basat en <placeholder-1/>"
 
 #: ../tryit.html:42(a)
-msgid "Download for 32 bit systems (v1.3.0)"
-msgstr "Baixada per a sistemes de 32 bits (v1.3.0)"
+msgid "Download for 32 bit systems (v1.5.0)"
+msgstr "Baixada per a sistemes de 32 bits (v1.5.0)"
 
 #: ../tryit.html:44(a)
-msgid "Download for 64 bit systems (v1.3.0)"
-msgstr "Baixada per a sistemes de 64 bits (v1.3.0)"
+msgid "Download for 64 bit systems (v1.5.0)"
+msgstr "Baixada per a sistemes de 64 bits (v1.5.0)"
 
 #: ../tryit.html:48(a)
 msgid "Fedora"
