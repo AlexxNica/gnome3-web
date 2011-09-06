@@ -904,7 +904,7 @@ msgstr ""
 "<placeholder-20/> | <placeholder-21/> | <placeholder-22/> | <placeholder-23/"
 "> | <placeholder-24/> | <placeholder-25/> | <placeholder-26/> | <placeholder-"
 "27/> | <placeholder-28/> | <placeholder-29/> | <placeholder-30/> | "
-"placeholder-31/>"
+"<placeholder-31/>"
 
 #. grid_12
 #: ../index.html:110(div)
