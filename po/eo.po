@@ -607,7 +607,7 @@ msgstr "Pli facila administrado de fenestroj"
 
 #: ../index.html:53(label)
 msgid "Create workspaces"
-msgstr "Krei laborspacoj"
+msgstr "Krei laborspacojn"
 
 #: ../index.html:54(label)
 msgid "Deeper hardware integration"
